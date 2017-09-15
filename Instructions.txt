@@ -1,0 +1,17 @@
+Github bash instruction
+
+command prompt: bash -> linux
+cd Desktop/yseulthb.github.io
+% new file
+touch FILENAME
+% edit file
+nano FILENAME
+CTRL+X & save: Y
+% add file
+git add FILENAME
+%check
+git status
+% comment the update
+git commit -m "COMMENT"
+% push it
+git push origin master
