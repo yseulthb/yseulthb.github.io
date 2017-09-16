@@ -1,11 +1,4 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
-
-minimal_mistakes_skin    : "contrast" # "air", "contrast", "dark", "dirt", "mint", "sunrise"
+minimal_mistakes_skin    : "default" # "air", "contrast", "dark", "dirt", "mint", "sunrise"
 
 # Site Settings
 locale                   : "en"
@@ -15,7 +8,7 @@ name                     : "Yseult Héjja-Brichard"
 description              : "PhD student in cognitive neuroscience & Teaching assistant in Neuroscience and Behaviour."
 url                      : "https://yseulthb.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "yseulthb/yseulthb.github.io"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "yseulthb.github.io"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "assets/images/header.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -37,7 +30,7 @@ staticman:
   filename               : comment-{@timestamp}
   format                 : "yml"
   moderation             : true
-  path                   : "docs/_data/comments/{options.slug}" # "/_data/comments/{options.slug}" (default)
+  path                   : "_data/comments/{options.slug}" # "/_data/comments/{options.slug}" (default)
   requiredFields         : ['name', 'email', 'message']
   transforms:
     email                : "md5"
@@ -82,8 +75,8 @@ author:
   name             : "Yseult Hb"
   avatar           : "/assets/images/face.jpg"# path of avatar image, e.g. "/assets/images/face.jpg"
   bio              : "PhD student."
-  location         : "Somewhere"
-  email            :
+  location         : 
+  email            : "yseulthb@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -91,7 +84,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "yseulthb"
   gitlab           :
   google_plus      :
   keybase          :
