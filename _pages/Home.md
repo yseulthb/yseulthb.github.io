@@ -1,4 +1,4 @@
 ---
-permalink: /home/
+permalink: /Home/
 title: "Home"
 ---
