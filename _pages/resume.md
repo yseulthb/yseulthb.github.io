@@ -7,7 +7,7 @@ title: "CV"
 -->
 
 ### Research
-* 2015-Present: **Doctoral research**, *Université Paul Sabatier and [CerCo](http://cerco.ups-tlse.fr/) lab (CNRS), Toulouse, France*<br /> 
+* 2015-Present: **Doctoral research**, *Université Paul Sabatier and CerCo lab (CNRS), Toulouse, France*<br /> 
 Title of the thesis: Adaptation to the 3D properties of the visual environment in primate. <!--(Funded by the University Paul Sabatier, Toulouse). Supervisor: Benoit Cottereau, CNRS researcher-->
 
 <!-- Brief synopsis:
@@ -17,20 +17,20 @@ The main purpose of this project is, thus, to provide a better understanding of 
 Those data will then be used to model stereoscopic vision with the aim of developing artificial vision systems that will be able to learn to detect those 3D properties without supervision.
 -->
 
-* 2014-2015: **Research internship**, *Brain and Cognition Research Centre (Cerco), Toulouse, France*<br />
+* 2014-2015: **Research internship**, *Cerco Lab, Toulouse, France*<br />
 Master’s thesis: Characterisation of the cortical networks involved in 3D orientation processing in primates.
 
-* 2013-2014: **Research internship**, *Laboratory of Psychology and NeuroCognition, Grenoble, France*<br />
+* 2013-2014: **Research internship**, *LPNC, Grenoble, France*<br />
 Master’s thesis: Role of the eyes in face categorisation: Interracial eye change impacts on the other-race effect in a categorisation task.
 
 * 2014 (January-February): **Internship in Neuropsychology**, *Hospital of Grenoble, France*<br />
 Clinical interviews and cognitive assessments of patients with movement disorders
 
-* 2013 (April-July) **Research assistant**, *Max Planck Institute for Human Cognitive and Brain Sciences, department of social neuroscience, Leipzig, Germany*
+* 2013 (April-July) **Research assistant**, *MPI for Human Cognitive and Brain Sciences, Department of social neuroscience, Leipzig, Germany*
 
 
 ### Teaching
-* 2015-Present: Graduate teaching assistant, *University Paul Sabatier Toulouse 3, France*<br />
+* 2015-Present: Graduate teaching assistant, *University Paul Sabatier Toulouse, France*<br />
 Bsc Biology: Practical and lab works, tutorial classes in Neuroscience and Behavioural Sciences
 
 * 2015-2016: Volunteering teacher, *NGO “Croissant Fertile” in Toulouse, France*<br />
@@ -41,15 +41,15 @@ Student Mentor (several weeks): Guiding the new students to find their way on th
 Student Tutor (a few hours): Helping students to get ready for their exams -->
 
 ### Education
-* 2015-Present: PhD student in Neuroscience, Cognition and Behaviour - University Paul Sabatier and Brain & Cognition research Centre (CerCo CNRS), Toulouse, France
+* 2015-Present: PhD student in Neuroscience, Cognition and Behaviour - Université Paul Sabatier and CerCo (CNRS), Toulouse, France
 
-* 2015: Msc (second year) in Neuroscience, Cognition, and Behaviour – University Paul Sabatier, Toulouse, France
+* 2015: Msc (second year) in Neuroscience, Cognition, and Behaviour – Université Paul Sabatier, Toulouse, France
 <!-- Attended courses: Cognition, spatial cognition, sensory systems, neuroethology, collective behaviour, behavioural ecology, applied statistics -->
 
-* 2014: Msc (first year) in Cognitive and Social Psychology – University Pierre Mendès-France, Grenoble, France
+* 2014: Msc (first year) in Cognitive and Social Psychology – Université Pierre Mendès-France, Grenoble, France
 <!-- Attended courses: Visual cognition, memory, neurology and neuropsychology,psycholinguistics, movement planning and control, applied statistics -->
 
-* 2013: Bsc in Psychology – University Pierre Mendès-France, Grenoble, France & University of Leipzig, Germany (Erasmus year)
+* 2013: Bsc in Psychology – Université Pierre Mendès-France, Grenoble, France & Universität Leipzig, Germany
 
 <!-- ## Additional skills
 
