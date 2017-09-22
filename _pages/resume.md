@@ -7,8 +7,8 @@ title: "CV"
 -->
 
 ### Research
-* 2015-Present: **Doctoral research**, *University Paul Sabatier and Brain & Cognition research Centre (CerCo CNRS), Toulouse, France*<br /> 
-Title of the thesis: Adaptation to the spatial regularities of the environment in stereovision systems (Funded by the University Paul Sabatier, Toulouse). Supervisor: Benoit Cottereau, CNRS researcher
+* 2015-Present: **Doctoral research**, *Université Paul Sabatier and [CerCo](http://cerco.ups-tlse.fr/) lab (CNRS), Toulouse, France*<br /> 
+Title of the thesis: Adaptation to the 3D properties of the visual environment in primate. <!--(Funded by the University Paul Sabatier, Toulouse). Supervisor: Benoit Cottereau, CNRS researcher-->
 
 <!-- Brief synopsis:
 Stereovision refers to our ability to perceive the tridimensional (3D) structure of our environment from the bidimensional images that are projected on our retinas. In primates, it is considered to have contributed to the emergence of fine motor skills, such as reaching and grasping objects, by giving precise information about the position and form of the objects that are in our environment.
