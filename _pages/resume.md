@@ -1,6 +1,5 @@
 ---
 permalink: /CV/
-title: "CV"
 ---
 <!--
 #A more detailed version of this CV can be found [here](https://github.com/yseulthb/yseulthb.github.io/blob/master/images/CV_YHB.pdf).
