@@ -2,11 +2,13 @@
 main:
  # - title: "Quick-Start Guide"
  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+ - title: "Blog"
+     url: https://yseulthb.github.io/
 - title: "About"
      url: https://yseulthb.github.io/about/
-  - title: "Sample Posts"
+  - title: "Resume"
      url: https://yseulthb.github.io/CV/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+   - title: "Research"
+     url: ttps://yseulthb.github.io/research/
   # - title: "Sitemap"
   #   url: /sitemap/
