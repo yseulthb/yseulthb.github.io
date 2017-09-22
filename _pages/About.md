@@ -1,6 +1,6 @@
 ---
+permalink: /about/
 title: "About"
-permalink: /About/
 ---
       
 I am a PhD student in cognitive neuroscience at the [Brain and Cognition Research Center (CerCo)](http://cerco.ups-tlse.fr/-Presentation-), in Toulouse, France. I am also a teaching assistant in the department of Neuroscience and Behaviour at Paul Sabatier University (Toulouse 3).
