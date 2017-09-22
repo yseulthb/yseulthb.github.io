@@ -5,10 +5,24 @@ main:
  - title: "Blog"
      url: https://yseulthb.github.io/
 - title: "About"
-     url: https://yseulthb.github.io/about/
+     url: /about/
   - title: "Resume"
-     url: https://yseulthb.github.io/CV/
+     url: /CV/
    - title: "Research"
-     url: ttps://yseulthb.github.io/research/
+     url: /research/
   # - title: "Sitemap"
   #   url: /sitemap/
+  
+  
+  # main links links
+main:
+#  - title: "Quick-Start Guide"
+#    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "About"
+    url: https://yseulthb.github.io/minimal-mistakes/about/
+  - title: "Sample Posts"
+    url: /year-archive/
+  - title: "Sample Collections"
+    url: /collection-archive/
+  - title: "Sitemap"
+url: /sitemap/
