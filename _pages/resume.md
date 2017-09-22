@@ -3,30 +3,11 @@ permalink: /CV/
 title: "CV"
 ---
 <!--
-# Education
-
-* 2015-2018: **PhD in Cognitive psychology** & **PhD in Clinical experimental psychology**. *Univ. Grenoble Alpes* (France) & *Ghent University* (Belgium).
-
-* 2013-2015: **MSc in Cognitive Sciences**, Grenoble Institute of Technology, Grenoble, France.
-
-* 2010-2013: **BA in Psychology**, Pierre-Mendès France University, Grenoble, France.
-
-# Teaching
-
-* BA, Psychology (UGA), Cognitive psychology
-* BA, Psychology (UGA), Data analysis
-* BA, Psychology (UGA), Cognitive psychology: perception, action and categorization
-* PhD, all disciplines (UGA), Introduction to Bayesian statistical modeling, with Thierry Phénix
-
-#A more detailed version of this CV can be found [here](https://github.com/lnalborczyk/lnalborczyk.github.io/blob/master/images/CV_Ladislas.pdf).
-
+#A more detailed version of this CV can be found [here](https://github.com/yseulthb/yseulthb.github.io/blob/master/images/CV_YHB.pdf).
 -->
 
-
-
-## Research Experience
-* 2015-Present: **Doctoral research**, *University Paul Sabatier and Brain & Cognition research Centre (CerCo CNRS), Toulouse, France* 
-
+### Research
+* 2015-Present: **Doctoral research**, *University Paul Sabatier and Brain & Cognition research Centre (CerCo CNRS), Toulouse, France*<br /> 
 Title of the thesis: Adaptation to the spatial regularities of the environment in stereovision systems (Funded by the University Paul Sabatier, Toulouse). Supervisor: Benoit Cottereau, CNRS researcher
 
 <!-- Brief synopsis:
@@ -48,18 +29,18 @@ Clinical interviews and cognitive assessments of patients with movement disorder
 * 2013 (April-July) **Research assistant**, *Max Planck Institute for Human Cognitive and Brain Sciences, department of social neuroscience, Leipzig, Germany*
 
 
-## Teaching Experience
-* 2015-Present: Graduate teaching assistant October, *University Paul Sabatier Toulouse 3, France*<br />
-Practical and lab works, as well as tutorial classes in Neuroscience and Behavioural Sciences to second and third year students (64 hours each year).
+### Teaching
+* 2015-Present: Graduate teaching assistant, *University Paul Sabatier Toulouse 3, France*<br />
+Bsc Biology: Practical and lab works, tutorial classes in Neuroscience and Behavioural Sciences
 
 * 2015-2016: Volunteering teacher, *NGO “Croissant Fertile” in Toulouse, France*<br />
 Teaching French as a foreign language (FLE) to voluntary refugees
 
-* 2011 (June-October): Tutor and Student Mentor for first-year students in Psychology, *University of Grenoble, France*<br />
-<!-- Student Mentor (several weeks): Guiding the new students to find their way on the campus, helping them to get integrated
+<!-- * 2011 (June-October): Tutor and Student Mentor for first-year students in Psychology, *University of Grenoble, France*<br />
+Student Mentor (several weeks): Guiding the new students to find their way on the campus, helping them to get integrated
 Student Tutor (a few hours): Helping students to get ready for their exams -->
 
-## Education
+### Education
 * 2015-Present: PhD student in Neuroscience, Cognition and Behaviour - University Paul Sabatier and Brain & Cognition research Centre (CerCo CNRS), Toulouse, France
 
 * 2015: Msc (second year) in Neuroscience, Cognition, and Behaviour – University Paul Sabatier, Toulouse, France
