@@ -25,7 +25,8 @@ Master’s thesis: Role of the eyes in face categorisation: Interracial eye chan
 * 2014 (January-February): **Internship in Neuropsychology**, *Hospital of Grenoble, France*<br />
 Clinical interviews and cognitive assessments of patients with movement disorders
 
-* 2013 (April-July) **Research assistant**, *MPI for Human Cognitive and Brain Sciences, Department of social neuroscience, Leipzig, Germany*
+* 2013 (April-July) **Research assistant**, *MPI for Human Cognitive and Brain Sciences, Leipzig, Germany*<br />
+Department of social neuroscience
 
 
 ### Teaching
