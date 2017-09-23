@@ -12,7 +12,7 @@ I am also interested in ethics, scientific skepticism, and critical thinking and
 
 Another aspect of science that really matters to me is to share it with the great audience. I try to get involved in actions and events promoting the popularisation of science (articles and talks to the great audience, [Pint of Science](https://pintofscience.fr/mondial/), [ESOF](http://www.esof.eu/en/), [Echosciences Occitanie](https://www.echosciences-sud.fr/)..) and I am also part of [Incognu](http://incognu.fr), an organisation gathering students and young researchers in cognitive science.
 
-Finally, because there is more than just hard working in life, I like attending various workshops at the botanical gardens of the Museum of Toulouse and spending time thinking about the various forms of urban agriculture and how the natural environment and ecological concerns can play a role in urbanism and our everyday life. 
+Finally, because there is more than just hard working in life, I like attending various workshops at the botanical gardens of the Museum of Toulouse and spending time thinking about the different forms of urban agriculture and how the natural environment and ecological concerns can play a role in urbanism and our everyday life. 
 
 
 The aim of this blog is to address those different topics in a very informal way, sharing my thoughts and discussing different points of view. 
