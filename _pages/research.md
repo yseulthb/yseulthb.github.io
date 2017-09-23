@@ -23,13 +23,13 @@ permalink: /research/
 
 
 ## Workshop
-* 2017 (March): **Statistics workshop** on advanced statistics methods using R software taught by Martijn Wieling (University of Groningen, The Netherlands) organised at the CerCo Lab
-* 2016 (November): **Statistics workshop**: "Building Confidence Intervals with R" taught by Jean-Michel Hupé (CerCo, CNRS Toulouse, France)
-* 2016 (April): **Ethics in research** "Aspects éthiques de la recherche en biologie et enjeux de société" organised by a doctoral school (BSB-Biologie, Santé, Biotechnologie)
+* 2017 (March): **Statistics workshop** on advanced statistics methods using R software taught by [Martijn Wieling](http://www.martijnwieling.nl/presentations) (University of Groningen, The Netherlands) organised at the CerCo Lab
+* 2016 (November): **Statistics workshop**: "Building Confidence Intervals with R" taught by Jean-Michel Hupé (CerCo, CNRS Toulouse, France) [PDF](https://gdrvision2016.sciencesconf.org/data/pages/GDRvision2016_ConfidenceIntervalsBasics.pdf)
+* 2016 (April): **Ethics in research** "|Aspects éthiques de la recherche en biologie et enjeux de société](http://societal.genotoul.fr/wp-content/uploads/2017/01/Module-2016-DP04-B-Programme.pdf)" organised by a doctoral school (BSB-Biologie, Santé, Biotechnologie), Toulouse, France.
 * 2015 (November): **Statistics workshop**: " Statistical methods for Signal Detection Models in Psychophysics" taught by Kenneth Knoblauch (Inserm, Lyon) and "Mixed models (GLMM) for vision data" taught by Rafaël Laboissière (LPNC, Grenoble)
 
 ## Popularisation of science
-* Talk about 3D vision in animals and how to study it (Feb. 2017) "En tête à tête avec un jeune chercheur", Museum de Toulouse: "La vision 3D : mieux qu’au cinéma !"
+* Talk about 3D vision in animals and how to study it (Feb. 2017) ["En tête à tête avec un jeune chercheur"](http://www.univ-toulouse.fr/sites/default/files/dp-avis_de_recherche-lactualite_par_les_jeunes_chercheurs-5fev2017.pdf), Museum de Toulouse: "La vision 3D : mieux qu’au cinéma !"
 
 * Article (March 2017, in French) about the evolution of 3D vision in animals, written for Muséum Toulouse (Museum of Natural sciences)<br/> 
 *Yseult Héjja-Brichard & Benoit R. Cottereau "Evolution et vision : le vivant a de la profondeur !" ([here](http://www.museum.toulouse.fr/-/evolution-et-vision-le-vivant-a-de-la-profondeur-))*
