@@ -24,8 +24,8 @@ permalink: /research/
 
 ## Workshop
 * 2017 (March): **Statistics workshop** on advanced statistics methods using R software taught by [Martijn Wieling](http://www.martijnwieling.nl/presentations) (University of Groningen, The Netherlands) organised at the CerCo Lab
-* 2016 (November): **Statistics workshop**: "Building Confidence Intervals with R" taught by Jean-Michel Hupé (CerCo, CNRS Toulouse, France) [PDF](https://gdrvision2016.sciencesconf.org/data/pages/GDRvision2016_ConfidenceIntervalsBasics.pdf)
-* 2016 (April): **Ethics in research** "|Aspects éthiques de la recherche en biologie et enjeux de société](http://societal.genotoul.fr/wp-content/uploads/2017/01/Module-2016-DP04-B-Programme.pdf)" organised by a doctoral school (BSB-Biologie, Santé, Biotechnologie), Toulouse, France.
+* 2016 (November): **Statistics workshop**: "Building Confidence Intervals with R" taught by Jean-Michel Hupé (CerCo, CNRS Toulouse, France) [pdf](https://gdrvision2016.sciencesconf.org/data/pages/GDRvision2016_ConfidenceIntervalsBasics.pdf)
+* 2016 (April): **Ethics in research** "[Aspects éthiques de la recherche en biologie et enjeux de société](http://societal.genotoul.fr/wp-content/uploads/2017/01/Module-2016-DP04-B-Programme.pdf)" organised by a doctoral school (BSB-Biologie, Santé, Biotechnologie), Toulouse, France.
 * 2015 (November): **Statistics workshop**: " Statistical methods for Signal Detection Models in Psychophysics" taught by Kenneth Knoblauch (Inserm, Lyon) and "Mixed models (GLMM) for vision data" taught by Rafaël Laboissière (LPNC, Grenoble)
 
 ## Popularisation of science
