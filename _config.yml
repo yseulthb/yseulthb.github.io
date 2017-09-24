@@ -4,7 +4,7 @@ locale                   : "en"
 title                    : "Yseult HB's adventures"
 title_separator          : "-"
 name                     : "Yseult Héjja-Brichard"
-description              : "Food for thoughts about science, ethics, agroecology, and more."
+description              : "Food for thought about science, ethics, agroecology, and more."
 url                      : "https://yseulthb.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "yseulthb.github.io"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -73,7 +73,7 @@ analytics:
 author:
   name             : "Yseult Hb"
   avatar           : "/assets/images/face.jpg"# path of avatar image, e.g. "/assets/images/face.jpg"
-  bio              : "Food for thoughts about science, ethics, agroecology, and more."
+  bio              : "Food for thought about science, ethics, agroecology, and more."
   location         : 
   email            : "yseulthb@gmail.com"
   uri              :
