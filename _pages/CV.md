@@ -26,7 +26,7 @@ Master’s thesis: Role of the eyes in face categorisation: Interracial eye chan
 Clinical interviews and cognitive assessments of patients with movement disorders
 
 * 2013 (April-July) **Research assistant**, *MPI for Human Cognitive and Brain Sciences, Leipzig, Germany*<br />
-Department of social neuroscience - In charge of the coding of chimpanzees' vocalisations. 
+Department of social neuroscience - In charge of the coding of chimpanzees' vocalisations + statistical analysis. 
 
 
 ### Teaching
