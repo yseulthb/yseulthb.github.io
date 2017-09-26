@@ -26,12 +26,16 @@ Master’s thesis: Role of the eyes in face categorisation: Interracial eye chan
 Clinical interviews and cognitive assessments of patients with movement disorders
 
 * 2013 (April-July) **Research assistant**, *MPI for Human Cognitive and Brain Sciences, Leipzig, Germany*<br />
-Department of social neuroscience
+Department of social neuroscience - In charge of the coding of chimpanzees' vocalisations. 
 
 
 ### Teaching
 * 2015-Present: Graduate teaching assistant, *University Paul Sabatier Toulouse, France*<br />
 Bsc Biology: Practical and lab works, tutorial classes in Neuroscience and Behavioural Sciences
+- Behavioural ecology (mating behaviour in guppy fish, methodology)
+- Behavioural neuroscience (pain, stress)
+- Nervous and cerebral functions (vision, cortical functions, electrophysiological techniques)
+- Neurophysiology (vestibular system) 
 
 * 2015-2016: Volunteering teacher, *NGO “Croissant Fertile” in Toulouse, France*<br />
 Teaching French as a foreign language (FLE) to voluntary refugees
