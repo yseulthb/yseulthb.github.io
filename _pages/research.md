@@ -1,5 +1,6 @@
 ---
 permalink: /research/
+title: "Academic curriculum"
 ---
 
 ## Publications 
