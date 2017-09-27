@@ -6,7 +6,7 @@ permalink: /CV/
 -->
 
 ### Research
-* 2015-Present: **Doctoral research**, *Université Paul Sabatier and [Cerco](http://www.cerco.ups-tlse.fr/3D-space-and-context-ECO-3D?lang=fr) (CNRS), Toulouse, France*<br /> 
+* 2015-Present: **Doctoral research**, *Université Paul Sabatier and [CerCo](http://www.cerco.ups-tlse.fr/3D-space-and-context-ECO-3D?lang=fr) (CNRS), Toulouse, France*<br /> 
 Title of the thesis: Adaptation to the 3D properties of the visual environment in primate. <!--(Funded by the University Paul Sabatier, Toulouse). Supervisor: Benoit Cottereau, CNRS researcher-->
 
 <!-- Brief synopsis:
@@ -16,16 +16,16 @@ The main purpose of this project is, thus, to provide a better understanding of 
 Those data will then be used to model stereoscopic vision with the aim of developing artificial vision systems that will be able to learn to detect those 3D properties without supervision.
 -->
 
-* 2014-2015: **Research internship**, *Cerco, Toulouse, France*<br />
+* 2014-2015: **Research internship**, *CerCo, Toulouse, France*<br />
 Master’s thesis: Characterisation of the cortical networks involved in 3D orientation processing in primates.
 
-* 2013-2014: **Research internship**, *LPNC, Grenoble, France*<br />
+* 2013-2014: **Research internship**, *[LPNC](http://lpnc.univ-grenoble-alpes.fr/?lang=en), Grenoble, France*<br />
 Master’s thesis: Role of the eyes in face categorisation: Interracial eye change impacts on the other-race effect in a categorisation task.
 
 * 2014 (January-February): **Internship in Neuropsychology**, *Hospital of Grenoble, France*<br />
 Clinical interviews and cognitive assessments of patients with movement disorders
 
-* 2013 (April-July) **Research assistant**, *MPI for Human Cognitive and Brain Sciences, Leipzig, Germany*<br />
+* 2013 (April-July) **Research assistant**, *[MPI for Human Cognitive and Brain Sciences](https://www.cbs.mpg.de/), Leipzig, Germany*<br />
 Department of social neuroscience - In charge of the coding of chimpanzees' vocalisations + statistical analysis. 
 
 
@@ -37,7 +37,7 @@ Bsc Biology: Practical and lab works, tutorial classes in Neuroscience and Behav
    Nervous and cerebral functions (vision, cortical functions, electrophysiological techniques)
    Neurophysiology (vestibular system) -->
 
-* 2015-2016: Volunteering teacher, *NGO “Croissant Fertile”, Toulouse, France*<br />
+* 2015-2016: Volunteering teacher, *NGO “[Croissant Fertile](http://www.croissantfertile.fr/)”, Toulouse, France*<br />
 Teaching French as a foreign language (FLE) to voluntary adults
 
 <!-- * 2011 (June-October): Tutor and Student Mentor for first-year students in Psychology, *University of Grenoble, France*<br />
