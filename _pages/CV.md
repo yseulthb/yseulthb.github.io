@@ -32,12 +32,12 @@ Department of social neuroscience - In charge of the coding of chimpanzees' voca
 ### Teaching
 * 2015-Present: Graduate teaching assistant, *University Paul Sabatier Toulouse, France*<br />
 Bsc Biology: Practical and lab works, tutorial classes in Neuroscience and Behavioural Sciences
- <!-- * Behavioural ecology (mating behaviour in guppy fish, methodology)
-  * Behavioural neuroscience (pain, stress)
-  * Nervous and cerebral functions (vision, cortical functions, electrophysiological techniques)
-  * Neurophysiology (vestibular system) -->
+ <!--  Behavioural ecology (mating behaviour in guppy fish, methodology)
+   Behavioural neuroscience (pain, stress)
+   Nervous and cerebral functions (vision, cortical functions, electrophysiological techniques)
+   Neurophysiology (vestibular system) -->
 
-* 2015-2016: Volunteering teacher, *NGO “Croissant Fertile” in Toulouse, France*<br />
+* 2015-2016: Volunteering teacher, *NGO “Croissant Fertile”, Toulouse, France*<br />
 Teaching French as a foreign language (FLE) to voluntary refugees
 
 <!-- * 2011 (June-October): Tutor and Student Mentor for first-year students in Psychology, *University of Grenoble, France*<br />
