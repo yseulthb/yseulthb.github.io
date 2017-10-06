@@ -20,7 +20,9 @@ l'influence de la présence de l'expérimentateur dans la collecte de donnnées
 
 * comparaison avec sciences humaines (anthropologie/eyhnologie) et sciences zoologiques/éthologie de terrain
   * comment se place l'observateur?
-  * comment définit-il sa place? -->
+  * comment définit-il sa place? 
+  
+* notion de réductionnisme scientifique: https://en.wikipedia.org/wiki/Reductionism  -->
   
   
 
