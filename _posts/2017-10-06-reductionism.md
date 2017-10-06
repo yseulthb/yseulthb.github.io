@@ -5,7 +5,7 @@ published: false
 mathjax: true
 ---
 
-* Comme position SH, important en sciences expérimentales de considérer 
+<!-- * Comme position SH, important en sciences expérimentales de considérer 
 l'influence de la présence de l'expérimentateur dans la collecte de donnnées
 + artificialité de la situation expérimentale mme dans cas des études se voulant plus écologiques 
 (bien que réduction de l'artificialité non remise en cause ici)
@@ -20,6 +20,8 @@ l'influence de la présence de l'expérimentateur dans la collecte de donnnées
 
 * comparaison avec sciences humaines (anthropologie/eyhnologie) et sciences zoologiques/éthologie de terrain
   * comment se place l'observateur?
-  * comment définit-il sa place?
+  * comment définit-il sa place? -->
+  
+  
 
 
