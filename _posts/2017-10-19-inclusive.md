@@ -3,6 +3,7 @@ title: "L'écriture inclusive en quelques minutes"
 date:   2017-10-19 15:56:01 -0200
 published: true
 mathjax: true
+comments: true
 ---
 
 Récemment, l'écriture inclusive a occupé un peu plus de place devant les projecteurs.<br>
