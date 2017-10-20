@@ -8,7 +8,7 @@ comments: true
 
 Récemment, l'écriture inclusive a occupé un peu plus de place devant les projecteurs.<br>
 Parce que c'est un sujet qui me tient à coeur, je propose ici quelques ressources pour s'informer sur ce sujet de façon rapide.<br>
-Je suis preneuse d'autres ressources pédagogiques et études à ce sujet qui demande encore à être creusé! <br>
+Je suis preneuse d'autres ressources pédagogiques et études à propos de ce sujet qui demande encore à être creusé! <br>
 Voici un article des [Echos](https://start.lesechos.fr/actu-entreprises/societe/l-ecriture-inclusive-et-si-on-s-y-mettait-tou-te-s-9152.php?hpqJMQJilDsJV5XM.01) expliquant brièvement le principe de l'écriture inclusive. <br>
 Ainsi qu'une enquête sur la perception de l'écriture inclusive réalisée par [Harris Interactive](http://harris-interactive.fr/opinion_polls/lecriture-inclusive/) qui montre que les formulations inclusives ou épicènes (non genrées) donnent jusqu’à deux fois plus de place aux femmes dans les représentations spontanée.
 
