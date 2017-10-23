@@ -1,7 +1,7 @@
 ---
 title: "L'écriture inclusive en quelques minutes"
 date:   2017-10-19 15:56:01 -0200
-published: true
+published: false
 mathjax: true
 comments: true
 ---
