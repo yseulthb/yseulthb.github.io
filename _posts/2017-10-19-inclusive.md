@@ -5,7 +5,7 @@ published: false
 mathjax: true
 comments: true
 ---
-
+(TO UPDATE: réorganiser les parties pour plus de fluidité et éviter)
 Récemment, l’écriture inclusive a occupé un peu plus de place devant les projecteurs.<br>
 Comme tout débat médiatisé, on observe principalement des réponses polarisées, des prises de position clairement affichées pour ou contre l’écriture inclusive, en réaction au sujet, sans tenir compte des actions réalisables. Par exemple, l’utilisation de l’écriture inclusive comme outil pédagogique pour permettre la prise de conscience des influences réciproques entre langage et stéréotypes socio-culturels.<br>
 
