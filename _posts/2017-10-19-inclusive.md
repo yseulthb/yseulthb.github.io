@@ -6,6 +6,8 @@ mathjax: true
 comments: true
 ---
 
+
+
 (TO UPDATE: réorganiser les parties pour plus de fluidité et éviter) 
 
 Récemment, l’écriture inclusive a occupé un peu plus de place devant les projecteurs.</br>
@@ -27,6 +29,15 @@ Deux articles parus dans le magazine Slate :<br>
 [Cet article](http://www.slate.fr/story/151880/masculin-emporte-toujours-feminin) qui reprend l’apprentissage de la règle de grammaire « Le masculin l’emporte sur le féminin » dans le contexte scolaire, avec un petit résumé sur l’évolution de cette règle qui n’a pas toujours été d’actualité. Cette règle a été mise en place au cours du 17e siècle pour remplaçait la règle de proximité avec laquelle l’adjectif s’accordait en fonction du nom qui en était le plus proche. L’usage du point médian est aussi brièvement relativisé.<br>
 [Ce deuxième article](http://www.slate.fr/story/151982/huit-idees-recues-cretineries-ecriture-inclusive) qui reprend des idées reçues sur l’écriture inclusive et principalement les arguments à l’encontre de celles-ci. Arguments qui seraient recevables s’ils étaient fondés et/ou réfléchis. 
 
+
+Après avoir discuté de l'écriture inclusive, du ressenti de chacun; après avoir été dans l'écoute, reçu les arguments, présenté mes propres arguments, il est ressorti A CONTINUER
+TONALITE: Finalement, je pense qu'il est nécessaire d'intégrer le fait que ce débat sur l'écriture inclusive et la visibilité médiatique de ce dernier cache en fait une réalité bien plus préoccupante. De quoi l'écriture inclusive est-elle le symptôme? Pourquoi se chamailler à propos de l'écriture inclusive et de sa possible intégration dans les manuels scolaires lorsqu'on pourrait consacrer son énergie à s'indigner de la perte de la gratuité dans les plannings familiaux, de l'échelonnage des prix des consultations médicales en fonction de la "complexité" de ces dernières, de la dégradation progressive de notre si cher système de santé? 
+Pourquoi s'époumoner en faveur ou en défaveur d'un point médian plutôt que de se pencher sur des mesures concrètes? Reconnaître les différences de traitement selon que l'on soit femme ou homme, selon que l'on soit de la majorité blanche ou d'une ethnie ou d'une origine minoritaire en dépit du fait que nous soyons toutes et tous françaises et français et donc supposées égaux. Et proposer des solutions concrètes, efficaces, réelles plutôt que des cache-misère.
+Il est tellement facile de tomber dans le piège de la division, de la ségrégation, de la différenciation. Si facile d'être méfiant, de conforter ses stéréotypes, de ne voir les choses qu'à travers un filtre distordu. 
+Reconnaissons à quel point il est primordial de reconnaître ces biais, et de les surmonter, d'aller au-delà de ses idées reçues, de ses appréhensions, de la peur de l'autre. 
+Cessons donc d'être si individualistes, pensons aux autres, qu'ils soient nos citoyens et citoyennes actuelles ou à venir. Pensons à ce que nous souhaitons leur laisser, au type de société dans laquelle nous aimerions les voir évoluer, s'épanouir.
+Tendons la main à l'autre. Parce que l'autre c'est aussi nous-même. 
+Un peu de solidarité nous rendra bien plus heureux que notre bulle hermétique!
 
 
 
