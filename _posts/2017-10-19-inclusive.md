@@ -7,10 +7,6 @@ comments: true
 ---
 
 
-2) l'écriture inclusive sous le spectre de la division/ségrégation: diviser pour mieux régner, proposer une bicatégorisation au nom de l'inclusion. 
-
-
-
 UPDATE:
 De quoi l'écriture inclusive est-elle le nom?
 
@@ -38,8 +34,11 @@ Deux articles parus dans le magazine Slate :<br>
 [Ce deuxième article](http://www.slate.fr/story/151982/huit-idees-recues-cretineries-ecriture-inclusive) qui reprend des idées reçues sur l’écriture inclusive et principalement les arguments à l’encontre de celles-ci. Arguments qui seraient recevables s’ils étaient fondés et/ou réfléchis. <br>
 
 ---------------
+
+2) l'écriture inclusive sous le spectre de la division/ségrégation: diviser pour mieux régner, proposer une bicatégorisation au nom de l'inclusion. 
+
 Après avoir discuté de l'écriture inclusive, du ressenti de chacun; après avoir été dans l'écoute, reçu les arguments, présenté mes propres arguments, il est ressorti A CONTINUER 
-1-	Diviser pour mieux régner: nouvelle forme de ségrégation?
+Diviser pour mieux régner: nouvelle forme de ségrégation?
 l'écriture inclusive sous le spectre de la division/ségrégation: diviser pour mieux régner, proposer une bicatégorisation au nom de l'inclusion
 
 TONALITE: Finalement, je pense qu'il est nécessaire d'intégrer le fait que ce débat sur l'écriture inclusive et la visibilité médiatique de ce dernier cache en fait une réalité bien plus préoccupante. 
