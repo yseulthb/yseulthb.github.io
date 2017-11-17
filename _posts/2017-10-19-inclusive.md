@@ -24,7 +24,7 @@ Il est évident que l’on peut légitimement se poser la question du rôle ou d
 D’autre part, il me semble aussi nécessaire de mentionner l’écriture épicène, qui est une écriture non genrée, neutre (l’on parlera ainsi de la population Française, plutôt que des Français et Françaises). A mon sens, elle a l’avantage de rendre compte des minorités non représentées dans la construction sociale du genre Femme/Homme et permet d’éviter l’accentuation de cette binarisation. ~~((Néanmoins, elle ne donne pas plus de visibilité aux personnes ne se reconnaissant pas dans les catégories Femmes et Hommes, au risque alors de gommer les nuances en les effaçant derrière une neutralité.))~~  </br>
 Ainsi, plutôt que de débattre de façon stérile sur l’esthétique ou la pénibilité de l’écriture inclusive, utilisons-la plutôt comme un outil ou comme un tremplin pour rebondir sur les problématiques liées au genre, sur l’actualité du sexisme, sur la transphobie ~~((et tentons de comprendre pourquoi sur de tels sujets nous préférons nous concentrer sur des futilités plutôt que de prendre ces problèmes à bras le corps et proposer des solutions communes))~~ . </br>
 
-Articles cités ou complémentaires :
+Articles cités ou complémentaires :</br>
 Pour pouvoir s’informer sur ce sujet de façon rapide, je propose ici quelques articles.
 Je suis preneuse d’autres ressources pédagogiques et études à propos de ce sujet qui demande encore à être creusé! 
 Voici un article des [Echos](https://start.lesechos.fr/actu-entreprises/societe/l-ecriture-inclusive-et-si-on-s-y-mettait-tou-te-s-9152.php?hpqJMQJilDsJV5XM.01) expliquant brièvement le principe de l'écriture inclusive. <br>
