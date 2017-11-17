@@ -6,6 +6,13 @@ mathjax: true
 comments: true
 ---
 
+Autre idée de titre (et donc de déroulé): De quoi l'écriture inclusive est-elle le nom?
+
+1) intro sur l'écriture inclusive
+2) l'écriture inclusive sous le spectre de la division/ségrégation: diviser pour mieux régner, proposer une bicatégorisation au nom de l'inclusion. 
+
+
+
 
 
 (TO UPDATE: réorganiser les parties pour plus de fluidité et éviter) 
