@@ -36,3 +36,5 @@ title: "Academic curriculum"
 
 * Article (March 2017, in French) about the evolution of 3D vision in animals, written for Muséum Toulouse (Museum of Natural sciences)<br/> 
 *Yseult Héjja-Brichard & Benoit R. Cottereau "Evolution et vision : le vivant a de la profondeur !" ([here](http://www.museum.toulouse.fr/-/evolution-et-vision-le-vivant-a-de-la-profondeur-))*
+
+* Member of InCOGnu, a student organisation for cognitive science that organises conferences for the general audience and takes part in events of science popularisation (Pint of Science, Brain Awareness Week, National Forum of cognitive science, ...)
