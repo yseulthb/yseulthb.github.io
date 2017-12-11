@@ -1,5 +1,5 @@
 # Site Settings
-minimal_mistakes_skin    : "air" # "air", "contrast", "dark", "dirt", "mint", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air", "contrast", "dark", "dirt", "mint", "sunrise"
 locale                   : "en"
 title                    : "Yseult HB's adventures"
 title_separator          : "-"
