@@ -6,7 +6,7 @@ title: "Resume"
 #A more detailed version of this CV can be found [here](https://github.com/yseulthb/yseulthb.github.io/blob/master/images/CV_YHB.pdf).
 -->
 ### Doctoral research
-* 2015-Present: **PhD studies in Cognitive neuroscience **, Université Paul Sabatier and [CerCo](http://www.cerco.ups-tlse.fr/3D-space-and-context-ECO-3D?lang=fr) (CNRS), Toulouse, France<br />. Supervisor: Benoit Cottereau, CNRS researcher-->
+* 2015-Present: **PhD studies in Cognitive neuroscience **, Université Paul Sabatier and [CerCo](http://www.cerco.ups-tlse.fr/3D-space-and-context-ECO-3D?lang=fr) (CNRS), Toulouse, France. Supervisor: Benoit Cottereau, CNRS researcher-->
 
 Title of the thesis: Adaptation to the 3D properties of the visual environment in primate.
 Brief synopsis:
