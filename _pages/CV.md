@@ -47,16 +47,16 @@ Student Tutor (a few hours): Helping students to get ready for their exams -->
 
 
 ### Previous research experience
-* 2014-2015: **Research internship**, CerCo, Toulouse, France<br />
+* 2014-2015: Research internship, CerCo, Toulouse, France<br />
 Master’s thesis: Characterisation of the cortical networks involved in 3D orientation processing in primates.
 
-* 2013-2014: **Research internship**, [LPNC](http://lpnc.univ-grenoble-alpes.fr/?lang=en), Grenoble, France<br />
+* 2013-2014: Research internship, [LPNC](http://lpnc.univ-grenoble-alpes.fr/?lang=en), Grenoble, France<br />
 Master’s thesis: Role of the eyes in face categorisation: Interracial eye change impacts on the other-race effect in a categorisation task.
 
-* 2014 (January-February): **Internship in Neuropsychology**, Hospital of Grenoble, France<br />
+* 2014 (January-February): Internship in Neuropsychology, Hospital of Grenoble, France<br />
 Clinical interviews and cognitive assessments of patients with movement disorders
 
-* 2013 (April-July) **Research assistant**, [MPI for Human Cognitive and Brain Sciences](https://www.cbs.mpg.de/), Leipzig, Germany<br />
+* 2013 (April-July): Research assistant, [MPI for Human Cognitive and Brain Sciences](https://www.cbs.mpg.de/), Leipzig, Germany<br />
 Department of social neuroscience - In charge of the coding of chimpanzees' vocalisations + statistical analysis. 
 
 
