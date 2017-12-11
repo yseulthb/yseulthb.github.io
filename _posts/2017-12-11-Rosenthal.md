@@ -1,5 +1,5 @@
 ---
-title: "A statistical allegory by Robert Rosenthal, 1991"
+title: "A statistical allegory"
 date:   2017-12-11 10:20:01 -0200
 published: true
 mathjax: true
