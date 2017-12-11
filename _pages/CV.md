@@ -12,10 +12,10 @@ Title of the thesis: Adaptation to the 3D properties of the visual environment i
 * 2015: Msc in Neuroscience, Cognition, and Behaviour – Université Paul Sabatier, Toulouse, France
 <!-- Attended courses: Cognition, spatial cognition, sensory systems, neuroethology, collective behaviour, behavioural ecology, applied statistics -->
 
-* 2014: Msc in Cognitive Psychology – Université Pierre Mendès-France, Grenoble, France
+* 2014: Msc in Cognitive Psychology – Université de Grenoble, France
 <!-- Attended courses: Visual cognition, memory, neurology and neuropsychology,psycholinguistics, movement planning and control, applied statistics -->
 
-* 2013: Bsc in Psychology – Université Pierre Mendès-France, Grenoble, France & Universität Leipzig, Germany
+* 2013: Bsc in Psychology – Université de Grenoble, France & Universität Leipzig, Germany
 
 <!--(Funded by the University Paul Sabatier, Toulouse). Supervisor: Benoit Cottereau, CNRS researcher-->
 
