@@ -9,10 +9,10 @@ title: "Resume"
 * 2015-Present: **Doctoral research**, *Université Paul Sabatier and [CerCo](http://www.cerco.ups-tlse.fr/3D-space-and-context-ECO-3D?lang=fr) (CNRS), Toulouse, France*<br /> 
 Title of the thesis: Adaptation to the 3D properties of the visual environment in primate.
 
-* 2015: Msc (second year) in Neuroscience, Cognition, and Behaviour – Université Paul Sabatier, Toulouse, France
+* 2015: Msc in Neuroscience, Cognition, and Behaviour – Université Paul Sabatier, Toulouse, France
 <!-- Attended courses: Cognition, spatial cognition, sensory systems, neuroethology, collective behaviour, behavioural ecology, applied statistics -->
 
-* 2014: Msc (first year) in Cognitive and Social Psychology – Université Pierre Mendès-France, Grenoble, France
+* 2014: Msc in Cognitive Psychology – Université Pierre Mendès-France, Grenoble, France
 <!-- Attended courses: Visual cognition, memory, neurology and neuropsychology,psycholinguistics, movement planning and control, applied statistics -->
 
 * 2013: Bsc in Psychology – Université Pierre Mendès-France, Grenoble, France & Universität Leipzig, Germany
