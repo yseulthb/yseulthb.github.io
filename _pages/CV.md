@@ -17,14 +17,14 @@ The main purpose of this project is, thus, to provide a better understanding of 
 Those data will then be used to model stereoscopic vision with the aim of developing artificial vision systems that will be able to learn to detect those 3D properties without supervision. -->
 
 ### Teaching experience
-* 2015-Present: Graduate teaching assistant (64hr every year), Université Paul Sabatier, Toulouse, France<br />
+* 2015-Present: **Graduate teaching assistant** (64hr every year), Université Paul Sabatier, Toulouse, France<br />
 Bsc Biology: Practical and lab works, tutorial classes in
    - Behavioural ecology (mating behaviour in guppy fish, methodology)<br />
    - Behavioural neuroscience (pain, stress)<br />
    - Nervous and cerebral functions (vision, cortical functions, electrophysiological techniques)<br />
    - Neurophysiology (vestibular system)
 
-* 2015-2016: Volunteering teacher, NGO “[Croissant Fertile](http://www.croissantfertile.fr/)”, Toulouse, France<br />
+* 2015-2016: **Volunteering teacher**, NGO “[Croissant Fertile](http://www.croissantfertile.fr/)”, Toulouse, France<br />
 Teaching French as a foreign language (FLE) to voluntary adults
 
 <!--* Co-supervision of a Master's student
