@@ -9,11 +9,11 @@ title: "Resume"
 * 2015-Present: **PhD studies in Cognitive neuroscience**, Université Paul Sabatier and [CerCo](http://www.cerco.ups-tlse.fr/3D-space-and-context-ECO-3D?lang=fr) (CNRS), Toulouse, France. Supervisor: Benoit Cottereau, CNRS researcher. 
 
 Title of the thesis: Adaptation to the 3D properties of the visual environment in primate.<br />
-Brief synopsis:<br />
+<!-- Brief synopsis:<br />
 Stereovision refers to our ability to perceive the tridimensional (3D) structure of our environment from the bidimensional images that are projected on our retinas. In primates, it is considered to have contributed to the emergence of fine motor skills, such as reaching and grasping objects, by giving precise information about the position and form of the objects that are in our environment.<br />
 Surprisingly, despite the work dedicated to the development of those technologies, artificial models of stereovision are still far from reaching such performances, their main limit being that their preestablished approaches that are not able to adapt to the different environmental properties.<br />
 The main purpose of this project is, thus, to provide a better understanding of how the visual system in primates adapts to the 3D properties of our environment. We intend to study the relation between the 3D properties of our environment and cortical responses to those properties at a macroscopic level, by conducting functional neuroimaging studies.<br />
-Those data will then be used to model stereoscopic vision with the aim of developing artificial vision systems that will be able to learn to detect those 3D properties without supervision.
+Those data will then be used to model stereoscopic vision with the aim of developing artificial vision systems that will be able to learn to detect those 3D properties without supervision. -->
 
 ### Teaching experience
 * 2015-Present: Graduate teaching assistant, *University Paul Sabatier Toulouse, France*<br />
