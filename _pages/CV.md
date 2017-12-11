@@ -18,7 +18,7 @@ Those data will then be used to model stereoscopic vision with the aim of develo
 
 ### Teaching experience
 * 2015-Present: Graduate teaching assistant (64hr every year), Université Paul Sabatier, Toulouse, France<br />
-Bsc Biology: Practical and lab works, tutorial classes in Neuroscience and Behavioural Sciences
+Bsc Biology: Practical and lab works, tutorial classes in
    - Behavioural ecology (mating behaviour in guppy fish, methodology)<br />
    - Behavioural neuroscience (pain, stress)<br />
    - Nervous and cerebral functions (vision, cortical functions, electrophysiological techniques)<br />
