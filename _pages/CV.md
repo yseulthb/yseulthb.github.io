@@ -17,10 +17,10 @@ Those data will then be used to model stereoscopic vision with the aim of develo
 
 ### Teaching experience
 * 2015-Present: Graduate teaching assistant, Université Paul Sabatier, Toulouse, France<br />
-Bsc Biology: Practical and lab works, tutorial classes in Neuroscience and Behavioural Sciences
-   Behavioural ecology (mating behaviour in guppy fish, methodology)
-   Behavioural neuroscience (pain, stress)
-   Nervous and cerebral functions (vision, cortical functions, electrophysiological techniques)
+Bsc Biology: Practical and lab works, tutorial classes in Neuroscience and Behavioural Sciences<br />
+   Behavioural ecology (mating behaviour in guppy fish, methodology)<br />
+   Behavioural neuroscience (pain, stress)<br />
+   Nervous and cerebral functions (vision, cortical functions, electrophysiological techniques)<br />
    Neurophysiology (vestibular system)
 
 * 2015-2016: Volunteering teacher, NGO “[Croissant Fertile](http://www.croissantfertile.fr/)”, Toulouse, France<br />
