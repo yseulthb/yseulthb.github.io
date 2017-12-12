@@ -5,7 +5,7 @@ published: false
 mathjax: true
 ---
 
-<!-- * Comme position SH, important en sciences expérimentales de considérer 
+* Comme position SH, important en sciences expérimentales de considérer 
 l'influence de la présence de l'expérimentateur dans la collecte de donnnées
 + artificialité de la situation expérimentale même dans cas des études se voulant plus écologiques 
 (bien que réduction de l'artificialité non remise en cause ici)
@@ -18,12 +18,12 @@ l'influence de la présence de l'expérimentateur dans la collecte de donnnées
     
 * nécessité d'une approche plus située et donc prise en compte du contexte expérimental: à verbaliser car fait partie de l'expérience
 
-* comparaison avec sciences humaines (anthropologie/eyhnologie) et sciences zoologiques/éthologie de terrain
+* comparaison avec sciences dites humaines (anthropologie/ethnologie) et sciences zoologiques/éthologie de terrain
   * comment se place l'observateur?
   * comment définit-il sa place? 
   lien: https://annerevillard.com/observation-directe-et-enquete-de-terrain/definir-et-analyser-son-role-en-tant-quobservateur-trice-sur-le-terrain/
   
-* notion de réductionnisme scientifique: https://en.wikipedia.org/wiki/Reductionism  -->
+* notion de réductionnisme scientifique: https://en.wikipedia.org/wiki/Reductionism
   
   
 
