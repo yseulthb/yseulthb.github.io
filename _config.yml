@@ -1,5 +1,5 @@
 # Site Settings
-minimal_mistakes_skin    : "contrast" # "air", "contrast", "dark", "dirt", "mint", "sunrise"
+minimal_mistakes_skin    : "default" # "air", "contrast", "dark", "dirt", "mint", "sunrise"
 locale                   : "en"
 title                    : "Yseult HB's adventures"
 title_separator          : "-"
@@ -64,7 +64,7 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google" # false (default), "google", "google-universal", "custom"
+  provider               : false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          : "UA-106834531-1"
 
