@@ -14,7 +14,7 @@ Conf sexual and sexist violence in Academia
 
 Conférence Violences Sexistes et Sexuelles (VSS) dans la recherche et l’enseignement supérieur – 4/12/2017
 
--Idée fréquente que le milieu de la recherche et académique sont préservés des VSS donc hésitation côté victime à parler et sentiment d’impunité côté harceleur
+-Idée fréquente que le milieu de la recherche et académique sont préservés des VSS donc hésitation côté victime à parler et sentiment d’impunité côté harceleur</br>
 -Les femmes se trouvant dans des professions où la hiérarchie et la compétition sont présents (i.e. comme dans l’académie) sont plus susceptibles d’être exposées à du harcèlement sexuel.
 
     Conf 1: Sexual harassment, ambiguities and grey zones in Sweden par Gunilla Carstensen, Dalarna University, SE
