@@ -2,7 +2,7 @@
 title: "A statistical allegory"
 date:   2017-12-11 10:20:01 -0200
 categories:
-  - Blog
+  - blog
 published: true
 mathjax: true
 comments: true
