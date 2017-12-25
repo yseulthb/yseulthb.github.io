@@ -47,3 +47,5 @@ TONALITE: Finalement, je pense qu'il est nécessaire d'intégrer le fait que ce 
 
 
 
+REF suppl: https://www.franceculture.fr/societe/lecriture-inclusive-divise-les-immortels-a-lacademie-francaise
+https://www.franceculture.fr/emissions/les-nuits-de-france-culture/doctrice-ou-doctoresse-histoire-de-la-langue-francaise-au-feminin
