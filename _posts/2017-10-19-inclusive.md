@@ -48,4 +48,8 @@ TONALITE: Finalement, je pense qu'il est nécessaire d'intégrer le fait que ce 
 
 
 REF suppl: https://www.franceculture.fr/societe/lecriture-inclusive-divise-les-immortels-a-lacademie-francaise
+"Des séances hebdomadaires ont ainsi démarré depuis ce mois de décembre pour réfléchir à la question. Si le point median est unanimement rejeté, en revanche, d'autres sujets - tels que la féminisation des noms de métiers ou encore l'accord de proximité - divisent ouvertement les Immortels."
+
 https://www.franceculture.fr/emissions/les-nuits-de-france-culture/doctrice-ou-doctoresse-histoire-de-la-langue-francaise-au-feminin
+
+https://www.franceculture.fr/societe/ecriture-inclusive-le-feminin-pour-que-les-femmes-cessent-detre-invisibles
