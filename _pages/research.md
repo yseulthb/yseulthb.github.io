@@ -5,9 +5,9 @@ title: "Academic curriculum"
 
 ## Publications 
 
-<-- * **Héjja-Brichard, Y.**, Rima, S., Trotter, Y., Durand, J.-B., Cottereau, B.R. (*in prep*). Cortical processing of stereomotion in non-human primate. --!>
+<!-- * **Héjja-Brichard, Y.**, Rima, S., Trotter, Y., Durand, J.-B., Cottereau, B.R. (*in prep*). Cortical processing of stereomotion in non-human primate. -->
 
-* Rima, S., Cottereau, B.R., **Héjja-Brichard, Y.**, Trotter, Y. & Durand, J.B. (*in prep*). A new visuotopic cluster in macaque posterior parietal cortex revealed by wide-field retinotopy. 
+<!-- * Rima, S., Cottereau, B.R., **Héjja-Brichard, Y.**, Trotter, Y. & Durand, J.B. (*in prep*). A new visuotopic cluster in macaque posterior parietal cortex revealed by wide-field retinotopy. -->
 
 * Cottereau, B.R., Smith, A.T., Rima, S., Fize, D., **Héjja-Brichard, Y.**, Renaud, L., … Durand, J.-B. (2017). Processing of Egomotion-Consistent Optic Flow in the Rhesus Macaque Cortex. *Cerebral Cortex*, 1-14 ([doi](https://doi.org/10.1093/cercor/bhw412)).
 
