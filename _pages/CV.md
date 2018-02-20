@@ -34,6 +34,10 @@ Guillaume Thuéry, Msc in Neuroscience, University of Bordeaux, 2017-2018 -->
 Student Mentor (several weeks): Guiding the new students to find their way on the campus, helping them to get integrated
 Student Tutor (a few hours): Helping students to get ready for their exams -->
 
+### Community Involvment
+* At the lab level: Student representative at the Lab Council; Organisation of the students' Winter School
+* At the scientific community level: Ambassador for the Center for Open Science
+
 ### Education
 * 2015-Present: PhD student in Cognitive neuroscience, Université Paul Sabatier, Toulouse, France<br /> 
 
