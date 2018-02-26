@@ -7,9 +7,9 @@ mathjax: true
 
 * Qu’est-ce qu’un bon papier?
 
--	Apport substantiel / incrémentiel / révolutionnaire au domaine spécifique?
--	Revue dans lesquels les résultats sont publiés?
--	Indices en tous genres (facteur d’impact, index h, nombre de citations, etc.) ?
+        -	Apport substantiel / incrémentiel / révolutionnaire au domaine spécifique?
+        -	Revue dans lesquels les résultats sont publiés?
+        -	Indices en tous genres (facteur d’impact, index h, nombre de citations, etc.) ?
 
 * Comment déterminer qu’une étude est une bonne étude?
 
