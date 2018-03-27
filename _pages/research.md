@@ -12,17 +12,17 @@ title: "Academic curriculum"
 * Cottereau, B.R., Smith, A.T., Rima, S., Fize, D., **Héjja-Brichard, Y.**, Renaud, L., … Durand, J.-B. (2017). Processing of Egomotion-Consistent Optic Flow in the Rhesus Macaque Cortex. *Cerebral Cortex*, 1-14 ([doi](https://doi.org/10.1093/cercor/bhw412)).
 
 
-## Conferences
+<!--## Conferences-->
 
 ### Oral presentations
 * **Héjja-Brichard, Y.** & Cottereau, B.R. (2017). Adaptation aux régularités spatiales de l'environnement au sein de systèmes de vision stéréoscopique. *Journée des doctorants, Université Toulouse III Paul Sabatier, France*
 
-### Poster presentations
-* **Héjja-Brichard, Y.**, Rima, S., Durand, J.-B., Cottereau, B.R. (2017, October). Stereomotion processing in the non-human primate brain. *GDR Vision annual forum, Lille, France*.
+<!--### Poster presentations
+* **Héjja-Brichard, Y.**, Rima, S., Durand, J.-B., Cottereau, B.R. (2017, October). Stereomotion processing in the non-human primate brain. *GDR Vision annual forum, Lille, France*.-->
 
-* **Héjja-Brichard, Y.**, Rima, S., Durand, J.-B., Cottereau, B.R. (2017, August). Stereomotion processing in the non-human primate brain. *European Conference on Visual Perception, Berlin, Germany*.
+<!--* **Héjja-Brichard, Y.**, Rima, S., Durand, J.-B., Cottereau, B.R. (2017, August). Stereomotion processing in the non-human primate brain. *European Conference on Visual Perception, Berlin, Germany*. -->
 
-* **Héjja-Brichard, Y.**, Rima, S., Trotter, Y., Banks, M.S., Durand, J.-B., Cottereau, B.R. (2015, December). Adaptation to the 3D properties of the environment in non-human primates. *GDR Vision annual forum, Grenoble, France*.
+<!--* **Héjja-Brichard, Y.**, Rima, S., Trotter, Y., Banks, M.S., Durand, J.-B., Cottereau, B.R. (2015, December). Adaptation to the 3D properties of the environment in non-human primates. *GDR Vision annual forum, Grenoble, France*. -->
 
 
 ## Workshop
