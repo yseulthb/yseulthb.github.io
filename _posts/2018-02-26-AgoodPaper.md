@@ -23,7 +23,7 @@ mathjax: true
     -	Volonté de faire évoluer le domaine d’étude et non motivation liée à sa carrière ou à des perspectives/demandes de financement = motivation scientifique et non productiviste
 
 * Qui peut se le permettre ? </br>
-Les 5 premiers points sont potentiellement à la portée de tous et devraient en fait représenter les pratiques scientifiques habituelles. 
-Le dernier point, et il devient en fait non dissociable des points précédents, est un peu plus délicat. 
-Dans un monde idéal, la motivation scientifique prime sur les motivations de carrière.
-Dans un monde idéal, la recherche scientifique est indépendante des contraintes financières. 
+Les 5 premiers points sont potentiellement à la portée de tous et devraient en fait représenter les pratiques scientifiques habituelles. </br> 
+Le dernier point, et il devient en fait non dissociable des points précédents, est un peu plus délicat. </br>
+Dans un monde idéal, la motivation scientifique prime sur les motivations de carrière.</br>
+Dans un monde idéal, la recherche scientifique est indépendante des contraintes financières. </br>
