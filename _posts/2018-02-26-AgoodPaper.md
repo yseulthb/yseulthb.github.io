@@ -1,5 +1,5 @@
 ---
-title: "What is a 'good' paper?"
+title: "Qu’est-ce qu’un bon papier?"
 date:   2018-02-26 20:17:01 -0200
 published: true
 mathjax: true
@@ -7,9 +7,9 @@ mathjax: true
 
 * Qu’est-ce qu’un bon papier?
 
-        -	Apport substantiel / incrémentiel / révolutionnaire au domaine spécifique?
-        -	Revue dans lesquels les résultats sont publiés?
-        -	Indices en tous genres (facteur d’impact, index h, nombre de citations, etc.) ?
+    - Apport substantiel / incrémentiel / révolutionnaire au domaine spécifique?
+    - Revue dans lesquels les résultats sont publiés?
+    - Indices en tous genres (facteur d’impact, index h, nombre de citations, etc.) ?
 
 * Comment déterminer qu’une étude est une bonne étude?
 
