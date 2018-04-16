@@ -5,6 +5,6 @@ main:
   - title: "About"
     url: /about/
   - title: "CV"
-    url: {{ http://yseulthb.github.io/ }}/pdf/cvacademic.pdf
+    url: {{ https://github.com/yseulthb/yseulthb.github.io }}/pdf/cvacademic.pdf
   - title: "Slowpen Science"
     url: http://slowpen.science/
