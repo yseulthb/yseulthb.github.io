@@ -6,7 +6,7 @@ title_separator          : "-"
 name                     : "Yseult Héjja-Brichard"
 description              : "Food for thought about science, ethics, agroecology, and more. Learning to fight sexism in academia and to promote a better science"
 url                      : "https://yseulthb.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/cv" # the subpath of your site, e.g. "/blog"
+baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "yseulthb.github.io"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : /assets/images/header.jpg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
