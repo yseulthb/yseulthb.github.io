@@ -5,7 +5,7 @@ published: true
 mathjax: true
 ---
 
-* Qu’est-ce qu’un bon papier?
+* Qu’est-ce qui fait d’un article scientifique un bon article scientifique?
 
     - Apport substantiel / incrémentiel / révolutionnaire au domaine spécifique?
     - Revue dans lesquels les résultats sont publiés?
