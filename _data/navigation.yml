@@ -4,9 +4,7 @@ main:
     url: /blog/
   - title: "About"
     url: /about/
-  - title: "Resume"
+  - title: "CV"
     url: /CV/
-  - title: "Research"
-    url: /research/
   - title: "Slowpen Science"
     url: http://slowpen.science/
