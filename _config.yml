@@ -1,10 +1,10 @@
 # Site Settings
 minimal_mistakes_skin    : "default" # "air", "contrast", "dark", "dirt", "mint", "sunrise"
 locale                   : "en"
-title                    : "Yseult HB's adventures"
+title                    : "Yseult HB"
 title_separator          : "-"
 name                     : "Yseult Héjja-Brichard"
-description              : "Food for thought about science, ethics, agroecology, and more. Learning to fight sexism in academia and to promote a better science"
+description              : "Food for thought about science, ethics, agroecology, and more. Learning to fight sexism in academia and to promote a better science."
 url                      : "https://yseulthb.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "yseulthb.github.io"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
