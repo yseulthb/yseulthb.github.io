@@ -12,6 +12,8 @@ mathjax: true
     - Indices en tous genres (facteur d’impact, index h, nombre de citations, etc.) ?
 
 * Comment déterminer qu’une étude est une bonne étude?
+- Protocole expérimental novateur ou protocole expérimental ayant déjà fait ses preuves?
+- Sujet 'à la mode', sujet 'démodé': quel impact sur la considération de l'étude?
 
 * Des éléments de réponse potentiels: 
 
