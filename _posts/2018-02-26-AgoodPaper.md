@@ -1,7 +1,7 @@
 ---
 title: "What is a 'good' paper?"
 date:   2018-02-26 20:17:01 -0200
-published: false
+published: true
 mathjax: true
 ---
 
