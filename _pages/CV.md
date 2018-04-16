@@ -2,6 +2,8 @@
 permalink: /CV/
 title: "Resume"
 ---
+<a href="/pdf/cvacademic.pdf" target="_blank"><b>CV</b></a>
+
 <!--
 #A more detailed version of this CV can be found [here](https://github.com/yseulthb/yseulthb.github.io/blob/master/images/CV_YHB.pdf).
 -->
