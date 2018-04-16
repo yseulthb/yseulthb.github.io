@@ -5,6 +5,6 @@ main:
   - title: "About"
     url: /about/
   - title: "CV"
-    url: <a href="/pdf/cvacademic.pdf" target="_blank"><b>CV</b></a>
+    url: /CV/
   - title: "Slowpen Science"
     url: http://slowpen.science/
