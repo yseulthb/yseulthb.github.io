@@ -1,6 +1,6 @@
 ---
 permalink: /research/
-title: "Academic curriculum"
+title: ""
 ---
 
 ## Scientific Production
