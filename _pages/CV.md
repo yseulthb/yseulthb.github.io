@@ -5,7 +5,7 @@ title: "Resume"
 
 <!-- Available here: <a href="/pdf/cvacademic.pdf" target="_blank"><b>CV</b></a> -->
 
-A pdf version of this CV can be found here: <a href="/pdf/cvacademic.pdf" target="_blank"><b>CV</b></a><br />  
+A pdf version of this CV can be found here: <a href="/pdf/cvacademic.pdf" target="_blank"><b>CV</b></a><br>  
 (Last update: 16/04/2018)
 
 ### Doctoral research
