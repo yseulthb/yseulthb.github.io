@@ -73,6 +73,6 @@ Under the supervision of Natacha Mendès, now scientific assistant at the MPI CB
 
 ## Additional skills
 
-* Computer skills: Matlab (intermediate), SPM12 (intermediate), R programming (intermediate), EventIDE and E-Prime (stimulus presentation software), SPSS, Avisoft, Microsoft Office (Word, Powerpoint, Excel), Linux (Ubuntu), Mac OS (until OS X)
-* Project management: Organising lab events, such as the Lab day or the annual winter school
+* Computing skills: Matlab, SPM12, R programming, EventIDE and E-Prime (stimulus presentation software), LaTeX, Photoshop, Adobe Illustrator, SPSS, Avisoft
+* Project management: Organising lab events, such as the Lab day or the annual lab winter school
 * Languages: French (native), English (Toefl iBT: 104/120), German (very good command in speaking, level B2), Spanish (good command in speaking, level B1)
