@@ -3,7 +3,7 @@ permalink: /research/
 title: "Academic curriculum"
 ---
 
-## Scientific Productions
+## Scientific Production
 
 ### Publications 
 
