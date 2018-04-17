@@ -3,7 +3,9 @@ permalink: /research/
 title: "Academic curriculum"
 ---
 
-## Publications 
+## Scientific Productions
+
+### Publications 
 
 <!-- * **Héjja-Brichard, Y.**, Rima, S., Trotter, Y., Durand, J.-B., Cottereau, B.R. (*in prep*). Cortical processing of stereomotion in non-human primate. -->
 
