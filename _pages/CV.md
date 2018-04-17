@@ -55,16 +55,20 @@ Attended courses: Visual cognition, memory, neurology and neuropsychology,psycho
 
 ### Previous research experience
 * 2014-2015: Research internship, CerCo, Toulouse, France<br />
-Master’s thesis: Characterisation of the cortical networks involved in 3D orientation processing in primates.
+Master’s thesis: Characterisation of the cortical networks involved in 3D orientation processing in primates.<br />
+Under the supervision of Benoit R. Cottereau and Jean-Baptiste Durand, CNRS researchers
 
 * 2013-2014: Research internship, [LPNC](http://lpnc.univ-grenoble-alpes.fr/?lang=en), Grenoble, France<br />
-Master’s thesis: Role of the eyes in face categorisation: Interracial eye change impacts on the other-race effect in a categorisation task.
+Master’s thesis: Role of the eyes in face categorisation: Interracial eye change impacts on the other-race effect in a categorisation task. <br />
+Under the supervision of Olivier Pascalis, CNRS researcher and with the help of David Meary, Assistant Professor at University of Grenoble-Alps (UGA)
 
 * 2014 (January-February): Internship in Neuropsychology, Hospital of Grenoble, France<br />
-Clinical interviews and cognitive assessments of patients with movement disorders
+Clinical interviews and cognitive assessments of patients with movement disorders<br />
+Under the supervision of Eugénie Lhommée, Neuropsychologist at the Hospital of Grenoble
 
 * 2013 (April-July): Research assistant, [MPI for Human Cognitive and Brain Sciences](https://www.cbs.mpg.de/), Leipzig, Germany<br />
-Department of social neuroscience - In charge of the coding of chimpanzees' vocalisations + statistical analysis. 
+Department of social neuroscience - In charge of the coding of chimpanzees' vocalisations + statistical analysis. <br />
+Under the supervision of Natacha Mendès, now scientific assistant at the MPI CBS
 
 
 ## Additional skills
