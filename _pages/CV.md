@@ -28,9 +28,9 @@ Bsc Biology - Practical and lab works, tutorial classes in:
    - Neurophysiology (vestibular system)
 
 * 2015-2016: **Volunteering teacher**, NGO “[Croissant Fertile](http://www.croissantfertile.fr/)”, Toulouse, France<br />
-Teaching French as a foreign language (FLE) to voluntary adults-->
+Teaching French as a foreign language (FLE) to voluntary adults
 
-* Co-supervision of a Master's student
+* Co-supervision of a Master's student <br />
 Msc in Neuroscience, University of Bordeaux, 2017-2018
 
 * 2011 (June-October): Tutor and Student Mentor for first-year students in Psychology, *University of Grenoble, France*<br />
