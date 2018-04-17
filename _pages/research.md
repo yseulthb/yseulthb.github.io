@@ -17,10 +17,10 @@ title: "Academic curriculum"
 ### Oral presentations
 * **Héjja-Brichard, Y.** & Cottereau, B.R. (2017). Adaptation aux régularités spatiales de l'environnement au sein de systèmes de vision stéréoscopique. *Journée des doctorants, Université Toulouse III Paul Sabatier, France*
 
-<!--### Poster presentations
-* **Héjja-Brichard, Y.**, Rima, S., Durand, J.-B., Cottereau, B.R. (2017, October). Stereomotion processing in the non-human primate brain. *GDR Vision annual forum, Lille, France*.-->
+### Poster presentations
+<!--* **Héjja-Brichard, Y.**, Rima, S., Durand, J.-B., Cottereau, B.R. (2017, October). Stereomotion processing in the non-human primate brain. *GDR Vision annual forum, Lille, France*.-->
 
-<!--* **Héjja-Brichard, Y.**, Rima, S., Durand, J.-B., Cottereau, B.R. (2017, August). Stereomotion processing in the non-human primate brain. *European Conference on Visual Perception, Berlin, Germany*. -->
+* **Héjja-Brichard, Y.**, Rima, S., Durand, J.-B., Cottereau, B.R. (2017, August). Stereomotion processing in the non-human primate brain. *European Conference on Visual Perception, Berlin, Germany*.
 
 <!--* **Héjja-Brichard, Y.**, Rima, S., Trotter, Y., Banks, M.S., Durand, J.-B., Cottereau, B.R. (2015, December). Adaptation to the 3D properties of the environment in non-human primates. *GDR Vision annual forum, Grenoble, France*. -->
 
@@ -36,5 +36,6 @@ title: "Academic curriculum"
 
 * Article (March 2017, in French) about the evolution of 3D vision in animals, written for Muséum Toulouse (Museum of Natural sciences) - *Yseult Héjja-Brichard & Benoit R. Cottereau "Evolution et vision : le vivant a de la profondeur !" ([here](http://www.museum.toulouse.fr/-/evolution-et-vision-le-vivant-a-de-la-profondeur-))*
 
-* Member of [InCOGnu](http://incognu.fr/), an organisation of students and young researchers in cognitive science in Toulouse area, France. We organise monthly conferences, workshops for the general audience (adults and children) and take part in various events of science popularisation (Pint of Science, Brain Awareness Week, National Forum of cognitive science, ...). 
+* Member of [InCOGnu](http://incognu.fr/), an organisation of students and young researchers in cognitive science in Toulouse area, France. We organise monthly conferences, workshops for the general audience (adults and children) and take part in various events of science popularisation (Pint of Science, Brain Awareness Week, National Forum of cognitive science, ...). </br> 
+More precisely, I am involved in communicating about the events and am a member of the board, thus taking part in decision making and project proposal submission, and inviting speakers.
 
