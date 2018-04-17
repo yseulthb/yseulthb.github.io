@@ -5,7 +5,7 @@ title: "Resume"
 
 <!-- Available here: <a href="/pdf/cvacademic.pdf" target="_blank"><b>CV</b></a> -->
 
-A more pdf version of this CV can be found here: <a href="/pdf/cvacademic.pdf" target="_blank"><b>CV</b></a>
+A more pdf version of this CV can be found here: <a href="/pdf/cvacademic.pdf" target="_blank"><b>CV</b></a> <br />
 Last CV update: 16/04/2018
 
 ### Doctoral research
@@ -25,7 +25,7 @@ Bsc Biology - Practical and lab works, tutorial classes in:
    - Behavioural ecology (mating behaviour in the guppy fish, ideal free distribution)<br />
    - Behavioural neuroscience (pain, stress)<br />
    - Nervous and cerebral functions (vision, cortical functions, electrophysiological techniques)<br />
-   - Neurophysiology (vestibular system)-->
+   - Neurophysiology (vestibular system)
 
 * 2015-2016: **Volunteering teacher**, NGO “[Croissant Fertile](http://www.croissantfertile.fr/)”, Toulouse, France<br />
 Teaching French as a foreign language (FLE) to voluntary adults-->
