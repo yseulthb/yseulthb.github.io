@@ -27,27 +27,27 @@ Bsc Biology - Practical and lab works, tutorial classes in:
    - Neurophysiology (vestibular system)
 
 * 2015-2016: **Volunteering teacher**, NGO “[Croissant Fertile](http://www.croissantfertile.fr/)”, Toulouse, France<br />
-Teaching French as a foreign language (FLE) to voluntary adults
+Teaching French as a foreign language (FLE) to adults
 
 * Co-supervision of a Master's student <br />
 Msc in Neuroscience, University of Bordeaux, 2017-2018
 
-* 2011 (June-October): Tutor and Student Mentor for first-year students in Psychology, *University of Grenoble, France*<br />
-Student Mentor (several weeks): Guiding the new students to find their way on the campus, helping them to get integrated
+* 2011 (June-October): Tutor and Student Mentor for first-year students in Psychology, University of Grenoble, France <br />
+Student Mentor (several weeks): Guiding the new students to find their way on the campus, helping them to get integrated <br />
 Student Tutor (a few hours): Helping students to get ready for their exams
 
 ### Community Involvment
-* At the lab level: Student representative at the Lab Council; Organisation of the students' Winter School
+* At the lab level: Student representative at the Lab Council; Organisation of the students' Winter School; Co-organisation of the Annual Lab Meeting Day
 * At the scientific community level: Ambassador for the Center for Open Science
 
 ### Education
 * 2015-Present: PhD student in Cognitive neuroscience, Université Paul Sabatier, Toulouse, France<br /> 
 
-* 2015: Msc in Neuroscience, Cognition, and Behaviour – Université Paul Sabatier, Toulouse, France
+* 2015: Msc in Neuroscience, Cognition, and Behaviour – Université Paul Sabatier, Toulouse, France <br />
 Attended courses: Cognition, spatial cognition, sensory systems, neuroethology, collective behaviour, behavioural ecology, applied statistics
 
-* 2014: Msc in Cognitive Psychology – Université de Grenoble, France
-Attended courses: Visual cognition, memory, neurology and neuropsychology,psycholinguistics, movement planning and control, applied statistics
+* 2014: Msc in Cognitive Psychology – Université de Grenoble, France <br />
+Attended courses: Visual cognition, memory, neurology and neuropsychology, psycholinguistics, movement planning and control, applied statistics
 
 * 2013: Bsc in Psychology – Université de Grenoble, France & Universität Leipzig, Germany
 
@@ -66,12 +66,12 @@ Clinical interviews and cognitive assessments of patients with movement disorder
 Under the supervision of Eugénie Lhommée, Neuropsychologist at the Hospital of Grenoble
 
 * 2013 (April-July): Research assistant, [MPI for Human Cognitive and Brain Sciences](https://www.cbs.mpg.de/), Leipzig, Germany<br />
-Department of social neuroscience - In charge of the coding of chimpanzees' vocalisations + statistical analysis. <br />
+Department of social neuroscience - In charge of the coding of chimpanzees' vocalisations and statistical analysis. <br />
 Under the supervision of Natacha Mendès, now scientific assistant at the MPI CBS
 
 
 ## Additional skills
 
 * Computing skills: Matlab, SPM12, R programming, EventIDE and E-Prime (stimulus presentation software), LaTeX, Photoshop, Adobe Illustrator, SPSS, Avisoft
-* Project management: Organising lab events, such as the Lab day or the annual lab winter school
-* Languages: French (native), English (Toefl iBT: 104/120), German (very good command in speaking, level B2), Spanish (good command in speaking, level B1)
+* Project management: Organising lab events, such as the Lab day or the annual lab winter school; Organising and communicating about an event of science popularisation
+* Languages: French (native), English (Toefl iBT: 104/120), German (good command in speaking, level B2), Spanish (good command in speaking, level B1)
