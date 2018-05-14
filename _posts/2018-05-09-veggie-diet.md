@@ -33,6 +33,9 @@ The risk of a deficiency in iodine are plurals: a delay in body growth, mental d
       (Wikipedia article on iodine)"
 
 - <strong> B12 </strong>
+Mostly found in animal products as animals have been supplemented with B12 in their food. The b12 vitamin plays the role in the metabolism of every single cell in the human body, and is involved in the nervous system proper functionning.
+A lack in b12 vitamin can lead to a condition called pernicious anemia in which you start feeling tired due to the lack of blood cells in your body. The symptoms also include shortening of breath, pale skin, numbness of your arms and legs (linked to nerve damage), sometimes depression.
+More severe symptoms may come after several years of b12 deficiency and symptoms become worse over time with long-lasting damages.
 
 
 
@@ -41,4 +44,8 @@ The risk of a deficiency in iodine are plurals: a delay in body growth, mental d
 link: https://www.thelancet.com/journals/lancet/article/PIIS0140673608610053/abstract?code=lancet-site
 
 - salt homeostasis: http://healthyeating.sfgate.com/importance-water-salt-body-homeostasis-10409.html ; https://link.springer.com/chapter/10.1007/978-94-009-0449-1_1
+
+- pernicious anemia: https://www.nhlbi.nih.gov/health-topics/pernicious-anemia#Signs,-Symptoms,-and-Complications ; in French: http://www.vitamine-b12.net/symptomes-carence-vitamine-b12/
+- b12 availability: Watanabe F.(2007). Vitamin B12 sources and bioavailability.  *Experimental Biology and Medicine 232(10)*:1266-1274. 
+link: http://journals.sagepub.com/doi/abs/10.3181/0703-MR-67?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed
 
