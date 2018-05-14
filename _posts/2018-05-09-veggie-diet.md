@@ -5,7 +5,7 @@ published: false
 mathjax: true
 ---
 
-A couple of things to know when following a plant-based diet.
+A couple of random facts to know when following a plant-based diet.
 
 I didn't think about doing a post on that specific topic till I discussed with some friends recently.
 It appeared that we do not actually know much about nutrition.
@@ -18,3 +18,9 @@ This is because proteins from plants lack two molecules at the end of their amin
 The coffein will prevent your body from absorbing some nutriens such as iron
 - After sport, add some salt to your water <br>
 The salt will favour your body homeostasis
+- Supply yourself in iodine
+Mostly found in sea animals, cheese, and eggs, iodine plays a huge role in thyroid regulation, being a component of thyroid hormones (this information always reminds me of those iodine tabs you get when there is a nuclear hazard) 
+
+"The European Food Safety Authority (EFSA) refers to the collective set of information as Dietary Reference Values, with Population Reference Intake (PRI) instead of RDA, and Average Requirement instead of EAR. AI and UL defined the same as in United States. For women and men ages 18 and older the PRI is set at 150 μg/day. PRI for pregnancy or lactation 200 μg/day. For children ages 1–17 years the PRIs increase with age from 90 to 130 μg/day. (Wikipedia) "
+
+-B12
