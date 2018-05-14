@@ -15,7 +15,7 @@ Getting more and more interested into basic nutrition, here are some facts that 
 
 - <strong> Plant proteins are more easily absorbed if you combine them with cereals </strong> <br>
 This is because proteins from plants lack two molecules at the end of their amino acid chain (which is what a protein is made of). The intake of cereals helps the body to absorb the plant proteins 
-*- <strong> Avoid having tea or coffee after a meal </strong> <br>
+- * <strong> Avoid having tea or coffee after a meal </strong> <br>
 Even though caffein is of great help for digestion and for keeping you alert, it also has side effects
 The caffein will slow down your body ability to absorb minerals such as iron, magnesium, zinc or calcium.*
 - <strong> After sport, add some salt to your water </strong> <br>
