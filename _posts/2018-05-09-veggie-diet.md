@@ -33,14 +33,18 @@ The risk of a deficiency in iodine are plurals: a delay in body growth, mental d
       (Wikipedia article on iodine)"
 
 - <strong> B12 </strong>
-Mostly found in animal products as animals have been supplemented with B12 in their food. The b12 vitamin plays the role in the metabolism of every single cell in the human body, and is involved in the nervous system proper functionning.
-A lack in b12 vitamin can lead to a condition called pernicious anemia in which you start feeling tired due to the lack of blood cells in your body. The symptoms also include shortening of breath, pale skin, numbness of your arms and legs (linked to nerve damage), sometimes depression.
-More severe symptoms may come after several years of b12 deficiency and symptoms become worse over time with long-lasting damages.
+Mostly found in animal products as animals have been supplemented with B12 in their food. The b12 vitamin plays a role in the metabolism of every single cell in the human body, and is also involved in the nervous system proper functionning.
+A lack in b12 vitamin can lead to a condition called pernicious anemia in which you start feeling tired due to the lack of blood cells in your body (basic anemia). More severe symptoms may come after several years of b12 deficiency and symptoms become worse over time with long-lasting damages.
+Some of the various symptoms that are more typical of a b12 anemia include neurological problems (numbness, dizziness, memory problems, difficulty to concentrate), as well as gastro-intestinal dysfunctionning (bowel mobility is altered and so is digestion, inflammatory reactions can occur). As b12 vitamin is also involved in the proper functionning of hormones and neurotransmitters, a lack of b12 can have psychological effects (irritability, mood disorders, sleeping issues, depression, among other psychological disorders).
+It is extremely important to be aware of those different symptoms as they can easily be taken for another trouble.
+A very easy way to prevent such an anemia is to take food supplement or fortified food. It seems that a daily dosis of 100 microgramms is more easily absorbed by the body than a weekly dosis. 
+Different b12 molecules are available: Methylcobalamin, Hydroxycobalamin, Adenosylcobalamin, and Cyanocobalamin. 
+It seems that the methylcobalamin is the one to prefer (find the ref)
 
 
 
 <strong> References </strong>:
-- iodine: Zimmermann MB, Jooste PL, and Pandav CS (2008). Iodine-deficiency disorders, *Lancet;372*:1251-1262
+- iodine: Zimmermann MB, Jooste PL, and Pandav CS (2008). Iodine-deficiency disorders, *Lancet 372*:1251-1262
 link: https://www.thelancet.com/journals/lancet/article/PIIS0140673608610053/abstract?code=lancet-site
 
 - salt homeostasis: http://healthyeating.sfgate.com/importance-water-salt-body-homeostasis-10409.html ; https://link.springer.com/chapter/10.1007/978-94-009-0449-1_1
