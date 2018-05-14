@@ -7,12 +7,13 @@ mathjax: true
 
 A couple of random facts to know when following a plant-based diet.
 
-I didn't think about doing a post on that specific topic till I discussed with some friends recently.
+I didn't think about writing a post on that specific topic until recently while having a chat on a related topic with some friends.
 It appeared that we do not actually know much about nutrition.
 I think this is a very important topic, and especially when you follow a non meat-based diet as most nutritional advice are based on a diet that includes meat or fish intake.
 
-Getting more and more interested into basic nutrition, here are some facts that I find necesary to be aware of:
-- Plant proteins are more easily absorbed if you combine them with cereals <br>
+Getting more and more interested into basic nutrition, here are some facts that I find necesary to be aware of (you'll find references at the end of the post): 
+
+- <strong> Plant proteins are more easily absorbed if you combine them with cereals <strong> <br>
 This is because proteins from plants lack two molecules at the end of their amino acid chain (which is what a protein is made of). The intake of cereals helps the body to absorb the plant proteins 
 - Avoid having tea or coffee after a meal <br>
 The coffein will prevent your body from absorbing some nutriens such as iron
@@ -33,3 +34,5 @@ The risk of a deficiency in iodine are plurals: a delay in body growth, mental d
 References:
 - iodine: Zimmermann MB, Jooste PL, and Pandav CS (2008). Iodine-deficiency disorders, *Lancet;372*:1251-1262
 link: https://www.thelancet.com/journals/lancet/article/PIIS0140673608610053/abstract?code=lancet-site
+
+- salt homeostasis: http://healthyeating.sfgate.com/importance-water-salt-body-homeostasis-10409.html
