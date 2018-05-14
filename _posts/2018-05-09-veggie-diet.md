@@ -13,13 +13,13 @@ I think this is a very important topic, and especially when you follow a non mea
 
 Getting more and more interested into basic nutrition, here are some facts that I find necesary to be aware of (you'll find references at the end of the post): 
 
-- <strong> Plant proteins are more easily absorbed if you combine them with cereals <strong> <br>
+- <strong> Plant proteins are more easily absorbed if you combine them with cereals </strong> <br>
 This is because proteins from plants lack two molecules at the end of their amino acid chain (which is what a protein is made of). The intake of cereals helps the body to absorb the plant proteins 
-- Avoid having tea or coffee after a meal <br>
+- <strong> Avoid having tea or coffee after a meal </strong> <br>
 The coffein will prevent your body from absorbing some nutriens such as iron
-- After sport, add some salt to your water <br>
+- <strong> After sport, add some salt to your water </strong> <br>
 The salt will favour your body homeostasis
-- Consider supplying yourself in iodine <br>
+- <strong> Consider supplying yourself in iodine </strong> <br>
 Mostly found in sea animals and sea plants, and to a less extent in dairy products, iodine plays a huge role in thyroid regulation, being a component of thyroid hormones (this information always reminds me of those iodine tabs you get when there is a nuclear hazard). Nowadays, salt is also enriched in iodine, but not systematically. This measure has helped by lots to reduce the ocurance of iodine deficiency.
 Apparently it has been shown that soya might prevent the absorption of iodine at some levels. 
 
@@ -27,11 +27,11 @@ The risk of a deficiency in iodine are plurals: a delay in body growth, mental d
 
 "The European Food Safety Authority (EFSA) refers to the collective set of information as Dietary Reference Values, with Population Reference Intake (PRI) instead of RDA, and Average Requirement instead of EAR. AI and UL defined the same as in United States. For women and men ages 18 and older the PRI is set at 150 μg/day. PRI for pregnancy or lactation 200 μg/day. For children ages 1–17 years the PRIs increase with age from 90 to 130 μg/day. (Wikipedia) "
 
--B12
+- <strong> B12 </strong>
 
 
 
-References:
+<strong> References </strong>:
 - iodine: Zimmermann MB, Jooste PL, and Pandav CS (2008). Iodine-deficiency disorders, *Lancet;372*:1251-1262
 link: https://www.thelancet.com/journals/lancet/article/PIIS0140673608610053/abstract?code=lancet-site
 
