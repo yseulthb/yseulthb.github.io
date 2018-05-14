@@ -25,7 +25,8 @@ The salt will favour your body homeostasis
 Mostly found in sea animals and sea plants, and to a less extent in dairy products, iodine plays a huge role in thyroid regulation, being a component of thyroid hormones (this information always reminds me of those iodine tabs you get when there is a nuclear hazard). Nowadays, salt is also enriched in iodine, but not systematically. This measure has helped by lots to reduce the ocurance of iodine deficiency.
 Apparently it has been shown that soya might prevent the absorption of iodine at some levels. 
 The risk of a deficiency in iodine are plurals: a delay in body growth, mental disorders, an abnormally functionning thyroid (gloitre / enlargement of the thyroid), impacts on the fetus, congenital hypothyroidism (also called cretinism)
-"The European Food Safety Authority (EFSA) refers to the collective set of information as Dietary Reference Values, with Population Reference Intake (PRI) instead of RDA, and Average Requirement instead of EAR. AI and UL defined the same as in United States. For women and men ages 18 and older the PRI is set at 150 μg/day. PRI for pregnancy or lactation 200 μg/day. For children ages 1–17 years the PRIs increase with age from 90 to 130 μg/day. (Wikipedia) "
+  
+  "The European Food Safety Authority (EFSA) refers to the collective set of information as Dietary Reference Values, with Population     Reference Intake (PRI) instead of RDA, and Average Requirement instead of EAR. AI and UL defined the same as in United States. For women and men ages 18 and older the PRI is set at 150 μg/day. PRI for pregnancy or lactation 200 μg/day. For children ages 1–17 years the PRIs increase with age from 90 to 130 μg/day. (Wikipedia) "
 
 - <strong> B12 </strong>
 
