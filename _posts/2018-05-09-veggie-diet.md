@@ -15,8 +15,9 @@ Getting more and more interested into basic nutrition, here are some facts that 
 
 - <strong> Plant proteins are more easily absorbed if you combine them with cereals </strong> <br>
 This is because proteins from plants lack two molecules at the end of their amino acid chain (which is what a protein is made of). The intake of cereals helps the body to absorb the plant proteins 
-- <strong> Avoid having tea or coffee after a meal </strong> <br>
-The coffein will prevent your body from absorbing some nutriens such as iron
+*- <strong> Avoid having tea or coffee after a meal </strong> <br>
+Even though caffein is of great help for digestion and for keeping you alert, it also has side effects
+The caffein will slow down your body ability to absorb minerals such as iron, magnesium, zinc or calcium.*
 - <strong> After sport, add some salt to your water </strong> <br>
 The salt will favour your body homeostasis
 - <strong> Consider supplying yourself in iodine </strong> <br>
@@ -35,4 +36,5 @@ The risk of a deficiency in iodine are plurals: a delay in body growth, mental d
 - iodine: Zimmermann MB, Jooste PL, and Pandav CS (2008). Iodine-deficiency disorders, *Lancet;372*:1251-1262
 link: https://www.thelancet.com/journals/lancet/article/PIIS0140673608610053/abstract?code=lancet-site
 
-- salt homeostasis: http://healthyeating.sfgate.com/importance-water-salt-body-homeostasis-10409.html
+- salt homeostasis: http://healthyeating.sfgate.com/importance-water-salt-body-homeostasis-10409.html ; https://link.springer.com/chapter/10.1007/978-94-009-0449-1_1
+
