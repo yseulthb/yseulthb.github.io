@@ -18,7 +18,7 @@ This is because proteins from plants lack two molecules at the end of their amin
 The coffein will prevent your body from absorbing some nutriens such as iron
 - After sport, add some salt to your water <br>
 The salt will favour your body homeostasis
-- Supply yourself in iodine
+- Consider supplying yourself in iodine <br>
 Mostly found in sea animals and sea plants, and to a less extent in dairy products, iodine plays a huge role in thyroid regulation, being a component of thyroid hormones (this information always reminds me of those iodine tabs you get when there is a nuclear hazard). Nowadays, salt is also enriched in iodine, but not systematically. This measure has helped by lots to reduce the ocurance of iodine deficiency.
 Apparently it has been shown that soya might prevent the absorption of iodine at some levels. 
 
