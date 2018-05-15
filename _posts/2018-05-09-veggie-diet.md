@@ -13,12 +13,16 @@ I believe this is a very important topic, and especially when you follow a non m
 
 Getting more and more interested into basic nutrition, here are some facts that I find necesary to be aware of (you'll find references at the end of the post): 
 
-- <strong> Plant proteins are more easily absorbed if you combine them with cereals </strong> <br>
-This is because proteins from plants lack two molecules at the end of their amino acid chain (which is what a protein is made of). The intake of cereals helps the body to absorb the plant proteins 
+- <strong> Greatly vary your protein sources // Combine vegetables with cereals and/or legumes </strong> <br>
+Proteins are essential for your body as they serve different purposes (involved in tissue formation and growth, source of energy). 
+Whereas some people may think that animal proteins and plant proteins are identical, the reality is more complex. Proteins are composed of chains of amino acids and these chains of amino acids differ according to the type of protein. This is important to take it into consideration because some of those amino acids are essential and can only come through food consumption. 
+While animal proteins contain all those essential amino acids, plant proteins lack one or two of those essential amino acids in their chain. However, the good thing is that they do not all lack the same type of amino acids. Therefore, varying your diet with a great variety of vegetables, legumes, cereals, nuts and so on, will allow your body to get all the amino acids it needs. 
+
 -  *Avoid having tea or coffee after a meal // Limit your caffein intake to one cup of coffee per day <br>
 /!\ HIGHLY DEBATED FACT /!\
 Even though caffein is of great help for digestion and for keeping you alert, it also has side effects
 The caffein will slow down your body ability to absorb minerals such as iron, magnesium, zinc or calcium.*
+
 - <strong> After sport, add some salt to your water </strong> <br>
 The salt will favour your body homeostasis
 - <strong> Consider supplying yourself in iodine </strong> <br>
@@ -44,6 +48,8 @@ It seems that the methylcobalamin is the one to prefer (find the ref)
 
 
 <strong> References </strong>:
+- proteins: https://nutritionstudies.org/animal-vs-plant-protein/
+
 - iodine: Zimmermann MB, Jooste PL, and Pandav CS (2008). Iodine-deficiency disorders, *Lancet 372*:1251-1262
 link: https://www.thelancet.com/journals/lancet/article/PIIS0140673608610053/abstract?code=lancet-site
 
