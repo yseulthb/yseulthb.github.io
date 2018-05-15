@@ -35,7 +35,7 @@ Also good to know: Apparently it has been shown that soya might prevent the abso
       with Population Reference Intake (PRI), and Average Requirement. 
       For women and men ages 18 and older the PRI is set at 150 μg/day. 
       PRI for pregnancy or lactation 200 μg/day. For children ages 1–17 years the PRIs increase with age from 90 to 130 μg/day". 
-      ( [Wikipedia article on iodine](https://en.wikipedia.org/wiki/Iodine_in_biology#Dietary_recommendations) )
+      (Wikipedia article on iodine)
 
 - <strong> B12 vitamin </strong>
 Mostly found in animal products as animals have been supplemented with B12 in their food, B12 vitamin plays a role in the metabolism of every single cell in the human body, and is also involved in the nervous system proper functionning.
@@ -53,7 +53,8 @@ It seems that the methylcobalamin is the one to prefer (find the ref)
 - Proteins: https://nutritionstudies.org/animal-vs-plant-protein/
 
 - Iodine: Zimmermann MB, Jooste PL, and Pandav CS (2008). Iodine-deficiency disorders, *Lancet 372*:1251-1262
-link: https://www.thelancet.com/journals/lancet/article/PIIS0140673608610053/abstract?code=lancet-site
+link: https://www.thelancet.com/journals/lancet/article/PIIS0140673608610053/abstract?code=lancet-site ; 
+[Wikipedia article on iodine](https://en.wikipedia.org/wiki/Iodine_in_biology#Dietary_recommendations)
 
 - Salt homeostasis: http://healthyeating.sfgate.com/importance-water-salt-body-homeostasis-10409.html ; https://link.springer.com/chapter/10.1007/978-94-009-0449-1_1
 
