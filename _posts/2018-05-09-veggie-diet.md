@@ -18,13 +18,13 @@ Proteins are essential for your body as they serve different purposes (involved 
 Whereas some people may think that animal proteins and plant proteins are identical, the reality is more complex. Proteins are composed of chains of amino acids and these chains of amino acids differ according to the type of protein. This is important to take it into consideration because some of those amino acids are essential and can only come through food consumption. 
 While animal proteins contain all those essential amino acids, plant proteins lack one or two of those essential amino acids in their chain. However, the good thing is that they do not all lack the same type of amino acids. Therefore, varying your diet with a great variety of vegetables, legumes, cereals, nuts and so on, will allow your body to get all the amino acids it needs. 
 
--  *Avoid having tea or coffee after a meal // Limit your caffein intake to one cup of coffee per day <br>
-/!\ HIGHLY DEBATED FACT /!\
-Even though caffein is of great help for digestion and for keeping you alert, it also has side effects
-The caffein will slow down your body ability to absorb minerals such as iron, magnesium, zinc or calcium.*
+- <strong>Limit your caffein intake to one cup of coffee per day </strong> <br>
+Even though caffein is of great help for digestion and for keeping you alert, it also has side effects.
+The caffein will slow down your body ability to absorb minerals such as iron, magnesium, zinc or calcium.
 
 - <strong> After sport, add some salt to your water </strong> <br>
 The salt will favour your body homeostasis
+
 - <strong> Consider supplying yourself in iodine </strong> <br>
 Mostly found in sea animals and sea plants, and to a less extent in dairy products, iodine plays a huge role in thyroid regulation, being a component of thyroid hormones (this information always reminds me of those iodine tabs you get when there is a nuclear hazard). Nowadays, salt is also enriched in iodine, but not systematically. This measure has helped by lots to reduce the ocurance of iodine deficiency.
 Apparently it has been shown that soya might prevent the absorption of iodine at some levels. 
@@ -36,26 +36,28 @@ The risk of a deficiency in iodine are plurals: a delay in body growth, mental d
       PRI for pregnancy or lactation 200 μg/day. For children ages 1–17 years the PRIs increase with age from 90 to 130 μg/day. 
       (Wikipedia article on iodine)"
 
-- <strong> B12 </strong>
-Mostly found in animal products as animals have been supplemented with B12 in their food. The b12 vitamin plays a role in the metabolism of every single cell in the human body, and is also involved in the nervous system proper functionning.
-A lack in b12 vitamin can lead to a condition called pernicious anemia in which you start feeling tired due to the lack of blood cells in your body (basic anemia). More severe symptoms may come after several years of b12 deficiency and symptoms become worse over time with long-lasting damages.
-Some of the various symptoms that are more typical of a b12 anemia include neurological problems (numbness, dizziness, memory problems, difficulty to concentrate), as well as gastro-intestinal dysfunctionning (bowel mobility is altered and so is digestion, inflammatory reactions can occur). As b12 vitamin is also involved in the proper functionning of hormones and neurotransmitters, a lack of b12 can have psychological effects (irritability, mood disorders, sleeping issues, depression, among other psychological disorders).
+- <strong> B12 vitamin </strong>
+Mostly found in animal products as animals have been supplemented with B12 in their food, B12 vitamin plays a role in the metabolism of every single cell in the human body, and is also involved in the nervous system proper functionning.
+A lack of B12 vitamin can lead to a condition called pernicious anemia in which you start feeling tired due to the lack of blood cells in your body. More severe symptoms may come after several years of B12 deficiency and symptoms become worse over time with long-lasting damages.
+Some of the typical symptoms of a B12 anemia include neurological disorders (numbness, dizziness, memory problems, difficulty to concentrate), as well as gastro-intestinal dysfunctionning (bowel mobility is altered and so is digestion; inflammatory reactions can occur). As B12 vitamin is also involved in the proper functionning of hormones and neurotransmitters, a lack of B12 can have psychological effects (irritability, mood disorders, sleeping issues, depression, among other psychological disorders).
 It is extremely important to be aware of those different symptoms as they can easily be taken for another trouble.
-A very easy way to prevent such an anemia is to take food supplement or fortified food. It seems that a daily dosis of 100 microgramms is more easily absorbed by the body than a weekly dosis. 
-Different b12 molecules are available: Methylcobalamin, Hydroxycobalamin, Adenosylcobalamin, and Cyanocobalamin. 
+A very easy way to prevent such an anemia is to take food supplement or to eat fortified food. 
+As regard to the choice of food supplement frequency, it seems that a daily dosis of 100 microgramms is more easily absorbed by the body than a weekly dosis. 
+It is also good to know that different B12 molecules are available: Methylcobalamin, Hydroxycobalamin, Adenosylcobalamin, and Cyanocobalamin. 
 It seems that the methylcobalamin is the one to prefer (find the ref)
 
 
 
 <strong> References </strong>:
-- proteins: https://nutritionstudies.org/animal-vs-plant-protein/
+- Proteins: https://nutritionstudies.org/animal-vs-plant-protein/
 
-- iodine: Zimmermann MB, Jooste PL, and Pandav CS (2008). Iodine-deficiency disorders, *Lancet 372*:1251-1262
+- Iodine: Zimmermann MB, Jooste PL, and Pandav CS (2008). Iodine-deficiency disorders, *Lancet 372*:1251-1262
 link: https://www.thelancet.com/journals/lancet/article/PIIS0140673608610053/abstract?code=lancet-site
 
-- salt homeostasis: http://healthyeating.sfgate.com/importance-water-salt-body-homeostasis-10409.html ; https://link.springer.com/chapter/10.1007/978-94-009-0449-1_1
+- Salt homeostasis: http://healthyeating.sfgate.com/importance-water-salt-body-homeostasis-10409.html ; https://link.springer.com/chapter/10.1007/978-94-009-0449-1_1
 
-- pernicious anemia: https://www.nhlbi.nih.gov/health-topics/pernicious-anemia#Signs,-Symptoms,-and-Complications ; in French: http://www.vitamine-b12.net/symptomes-carence-vitamine-b12/
-- b12 availability: Watanabe F.(2007). Vitamin B12 sources and bioavailability.  *Experimental Biology and Medicine 232(10)*:1266-1274. 
+- Pernicious anemia: https://www.nhlbi.nih.gov/health-topics/pernicious-anemia#Signs,-Symptoms,-and-Complications ; in French: http://www.vitamine-b12.net/symptomes-carence-vitamine-b12/
+
+- B12 availability: Watanabe F.(2007). Vitamin B12 sources and bioavailability.  *Experimental Biology and Medicine 232(10)*:1266-1274. 
 link: http://journals.sagepub.com/doi/abs/10.3181/0703-MR-67?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed
 
