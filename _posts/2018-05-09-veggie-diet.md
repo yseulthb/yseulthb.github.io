@@ -27,16 +27,9 @@ The salt will favour your body homeostasis
 
 - <strong> Consider supplying yourself in iodine </strong> <br>
 Mostly found in sea animals and sea plants, and to a less extent in dairy products, iodine plays a huge role in thyroid regulation, being a component of thyroid hormones (this information always reminds me of those iodine tabs you get when there is a nuclear hazard). Nowadays, salt is also enriched in iodine, but not systematically. This measure has helped by lots to reduce the ocurance of iodine deficiency. <br>
-The risk of a deficiency in iodine are plurals: a delay in body growth, mental disorders, an abnormally functionning thyroid (gloitre / enlargement of the thyroid), impacts on the fetus, congenital hypothyroidism (also called cretinism)
-
-Also good to know: Apparently it has been shown that soya might prevent the absorption of iodine at some levels. 
+The risk of a deficiency in iodine are plurals: a delay in body growth, mental disorders, an abnormally functionning thyroid (gloitre / enlargement of the thyroid), impacts on the fetus, congenital hypothyroidism (also called cretinism). <br>
+Also good to know: Apparently it has been shown that soya might prevent the absorption of iodine at some levels. (REF)
   
-      "The European Food Safety Authority (EFSA) refers to the collective set of information as Dietary Reference Values, 
-      with Population Reference Intake (PRI), and Average Requirement. 
-      For women and men ages 18 and older the PRI is set at 150 μg/day. 
-      PRI for pregnancy or lactation 200 μg/day. For children ages 1–17 years the PRIs increase with age from 90 to 130 μg/day". 
-      (Wikipedia article on iodine)
-
 - <strong> B12 vitamin </strong>
 Mostly found in animal products as animals have been supplemented with B12 in their food, B12 vitamin plays a role in the metabolism of every single cell in the human body, and is also involved in the nervous system proper functionning.
 A lack of B12 vitamin can lead to a condition called pernicious anemia in which you start feeling tired due to the lack of blood cells in your body. More severe symptoms may come after several years of B12 deficiency and symptoms become worse over time with long-lasting damages. <br>
@@ -44,7 +37,7 @@ Some of the typical symptoms of a B12 anemia include neurological disorders (num
 It is extremely important to be aware of those different symptoms as they can easily be taken for another trouble.
 A very easy way to prevent such an anemia is to take food supplement or to eat fortified food. <br>
 As regard to the choice of food supplement frequency, it seems that a daily dosis of 100 microgramms is more easily absorbed by the body than a weekly dosis. <br>
-It is also good to know that different B12 molecules are available: Methylcobalamin, Hydroxycobalamin, Adenosylcobalamin, and Cyanocobalamin. <br>
+It is also good to know that different B12 molecules are available: Methylcobalamin (natural), Hydroxycobalamin (natural), Adenosylcobalamin (natural), and Cyanocobalamin (synthetical), and they are not all absorbed the sme way by the body. <br>
 It seems that the methylcobalamin is the one to prefer (find the ref)
 
 
@@ -54,12 +47,12 @@ It seems that the methylcobalamin is the one to prefer (find the ref)
 
 - Iodine: Zimmermann MB, Jooste PL, and Pandav CS (2008). Iodine-deficiency disorders, *Lancet 372*:1251-1262 <br>
 link: https://www.thelancet.com/journals/lancet/article/PIIS0140673608610053/abstract?code=lancet-site ; <br>
-[Wikipedia article on iodine](https://en.wikipedia.org/wiki/Iodine_in_biology#Dietary_recommendations)
+Iodine requirement (EU recommendation): https://www.efsa.europa.eu/sites/default/files/assets/DRV_Summary_tables_jan_17.pdf
 
 - Salt homeostasis: http://healthyeating.sfgate.com/importance-water-salt-body-homeostasis-10409.html ; <br> https://link.springer.com/chapter/10.1007/978-94-009-0449-1_1
 
 - Pernicious anemia: https://www.nhlbi.nih.gov/health-topics/pernicious-anemia#Signs,-Symptoms,-and-Complications ; <br> in French: http://www.vitamine-b12.net/symptomes-carence-vitamine-b12/
 
 - B12 availability: Watanabe F.(2007). Vitamin B12 sources and bioavailability.  *Experimental Biology and Medicine 232(10)*:1266-1274. <br>
-link: http://journals.sagepub.com/doi/abs/10.3181/0703-MR-67?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed
-
+link: http://journals.sagepub.com/doi/abs/10.3181/0703-MR-67?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed ; <br>
+About the different types of B12: https://www.nature.com/articles/ejcn2014165?foxtrotcallback=true
