@@ -35,7 +35,7 @@ Also good to know: Apparently it has been shown that soya might prevent the abso
       with Population Reference Intake (PRI), and Average Requirement. 
       For women and men ages 18 and older the PRI is set at 150 μg/day. 
       PRI for pregnancy or lactation 200 μg/day. For children ages 1–17 years the PRIs increase with age from 90 to 130 μg/day". 
-      ((Wikipedia article on iodine)(https://en.wikipedia.org/wiki/Iodine_in_biology#Dietary_recommendations) )
+      ((Wikipedia article on iodine)[https://en.wikipedia.org/wiki/Iodine_in_biology#Dietary_recommendations] )
 
 - <strong> B12 vitamin </strong>
 Mostly found in animal products as animals have been supplemented with B12 in their food, B12 vitamin plays a role in the metabolism of every single cell in the human body, and is also involved in the nervous system proper functionning.
