@@ -21,6 +21,7 @@ While animal proteins contain all those essential amino acids, plant proteins la
 - <strong>Limit your caffein intake to one cup of coffee per day </strong> <br>
 Even though caffein is of great help for digestion and for keeping you alert, it also has side effects.
 The caffein will slow down your body ability to absorb minerals such as iron, magnesium, zinc or calcium.
+(NB: talking about coffee, if you prefer decaf I strongly suggest that you check how caffein has been removed: prefer the brands that do not use nasty cleaning solvent ;) )
 
 - <strong> After sport, add some salt to your water </strong> <br>
 The salt will favour your body homeostasis
