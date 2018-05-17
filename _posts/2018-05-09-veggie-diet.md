@@ -27,7 +27,7 @@ The caffein will slow down your body ability to absorb minerals such as iron, ma
 The salt will favour your body homeostasis
 
 - <strong> Consider supplying yourself in iodine </strong> <br>
-Mostly found in sea animals and sea plants, and to a less extent in dairy products, iodine plays a huge role in thyroid regulation, being a component of thyroid hormones (this information always reminds me of those iodine tabs you get when there is a nuclear hazard). Nowadays, salt is also enriched in iodine, but not systematically. This measure has helped by lots to reduce the ocurance of iodine deficiency. <br>
+Mostly found in sea animals and sea plants, and to a less extent in dairy products, iodine plays a huge role in thyroid regulation, being a component of thyroid hormones (remember those iodine tabs you get when there is a nuclear accident ?). Nowadays, table salt is also enriched in iodine, but not systematically and not everywhere. This measure has helped by lots to reduce the ocurance of iodine deficiency. <br>
 The risk of a deficiency in iodine are plurals: a delay in body growth, mental disorders, an abnormally functionning thyroid (gloitre / enlargement of the thyroid), impacts on the fetus, congenital hypothyroidism (also called cretinism). <br>
 Also good to know: Apparently it has been shown that soya might prevent the absorption of iodine at some levels. (REF)
   
