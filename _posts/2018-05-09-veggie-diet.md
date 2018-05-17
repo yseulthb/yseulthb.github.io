@@ -24,7 +24,7 @@ The caffein will slow down your body ability to absorb minerals such as iron, ma
 (NB: talking about coffee, if you prefer decaf I strongly suggest that you check how caffein has been removed: prefer the brands that do not use nasty cleaning solvent ;) )
 
 - <strong> After sport, add some salt to your water </strong> <br>
-The salt will favour your body homeostasis
+The salt will favour your body homeostasis. Salt helps regulate the concentration of our body fluids. When you do exercise, you sweat, sometimes a lot, and your body fluids get imbalanced. Drinking water with salt (about 30min after sport time) will help your body compensate for this fluid loss. 
 
 - <strong> Consider supplying yourself in iodine </strong> <br>
 Mostly found in sea animals and sea plants, and to a less extent in dairy products, iodine plays a huge role in thyroid regulation, being a component of thyroid hormones (remember those iodine tabs you get when there is a nuclear accident ?). Nowadays, table salt is also enriched in iodine, but not systematically and not everywhere. This measure has helped by lots to reduce the ocurance of iodine deficiency. <br>
