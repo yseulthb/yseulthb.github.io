@@ -5,7 +5,7 @@ published: false
 mathjax: true
 ---
 
-<strong> A couple of random facts to know when following a plant-based diet. </strong> (most advice also work for other diets)
+<strong> A couple of random facts to know when following a plant-based diet. </strong> (also suitable for other diets)
 
 Writing a post on that specific topic came to my mind only recently while having a chat on a related topic with some friends.
 It appeared that we do not actually know much about nutrition.
