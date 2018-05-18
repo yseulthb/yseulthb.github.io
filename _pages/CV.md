@@ -9,7 +9,7 @@ A pdf version of this CV can be found here: <a href="/pdf/cvacademic.pdf" target
 
 ### Doctoral research
 * 2015-Present: **PhD studies in Cognitive neuroscience**, Université Paul Sabatier and [CerCo](http://www.cerco.ups-tlse.fr/3D-space-and-context-ECO-3D?lang=fr) (CNRS), Toulouse, France. Supervisor: Benoit Cottereau, CNRS researcher. <br />
-Title of the thesis: Adaptation to the 3D properties of the visual environment in primate.<br />
+Title of the thesis: Adaptation to the 3D properties of the visual environment in primates.<br />
 
 Brief synopsis:<br />
 The main purpose of this project is to provide a better understanding of how the visual system in primates adapts to the 3D properties of our environment. The relation between the 3D properties of natural scenes and cortical responses to those properties are investigated at a macroscopic level by conducting functional neuroimaging studies. I am also conducting psychophysics studies to have an insight into the link between visual perception, natural statistics and brain activity.
@@ -30,23 +30,23 @@ Bsc Biology - Practical and lab works, tutorial classes in:
 Teaching French as a foreign language (FLE) to adults
 
 * Co-supervision of a Master's student <br />
-Msc in Neuroscience, University of Bordeaux, 2017-2018
+MSc in Neuroscience, University of Bordeaux, 2017-2018
 
 * 2011 (June-October): Tutor and Student Mentor for first-year students in Psychology, University of Grenoble, France <br />
 Student Mentor (several weeks): Guiding the new students to find their way on the campus, helping them to get integrated <br />
 Student Tutor (a few hours): Helping students to get ready for their exams
 
-### Community Involvment
+### Community Involvement
 * At the lab level: Student representative at the Lab Council; Organisation of the students' Winter School; Co-organisation of the Annual Lab Meeting Day
 * At the scientific community level: Ambassador for the Center for Open Science
 
 ### Education
 * 2015-Present: PhD student in Cognitive neuroscience, Université Paul Sabatier, Toulouse, France<br /> 
 
-* 2015: Msc in Neuroscience, Cognition, and Behaviour – Université Paul Sabatier, Toulouse, France <br />
+* 2015: MSc in Neuroscience, Cognition, and Behaviour – Université Paul Sabatier, Toulouse, France <br />
 Attended courses: Cognition, spatial cognition, sensory systems, neuroethology, collective behaviour, behavioural ecology, applied statistics
 
-* 2014: Msc in Cognitive Psychology – Université de Grenoble, France <br />
+* 2014: MSc in Cognitive Psychology – Université de Grenoble, France <br />
 Attended courses: Visual cognition, memory, neurology and neuropsychology, psycholinguistics, movement planning and control, applied statistics
 
 * 2013: Bsc in Psychology – Université de Grenoble, France & Universität Leipzig, Germany
@@ -67,7 +67,7 @@ Under the supervision of Eugénie Lhommée, Neuropsychologist at the Hospital of
 
 * 2013 (April-July): Research assistant, [MPI for Human Cognitive and Brain Sciences](https://www.cbs.mpg.de/), Leipzig, Germany<br />
 Department of social neuroscience - In charge of the coding of chimpanzees' vocalisations and statistical analysis. <br />
-Under the supervision of Natacha Mendès, now scientific assistant at the MPI CBS
+Under the supervision of Natacha Mendès, now a scientific assistant at the MPI CBS
 
 
 ## Additional skills
