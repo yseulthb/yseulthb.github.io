@@ -32,7 +32,7 @@ Mostly found in sea animals and sea plants, and to a less extent in dairy produc
 The risk of a deficiency in iodine are plurals: a delay in body growth, mental disorders, an abnormally functioning thyroid (goitre/enlargement of the thyroid), impacts on the fetus, congenital hypothyroidism. <br>
 Also good to know: Apparently it has been shown that soy might prevent the absorption of iodine at some levels. (REF)
   
-- <strong> B12 vitamin </strong>
+- <strong> B12 vitamin </strong><br>
 Mostly found in animal products as animals have been supplemented with B12 in their food, B12 vitamin plays a role in the metabolism of every single cell in the human body, and is also involved in the nervous system proper functioning.
 A lack of B12 vitamin can lead to a condition called pernicious anaemia in which you start feeling tired due to the lack of blood cells in your body. More severe symptoms may come after several years of B12 deficiency and symptoms become worse over time with long-lasting damages. <br>
 Some of the typical symptoms of a B12 anaemia include neurological disorders (numbness, dizziness, memory problems, difficulty to concentrate), as well as gastro-intestinal dysfunctioning (bowel mobility is altered and so is digestion; inflammatory reactions can occur). As B12 vitamin is also involved in the proper functioning of hormones and neurotransmitters, a lack of B12 can have psychological effects (irritability, mood disorders, sleep issues, depression, among other psychological disorders).
