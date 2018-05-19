@@ -17,30 +17,31 @@ Getting more and more interested in basic nutrition, here are some facts that I 
 ### Greatly vary your protein sources // Combine vegetables with cereals and/or legumes <br>
 Proteins are essential for your body as they serve different purposes (involved in tissue formation and growth, also a source of energy). 
 Whereas some people may think that animal proteins and plant proteins are identical, the reality is more complex. Proteins are composed of chains of amino acids and these chains of amino acids differ according to the type of protein. This is important to take it into consideration because some of those amino acids are essential for our body and only come through food consumption. 
-While animal proteins contain all those essential amino acids, plant proteins lack one or two of those essential amino acids in their chain. However, the good thing is that they do not all lack the same type of amino acids. Therefore, varying your diet with a great variety of vegetables, legumes, cereals, nuts and so on, will allow your body to get all the amino acids it needs. 
+While animal proteins contain all those essential amino acids, plant proteins lack one or two of those in their chain. However, the good thing is that they do not all lack the same types of amino acids. Therefore, varying your diet with a great variety of vegetables, legumes, cereals, nuts and so on, will allow your body to get all the amino acids it needs. 
 
 ### Limit your caffeine intake to one cup of coffee per day <br>
 Even though caffeine is of great help for digestion and for keeping you alert, it also has side effects.
 The caffeine will slow down your body ability to absorb minerals such as iron, magnesium, zinc or calcium. <br>
+-- to be completed
 (NB: talking about coffee, if you prefer decaf I strongly suggest that you check how caffeine has been removed: prefer the brands that do not use nasty cleaning solvent ;) )
 
-### After intense sport, allow you to sip salty water <br>
+### After intense sport, allow you a sip of salty water <br>
 Salt works for your body homeostasis (i.e. its autoregulation). It helps regulate the concentration of our body fluids and is also involved in muscle and nerve function. When you exercise, you sweat and thus lose salt, sometimes a lot, and your body fluids get imbalanced. Drinking salty water will easily help your body compensate for this fluid loss and will reduce the risk of having cramps due to your body dehydration. <br>
 Obviously, you should be aware that too much salt is bad for your health as it increases the risk of developing cardiovascular diseases.
 
 ### Consider supplying yourself in iodine <br>
-Mostly found in sea animals and sea plants, and to a less extent in dairy products, iodine plays a huge role in thyroid regulation, being a component of thyroid hormones (remember those iodine tabs you get when there is a nuclear accident ?). Nowadays, table salt is also enriched in iodine, but not systematically and not everywhere. This measure has helped by lots to reduce the occurrence of iodine deficiency. <br>
+Mostly found in sea animals and sea plants, and to a less extent in dairy products, iodine plays a huge role in thyroid regulation, being a component of thyroid hormones (remember those iodine tabs you get when there is a nuclear accident ?). Nowadays, table salt is usually enriched in iodine, but not systematically and not everywhere. This measure has helped by lots to reduce the occurrence of iodine deficiency. <br>
 The risk of a deficiency in iodine are plurals: a delay in body growth, mental disorders, an abnormally functioning thyroid (goitre/enlargement of the thyroid), impacts on the fetus, congenital hypothyroidism. <br>
-Also good to know: Apparently it has been shown that soy might prevent the absorption of iodine at some levels. (REF)
+-- Also good to know: Apparently it has been shown that soy might prevent the absorption of iodine at some levels. (REF)
   
 ### B12 vitamin <br>
-Mostly found in animal products as animals have been supplemented with B12 in their food, B12 vitamin plays a role in the metabolism of every single cell in the human body, and is also involved in the nervous system proper functioning.
+Mostly found in animal products as farm animals have been supplemented with B12 in their food, B12 vitamin plays a role in the metabolism of every single cell in the human body, and is also involved in the nervous system proper functioning.
 A lack of B12 vitamin can lead to a condition called pernicious anaemia in which you start feeling tired due to the lack of blood cells in your body. More severe symptoms may come after several years of B12 deficiency and symptoms become worse over time with long-lasting damages. <br>
 Some of the typical symptoms of a B12 anaemia include neurological disorders (numbness, dizziness, memory problems, difficulty to concentrate), as well as gastro-intestinal dysfunctioning (bowel mobility is altered and so is digestion; inflammatory reactions can occur). As B12 vitamin is also involved in the proper functioning of hormones and neurotransmitters, a lack of B12 can have psychological effects (irritability, mood disorders, sleep issues, depression, among other psychological disorders).
 It is extremely important to be aware of those different symptoms as they can easily be taken for another trouble.
 A very easy way to prevent such an anaemia is to take food supplement or to eat fortified food. <br>
-As regard to the choice of food supplement frequency, it seems that a daily dose of 100 micrograms is more easily absorbed by the body than a weekly dose. <br>
-It is also good to know that different B12 molecules are available: Methylcobalamin (natural), Hydroxycobalamin (natural), Adenosylcobalamin (natural), and Cyanocobalamin (synthetical), and they are not all absorbed the same way by the body. <br>
+As regard to the choice of food supplement frequency, it seems that a daily dose of 100 micrograms is more easily absorbed by the body than a higher weekly dose. <br>
+It is also good to know that different B12 molecules are available: Methylcobalamin (natural), Hydroxycobalamin (natural), Adenosylcobalamin (natural), and Cyanocobalamin (mostly synthetical), as they are not all absorbed the same way by the body.
 It seems that the methylcobalamin is the one to prefer.
 
 
