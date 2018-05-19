@@ -41,7 +41,7 @@ It is extremely important to be aware of those different symptoms as they can ea
 A very easy way to prevent such an anaemia is to take food supplement or to eat fortified food. <br>
 As regard to the choice of food supplement frequency, it seems that a daily dose of 100 micrograms is more easily absorbed by the body than a weekly dose. <br>
 It is also good to know that different B12 molecules are available: Methylcobalamin (natural), Hydroxycobalamin (natural), Adenosylcobalamin (natural), and Cyanocobalamin (synthetical), and they are not all absorbed the same way by the body. <br>
-It seems that the methylcobalamin is the one to prefer (find the ref)
+It seems that the methylcobalamin is the one to prefer.
 
 
 
