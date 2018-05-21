@@ -2,13 +2,7 @@
 layout: splash
 permalink: /
 header:
-  overlay_color: "#5e616c"
-  overlay_image: /assets/images/header.jpg
-
-  caption:
-excerpt: 'Food for thought about science, ethics, agroecology, and more.'   
-  
-
+  image: /assets/images/header.jpg
 ---
 
 
