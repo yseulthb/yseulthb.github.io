@@ -1,4 +1,5 @@
 ---
+layout: single
 permalink: /CV/
 title: "Resume"
 ---
