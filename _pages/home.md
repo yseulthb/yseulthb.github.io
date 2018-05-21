@@ -8,7 +8,8 @@ header:
 
 
   caption:
-excerpt: 'Food for thought about science, ethics, agroecology, and more.<br /> <small> {::nomarkdown}<iframe style="display: inline-block;" {:/nomarkdown}'
+excerpt: 'Food for thought about science, ethics, agroecology, and more.'   
+  
 
 ---
 
