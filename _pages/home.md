@@ -1,9 +1,9 @@
 ---
-layout: splash
+layout: single
 permalink: /
-author_profile: false
 header:
   image: /assets/images/header.jpg
 ---
 
 
+Welcome!
