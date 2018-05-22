@@ -8,16 +8,12 @@ mathjax: true
 ### A couple of random facts to know when following a plant-based diet. 
 (also suitable for any other diet)
 
-<-- Writing a post on this topic came to my mind only recently while having a chat with some friends on a related topic.
-It appeared that we do not actually know much about nutrition.
-I believe this is a very important topic, especially when you follow a non-meat-based diet as most nutritional advice is based on a diet that includes meat or fish, as the way you feed yourself has clear health implications. --!>
-
-As a vegetarian, I am often confronted to random questions about my 'non-traditionnal' diet such as "where do you get your proteins from?" or "are you not afraid of lacking any important nutrient?" or "and what do you eat then? grains and seeds?". <br>
-Well, I must say, it is sometimes quite fun to see how people suddently turn into nutrition experts to tell me how and what I should eat or what I should pay attention to. <br>
+As a vegetarian, I am often confronted to random questions about my 'non-traditional' diet such as "where do you get your proteins from?" or "are you not afraid of lacking any important nutrient?" or "and what do you eat then? grains and seeds?". <br>
+Well, I must say, it is sometimes quite fun to see how people suddenly turn into nutrition experts to tell me how and what I should eat or what I should pay attention to. <br>
 But most importantly, these repetitive questions actually made me realise a few facts: <br>
-First, that we do not know much about nutrition (and also that we think we know things that may not be true). <br>
-Second, that most nutritional advice are not made for those who follow a non-meat-based diet (a.k.a. a plant-based diet).
-Third, that in the end it cannot be bad to look more carefully how the basic stuff our body needs to funtion properly. <br>
+First, that we do not know much about nutrition OR that we think we know things that may not be true. <br>
+Second, that most nutritional advice is not made for those who follow a non-meat-based diet (a.k.a. a plant-based diet).
+Third, that in the end, it cannot be bad to look more carefully at how the basic stuff our body needs to function properly. <br>
 
 Getting more and more interested in basic nutrition, here are some facts that I find interesting to know about (you'll find references at the end of the post): 
 
