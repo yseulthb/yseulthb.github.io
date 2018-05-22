@@ -22,7 +22,7 @@ While animal proteins contain all those essential amino acids, plant proteins la
 ### Limit your caffeine intake to one cup of coffee per day <br>
 Even though caffeine is of great help for digestion and for keeping you alert, it also has side effects.
 The caffeine will slow down your body ability to absorb minerals such as iron, magnesium, zinc or calcium. <br>
-<strong> -- to be completed <br>
+<strong> -- to be completed </strong><br>
 (NB: talking about coffee, if you prefer decaf I strongly suggest that you check how caffeine has been removed: prefer the brands that do not use nasty cleaning solvent ;) )
 
 ### After intense sport, allow you a sip of salty water <br>
@@ -31,7 +31,7 @@ Obviously, you should be aware that too much salt is bad for your health as it i
 
 ### Consider supplying yourself in iodine <br>
 Mostly found in sea animals and sea plants, and to a lesser extent in dairy products, iodine plays a huge role in thyroid regulation, being a component of thyroid hormones (remember those iodine tabs you get when there is a nuclear accident ?). Nowadays, table salt is usually enriched with iodine, but not systematically and not everywhere. This measure has greatly helped to reduce the occurrence of iodine deficiency, which can lead to: a delay in body growth, mental disorders, an abnormally functioning thyroid (goitre/enlargement of the thyroid), impacts on the fetus, congenital hypothyroidism. <br>
--- Also good to know: Apparently it has been shown that soy might prevent the absorption of iodine at some levels. <strong> (REF) 
+-- Also good to know: Apparently it has been shown that soy might prevent the absorption of iodine at some levels. <strong> (REF) </strong>
   
 ### B12 vitamin <br>
 Mostly found in animal products as farm animals have been supplemented with B12 in their food, B12 plays a role in the metabolism of every single cell in the human body, and is also involved in the proper functioning of the nervous system.
