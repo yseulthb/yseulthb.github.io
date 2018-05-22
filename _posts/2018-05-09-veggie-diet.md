@@ -33,7 +33,7 @@ Salt works for your body's homeostasis (i.e. its autoregulation). It helps regul
 Obviously, you should be aware that too much salt is bad for your health as it increases the risk of developing cardiovascular diseases.
 
 ### Consider supplying yourself in iodine <br>
-Mostly found in sea animals and sea plants, and to a lesser extent in dairy products, iodine plays a huge role in thyroid regulation, being a component of thyroid hormones (remember those iodine tabs you get when there is a nuclear accident ?). <br>
+Mostly found in sea animals and sea plants, and to a lesser extent in dairy products, iodine plays a huge role in thyroid regulation, being a component of thyroid hormones. <br>
 Nowadays, table salt is usually enriched with iodine, but not systematically and not everywhere. This measure has greatly helped to reduce the occurrence of iodine deficiency, which can lead to: a delay in body growth, mental disorders, an abnormally functioning thyroid (goitre/enlargement of the thyroid), impacts on the fetus, congenital hypothyroidism. <br>
   
 ### B12 vitamin <br>
