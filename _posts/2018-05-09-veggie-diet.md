@@ -6,13 +6,20 @@ mathjax: true
 ---
 
 ### A couple of random facts to know when following a plant-based diet. 
-(also suitable for other diets)
+(also suitable for any other diet)
 
-*Writing a post on this topic came to my mind only recently while having a chat with some friends on a related topic.
+<-- Writing a post on this topic came to my mind only recently while having a chat with some friends on a related topic.
 It appeared that we do not actually know much about nutrition.
-I believe this is a very important topic, especially when you follow a non-meat-based diet as most nutritional advice is based on a diet that includes meat or fish, as the way you feed yourself has clear health implications.*
+I believe this is a very important topic, especially when you follow a non-meat-based diet as most nutritional advice is based on a diet that includes meat or fish, as the way you feed yourself has clear health implications. --!>
 
-Getting more and more interested in basic nutrition, here are some facts that I find necessary to be aware of (you'll find references at the end of the post): 
+As a vegetarian, I am often confronted to random questions about my 'non-traditionnal' diet such as "where do you get your proteins from?" or "are you not afraid of lacking any important nutrient?" or "and what do you eat then? grains and seeds?". <br>
+Well, I must say, it is sometimes quite fun to see how people suddently turn into nutrition experts to tell me how and what I should eat or what I should pay attention to. <br>
+But most importantly, these repetitive questions actually made me realise a few facts: <br>
+First, that we do not know much about nutrition (and also that we think we know things that may not be true). <br>
+Second, that most nutritional advice are not made for those who follow a non-meat-based diet (a.k.a. a plant-based diet).
+Third, that in the end it cannot be bad to look more carefully how the basic stuff our body needs to funtion properly. <br>
+
+Getting more and more interested in basic nutrition, here are some facts that I find interesting to know about (you'll find references at the end of the post): 
 
 ### Greatly vary your protein sources // Combine vegetables with cereals and/or legumes <br>
 Proteins are essential for your body as they serve different purposes (involved in tissue formation and growth, also a source of energy). 
