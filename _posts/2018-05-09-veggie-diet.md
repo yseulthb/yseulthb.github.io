@@ -22,9 +22,9 @@ Proteins are essential for your body as they serve different purposes (involved 
 Whereas some people may think that animal proteins and plant proteins are identical, the reality is more complex. Proteins are composed of chains of amino acids and these chains of amino acids differ according to the type of protein. This is important to take it into consideration because some of those amino acids are essential for our body and only come through food consumption. 
 While animal proteins contain all those essential amino acids, plant proteins lack one or two of those in their chain. However, the good thing is that they do not all lack the same types of amino acids. Therefore, varying your diet with a great variety of vegetables, legumes, cereals, nuts and so on, will allow your body to get all the amino acids it needs. 
 
-### Limit your caffeine intake to one cup of coffee per day <br>
+### Limit your caffeine intake to one or two cups of coffee/tea per day <br>
 Even though caffeine is of great help for digestion and for keeping you alert, it also has side effects.
-The caffeine will slow down your body ability to absorb minerals such as iron, magnesium, zinc or calcium. <br>
+The caffeine will slow down your body ability to absorb minerals such as iron, magnesium, zinc or calcium. It also increases your blood pressure <br>
 <strong> -- to be completed </strong><br>
 (NB: talking about coffee, if you prefer decaf I strongly suggest that you check how caffeine has been removed: prefer the brands that do not use nasty cleaning solvent ;) )
 
@@ -51,7 +51,9 @@ It seems that the methylcobalamin is the one to prefer.
 ### References
 - Proteins: https://nutritionstudies.org/animal-vs-plant-protein/
 
-- Iodine: Zimmermann MB, Jooste PL, and Pandav CS (2008). Iodine-deficiency disorders, *Lancet 372*:1251-1262 <br>
+- Caffein: Grosso, G., Godos, J., Galvano, F., and Giovanucci, E.L. (2017). Coffee, caffeine, and health outcomes: An umbrella review. *Annual Review of Nutrition, 37*:131-156. Link: http://www.annualreviews.org/doi/abs/10.1146/annurev-nutr-071816-064941
+
+- Iodine: Zimmermann, M.B., Jooste, P.L., and Pandav, C.S. (2008). Iodine-deficiency disorders. *Lancet 372*:1251-1262 <br>
 link: https://www.thelancet.com/journals/lancet/article/PIIS0140673608610053/abstract?code=lancet-site ; <br>
 Iodine requirement (EU recommendation): https://www.efsa.europa.eu/sites/default/files/assets/DRV_Summary_tables_jan_17.pdf
 
