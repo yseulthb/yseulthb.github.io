@@ -13,7 +13,7 @@ Well, I must say, it is sometimes quite fun to see how people suddenly turn into
 But most importantly, these repetitive questions actually made me realise a few facts: <br>
 First, that we do not know much about nutrition OR that we think we know things that may not be true. <br>
 Second, that most nutritional advice is not made for those who follow a non-meat-based diet (a.k.a. a plant-based diet). <br>
-Third, that in the end, it cannot be bad to look more carefully at how the basic stuff our body needs to function properly. <br>
+Third, that in the end, it cannot be bad to look more carefully at the way we get the basic stuff our body needs to function properly. <br>
 
 Getting more and more interested in basic nutrition, here are some facts that I find interesting to know about (you'll find references at the end of the post): 
 
