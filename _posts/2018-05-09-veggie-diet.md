@@ -34,7 +34,6 @@ Obviously, you should be aware that too much salt is bad for your health as it i
 
 ### Consider supplying yourself in iodine <br>
 Mostly found in sea animals and sea plants, and to a lesser extent in dairy products, iodine plays a huge role in thyroid regulation, being a component of thyroid hormones (remember those iodine tabs you get when there is a nuclear accident ?). Nowadays, table salt is usually enriched with iodine, but not systematically and not everywhere. This measure has greatly helped to reduce the occurrence of iodine deficiency, which can lead to: a delay in body growth, mental disorders, an abnormally functioning thyroid (goitre/enlargement of the thyroid), impacts on the fetus, congenital hypothyroidism. <br>
--- Also good to know: Apparently it has been shown that soy might prevent the absorption of iodine at some levels. <strong> (REF) </strong>
   
 ### B12 vitamin <br>
 Mostly found in animal products as farm animals have been supplemented with B12 in their food, B12 plays a role in the metabolism of every single cell in the human body, and is also involved in the proper functioning of the nervous system.
