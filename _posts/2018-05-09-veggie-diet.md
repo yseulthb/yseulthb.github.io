@@ -51,7 +51,7 @@ It seems that the methylcobalamin is the one to prefer.
 ### References
 - Proteins: https://nutritionstudies.org/animal-vs-plant-protein/
 
-- Caffein: Grosso, G., Godos, J., Galvano, F., and Giovanucci, E.L. (2017). Coffee, caffeine, and health outcomes: An umbrella review. *Annual Review of Nutrition, 37*:131-156. Link: http://www.annualreviews.org/doi/abs/10.1146/annurev-nutr-071816-064941
+- Caffeine: Grosso, G., Godos, J., Galvano, F., and Giovanucci, E.L. (2017). Coffee, caffeine, and health outcomes: An umbrella review. *Annual Review of Nutrition, 37*:131-156. Link: http://www.annualreviews.org/doi/abs/10.1146/annurev-nutr-071816-064941
 
 - Iodine: Zimmermann, M.B., Jooste, P.L., and Pandav, C.S. (2008). Iodine-deficiency disorders. *Lancet 372*:1251-1262 <br>
 link: https://www.thelancet.com/journals/lancet/article/PIIS0140673608610053/abstract?code=lancet-site ; <br>
