@@ -23,12 +23,15 @@ Whereas some people may think that animal proteins and plant proteins are identi
 While animal proteins contain all those essential amino acids, plant proteins lack one or two of those in their chain. However, the good thing is that they do not all lack the same types of amino acids. Therefore, varying your diet with a great variety of vegetables, legumes, cereals, nuts and so on, will allow your body to get all the amino acids it needs. 
 
 ### Limit your caffeine intake to one or two cups of coffee/tea per day <br>
+*Warning: Caffeine and its effects on our health is a very hot topic and you can find very controversial findings and claims, making it difficult to know what is wrong or not!*
 Even though caffeine is of great help for digestion and for keeping you alert, it also has side effects.
 The caffeine will slow down your body ability to absorb minerals such as iron, magnesium, zinc or calcium. It also increases your blood pressure <br>
+However, it is still very hard to tell whether these effects could impact your health in a positive or negative manner. 
+In a recent meta-analysis, several researchers had a look on the many studies investigating the link between caffeine consumption and several health outcomes. 
 <strong> -- to be completed </strong><br>
-(NB: talking about coffee, if you prefer decaf I strongly suggest that you check how caffeine has been removed: prefer the brands that do not use nasty cleaning solvent ;) )
+(NB: talking about coffee, if you prefer decaf I strongly suggest that you check how caffeine has been removed: prefer the brands that do not use nasty cleaning solvent ;) ) <br>
 
-Positive effects of caffeine in keeping you alert are enhanced when you drink a coffee just before a nap. For a more detailed explanation, have a look at this youtube video: https://www.youtube.com/watch?v=CaI5LWj6ams
+Quick fact: Positive effects of caffeine in keeping you alert are enhanced when you drink a coffee just before a nap. For a more detailed explanation, have a look at this short youtube video: https://www.youtube.com/watch?v=CaI5LWj6ams
 
 ### After intense sport, allow you a sip of salty water <br>
 Salt works for your body's homeostasis (i.e. its autoregulation). It helps regulate the concentration of our body fluids and is also involved in muscle and nerve function. When you exercise, you sweat and thus lose salt, sometimes a lot, and your body fluids become imbalanced. Drinking salty water will easily help your body compensate for this fluid loss and will reduce the risk of having cramps due to your body dehydration. <br>
@@ -54,7 +57,7 @@ It seems that the methylcobalamin is the one to prefer.
 ### References
 - Proteins: https://nutritionstudies.org/animal-vs-plant-protein/
 
-- Caffeine: Grosso, G., Godos, J., Galvano, F., and Giovanucci, E.L. (2017). Coffee, caffeine, and health outcomes: An umbrella review. *Annual Review of Nutrition, 37*:131-156. Link: http://www.annualreviews.org/doi/abs/10.1146/annurev-nutr-071816-064941 <br>
+- Caffeine: Grosso, G., Godos, J., Galvano, F., and Giovanucci, E.L. (2017). Coffee, caffeine, and health outcomes: An umbrella review. *Annual Review of Nutrition, 37*:131-156. https://doi.org/10.1146/annurev-nutr-071816-064941 <br>
 About the positive effects on alertness: Reyner, L.A. & Horne, J. (1997). Suppression of sleepiness in drivers: Combination of caffeine with a short nap. *Psychophysiology, 34*(6):721-725. https://doi.org/10.1111/j.1469-8986.1997.tb02148.x <br> 
 Hayashi, M., Masuda, A., and Hori, T. (2003). The alerting effects of caffeine, bright light and face washing after a short daytime nap. *Clinical Neurophysiology, 114*(12):2268-2278. https://doi.org/10.1016/S1388-2457(03)00255-4 <br>
 
