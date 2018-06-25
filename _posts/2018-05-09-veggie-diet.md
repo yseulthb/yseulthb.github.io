@@ -22,7 +22,7 @@ Proteins are essential for your body as they serve different purposes (involved 
 Whereas some people may think that animal proteins and plant proteins are identical, the reality is more complex. Proteins are composed of chains of amino acids and these chains of amino acids differ according to the type of protein. This is important to take it into consideration because some of those amino acids are essential for our body and only come through food consumption. 
 While animal proteins contain all those essential amino acids, plant proteins lack one or two of those in their chain. However, the good thing is that they do not all lack the same types of amino acids. Therefore, varying your diet with a great variety of vegetables, legumes, cereals, nuts and so on, will allow your body to get all the amino acids it needs. 
 
-### Limit your caffeine intake to one or two cups of coffee/tea per day <br>
+### Should you limit your caffeine intake to one or two cups of coffee/tea per day ? <br>
 *Warning: Caffeine and its effects on our health is a very hot topic and you can find very controversial findings and claims, making it difficult to know what is wrong or not!* <br>
 
 Even though caffeine is of great help for digestion and for keeping you alert, it also has side effects.
