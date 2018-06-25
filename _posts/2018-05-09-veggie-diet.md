@@ -23,11 +23,12 @@ Whereas some people may think that animal proteins and plant proteins are identi
 While animal proteins contain all those essential amino acids, plant proteins lack one or two of those in their chain. However, the good thing is that they do not all lack the same types of amino acids. Therefore, varying your diet with a great variety of vegetables, legumes, cereals, nuts and so on, will allow your body to get all the amino acids it needs. 
 
 ### Limit your caffeine intake to one or two cups of coffee/tea per day <br>
-*Warning: Caffeine and its effects on our health is a very hot topic and you can find very controversial findings and claims, making it difficult to know what is wrong or not!*
+*Warning: Caffeine and its effects on our health is a very hot topic and you can find very controversial findings and claims, making it difficult to know what is wrong or not!* <br>
+
 Even though caffeine is of great help for digestion and for keeping you alert, it also has side effects.
 The caffeine will slow down your body ability to absorb minerals such as iron, magnesium, zinc or calcium. It also increases your blood pressure <br>
 However, it is still very hard to tell whether these effects could impact your health in a positive or negative manner. 
-In a recent meta-analysis, several researchers had a look on the many studies investigating the link between caffeine consumption and several health outcomes. 
+In a recent meta-analysis, several researchers had a look on the many studies investigating the link between caffeine consumption and several health outcomes. <br>
 <strong> -- to be completed </strong><br>
 (NB: talking about coffee, if you prefer decaf I strongly suggest that you check how caffeine has been removed: prefer the brands that do not use nasty cleaning solvent ;) ) <br>
 
