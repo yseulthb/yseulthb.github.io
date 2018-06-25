@@ -28,6 +28,11 @@ The caffeine will slow down your body ability to absorb minerals such as iron, m
 <strong> -- to be completed </strong><br>
 (NB: talking about coffee, if you prefer decaf I strongly suggest that you check how caffeine has been removed: prefer the brands that do not use nasty cleaning solvent ;) )
 
+Positive effects of caffeine in keeping you alert are enhanced when you drink a coffee just before a nap. 
+Ref: Reyner, L.A. & Horne, J. (1997). Suppression of sleepiness in drivers: Combination of caffeine with a short nap. Psychophysiology; 
+Hayashi, M., Masuda, A., and Hori, T. (2003). The alerting effects of caffeine, bright light and face washing after a short daytime nap. Clinical Neurophysiology
+YT video: https://www.youtube.com/watch?v=CaI5LWj6ams
+
 ### After intense sport, allow you a sip of salty water <br>
 Salt works for your body's homeostasis (i.e. its autoregulation). It helps regulate the concentration of our body fluids and is also involved in muscle and nerve function. When you exercise, you sweat and thus lose salt, sometimes a lot, and your body fluids become imbalanced. Drinking salty water will easily help your body compensate for this fluid loss and will reduce the risk of having cramps due to your body dehydration. <br>
 Obviously, you should be aware that too much salt is bad for your health as it increases the risk of developing cardiovascular diseases.
