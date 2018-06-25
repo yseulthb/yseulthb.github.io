@@ -28,9 +28,9 @@ The caffeine will slow down your body ability to absorb minerals such as iron, m
 <strong> -- to be completed </strong><br>
 (NB: talking about coffee, if you prefer decaf I strongly suggest that you check how caffeine has been removed: prefer the brands that do not use nasty cleaning solvent ;) )
 
-Positive effects of caffeine in keeping you alert are enhanced when you drink a coffee just before a nap. 
-Ref: Reyner, L.A. & Horne, J. (1997). Suppression of sleepiness in drivers: Combination of caffeine with a short nap. Psychophysiology; 
-Hayashi, M., Masuda, A., and Hori, T. (2003). The alerting effects of caffeine, bright light and face washing after a short daytime nap. Clinical Neurophysiology
+Positive effects of caffeine in keeping you alert are enhanced when you drink a coffee just before a nap. <br> 
+Ref: Reyner, L.A. & Horne, J. (1997). Suppression of sleepiness in drivers: Combination of caffeine with a short nap. Psychophysiology; <br> 
+Hayashi, M., Masuda, A., and Hori, T. (2003). The alerting effects of caffeine, bright light and face washing after a short daytime nap. Clinical Neurophysiology <br>
 YT video: https://www.youtube.com/watch?v=CaI5LWj6ams
 
 ### After intense sport, allow you a sip of salty water <br>
@@ -44,7 +44,7 @@ Nowadays, table salt is usually enriched with iodine, but not systematically and
 ### B12 vitamin <br>
 Mostly found in animal products as farm animals have been supplemented with B12 in their food, B12 plays a role in the metabolism of every single cell in the human body, and is also involved in the proper functioning of the nervous system.
 A lack of B12 can lead to a condition called pernicious anaemia in which you start feeling tired due to the lack of blood cells in your body. More severe symptoms may come after several years of B12 deficiency and symptoms become worse over time with long-lasting damages. <br>
-Some of the typical symptoms of a B12 anaemia include neurological disorders (numbness, dizziness, memory problems, difficulty to concentrate), as well as gastro-intestinal dysfunctioning (bowel mobility is altered and so is digestion; inflammatory reactions can occur). As B12 vitamin is also involved in the proper functioning of hormones and neurotransmitters, a lack of B12 can have psychological effects (irritability, mood disorders, sleep issues, depression, among other psychological disorders).
+Some of the typical symptoms of a B12 anaemia include neurological disorders (numbness, dizziness, memory problems, difficulty to concentrate), as well as gastro-intestinal dysfunctioning (bowel mobility is altered and so is digestion; inflammatory reactions can occur). As B12 vitamin is also involved in the proper functioning of hormones and neurotransmitters, a lack of B12 can have psychological effects (irritability, mood disorders, sleep issues, depression, among other psychological disorders). <br>
 It is extremely important to be aware of these different symptoms as they can easily be mistaken for other troubles.
 A very easy way to prevent such an anaemia is to take B12 supplement or eat food fortified with B12. <br>
 Regarding the choice of food supplement frequency, it seems that a daily dose of 100 micrograms is more easily absorbed by the body than a higher weekly dose. <br>
