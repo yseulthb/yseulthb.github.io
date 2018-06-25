@@ -28,10 +28,7 @@ The caffeine will slow down your body ability to absorb minerals such as iron, m
 <strong> -- to be completed </strong><br>
 (NB: talking about coffee, if you prefer decaf I strongly suggest that you check how caffeine has been removed: prefer the brands that do not use nasty cleaning solvent ;) )
 
-Positive effects of caffeine in keeping you alert are enhanced when you drink a coffee just before a nap. <br> 
-Ref: Reyner, L.A. & Horne, J. (1997). Suppression of sleepiness in drivers: Combination of caffeine with a short nap. Psychophysiology; <br> 
-Hayashi, M., Masuda, A., and Hori, T. (2003). The alerting effects of caffeine, bright light and face washing after a short daytime nap. Clinical Neurophysiology <br>
-YT video: https://www.youtube.com/watch?v=CaI5LWj6ams
+Positive effects of caffeine in keeping you alert are enhanced when you drink a coffee just before a nap. For a more detailed explanation, have a look at this youtube video: https://www.youtube.com/watch?v=CaI5LWj6ams
 
 ### After intense sport, allow you a sip of salty water <br>
 Salt works for your body's homeostasis (i.e. its autoregulation). It helps regulate the concentration of our body fluids and is also involved in muscle and nerve function. When you exercise, you sweat and thus lose salt, sometimes a lot, and your body fluids become imbalanced. Drinking salty water will easily help your body compensate for this fluid loss and will reduce the risk of having cramps due to your body dehydration. <br>
@@ -56,7 +53,9 @@ It seems that the methylcobalamin is the one to prefer.
 ### References
 - Proteins: https://nutritionstudies.org/animal-vs-plant-protein/
 
-- Caffeine: Grosso, G., Godos, J., Galvano, F., and Giovanucci, E.L. (2017). Coffee, caffeine, and health outcomes: An umbrella review. *Annual Review of Nutrition, 37*:131-156. Link: http://www.annualreviews.org/doi/abs/10.1146/annurev-nutr-071816-064941
+- Caffeine: Grosso, G., Godos, J., Galvano, F., and Giovanucci, E.L. (2017). Coffee, caffeine, and health outcomes: An umbrella review. *Annual Review of Nutrition, 37*:131-156. Link: http://www.annualreviews.org/doi/abs/10.1146/annurev-nutr-071816-064941 <br>
+About the positive effects on alertness: Reyner, L.A. & Horne, J. (1997). Suppression of sleepiness in drivers: Combination of caffeine with a short nap. *Psychophysiology, 34*(6):721-725. https://doi.org/10.1111/j.1469-8986.1997.tb02148.x <br> 
+Hayashi, M., Masuda, A., and Hori, T. (2003). The alerting effects of caffeine, bright light and face washing after a short daytime nap. *Clinical Neurophysiology, 114*(12):2268-2278. https://doi.org/10.1016/S1388-2457(03)00255-4 <br>
 
 - Iodine: Zimmermann, M.B., Jooste, P.L., and Pandav, C.S. (2008). Iodine-deficiency disorders. *Lancet 372*:1251-1262 <br>
 link: https://www.thelancet.com/journals/lancet/article/PIIS0140673608610053/abstract?code=lancet-site ; <br>
