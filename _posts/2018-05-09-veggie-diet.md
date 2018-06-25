@@ -48,7 +48,8 @@ Regarding the choice of food supplement frequency, it seems that a daily dose of
 It is also good to know that different B12 molecules are available: Methylcobalamin (natural), Hydroxycobalamin (natural), Adenosylcobalamin (natural), and Cyanocobalamin (mostly synthetical), as they are not all absorbed the same way by the body.
 It seems that the methylcobalamin is the one to prefer.
 
-
+<br>
+----------------------------
 
 ### References
 - Proteins: https://nutritionstudies.org/animal-vs-plant-protein/
