@@ -1,7 +1,7 @@
 ---
 title: "Nutrition and vegetarian diet"
 date:   2018-05-09 22:52:01 -0200
-published: false
+published: true
 mathjax: true
 ---
 
