@@ -1,5 +1,5 @@
 ---
-title: "Nutrition and vegetarian diet"
+title: "Nutrition: A couple of random facts"
 date:   2018-05-09 22:52:01 -0200
 published: true
 mathjax: true
