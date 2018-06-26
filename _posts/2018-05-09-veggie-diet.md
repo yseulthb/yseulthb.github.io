@@ -70,14 +70,14 @@ It seems that the methylcobalamin is the one to prefer.
 About the positive effects on alertness: Reyner, L.A. & Horne, J. (1997). Suppression of sleepiness in drivers: Combination of caffeine with a short nap. *Psychophysiology, 34*(6):721-725. [https://doi.org/10.1111/j.1469-8986.1997.tb02148.x](https://doi.org/10.1111/j.1469-8986.1997.tb02148.x) <br> 
 Hayashi, M., Masuda, A., and Hori, T. (2003). The alerting effects of caffeine, bright light and face washing after a short daytime nap. *Clinical Neurophysiology, 114*(12):2268-2278. [https://doi.org/10.1016/S1388-2457(03)00255-4](https://doi.org/10.1016/S1388-2457(03)00255-4) <br>
 
-- Iodine: Zimmermann, M.B., Jooste, P.L., and Pandav, C.S. (2008). Iodine-deficiency disorders. *Lancet 372*:1251-1262 <br>
+- Iodine: Zimmermann, M.B., Jooste, P.L., and Pandav, C.S. (2008). Iodine-deficiency disorders. *Lancet 372*:1251-1262 
 [link](https://www.thelancet.com/journals/lancet/article/PIIS0140673608610053/abstract?code=lancet-site) ; <br>
 Iodine requirement (EU recommendation): [PDF file](https://www.efsa.europa.eu/sites/default/files/assets/DRV_Summary_tables_jan_17.pdf)
 
-- Salt homeostasis: [1](http://healthyeating.sfgate.com/importance-water-salt-body-homeostasis-10409.html) ; [2](https://www.dwfitnessfirst.com/inside-track/nutrition/salt-and-exercise-why-salt-is-an-essential-part-of-your-workout/)
+- Salt homeostasis: [link 1](http://healthyeating.sfgate.com/importance-water-salt-body-homeostasis-10409.html) ; [link 2](https://www.dwfitnessfirst.com/inside-track/nutrition/salt-and-exercise-why-salt-is-an-essential-part-of-your-workout/)
 
-- Pernicious anemia: [1](https://www.nhlbi.nih.gov/health-topics/pernicious-anemia#Signs,-Symptoms,-and-Complications) ; [2](http://www.vitamine-b12.net/symptomes-carence-vitamine-b12/) (in French) 
+- Pernicious anemia: [link 1](https://www.nhlbi.nih.gov/health-topics/pernicious-anemia#Signs,-Symptoms,-and-Complications) ; [link 2](http://www.vitamine-b12.net/symptomes-carence-vitamine-b12/) (in French) 
 
-- B12 availability: Watanabe F.(2007). Vitamin B12 sources and bioavailability.  *Experimental Biology and Medicine 232(10)*:1266-1274. <br>
+- B12 availability: Watanabe F.(2007). Vitamin B12 sources and bioavailability.  *Experimental Biology and Medicine 232(10)*:1266-1274. 
 [link](http://journals.sagepub.com/doi/abs/10.3181/0703-MR-67?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed) ; <br>
 About the different types of B12: [link](https://www.nature.com/articles/ejcn2014165?foxtrotcallback=true)
