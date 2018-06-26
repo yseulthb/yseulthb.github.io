@@ -29,6 +29,8 @@ Even though caffeine is of great help for digestion and for keeping you alert, i
 The caffeine will slow down your body ability to absorb minerals such as iron, magnesium, zinc or calcium. It also increases your blood pressure <br>
 However, it is still very hard to tell whether these effects could impact your health in a positive or negative manner. 
 In a recent meta-analysis, several researchers had a look on the many studies investigating the link between caffeine consumption and several health outcomes. <br>
+Various compounds contained in coffee may play different protective roles, thus explaining some positive relations between caffeine and reduced risk of developping some pathologies. 
+Some positive effects: antioxidant polyphenols
 <strong> -- to be completed </strong><br>
 (NB: talking about coffee, if you prefer decaf I strongly suggest that you check how caffeine has been removed: prefer the brands that do not use nasty cleaning solvent ;) ) <br>
 
