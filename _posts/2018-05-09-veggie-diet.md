@@ -57,6 +57,10 @@ It seems that the methylcobalamin is the one to prefer.
 <br>
 ----------------------------
 
+![Table3_Grossetal2017](/pdf/gross2017_table3.png.jpg)
+Grosso, G., Godos, J., Galvano, F., and Giovanucci, E.L. (2017). Coffee, caffeine, and health outcomes: An umbrella review. *Annual Review of Nutrition, 37*:131-156. https://doi.org/10.1146/annurev-nutr-071816-064941 <br>
+
+
 ### References
 - Proteins: https://nutritionstudies.org/animal-vs-plant-protein/
 
