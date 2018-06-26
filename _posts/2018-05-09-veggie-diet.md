@@ -27,15 +27,15 @@ While animal proteins contain all those essential amino acids, plant proteins la
 
 Even though caffeine is of great help for digestion and for keeping you alert, it also has side effects.
 The caffeine will slow down your body ability to absorb minerals such as iron, magnesium, zinc or calcium. It also increases your blood pressure <br>
-However, it is still very hard to tell whether these effects could impact your health in a positive or negative manner. 
-In a recent meta-analysis, several researchers had a look on the many studies investigating the link between caffeine consumption and several health outcomes. <br>
-Various compounds contained in coffee may play different protective roles, thus explaining some positive relations between caffeine and reduced risk of developping some pathologies. 
-Some positive effects: antioxidant polyphenols
-<strong> -- to be completed </strong><br>
+However, it is still very hard to tell whether these various effects could impact your health in a positive or negative manner. 
+In a recent meta-analysis, several researchers had a look on the many studies investigating the link between coffee consumption and several health outcomes. <br>
+To briefly summarise the main conclusions of the study: Various compounds contained in coffee may play different protective roles, thus explaining some positive relations between caffeine and reduced risk of developping some pathologies. Among those positive effects investigated in the meta-analysis, you may find anti-inflammatory properties mediated by potential alteration of the gut microbia; phytochemicals contained in coffee could play a role in inhibiting oxidative stress and damage, which could play a role in the early process of a normal cell becoming a tumor. To have a deeper insight into these potentially beneficial effects, I added to the end of this post a table from the study summarising the observed evidence between coffee intake and health outcomes, and most importantly, the level of evidence, that is, how robust these observations are. <br>
+In the end, it seems that coffee could have beneficial effects, but having a reasonable consumption of coffee cannot hurt! Especially given how precautious one should be when assessing beneficial effects of any substance!<br>
+<br>
 (NB: talking about coffee, if you prefer decaf I strongly suggest that you check how caffeine has been removed: prefer the brands that do not use nasty cleaning solvent ;) ) <br>
 
 Quick fact: Positive effects of caffeine in keeping you alert are enhanced when you drink a coffee just before a nap. For a more detailed explanation, have a look at this short youtube video: https://www.youtube.com/watch?v=CaI5LWj6ams
-
+<br>
 ### After intense sport, allow you a sip of salty water <br>
 Salt works for your body's homeostasis (i.e. its autoregulation). It helps regulate the concentration of our body fluids and is also involved in muscle and nerve function. When you exercise, you sweat and thus lose salt, sometimes a lot, and your body fluids become imbalanced. Drinking salty water will easily help your body compensate for this fluid loss and will reduce the risk of having cramps due to your body dehydration. <br>
 Obviously, you should be aware that too much salt is bad for your health as it increases the risk of developing cardiovascular diseases.
