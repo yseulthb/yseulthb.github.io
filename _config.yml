@@ -4,7 +4,7 @@ locale                   : "en"
 title                    : "Yseult HB"
 title_separator          : "-"
 name                     : "Yseult Héjja-Brichard"
-description              : "Some thoughts about science, ethics, agroecology, and other stuff. Learning to fight sexism in academia and to promote a better science."
+description              : "Some thoughts about science, ethics, agroecology, and other stuff."
 url                      : "https://yseulthb.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "yseulthb.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -74,7 +74,7 @@ analytics:
 author:
   name             : "Yseult Hb"
   avatar           : "/assets/images/face.jpg"# path of avatar image, e.g. "/assets/images/face.jpg"
-  bio              : "Some thoughts about science, ethics, agroecology, and other stuff. Learning to fight sexism in academia and to promote a better science"
+  bio              : "Some thoughts about science, ethics, agroecology, and other stuff."
   location         : 
   email            : "yseulthb@gmail.com"
   uri              :
