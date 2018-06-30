@@ -37,5 +37,5 @@ Scientists can no longer pretend to be in an ivory tower. Scientists are part of
 
 --------------------
 <br>
-*\*I will not talk here about the fact that science popularisation events or approaches usually target a knowledgeable public and that this is a big problem to overcome in this field. There are people doing research on that topic and people being very creative to develop new ways of bringing science to a public as diverse as possible, but this is a phenomenon that is not specific to scientific knowledge sharing and thus irrelevant for the main topic of this post.)
+\* I will not talk here about the fact that science popularisation events or approaches usually target a knowledgeable public and that this is a big problem to overcome in this field. There are people doing research on that topic and people being very creative to develop new ways of bringing science to a public as diverse as possible, but this is a phenomenon that is not specific to scientific knowledge sharing and thus irrelevant for the main topic of this post.)
 
