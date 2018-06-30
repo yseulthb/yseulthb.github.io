@@ -14,13 +14,12 @@ What about the credibility of science as conceived by non scientists?
 And this is the point I want to further develop. 
 
 There's no doubt scientists should be the first concerned by the credibility of science.
-However, I do believe that this necessarily goes along with the general public's good understanding of what science is, and whether
-they can trust it or not. 
-Obviously trusting science is not the right term to use but that's the very point of it. 
+However, I do believe that this necessarily goes along with the general public's good understanding of what science is, and whether they can trust it or not. 
+Obviously trusting science is not the right term to use but that's very much the point I want to make. 
 People from outside science should be educated/taught about how to understand science, and how to develop their critical thinking.
 Science is not a truth but is a process. What was true at a given time might be proven wrong at any other time, and the reverse
 works as well. 
-Sadly enough, too often scientific data or results are misinterpreted. And although scientists do oversell their findings, being precautious regarding data interpretation won't prevent people to misunderstanding a point. Media for example like very much to use appealing article headers that often turn out to make a point that is outside the scope of the study they're refering to. 
+Sadly enough, too often scientific data or results are misinterpreted. And although scientists do oversell their findings, being precautious regarding data interpretation won't prevent people from misunderstanding a point. Media for example like very much to use appealing article headers that often turn out to make a point that is outside the scope of the study they're refering to. 
 Instead of being crossed with the media, I believe it would be much more effective if scientists took the time to make their findings accessible to someone who is not in their field.
 And this is another point that is reached as well: the fact that even scientists if they're not in the field, could easily fall into this misinterpretation abyss. 
 
@@ -30,7 +29,12 @@ It makes even more sense to do so, as there is a growing community of science fa
 It makes even more sense to do so, as science has rarely (if ever) been so present in politics and in policy making processes or involved in public discussions and debates (you can think about A.I. debates, ethical considerations about transhumanism, anti-vax controversy, climate warming polemics, etc. ).
 
 I'm not saying here that science should be involved in policy making processes but clearly, it is already being used as an argument in defence of some decisions, and sometimes in an inaccurate manner. 
-Therefore, as a scientific knowledge producer, this is a scientist's duty to be concerned about the way her or his data is interpreted, and thus to facilitate its correct understanding. This doesn't mean scientists have to be directly interacting with the public but they should make it easier for people who are dedicated at bridging the gap between academia and the general public to do so.
+Therefore, as a scientific knowledge producer, this is a scientist's duty to be concerned about the way her or his data is interpreted, and thus to facilitate its correct understanding. This doesn't mean scientists have to be directly interacting with the public but they should make it easier for people who are dedicated at bridging the gap between academia and the general public to do so*.
+Most scientists are actually willing to share their work with the general public but one of the main obstacle to do so is the lack of time. Therefore, if we emphasise strongly enough that this should be part of the profession duties, if we recognise its positive value (thinkg about how to explain what your reasearch is about makes you look at the biger picture and this opens new perspectives and insights; you may meet other researchers and foster collaborations just like in scientific conferences, so clearly you're not losing your time!), and if we develop appropriate training sessions to encourage those who may feel like they need it, this may become a norm and not just an extra or a hobby.
 
 Scientists can no longer pretend to be in an ivory tower. Scientists are part of the society and as such, they do have societal responsibilities. 
+
+
+--------------------
+* I will not talk here about the fact that science popularisation events or approaches usually target a knowledgeable public and that this is a big problem to overcome in this field. There are people doing research on that topic and people being very creative to develop new ways of bringing science to a public as diverse as possible, but this is a phenomenon that is not specific to scientific knowledge sharing and thus irrelevant for the main topic of this post. 
 
