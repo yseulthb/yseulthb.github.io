@@ -32,7 +32,7 @@ I'm not saying here that science should be involved in policy making processes b
 Therefore, as a scientific knowledge producer, this is a scientist's duty to be concerned about the way her or his data is interpreted, and thus to facilitate its correct understanding. This doesn't mean scientists have to be directly interacting with the public but they should make it easier for people who are dedicated at bridging the gap between academia and the general public to do so*. <br>
 Most scientists are actually willing to share their work with the general public but one of the main obstacle to do so is the lack of time. Therefore, if we emphasise strongly enough that this should be part of the profession duties, if we recognise its positive value (thinking about how to explain what your reasearch is about makes you look at the bigger picture and this opens new perspectives and insights; you may meet other researchers and foster collaborations just like in scientific conferences, so clearly you're not losing your time!), and if we develop appropriate training sessions to encourage those who may feel like they need it, this may become a norm and not just an extra or a hobby.
 
-Scientists can no longer pretend to be in an ivory tower. Scientists are part of the society and as such, they do have societal responsibilities. 
+Scientists can no longer pretend to be in an ivory tower. Scientists are part of a society and as such, they do have societal responsibilities. 
 
 
 --------------------
