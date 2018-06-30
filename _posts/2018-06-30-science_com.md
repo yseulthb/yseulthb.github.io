@@ -26,3 +26,11 @@ And this is another point that is reached as well: the fact that even scientists
 
 I think it should be among every scientist's duties to share their work with non specialists, to take time to make their findings understandable by most people. May it be through events of science popularisation - there are now plenty of options, from the traditional conference to the pint of science format, through the redaction of blogposts or more formal articles in newspapers for example, through a collaborative work to write a general book about science advances of a field, and so on.
 
+It makes even more sense to do so, as there is a growing community of science facilitators who work with different institutions, using different communication media, who organise a huge diversity of events to bring science to the general public. 
+It makes even more sense to do so, as science has rarely (if ever) been so present in politics and in policy making processes or involved in public discussions and debates (you can think about A.I. debates, ethical considerations about transhumanism, anti-vax controversy, climate warming polemics, etc. ).
+
+I'm not saying here that science should be involved in policy making processes but clearly, it is already being used as an argument in defence of some decisions, and sometimes in an inaccurate manner. 
+Therefore, as a scientific knowledge producer, this is a scientist's duty to be concerned about the way her or his data is interpreted, and thus to facilitate its correct understanding. This doesn't mean scientists have to be directly interacting with the public but they should make it easier for people who are dedicated at bridging the gap between academia and the general public to do so.
+
+Scientists can no longer pretend to be in an ivory tower. Scientists are part of the society and as such, they do have societal responsibilities. 
+
