@@ -5,7 +5,7 @@ published: false
 mathjax: true
 ---
 
-After reading [Simine Vazire <^1>'s blogpost](http://sometimesimwrong.typepad.com/wrong/2018/01/oath-for-scientists.html) about what it means to be a scientist, I could only ask myself the same question.
+After reading [Simine Vazire *(1)*'s blogpost](http://sometimesimwrong.typepad.com/wrong/2018/01/oath-for-scientists.html) about what it means to be a scientist, I could only ask myself the same question.
 While she's proposing an Oath for Scientists, describing good research practices in order to protect science 
 credibility, which are undoubtedly to be followed, I cannot not think about what else being a good scientist means.
 As she's talking about the credibility of science among scientists themselves and their responsibility as regards to 
@@ -29,7 +29,7 @@ It makes even more sense to do so, as there is a growing community of science fa
 It makes even more sense to do so, as science has rarely (if ever) been so present in politics and in policy making processes or involved in public discussions and debates (you can think about A.I. debates, ethical considerations about transhumanism, anti-vax controversy, climate warming polemics, etc. ).
 
 I'm not saying here that science should be involved in policy making processes but clearly, it is already being used as an argument in defence of some decisions, and sometimes in an inaccurate manner. 
-Therefore, as a scientific knowledge producer, this is a scientist's duty to be concerned about the way her or his data is interpreted, and thus to facilitate its correct understanding. This doesn't mean scientists have to be directly interacting with the public but they should make it easier for people who are dedicated at bridging the gap between academia and the general public to do so (^2). <br>
+Therefore, as a scientific knowledge producer, this is a scientist's duty to be concerned about the way her or his data is interpreted, and thus to facilitate its correct understanding. This doesn't mean scientists have to be directly interacting with the public but they should make it easier for people who are dedicated at bridging the gap between academia and the general public to do so *(2)*. <br>
 Most scientists are actually willing to share their work with the general public but one of the main obstacle to do so is the lack of time. Therefore, if we emphasise strongly enough that this should be part of the profession duties, if we recognise its positive value (thinking about how to explain what your reasearch is about makes you look at the bigger picture and this opens new perspectives and insights; you may meet other researchers and foster collaborations just like in scientific conferences, so clearly you're not losing your time!), and if we develop appropriate training sessions to encourage those who may feel like they need it, this may become a norm and not just an extra or a hobby.
 
 Scientists can no longer pretend to be in an ivory tower. Scientists are part of a society and as such, they do have societal responsibilities. 
@@ -37,6 +37,6 @@ Scientists can no longer pretend to be in an ivory tower. Scientists are part of
 
 --------------------
 <br>
-(1) Simine Vazire is an associate professor at UC Davis. She works in the field of social and personality psychology. She's also actively involved in promoting open science practices. <br>
-(2) I will not talk here about the fact that science popularisation events or approaches usually target a knowledgeable public and that this is a big problem to overcome in this field. There are people doing research on that topic and people being very creative to develop new ways of bringing science to a public as diverse as possible, but this is a phenomenon that is not specific to scientific knowledge sharing and thus irrelevant for the main topic of this post.)
+*(1) Simine Vazire is an associate professor at UC Davis. She works in the field of social and personality psychology. She's also actively involved in promoting open science practices. <br>
+(2) I will not talk here about the fact that science popularisation events or approaches usually target a knowledgeable public and that this is a big problem to overcome in this field. There are people doing research on that topic and people being very creative to develop new ways of bringing science to a public as diverse as possible, but this is a phenomenon that is not specific to scientific knowledge sharing and thus irrelevant for the main topic of this post.)*
 
