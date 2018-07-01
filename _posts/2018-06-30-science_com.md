@@ -5,7 +5,7 @@ published: false
 mathjax: true
 ---
 
-After reading [Simine Vazire (1)'s blogpost](http://sometimesimwrong.typepad.com/wrong/2018/01/oath-for-scientists.html) about what it means to be a scientist, I could only ask myself the same question.
+After reading [Simine Vazire ^1's blogpost](http://sometimesimwrong.typepad.com/wrong/2018/01/oath-for-scientists.html) about what it means to be a scientist, I could only ask myself the same question.
 While she's proposing an Oath for Scientists, describing good research practices in order to protect science 
 credibility, which are undoubtedly to be followed, I cannot not think about what else being a good scientist means.
 As she's talking about the credibility of science among scientists themselves and their responsibility as regards to 
