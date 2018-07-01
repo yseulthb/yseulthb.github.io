@@ -1,6 +1,6 @@
 ---
 title: "What it means to be a scientist"
-date:   2017-09-20 17:46:01 -0200
+date:   2018-07-01 15:29:01 -0200
 published: true
 mathjax: true
 ---
