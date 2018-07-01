@@ -5,7 +5,7 @@ published: false
 mathjax: true
 ---
 
-After reading Simine Vazire(1)'s [blogpost](http://sometimesimwrong.typepad.com/wrong/2018/01/oath-for-scientists.html) about what it means to be a scientist, I could only ask myself the same question.
+After reading Simine Vazire (1)'s [blogpost](http://sometimesimwrong.typepad.com/wrong/2018/01/oath-for-scientists.html) about what it means to be a scientist, I could only ask myself the same question.
 While she's proposing an Oath for Scientists, describing good research practices in order to protect science 
 credibility, which are undoubtedly to be followed, I cannot not think about what else being a good scientist means.
 As she's talking about the credibility of science among scientists themselves and their responsibility as regards to 
@@ -37,6 +37,6 @@ Scientists can no longer pretend to be in an ivory tower. Scientists are part of
 
 --------------------
 <br>
-*(1) Simine Vazire is an associate professor at UC Davis. She works in the field of social and personality psychology. She's also actively involved in promoting open science practices. <br>
-(2) I will not talk here about the fact that science popularisation events or approaches usually target a knowledgeable public and that this is a big problem to overcome in this field. There are people doing research on that topic and people being very creative to develop new ways of bringing science to a public as diverse as possible, but this is a phenomenon that is not specific to scientific knowledge sharing and thus irrelevant for the main topic of this post.)
+*(1) Simine Vazire is an associate professor at UC Davis. She works in the field of social and personality psychology. She's also actively involved in promoting open science practices.* <br>
+*(2) I will not talk here about the fact that science popularisation events or approaches usually target a knowledgeable public and that this is a big problem to overcome in this field. There are people doing research on that topic and people being very creative to develop new ways of bringing science to a public as diverse as possible, but this is a phenomenon that is not specific to scientific knowledge sharing and thus irrelevant for the main topic of this post.)
 
