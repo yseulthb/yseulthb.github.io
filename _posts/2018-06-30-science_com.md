@@ -3,6 +3,9 @@ title: "What it means to be a scientist"
 date:   2018-07-01 15:29:01 -0200
 published: true
 mathjax: true
+header:
+  teaser: /assets/images/Greenery_IG.jpg
+
 ---
 
 After reading Simine Vazire (1)'s [blogpost](http://sometimesimwrong.typepad.com/wrong/2018/01/oath-for-scientists.html) about what it means to be a scientist, I could only ask myself the same question.
