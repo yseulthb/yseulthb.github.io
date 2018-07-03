@@ -5,7 +5,9 @@ categories:
   - blog
 published: true
 mathjax: true
-comments: true
+header:
+  teaser: /assets/images/Tiles_IG.jpg
+
 ---
 
 I. The problem<br>
