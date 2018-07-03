@@ -3,6 +3,9 @@ title: "Nutrition: A couple of random facts"
 date:   2018-05-09 22:52:01 -0200
 published: true
 mathjax: true
+header:
+  teaser: /assets/images/EdenSalad.jpg
+
 ---
 
 ### A couple of random facts to know when following a plant-based diet. 
