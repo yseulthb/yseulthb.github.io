@@ -4,7 +4,7 @@ date:   2018-02-26 20:17:01 -0200
 published: true
 mathjax: true
 header:
-  teaser: /assets/images/Christianhavn_IG.jpg.jpg
+  teaser: /assets/images/Christianhavn_IG.jpg
 ---
 
 * Qu’est-ce qui fait d’un article scientifique un bon article scientifique?
