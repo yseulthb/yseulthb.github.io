@@ -8,7 +8,7 @@ title: "About me"
       
 I am a PhD student in cognitive neuroscience at the [Brain and Cognition Research Center (CerCo)](http://cerco.ups-tlse.fr/-Presentation-), in Toulouse, France and a teaching assistant in the department of Neuroscience and Behaviour at Paul Sabatier University (Toulouse 3).
 
-The aim of my PhD work is to understand how primate visual system adapts to spatial regularities in the visual environment and more specifically how the brain encodes 3D properties. I mostly conduct behavioural ([psychophysics](https://en.wikipedia.org/wiki/Psychophysics)) and neuroimaging ([fMRI](https://en.wikipedia.org/wiki/Functional_magnetic_resonance_imaging)) studies.
+The aim of my PhD work is to understand how the primate visual system adapts to spatial regularities in the visual environment and more specifically how the brain encodes 3D properties. I mostly conduct behavioural ([psychophysics](https://en.wikipedia.org/wiki/Psychophysics)) and neuroimaging ([fMRI](https://en.wikipedia.org/wiki/Functional_magnetic_resonance_imaging)) studies.
 
 As a future researcher / young scientist, I am concerned by how science is done, may it be regarding empirical methods, statistical analysis, access to material and data, or growing competition among scientists. In favour of a slow and open science I am part of a new independent lab that we just created with other young researchers: [The Slowpen science Lab](http://slowpen.science/). Recently, I became Ambassador for the Center for Open Science [COS](https://cos.io/our-communities/become-ambassador/). <br/>  
 I am also interested in ethics, scientific scepticism, and critical thinking and believe that we should teach people about those topics much more than it is done currently. 
