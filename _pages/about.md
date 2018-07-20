@@ -1,8 +1,12 @@
 ---
 layout: single
 permalink: /about/
-title: "About"
+title: "About me"
+header:
+  image: /assets/images/header.jpg
 ---
+
+<img src="/assets/images/header.jpg" alt="About me"> 
       
 I am a PhD student in cognitive neuroscience at the [Brain and Cognition Research Center (CerCo)](http://cerco.ups-tlse.fr/-Presentation-), in Toulouse, France and a teaching assistant in the department of Neuroscience and Behaviour at Paul Sabatier University (Toulouse 3).
 
