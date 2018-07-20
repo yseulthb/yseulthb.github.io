@@ -3,6 +3,7 @@ layout: single
 permalink: /research/
 title: ""
 ---
+<img src="/assets/images/RedFlowers.jpg" alt="My research"> 
 
 ## Scientific Production
 
