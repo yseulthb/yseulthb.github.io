@@ -22,7 +22,7 @@ Obviously trusting science is not the right term to use but that's very much the
 People from outside science should be educated/taught about how to understand science, and how to develop their critical thinking.
 Science is not a truth but is a process. What was true at a given time might be proven wrong at any other time, and the reverse
 works as well. 
-Sadly enough, too often scientific data or results are misinterpreted. And although scientists do oversell their findings, being precautious regarding data interpretation won't prevent people from misunderstanding a point. Media for example like very much to use appealing article headers that often turn out to make a point that is outside the scope of the study they're refering to. 
+Sadly enough, too often scientific data or results are misinterpreted. And although scientists do oversell their findings and should improve this aspect, being precautious regarding data interpretation won't prevent people from misunderstanding a point. Media for example like very much to use appealing article headers that often turn out to make a point that is outside the scope of the study they're refering to. 
 Instead of being crossed with the media, I believe it would be much more effective if scientists took the time to make their findings accessible to someone who is not in their field.
 And this is another point that is reached as well: the fact that even scientists, when they're not part of the field, could easily fall into this misinterpretation abyss. 
 
