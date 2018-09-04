@@ -22,7 +22,7 @@ The main purpose of this project is, thus, to provide a better understanding of 
 Those data will then be used to model stereoscopic vision with the aim of developing artificial vision systems that will be able to learn to detect those 3D properties without supervision.-->
 
 ### Teaching experience
-* 2015-Present: **Graduate teaching assistant** (64hr every year), Université Paul Sabatier, Toulouse, France<br />
+* 2015-2018: **Graduate teaching assistant** (64hr every year), Université Paul Sabatier, Toulouse, France<br />
 Bsc Biology - Practical and lab works, tutorial classes in:
    - Behavioural ecology (mating behaviour in the guppy fish, ideal free distribution)<br />
    - Behavioural neuroscience (pain, stress)<br />
@@ -71,7 +71,7 @@ Under the supervision of Eugénie Lhommée, Neuropsychologist at the Hospital of
 * 2013 (April-July): Research assistant, [MPI for Human Cognitive and Brain Sciences](https://www.cbs.mpg.de/), Leipzig, Germany<br />
 Department of social neuroscience - In charge of the coding of chimpanzees' vocalisations and statistical analysis. <br />
 Under the supervision of Natacha Mendès, now a scientific assistant at the MPI CBS. <br />
-A paper has actually been recently published by Natacha Mendès and collaborators! Here: https://www.nature.com/articles/s41562-017-0264-5
+A paper has been recently published by Natacha Mendès and collaborators! Here: https://www.nature.com/articles/s41562-017-0264-5
 
 
 ## Additional skills
