@@ -19,6 +19,10 @@ title: ""
 <!--## Conferences-->
 
 ### Oral presentations
+<!-- * **Héjja-Brichard, Y.** & Mercier M.R. (2018). La représentation des données en neuroscience cognitives *Talk given for the Toulouse Data Vizualisation group, Toulouse, France* -->
+
+<!-- * **Héjja-Brichard, Y.** (2018). Open Science: Why and How? *CerCo's Young Scientist Meeting, Toulouse, France* -->
+
 * **Héjja-Brichard, Y.** (2018). Stereovision in the animal kingdom: Which species, at what cost, and for which advantages? *CerCo Lab Day, Muret, France*
 
 * **Héjja-Brichard, Y.** & Cottereau, B.R. (2017). Adaptation aux régularités spatiales de l'environnement au sein de systèmes de vision stéréoscopique. *Journée des doctorants, Université Toulouse III Paul Sabatier, France*
