@@ -19,7 +19,7 @@ title: ""
 <!--## Conferences-->
 
 ### Oral presentations
-<!-- * **Héjja-Brichard, Y.** & Mercier M.R. (2018). La représentation des données en neuroscience cognitives *Talk given for the Toulouse Data Vizualisation group, Toulouse, France* -->
+* **Héjja-Brichard, Y.** & Mercier M.R. (2018). Data visualisation in cognitive neuroscience: Functional neurioimaging and electrophysiology. *Talk given for the Toulouse Data Vizualisation group, Toulouse, France*
 
 <!-- * **Héjja-Brichard, Y.** (2018). Open Science: Why and How? *CerCo's Young Scientist Meeting, Toulouse, France* -->
 
