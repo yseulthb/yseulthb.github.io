@@ -19,7 +19,7 @@ title: ""
 <!--## Conferences-->
 
 ### Oral presentations
-* **Héjja-Brichard, Y.** & Mercier M.R. (2018). Data visualisation in cognitive neuroscience: Functional neurioimaging and electrophysiology. *Talk given for the Toulouse Data Vizualisation group, Toulouse, France* <a href="/pdf/YHB_ToulouseDataViz.pdf" target="_blank"><b>[slides]</b></a><br>
+* **Héjja-Brichard, Y.** & Mercier M.R. (2018). Data visualisation in cognitive neuroscience: Functional neuroimaging and electrophysiology. *Talk given for the Toulouse Data Vizualisation group, Toulouse, France* <a href="/pdf/YHB_ToulouseDataViz.pdf" target="_blank"><b>[slides]</b></a><br>
 
 <!-- * **Héjja-Brichard, Y.** (2018). Open Science: Why and How? *CerCo's Young Scientist Meeting, Toulouse, France* -->
 
@@ -52,5 +52,5 @@ title: ""
 *Yseult Héjja-Brichard & Benoit R. Cottereau "Evolution et vision : le vivant a de la profondeur !" ([here](http://www.museum.toulouse.fr/-/evolution-et-vision-le-vivant-a-de-la-profondeur-))*
 
 * Member of [InCOGnu](http://incognu.fr/), an organisation of students and young researchers in cognitive science in Toulouse area, France. We organise monthly conferences, workshops for the general audience (adults and children) and take part in various events of science popularisation (Pint of Science, Brain Awareness Week, National Forum of cognitive science, Scientilivre ...). We also give talks about various topics in the field of cognitive sciences. <br> 
-More specifically, I am involved in communicating about the events and am a member of the board, thus taking part in decision making and project proposal submission, or inviting speakers.
+More specifically, I am involved in communicating about the events and am a member of the board, thus taking part in decision making and project proposal submission, or in inviting speakers.
 
