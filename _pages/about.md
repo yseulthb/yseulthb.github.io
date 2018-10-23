@@ -6,7 +6,7 @@ title: "About me"
 
 <img src="/assets/images/header.jpg" alt="About me"> 
       
-I am a PhD student in cognitive neuroscience at the [Brain and Cognition Research Center (CerCo)](http://cerco.ups-tlse.fr/-Presentation-), in Toulouse, France and a teaching assistant in the department of Neuroscience and Behaviour at Paul Sabatier University (Toulouse 3).
+I am a PhD student (4th year) in cognitive neuroscience at the [Brain and Cognition Research Center (CerCo)](http://cerco.ups-tlse.fr/-Presentation-), in Toulouse, France and a former teaching assistant in the department of Neuroscience and Behaviour at Paul Sabatier University (Toulouse 3).
 
 The aim of my PhD work is to understand how the primate visual system adapts to spatial regularities in the visual environment and more specifically how the brain encodes 3D properties. I mostly conduct behavioural ([psychophysics](https://en.wikipedia.org/wiki/Psychophysics)) and neuroimaging ([fMRI](https://en.wikipedia.org/wiki/Functional_magnetic_resonance_imaging)) studies.
 
