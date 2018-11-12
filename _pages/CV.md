@@ -76,7 +76,7 @@ A paper has been recently published by Natacha Mendès and collaborators! Here: 
 
 ## Additional skills
 
-* Computing skills: Matlab, SPM12, R programming, EventIDE and E-Prime (stimulus presentation software), LaTeX, Photoshop, Adobe Illustrator, SPSS, Avisoft
+* Computing skills: Matlab, SPM12, R programming, EventIDE (stimulus presentation software), LaTeX, Adobe Illustrator, Photoshop, Zotero, Github
 * Project management: Organising lab events, such as the Lab day or the annual lab winter school; Organising conferences, debates and workshop for the general audience; Creating original course content and new assessment methods for university students
 * Public communication: Communicating about an event of science popularisation; Giving talks about science to the general public; presentating scientific papers to a scientific audience
 * Languages: French (native), English (Toefl iBT: 104/120), German (good command in speaking, level B2), Spanish (good command in speaking, level B1)
