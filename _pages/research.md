@@ -31,7 +31,7 @@ title: ""
 * **Héjja-Brichard, Y.** (2016). Morality and Ethics: A (very) short review. *CerCo Lab's Journal Club, Toulouse, France.* 
 
 ### Poster presentations
-* **Héjja-Brichard, Y.**, Rima, S., Rapha, E., Durand, J.-B., Cottereau, B.R. (2018, November). Stereomotion processing in the non-human primate brain. Annual meeting of Society for Neuroscience, San Diego, USA.
+* **Héjja-Brichard, Y.**, Rima, S., Rapha, E., Durand, J.-B., Cottereau, B.R. (2018, November). Stereomotion processing in the non-human primate brain. *Annual meeting of Society for Neuroscience, San Diego, USA*.
 
 <!--* **Héjja-Brichard, Y.**, Rima, S., Durand, J.-B., Cottereau, B.R. (2017, October). Stereomotion processing in the non-human primate brain. *GDR Vision annual forum, Lille, France*.-->
 
