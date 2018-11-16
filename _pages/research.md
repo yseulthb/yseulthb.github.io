@@ -42,7 +42,7 @@ title: ""
 
 ## Workshop
 * 2018 (November): **2018 Primate Welfare Meeting**, organised by the NC3Rs in London, UK.
-* 2018 (May): **The 6th Toulouse Economics and Biology Workshop**, on the theme '[Evolution, Cognition, and Rationality](http://www.iast.fr/conferences/2018-6th-toulouse-economics-and-biology-workshop)' organised by the Institute for Advance Study in Toulouse, France.
+* 2018 (May): **The 6th Toulouse Economics and Biology Workshop**, on the theme '[Evolution, Cognition, and Rationality](http://www.iast.fr/conferences/2018-6th-toulouse-economics-and-biology-workshop)' organised by the Institute for Advanced Study in Toulouse, France.
 * 2017 (March): **Statistics workshop** on advanced statistical methods using R software taught by [Martijn Wieling](http://www.martijnwieling.nl/presentations) (University of Groningen, The Netherlands) organised at the CerCo Lab
 * 2016 (November): **Statistics workshop**: "Building Confidence Intervals with R" taught by Jean-Michel Hupé (CerCo, CNRS Toulouse, France) [(pdf)](https://gdrvision2016.sciencesconf.org/data/pages/GDRvision2016_ConfidenceIntervalsBasics.pdf)
 * 2016 (April): **Ethics in research** "[Aspects éthiques de la recherche en biologie et enjeux de société](http://societal.genotoul.fr/wp-content/uploads/2017/01/Module-2016-DP04-B-Programme.pdf)" organised by a doctoral school (BSB-Biologie, Santé, Biotechnologie), Toulouse, France.
