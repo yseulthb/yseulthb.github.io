@@ -28,7 +28,8 @@ title: ""
 
 #### *Small talk(s)*
 * **Héjja-Brichard, Y.** (2018). Stereovision in the animal kingdom: Which species, at what cost, and for which advantages? *CerCo Lab Day, Muret, France* 
-* **Héjja-Brichard, Y.** (2016). Morality and Ethics: A (very) short review. *CerCo Lab's Journal Club, Toulouse, France.* 
+* **Héjja-Brichard, Y.** (2017). Sexism in research and at the university: Why should it matter? What can we do about it?  *CerCo Winter School, Piau-Engaly, France.*
+* **Héjja-Brichard, Y.** (2016). Morality and Ethics: A (very) short review. *CerCo Journal Club, Toulouse, France.* 
 
 ### Poster presentations
 * **Héjja-Brichard, Y.**, Rima, S., Rapha, E., Durand, J.-B., Cottereau, B.R. (2018, November). Stereomotion processing in the non-human primate brain. *Annual meeting of Society for Neuroscience, San Diego, USA*.
