@@ -72,8 +72,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yseult Héjja-Brichard"
-  avatar           : "/assets/images/face.jpg"# path of avatar image, e.g. "/assets/images/face.jpg"
+  name             : #"Yseult Héjja-Brichard"
+  avatar           : #"/assets/images/face.jpg"# path of avatar image, e.g. "/assets/images/face.jpg"
   bio              : ""
   location         : 
   email            : "yseulthb@gmail.com"
