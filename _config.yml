@@ -72,8 +72,8 @@ analytics:
 
 # Site Author
 author:
-  name             : #"Yseult Héjja-Brichard"
-  avatar           : #"/assets/images/face.jpg"# path of avatar image, e.g. "/assets/images/face.jpg"
+  name             : "Yseult HB"
+  avatar           : "/assets/images/face.jpg"# path of avatar image, e.g. "/assets/images/face.jpg"
   bio              : ""
   location         : 
   email            : "yseulthb@gmail.com"
@@ -97,6 +97,12 @@ author:
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
   twitter          : "Izzie_Hb"
+        - label: "Twitter"
+        icon: "https://upload.wikimedia.org/wikipedia/fr/c/c8/Twitter_Bird.svg"
+        url: "https://twitter.com/Izzie_Hb"
+        - label: "GitHub"
+        icon: "https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"
+        url: "https://github.com/yseulthb"
   vine             :
   weibo            :
   xing             :
@@ -245,7 +251,7 @@ defaults:
       type: pages
     values:
       layout: single #splash 
-      author_profile: false
+      author_profile: true
 
 #category_archive:
  # type: liquid
