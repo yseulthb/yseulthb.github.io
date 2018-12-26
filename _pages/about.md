@@ -17,4 +17,4 @@ Another aspect of science that really matters to me is to share it with the grea
 
 Finally, because there is more than just hard working in life, I like taking care of my plants and spending time thinking about the different forms of urban agriculture and how the natural environment and ecological concerns can play a role in urbanism and our everyday life.
 
-The aim of the blog section is to address those different topics in a very informal way, sharing my thoughts and discussing different points of view. 
+<!-- The aim of the blog section is to address those different topics in a very informal way, sharing my thoughts and discussing different points of view. -->
