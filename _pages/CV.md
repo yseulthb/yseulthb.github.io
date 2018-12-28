@@ -2,6 +2,7 @@
 layout: single
 permalink: /CV/
 title: "Resume"
+classes: wide
 ---
 
 <img src="/assets/images/ToulouseByNight.jpg" alt="Toulouse by night"> 
