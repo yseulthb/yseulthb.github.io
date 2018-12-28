@@ -75,8 +75,7 @@ analytics:
 author:
   name             : "Yseult HB"
   avatar           : "/assets/images/face.jpg" 
-  bio              : "."
-  location         : ""
+  bio              : 
   email            : "yseulthb@gmail.com"
   links:
     - label: "Twitter"
