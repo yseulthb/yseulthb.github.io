@@ -70,25 +70,23 @@ analytics:
     tracking_id          : # "UA-106834531-1"
 
 
-# Site Author
+  
+  # Site Author
 author:
   name             : "Yseult HB"
-  avatar           : "/assets/images/face.jpg" # path of avatar image, e.g. "/assets/images/face.jpg"
-  bio              : "-"
-  location         : 
+  avatar           : "/assets/images/face.jpg" 
+  bio              : "."
+  location         : ""
   email            : "yseulthb@gmail.com"
-  uri              :
   links:
-   - label: "Twitter"
-   #icon: "https://upload.wikimedia.org/wikipedia/fr/c/c8/Twitter_Bird.svg"
-   url: "https://twitter.com/Izzie_Hb"
-   - label: "GitHub"
-   #icon: "https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"
-   url: "https://github.com/yseulthb"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/Izzie_Hb"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/yseulthb"
+
+
 
 # Reading Files
 include:
