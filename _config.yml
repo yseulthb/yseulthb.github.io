@@ -78,13 +78,13 @@ author:
   location         : 
   email            : "yseulthb@gmail.com"
   uri              :
-  links            :
-        - label: "Twitter"
-        #icon: "https://upload.wikimedia.org/wikipedia/fr/c/c8/Twitter_Bird.svg"
-        url: "https://twitter.com/Izzie_Hb"
-        - label: "GitHub"
-        #icon: "https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"
-        url: "https://github.com/yseulthb"
+  links:
+   - label: "Twitter"
+   #icon: "https://upload.wikimedia.org/wikipedia/fr/c/c8/Twitter_Bird.svg"
+   url: "https://twitter.com/Izzie_Hb"
+   - label: "GitHub"
+   #icon: "https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"
+   url: "https://github.com/yseulthb"
   vine             :
   weibo            :
   xing             :
