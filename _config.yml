@@ -77,24 +77,20 @@ author:
   avatar           : "/assets/images/face.jpg" 
   bio              : 
   email            : "yseulthb@gmail.com"
-  twitter          : "https://twitter.com/Izzie_Hb"
-  github           : "https://github.com/yseulthb"
-  links:
-    -label: "twitter" 
+links:
+    - label: "Made Mistakes"
+      icon: "fas fa-fw fa-link"
+      url: "https://mademistakes.com"
+    - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/Izzie_Hb"
-    -label: "github" 
-      icon: "fab fa-github" 
-      url: "https://github.com/yseulthb"
-    -label: "OSF" 
-      icon: "https://pbs.twimg.com/profile_images/3311713138/7b31d78c969f48aa7613dcc24dc4ec8d_400x400.png" 
-      url: "https://osf.io/nd82r"
-    -label: "Research Gate" 
-      icon: "fab fa-researchgate" 
-      url: "https://www.researchgate.net/profile/Yseult_Hejja-Brichard"
-    -label: "My Scholar"
-      icon: "https://png.pngtree.com/svg/20170406/google_scholar_1094619.png"
-      url: "https://scholar.google.com/citations?user=B7sULyEAAAAJ&hl=en&oi=ao"
+      url: "https://twitter.com/mmistakes"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/mmistakes"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/mmistakes"
+
  
 
 # Reading Files
