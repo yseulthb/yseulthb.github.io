@@ -84,7 +84,15 @@ links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/yseulthb"
-
+    -label: "OSF" 
+      icon: "ai ai-osf" 
+      url: "https://osf.io/nd82r"
+    -label: "Research Gate" 
+      icon: "fab fa-researchgate" 
+      url: "https://www.researchgate.net/profile/Yseult_Hejja-Brichard"
+    -label: "My Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/citations?user=B7sULyEAAAAJ&hl=en&oi=ao"
 
  
 
