@@ -73,8 +73,8 @@ analytics:
 # Site Author
 author:
   name             : "Yseult HB"
-  avatar           : "/assets/images/face.jpg"# path of avatar image, e.g. "/assets/images/face.jpg"
-  bio              : ""
+  avatar           : "/assets/images/face.jpg" # path of avatar image, e.g. "/assets/images/face.jpg"
+  bio              : "-"
   location         : 
   email            : "yseulthb@gmail.com"
   uri              :
