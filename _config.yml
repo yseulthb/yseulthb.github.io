@@ -80,14 +80,21 @@ author:
   twitter          : "https://twitter.com/Izzie_Hb"
   github           : "https://github.com/yseulthb"
   links:
+    -label: "twitter" 
+      icon: "https://upload.wikimedia.org/wikipedia/fr/c/c8/Twitter_Bird.svg" 
+      url: "https://twitter.com/Izzie_Hb"
+    -label: "github" 
+      icon: "https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" 
+      url: "https://github.com/yseulthb"
     -label: "OSF" 
-      icon: "icon ai ai-osf" 
+      icon: "https://pbs.twimg.com/profile_images/3311713138/7b31d78c969f48aa7613dcc24dc4ec8d_400x400.png" 
       url: "https://osf.io/nd82r"
     -label: "Research Gate" 
-      icon: "icon ai ai-researchgate" 
+      icon: "https://i1.rgstatic.net/ii/institution.image/AS%3A267458164789257%401440778403888_l" 
       url: "https://www.researchgate.net/profile/Yseult_Hejja-Brichard"
     -label: "My Scholar"
-      icon: "icon ai ai-google-scholar"
+      icon: "https://png.pngtree.com/svg/20170406/google_scholar_1094619.png"
+      url: "https://scholar.google.com/citations?user=B7sULyEAAAAJ&hl=en&oi=ao"
  
 
 # Reading Files
