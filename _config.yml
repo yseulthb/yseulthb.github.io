@@ -77,13 +77,9 @@ author:
   avatar           : "/assets/images/face.jpg" 
   bio              : 
   email            : "yseulthb@gmail.com"
+  twitter          : "https://twitter.com/Izzie_Hb"
+  github           : "https://github.com/yseulthb"
   links:
-    - label: "Twitter"
-      icon: "icon fa fa-twitter"
-      url: "https://twitter.com/Izzie_Hb"
-    - label: "GitHub"
-      icon: "icon fa fa-github-alt"
-      url: "https://github.com/yseulthb"
     -label: "OSF" 
       icon: "icon ai ai-osf" 
       url: "https://osf.io/nd82r"
