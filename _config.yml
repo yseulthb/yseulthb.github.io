@@ -79,13 +79,20 @@ author:
   email            : "yseulthb@gmail.com"
   links:
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "icon fa fa-twitter"
       url: "https://twitter.com/Izzie_Hb"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "icon fa fa-github-alt"
       url: "https://github.com/yseulthb"
-
-
+    -label: "OSF" 
+      icon: "icon ai ai-osf" 
+      url: "https://osf.io/nd82r"
+    -label: "Research Gate" 
+      icon: "icon ai ai-researchgate" 
+      url: "https://www.researchgate.net/profile/Yseult_Hejja-Brichard"
+    -label: "My Scholar"
+      icon: "icon ai ai-google-scholar"
+ 
 
 # Reading Files
 include:
