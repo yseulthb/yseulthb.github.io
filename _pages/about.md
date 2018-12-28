@@ -2,6 +2,7 @@
 layout: single
 permalink: /about/
 title: "About me"
+classes: wide
 ---
 
 <img src="/assets/images/header.jpg" alt="About me"> 
