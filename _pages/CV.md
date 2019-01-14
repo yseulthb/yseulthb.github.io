@@ -9,7 +9,7 @@ classes: wide
 
 <!-- Available here: <a href="/pdf/cvacademic.pdf" target="_blank"><b>CV</b></a> -->
 
-A pdf version of my CV can be found here: <a href="/pdf/ YHejjaBrichard_CVacademic.pdf" target="_blank"><b>CV</b></a><br> (Last update: 14/01/2019)
+A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademic.pdf" target="_blank"><b>CV</b></a><br> (Last update: 14/01/2019)
 
 ### Doctoral research
 * 2015-Present: **PhD studies in Cognitive neuroscience**, Université Paul Sabatier and [CerCo](http://www.cerco.ups-tlse.fr/3D-space-and-context-ECO-3D?lang=fr) (CNRS), Toulouse, France. Supervisor: Benoit Cottereau, CNRS researcher. <br />
