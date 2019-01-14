@@ -34,7 +34,7 @@ Bsc Biology - Practical and lab works, tutorial classes in:
 Teaching French as a foreign language (FLE) to adults
 
 * Co-supervision of Master's students <br />
-MSc in Psychology, Università di Trieste, 2019 <br />
+MSc in Psychology, Università degli studi di Trieste, 2019 <br />
 MSc in Neuroscience, University of Bordeaux, 2017-2018
 
 * 2011 (June-October): Tutor and Student Mentor for first-year students in Psychology, University of Grenoble, France <br />
