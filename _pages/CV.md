@@ -9,14 +9,14 @@ classes: wide
 
 <!-- Available here: <a href="/pdf/cvacademic.pdf" target="_blank"><b>CV</b></a> -->
 
-A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademic.pdf" target="_blank"><b>CV</b></a><br> (Last update: 12/11/2018)
+A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademic.pdf" target="_blank"><b>CV</b></a><br> (Last update: 14/01/2019)
 
 ### Doctoral research
 * 2015-Present: **PhD studies in Cognitive neuroscience**, Université Paul Sabatier and [CerCo](http://www.cerco.ups-tlse.fr/3D-space-and-context-ECO-3D?lang=fr) (CNRS), Toulouse, France. Supervisor: Benoit Cottereau, CNRS researcher. <br />
 Title of the thesis: Adaptation to the 3D properties of the visual environment in primates.<br />
 
 Brief synopsis:<br />
-The main purpose of this project is to provide a better understanding of how the visual system in primates adapts to the 3D properties of our environment. The relation between the 3D properties of natural scenes and cortical responses to those properties are investigated at a macroscopic level by conducting functional neuroimaging studies. I am also conducting psychophysics studies to have an insight into the link between visual perception, natural statistics and brain activity.
+My PhD project aims to provide a better understanding of how the visual system in primates adapts to the 3D properties of natural scenes. I am investigating the relationship between the 3D properties of the environment and neural responses, conducting functional neuroimaging studies. I am also collecting psychophysics measurements to give insight into the link between visual perception, natural statistics and the brain activity.
 <!-- Stereovision refers to our ability to perceive the tridimensional (3D) structure of our environment from the bidimensional images that are projected on our retinas. In primates, it is considered to have contributed to the emergence of fine motor skills, such as reaching and grasping objects, by giving precise information about the position and form of the objects that are in our environment.<br />
 Surprisingly, despite the work dedicated to the development of those technologies, artificial models of stereovision are still far from reaching such performances, their main limit being that their preestablished approaches that are not able to adapt to the different environmental properties.<br />
 The main purpose of this project is, thus, to provide a better understanding of how the visual system in primates adapts to the 3D properties of our environment. We intend to study the relation between the 3D properties of our environment and cortical responses to those properties at a macroscopic level, by conducting functional neuroimaging studies.<br />
@@ -33,7 +33,8 @@ Bsc Biology - Practical and lab works, tutorial classes in:
 * 2015-2016: **Volunteering teacher**, NGO “[Croissant Fertile](http://www.croissantfertile.fr/)”, Toulouse, France<br />
 Teaching French as a foreign language (FLE) to adults
 
-* Co-supervision of a Master's student <br />
+* Co-supervision of Master's students <br />
+MSc in Psychology, Università di Trieste, 2019 <br />
 MSc in Neuroscience, University of Bordeaux, 2017-2018
 
 * 2011 (June-October): Tutor and Student Mentor for first-year students in Psychology, University of Grenoble, France <br />
