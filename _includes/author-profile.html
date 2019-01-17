@@ -242,6 +242,30 @@
           </a>
         </li>
       {% endif %}
+      
+      {% if author.OSF %}
+        <li>
+          <a href="https://osf.io/"{{ author.OSF }}" itemprop="sameAs">
+            <i class="icon ai ai-osf" aria-hidden="true"></i> OSF                                            
+          </a>
+        </li>
+      {% endif %}
+                                                        
+      {% if author.ResearchGate %}
+        <li>
+          <a href="https://vine.co/u/{{ author.ResearchGate }}" itemprop="sameAs">
+            <i class="icon ai ai-researchgate" aria-hidden="true"></i> ResearchGate
+          </a>
+        </li>
+      {% endif %}
+                                                                 
+      {% if author.Scholar %}
+        <li>
+          <a href="https://vine.co/u/{{ author.Scholar }}" itemprop="sameAs">
+            <i class="icon ai ai-google-scholar" aria-hidden="true"></i> Scholar
+          </a>
+        </li>
+      {% endif %}
 
       {% include author-profile-custom-links.html %}
     </ul>
