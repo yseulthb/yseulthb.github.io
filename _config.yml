@@ -79,8 +79,8 @@ author:
   email            : "yseulthb@gmail.com"
 links: 
     - label: "Twitter"
-  icon: "fab fa-fw fa-twitter-square"
-  url: "https://twitter.com/Izzie_Hb"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/Izzie_Hb"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/yseulthb"
