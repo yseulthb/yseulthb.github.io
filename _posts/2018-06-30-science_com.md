@@ -45,3 +45,6 @@ Scientists can no longer pretend to be in an ivory tower. Scientists are part of
 
 
 This post was also published on [the Walden III Slowpen Science Lab's Medium page](https://medium.com/@slowpenscience/what-it-means-to-be-a-scientist-40dffa96ff9f).
+
+
+![Picture_Greenery](/assets/images/Greenery_IG.jpg)
