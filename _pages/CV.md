@@ -72,7 +72,7 @@ Under the supervision of Eugénie Lhommée, Neuropsychologist at the Hospital of
 
 * 2013 (April-July): Research assistant, [MPI for Human Cognitive and Brain Sciences](https://www.cbs.mpg.de/), Leipzig, Germany<br />
 Department of social neuroscience - In charge of the coding of chimpanzees' vocalisations and statistical analysis. <br />
-Under the supervision of Natacha Mendès, now a scientific assistant at the MPI CBS. <br />
+Under the supervision of Natacha Mendès, now a scientific co-ordinator at the Max Planck School of Cognition. <br />
 A [paper](https://www.nature.com/articles/s41562-017-0264-5) has been recently published by Natacha Mendès and collaborators!
 
 
