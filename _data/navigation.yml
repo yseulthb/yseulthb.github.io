@@ -6,5 +6,7 @@ main:
     url: /CV/
   - title: "Research"
     url: /research/
+  - title: "Projects"
+    url: /projects/
   - title: "Slowpen Science"
     url: http://slowpen.science/
