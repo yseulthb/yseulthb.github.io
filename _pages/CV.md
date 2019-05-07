@@ -33,13 +33,13 @@ Bsc Biology - Practical and lab works, tutorial classes in:
 * 2015-2016: **Volunteering teacher**, NGO “[Croissant Fertile](http://www.croissantfertile.fr/)”, Toulouse, France<br />
 Teaching French as a foreign language (FLE) to adults
 
-* Co-supervision of Master's students <br />
-MSc in Psychology, Università degli studi di Trieste, 2019 <br />
-MSc in Neuroscience, University of Bordeaux, 2017-2018
+* Co-supervision of Master's students in Neuroscience <br />
+2019: Università degli studi di Trieste <br />
+2018: University of Bordeaux, 2017-2018
 
-* 2011 (June-October): Tutor and Student Mentor for first-year students in Psychology, University of Grenoble, France <br />
+<!--* 2011 (June-October): Tutor and Student Mentor for first-year students in Psychology, University of Grenoble, France <br />
 Student Mentor (several weeks): Guiding the new students to find their way on the campus, helping them to get integrated <br />
-Student Tutor (a few hours): Helping students to get ready for their exams
+Student Tutor (a few hours): Helping students to get ready for their exams-->
 
 ### Community Involvement
 * At the lab level: Student representative at the Lab Council; Organisation of the students' Winter School; Co-organisation of the Annual Lab Meeting Day; Creation of a Welcome Kit
