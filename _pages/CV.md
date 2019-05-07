@@ -47,10 +47,8 @@ Student Tutor (a few hours): Helping students to get ready for their exams-->
 
 ### Education
 * 2015-Present: PhD student in Cognitive neuroscience, Université Paul Sabatier, Toulouse, France  
-* 2015: MSc in Neuroscience, Cognition, and Behaviour – Université Paul Sabatier, Toulouse, France 
-<!--Attended courses: Cognition, spatial cognition, sensory systems, neuroethology, collective behaviour, behavioural ecology, applied statistics-->
-* 2014: MSc in Cognitive Psychology – Université de Grenoble, France 
-<!--Attended courses: Visual cognition, memory, neurology and neuropsychology, psycholinguistics, movement planning and control, applied statistics-->
+* 2015: MSc in Neuroscience, Cognition, and Behaviour – Université Paul Sabatier, Toulouse, France <!--Attended courses: Cognition, spatial cognition, sensory systems, neuroethology, collective behaviour, behavioural ecology, applied statistics-->
+* 2014: MSc in Cognitive Psychology – Université de Grenoble, France <!--Attended courses: Visual cognition, memory, neurology and neuropsychology, psycholinguistics, movement planning and control, applied statistics-->
 * 2013: Bsc in Psychology – Université de Grenoble, France & Universität Leipzig, Germany
 
 
