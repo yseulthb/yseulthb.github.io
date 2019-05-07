@@ -16,7 +16,7 @@ A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademi
 Title of the thesis: Adaptation to the 3D properties of the visual environment in primates.<br />
 
 Brief synopsis:<br />
-My PhD project aims to provide a better understanding of how the visual system in primates adapts to the 3D properties of natural scenes. I am investigating the relationship between the 3D properties of the environment and neural responses, conducting functional neuroimaging studies. I am also collecting psychophysics measurements to give insight into the link between visual perception, natural statistics and the brain activity.
+My PhD project aims to provide a better understanding of how the visual system in primates adapts to the 3D properties of natural scenes. I am investigating the relationship between the 3D properties of the environment and neural responses, conducting functional neuroimaging studies. I am also collecting psychophysics measurements to give insight into the link between visual perception, natural statistics, and the brain activity.
 <!-- Stereovision refers to our ability to perceive the tridimensional (3D) structure of our environment from the bidimensional images that are projected on our retinas. In primates, it is considered to have contributed to the emergence of fine motor skills, such as reaching and grasping objects, by giving precise information about the position and form of the objects that are in our environment.<br />
 Surprisingly, despite the work dedicated to the development of those technologies, artificial models of stereovision are still far from reaching such performances, their main limit being that their preestablished approaches that are not able to adapt to the different environmental properties.<br />
 The main purpose of this project is, thus, to provide a better understanding of how the visual system in primates adapts to the 3D properties of our environment. We intend to study the relation between the 3D properties of our environment and cortical responses to those properties at a macroscopic level, by conducting functional neuroimaging studies.<br />
@@ -42,7 +42,7 @@ Student Mentor (several weeks): Guiding the new students to find their way on th
 Student Tutor (a few hours): Helping students to get ready for their exams
 
 ### Community Involvement
-* At the lab level: Student representative at the Lab Council; Organisation of the students' Winter School; Co-organisation of the Annual Lab Meeting Day
+* At the lab level: Student representative at the Lab Council; Organisation of the students' Winter School; Co-organisation of the Annual Lab Meeting Day; Creation of a Welcome Kit
 * At the scientific community level: Ambassador for the Center for Open Science
 
 ### Education
