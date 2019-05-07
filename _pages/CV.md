@@ -12,7 +12,7 @@ classes: wide
 A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademic.pdf" target="_blank"><b>CV</b></a><br> (Last update: 19/02/2019)
 
 ### Doctoral research
-* 2015-Present: **PhD studies in Cognitive neuroscience**, Université Paul Sabatier and [CerCo](http://www.cerco.ups-tlse.fr/3D-space-and-context-ECO-3D?lang=fr) (CNRS), Toulouse, France. Supervisor: Benoit Cottereau, CNRS researcher. <br />
+* 2015-Present: **PhD studies in cognitive Neuroscience**, Université Paul Sabatier and [CerCo](http://www.cerco.ups-tlse.fr/3D-space-and-context-ECO-3D?lang=fr) (CNRS), Toulouse, France. Supervisor: Benoit Cottereau, CNRS researcher. <br />
 Title of the thesis: Adaptation to the 3D properties of the visual environment in primates.<br />
 
 Brief synopsis:<br />
