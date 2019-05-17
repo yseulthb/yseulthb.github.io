@@ -10,7 +10,7 @@ classes: wide
 
 ### Publications 
 
-* **Héjja-Brichard, Y.**, Rima, S., Rapha, E., Durand, J.-B., Cottereau, B.R. (*submitted*). Stereomotion processing of in the non-human primate brain. [Preprint](https://www.biorxiv.org/content/10.1101/638155v1) & [OSF project](https://osf.io/yxrsv/)
+* **Héjja-Brichard, Y.**, Rima, S., Rapha, E., Durand, J.-B., Cottereau, B.R. (*submitted*). Stereomotion processing of in the non-human primate brain. [[Preprint](https://www.biorxiv.org/content/10.1101/638155v1) & [OSF project](https://osf.io/yxrsv/)]
 
 <!-- * Rima, S., Cottereau, B.R., **Héjja-Brichard, Y.**, Trotter, Y. & Durand, J.B. (*in prep*). A new visuotopic cluster in macaque posterior parietal cortex revealed by wide-field retinotopy. -->
 
