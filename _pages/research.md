@@ -37,7 +37,7 @@ classes: wide
 ### Poster presentations
 * **Héjja-Brichard, Y.**, Rima, S., Rapha, E., Durand, J.-B., Cottereau, B.R. (2018, November). Stereomotion processing in the non-human primate brain. *Annual meeting of Society for Neuroscience, San Diego, USA*.
 
-<!--* **Héjja-Brichard, Y.**, Rima, S., Durand, J.-B., Cottereau, B.R. (2017, October). Stereomotion processing in the non-human primate brain. *GDR Vision annual forum, Lille, France*.-->
+* Rima, S., Cottereau, B.R., **Héjja-Brichard, Y.**, Trotter, Y. & Durand, J.-B. (2017, November). Wide-field retinotopy reveals a new visuotopic cluster in IPS. *Annual meeting of Society for Neuroscience, Washington, USA*.
 
 * **Héjja-Brichard, Y.**, Rima, S., Durand, J.-B., Cottereau, B.R. (2017, August). Stereomotion processing in the non-human primate brain. *European Conference on Visual Perception, Berlin, Germany*.
 
