@@ -8,12 +8,15 @@ classes: wide
 
 ## Scientific Production
 
-### Preprints
-* **Héjja-Brichard, Y.**, Rima, S., Rapha, E., Durand, J.-B., Cottereau, B.R. (*submitted*). Stereomotion processing in the non-human primate brain. <b>[[Preprint](https://www.biorxiv.org/content/10.1101/638155v1) & [OSF project](https://osf.io/yxrsv/)]</b>
+### Preprints or in preparation
+
+* **Héjja-Brichard, Y.**, Rima, S., Rapha, E., Durand, J.-B., Cottereau, B.R. (*under review*). Stereomotion processing in the non-human primate brain. <b>[[Preprint](https://www.biorxiv.org/content/10.1101/638155v1) & [OSF project](https://osf.io/yxrsv/)]</b>
+
+* Rima, S., Cottereau, B.R., **Héjja-Brichard, Y.**, Trotter, Y. & Durand, J.B. (*under review*). A new visuotopic cluster in macaque posterior parietal cortex revealed by wide-field retinotopy.
 
 ### Publications 
 
-<!-- * Rima, S., Cottereau, B.R., **Héjja-Brichard, Y.**, Trotter, Y. & Durand, J.B. (*in prep*). A new visuotopic cluster in macaque posterior parietal cortex revealed by wide-field retinotopy. -->
+<!-- * Rima, S., Cottereau, B.R., **Héjja-Brichard, Y.**, Trotter, Y. & Durand, J.B. (*under review*). A new visuotopic cluster in macaque posterior parietal cortex revealed by wide-field retinotopy. -->
 
 * Cottereau, B.R., Smith, A.T., Rima, S., Fize, D., **Héjja-Brichard, Y.**, Renaud, L., … Durand, J.-B. (2017). Processing of Egomotion-Consistent Optic Flow in the Rhesus Macaque Cortex. *Cerebral Cortex*, 1-14 ([doi](https://doi.org/10.1093/cercor/bhw412)).
 
@@ -35,6 +38,9 @@ classes: wide
 * **Héjja-Brichard, Y.** (2016). Morality and Ethics: A (very) short review. *CerCo Journal Club, Toulouse, France.* 
 
 ### Poster presentations
+
+* **Héjja-Brichard, Y.**, Bruzzone, S.E.P, Rapha, E., Durand, J.-B., Cottereau, B.R. (2019, September). Natural statistics influence depth perception. *Predictive brain conference, Marseille, France*. 
+
 * **Héjja-Brichard, Y.**, Rima, S., Rapha, E., Durand, J.-B., Cottereau, B.R. (2018, November). Stereomotion processing in the non-human primate brain. *Annual meeting of Society for Neuroscience, San Diego, USA*.
 
 * Rima, S., Cottereau, B.R., **Héjja-Brichard, Y.**, Trotter, Y. & Durand, J.-B. (2017, November). Wide-field retinotopy reveals a new visuotopic cluster in IPS. *Annual meeting of Society for Neuroscience, Washington, USA*.
