@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /CV/
-title: "Resume"
+title: ""
 classes: wide
 ---
 
