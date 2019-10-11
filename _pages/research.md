@@ -8,7 +8,7 @@ classes: wide
 
 ## Scientific Production
 
-### In preparation
+### Under review
 
 * **Héjja-Brichard, Y.**, Rima, S., Rapha, E., Durand, J.-B., Cottereau, B.R. (*under review*). Stereomotion processing in the non-human primate brain. <b>[[Preprint](https://www.biorxiv.org/content/10.1101/638155v1) & [OSF project](https://osf.io/yxrsv/)]</b>
 
