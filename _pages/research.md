@@ -28,7 +28,7 @@ classes: wide
 * **Héjja-Brichard, Y.** & Cottereau, B.R. (2017). Adaptation aux régularités spatiales de l'environnement au sein de systèmes de vision stéréoscopique. *Journée des doctorants, Université Toulouse III Paul Sabatier, France*
 
 #### *Conference talks*
-* Audurier, P.,**Héjja-Brichard, Y.**, Kohler, P.J., Norcia, A.M., Durand, J.-B., Cottereau, B.R. (2019). Processing of rotational symmetry in the non-human primate brain. Talk given at the annual meeting of the French research group 'GDR Vision', Marseille, France.
+* Audurier, P., **Héjja-Brichard, Y.**, Kohler, P.J., Norcia, A.M., Durand, J.-B., Cottereau, B.R. (2019). Processing of rotational symmetry in the non-human primate brain. Talk given at the annual meeting of the French research group 'GDR Vision', Marseille, France.
 
 #### *Small talk(s)*
 * **Héjja-Brichard, Y.** (2019). Democracy in the animal kingdom: Collaborative decision-making.  *CerCo Winter School, Pragnères, France.*
