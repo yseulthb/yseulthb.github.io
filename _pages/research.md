@@ -29,10 +29,12 @@ classes: wide
 
 * **Héjja-Brichard, Y.** & Mercier M.R. (2018). Data visualisation in cognitive neuroscience: Functional neuroimaging and electrophysiology. *Talk given for the Toulouse Data Vizualisation group, Toulouse, France* <a href="/pdf/YHB_ToulouseDataViz.pdf" target="_blank"><b>[slides]</b></a><br>
 
+* Beffara, B., Nalborczyk, L., **Héjja-Brichard, Y.**, & Bret, A. (2017). Open, slow and sustainable science. Talk given at the PhD student day of the LPNC, Grenoble, France.
+
 * **Héjja-Brichard, Y.** & Cottereau, B.R. (2017). Adaptation aux régularités spatiales de l'environnement au sein de systèmes de vision stéréoscopique. *Journée des doctorants, Université Toulouse III Paul Sabatier, France*
 
 #### *Conference talks*
-* Audurier, P.,**Héjja-Brichard, Y.**, Kohler, P.J., Norcia, A.M., Durand, J.-B., Cottereau, B.R. (2019).Processing of rotational symmetry in the non-human primate brain. Talk given at the annualmeeting of the French research group ’GDR Vision’, Marseille, France.
+* Audurier, P.,**Héjja-Brichard, Y.**, Kohler, P.J., Norcia, A.M., Durand, J.-B., Cottereau, B.R. (2019). Processing of rotational symmetry in the non-human primate brain. Talk given at the annual meeting of the French research group 'GDR Vision', Marseille, France.
 
 #### *Small talk(s)*
 * **Héjja-Brichard, Y.** (2019). Democracy in the animal kingdom: Collaborative decision-making.  *CerCo Winter School, Pragnères, France.*
