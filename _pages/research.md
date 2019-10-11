@@ -73,4 +73,4 @@ More specifically, I am involved in communicating about the events and am a memb
                                                            
     <img src="/pdf/PhotoESOF_Incognu.jpg"
      alt="Incognu"
-     style="float: right; margin-right: 10px;"/>
+     style="float: right; margin-left: 10px;"/>
