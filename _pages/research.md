@@ -39,15 +39,10 @@ classes: wide
 ### Poster presentations
 
 * **Héjja-Brichard, Y.**, Bruzzone, S.E.P, Rapha, E., Durand, J.-B., Cottereau, B.R. (2019, September). Natural statistics influence depth perception. *Predictive brain conference, Marseille, France*. 
-
 * **Héjja-Brichard, Y.**, Rima, S., Rapha, E., Durand, J.-B., Cottereau, B.R. (2018, November). Stereomotion processing in the non-human primate brain. *Annual meeting of Society for Neuroscience, San Diego, USA*.
-
 * Rima, S., Cottereau, B.R., **Héjja-Brichard, Y.**, Trotter, Y. & Durand, J.-B. (2017, November). Wide-field retinotopy reveals a new visuotopic cluster in IPS. *Annual meeting of Society for Neuroscience, Washington, USA*.
-
 * **Héjja-Brichard, Y.**, Rima, S., Durand, J.-B., Cottereau, B.R. (2017, August). Stereomotion processing in the non-human primate brain. *European Conference on Visual Perception, Berlin, Germany*.
-
 * **Héjja-Brichard, Y.**, Rima, S., Trotter, Y., Banks, M.S., Durand, J.-B., Cottereau, B.R. (2015, December). Adaptation to the 3D properties of the environment in non-human primates. *GDR Vision annual forum, Grenoble, France*.
-
 
 ## Workshop
 * 2018 (November): **2018 Primate Welfare Meeting**, organised by the NC3Rs in London, UK.
@@ -59,9 +54,7 @@ classes: wide
 
 ## Popularisation of science
 * Public presentation on visual illusions (March 2019) for the [Brain Awareness Week](https://www.semaineducerveau.fr/manifestation/les-illusions-visuelles-une-illusion-du-cerveau/) at Quai des Savoirs, a cultural centre in Toulouse: "Les illusions visuelles, une illusion du cerveau?"
-
 * Public presentation on the study of 3D vision in animals  (February 2017) ["En tête à tête avec un jeune chercheur"](http://www.univ-toulouse.fr/sites/default/files/dp-avis_de_recherche-lactualite_par_les_jeunes_chercheurs-5fev2017.pdf), Museum de Toulouse: "La vision 3D : mieux qu’au cinéma !"
-
 * Article (March 2017, in French) about the evolution of 3D vision in animals, written for Muséum Toulouse (Museum of Natural sciences): 
 *Yseult Héjja-Brichard & Benoit R. Cottereau "Evolution et vision : le vivant a de la profondeur !" ([here](http://www.museum.toulouse.fr/-/evolution-et-vision-le-vivant-a-de-la-profondeur-))*
 
