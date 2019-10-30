@@ -1,13 +1,12 @@
 ---
 layout: single
 permalink: /projects/
-title: ""
+title: "Personal research projects"
 classes: wide
 ---
 
 <img src="/assets/images/WashingMachines.jpg" alt="My projects"> 
 
-## Personal research projects
 
 ### Moral extremism and speciesism <br/>
 *Combining different approaches to adequately compare the justification systems behind carnism and veganism with the ones behind pro- and anti-animal experimentation positions.*
