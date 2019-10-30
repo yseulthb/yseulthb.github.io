@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /CV/
-title: ""
+title: "CV"
 classes: wide
 ---
 
