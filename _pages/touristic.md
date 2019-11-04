@@ -10,8 +10,8 @@ classes: wide
 I happen to give touristic information to people planning to visit places where I've lived or that I spent a fair amount of time exploring. 
 I thought this might be worth gathering all advice and tips in one single place, so that more people can benefit from it. 
 
-### Toulouse
+### Toulouse & its surroundings
 
-### Brussels
+### Brussels & its surroundings & other Belgian places
 
-### Budapest
+### Budapest & other Hungarian places
