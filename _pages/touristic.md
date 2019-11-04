@@ -12,6 +12,6 @@ I thought this might be worth gathering all advice and tips in one single place,
 
 ### Toulouse & its surroundings
 
-### [Brussels & its surroundings & other Belgian places](yseulthb.github.io/_pages/touristic/BXL.md)
+### [Brussels & its surroundings & other Belgian places](/_pages/touristic/BXL.md)
 
 ### Budapest & other Hungarian places
