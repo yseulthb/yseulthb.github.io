@@ -5,7 +5,7 @@ title: "BXL"
 classes: wide
 ---
 
-<img src="/assets/images/Toulouse_rainy.jpg" alt="Touristic point"> 
+<img src="/assets/images/BEL.png" alt="Touristic point"> 
 
 # Brussels & its surroundings & other Belgian places
 
