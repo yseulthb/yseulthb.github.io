@@ -12,4 +12,6 @@ I thought this might be worth gathering all advice and tips in one single place,
 
 ### Toulouse
 
+### Brussels
+
 ### Budapest
