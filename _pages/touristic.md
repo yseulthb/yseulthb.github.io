@@ -17,3 +17,4 @@ I thought this might be worth gathering all advice and tips in one single place,
 <!-- ### [Brussels & its surroundings & other Belgian places](/_pages/touristic/BXL.md) -->
 
 ### Budapest & other Hungarian places
+<!-- ### [Budapest & other Hungarian places](/_pages/touristic/buda.md) -->
