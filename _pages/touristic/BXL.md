@@ -5,9 +5,9 @@ title: ""
 classes: wide
 ---
 
-<img src="/assets/images/BEL.png" alt="Touristic point"> 
-
 # Brussels & its surroundings & other Belgian places
+
+<img src="/assets/images/BEL.png" alt="Touristic point"> 
 
 ## Belgium: A bit of context
 
