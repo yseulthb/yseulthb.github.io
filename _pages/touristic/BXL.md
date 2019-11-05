@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /touristic/BXL/
-title: "BXL"
+title: ""
 classes: wide
 ---
 
