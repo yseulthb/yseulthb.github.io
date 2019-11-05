@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /touristic/buda/
-title: "buda"
+title: ""
 classes: wide
 ---
 
