@@ -7,6 +7,8 @@ classes: wide
 
 <img src="/assets/images/WashingMachines.jpg" alt="My projects"> 
 
+These are latent projects that I investigate with more or less regularity on my spare time.
+
 
 ### Moral extremism and speciesism <br/>
 *Combining different approaches to adequately compare the justification systems behind carnism and veganism with the ones behind pro- and anti-animal experimentation positions.*
