@@ -18,3 +18,5 @@ I thought this might be worth gathering all advice and tips in one single place,
 
 ### Budapest & other Hungarian places
 <!-- ### [Budapest & other Hungarian places](/_pages/touristic/buda.md) -->
+
+### [It's all about trains!](/_pages/touristic/trains.md)
