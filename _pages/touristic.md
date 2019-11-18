@@ -19,5 +19,4 @@ I thought this might be worth gathering all advice and tips in one single place,
 ### Budapest & other Hungarian places
 <!-- ### [Budapest & other Hungarian places](/_pages/touristic/buda/) -->
 
-### [It's all about trains!](/_pages/touristic/trains/)
-<a href="/_pages/touristic/trains/" target="_blank"><b>It's all about trains!</b></a><br>
+### <a href="/_pages/touristic/trains/" target="_blank"><b>It's all about trains!</b></a><br>
