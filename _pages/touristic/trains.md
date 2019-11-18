@@ -51,10 +51,12 @@ It also provides alternative roads and touristic information.
 - [Open railway map](https://www.openrailwaymap.org/) (all the railways in the world)
 
 
-### National railway companies 
+### National railway companies in Europe 
 
-**A**USTRIA (OBB, small prices): [Sparschiene](https://www.oebb.at/en/tickets-kundenkarten/oesterreich-europa/sparschiene.html) <br>
+**A**LBANIA: [HSH](https://hsh.com.al/) <br>
+AUSTRIA (OBB, small prices): [Sparschiene](https://www.oebb.at/en/tickets-kundenkarten/oesterreich-europa/sparschiene.html) <br>
 **B**ELGIUM: [SNCB](https://www.belgiantrain.be/fr) <br>
+BOSNIA AND HERZEGOVINA: [ZFBH](https://www.zfbh.ba/en/) or [ŽRS](https://www.zrs-rs.com/) <br>
 BULGARIA: [BDZ](http://www.bdz.bg/en/) <br>
 **C**ATALONIA: [rodalies](http://rodalies.gencat.cat/en/horaris/) <br>
 CROATIA: [hzpp.hr](www.hzpp.hr)  <br>
@@ -64,19 +66,26 @@ CZECH REP: [cd.cz](https://www.cd.cz/en/) <br>
 **F**INLAND: [veturi (VR)](https://www.vr.fi/cs/vr/en/frontpage) <br>
 FRANCE: [SNCF](https://www.oui.sncf/) <br>
 **G**ERMANY (Deutsche Bahn, small prices): [Preisfinder](https://ps.bahn.de/preissuche/preissuche/psc_start.post?dbkanal_007=L01_S01_D001_KIN0014_sparpreisfinder-content-button_LZ03#stay) <br>
+GREECE: [OSE](https://www.ose.gr/en/) <br>
 **H**UNGARY: [MÁV-csoport](https://www.mavcsoport.hu/en) <br>
 **I**RELAND (Eire): [irishrail](https://www.irishrail.ie) <br>
 ITALY: [trenitalia](https://www.trenitalia.com/) <br>
+**K**OSOVO: [trainkos](http://www.trainkos.com/) <br>
 **L**ATVIA: [dz.lv](https://www.ldz.lv)  <br>
 LITHUANIA: [litrail](http://www.litrail.lt/en/home) <br>
+**M**ACEDONIA: [MZT](https://mzt.mk/?lang=mk) <br>
+MOLDAVIA: [CFM](http://www.railway.md/) <br>
+MONTENEGRO: [ZCG](http://www.zcg-prevoz.me/) <br>
 **N**ETHERLANDS, the: [ns.nl](https://www.ns.nl/en) <br>
 NORWAY: [VY](https://www.vy.no) <br>
 **P**OLAND: [polrail](https://www.polrail.com) <br>
 PORTUGAL: [cp.pt](https://www.cp.pt)  <br>
 **R**OMANIA [Căile Ferate Române](https://www.cfrcalatori.ro/en/) <br>
-**S**LOVAKIA: [slovakrail](https://www.slovakrail.sk) <br>
+**S**ERBIA: [ŽS](http://serbianrailways.com/) <br>
+SLOVAKIA: [slovakrail](https://www.slovakrail.sk) <br>
 SLOVENIA: [slo-zeleznice](https://www.slo-zeleznice.si/en/passenger-transport) <br>
 SPAIN: [RENFE](https://venta.renfe.com/)  <br>
 SWEDEN: [sj.se](https://www.sj.se)  <br>
 SWITZERLAND: [SBB/CFF](https://www.sbb.ch/fr/home.html) <br>
+**U**KRAINE: [UR](https://www.uz.gov.ua/en/)
 
