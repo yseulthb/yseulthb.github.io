@@ -55,6 +55,7 @@ It also provides alternative roads and touristic information.
 
 **A**USTRIA (OBB, small prices): [Sparschiene](https://www.oebb.at/en/tickets-kundenkarten/oesterreich-europa/sparschiene.html) <br>
 **B**ELGIUM: [SNCB](https://www.belgiantrain.be/fr) <br>
+BULGARIA: [BDZ](http://www.bdz.bg/en/) <br>
 **C**ATALONIA: [rodalies](http://rodalies.gencat.cat/en/horaris/) <br>
 CROATIA: [hzpp.hr](www.hzpp.hr)  <br>
 CZECH REP: [cd.cz](https://www.cd.cz/en/) <br>
@@ -72,6 +73,7 @@ LITHUANIA: [litrail](http://www.litrail.lt/en/home) <br>
 NORWAY: [VY](https://www.vy.no) <br>
 **P**OLAND: [polrail](https://www.polrail.com) <br>
 PORTUGAL: [cp.pt](https://www.cp.pt)  <br>
+**R**OMANIA [Căile Ferate Române](https://www.cfrcalatori.ro/en/) <br>
 **S**LOVAKIA: [slovakrail](https://www.slovakrail.sk) <br>
 SLOVENIA: [slo-zeleznice](https://www.slo-zeleznice.si/en/passenger-transport) <br>
 SPAIN: [RENFE](https://venta.renfe.com/)  <br>
