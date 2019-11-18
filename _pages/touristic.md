@@ -14,9 +14,9 @@ I thought this might be worth gathering all advice and tips in one single place,
 
 ### Brussels & its surroundings & other Belgian places
 
-<!-- ### [Brussels & its surroundings & other Belgian places](/_pages/touristic/BXL.md) -->
+<!-- ### [Brussels & its surroundings & other Belgian places](/_pages/touristic/BXL/) -->
 
 ### Budapest & other Hungarian places
-<!-- ### [Budapest & other Hungarian places](/_pages/touristic/buda.md) -->
+<!-- ### [Budapest & other Hungarian places](/_pages/touristic/buda/) -->
 
-### [It's all about trains!](/_pages/touristic/trains.md)
+### [It's all about trains!](/_pages/touristic/trains/)
