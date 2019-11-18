@@ -23,7 +23,7 @@ It also provides alternative roads and touristic information.
 [trainline.eu](https://www.trainline.eu/) <br>
 [raileurope.co.uk](https://raileurope.co.uk/) (formerly loco2)
 
-- To help you find alternative transportation in case train tickets are too expensive or non-existent
+- To help you find alternative transportation in case train tickets are too expensive or non-existent: 
 [rome2rio.com](https://www.rome2rio.com/)
 
 
@@ -40,7 +40,7 @@ It also provides alternative roads and touristic information.
 
 ### Night trains in Europe
 - The different options: [interrail night trains](https://www.interrail.eu/en/plan-your-trip/trains-europe/night-trains) <br>
-- Map (last update: January 2018) of the night train network [here](https://rosnix.net/~per/tag/night-trains-map/map.png) <br>
+- [Map](https://rosnix.net/~per/tag/night-trains-map/map.png) (last update: January 2018) of the night train network <br>
 - Austrian night trains (the OBB is pushing for the maintenance and development of night train lines): [nightjet.com](https://www.nightjet.com/en/) <br>
 - Thello train (Paris to Venezia via Milano): [thello.com](https://www.thello.com/en/) <br>
 - French night trains (in French): [lefigaro.fr](https://www.lefigaro.fr/voyages/cinq-trains-de-nuit-que-l-on-peut-encore-emprunter-depuis-paris-20190821)
