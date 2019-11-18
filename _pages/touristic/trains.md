@@ -62,8 +62,8 @@ https://www.rome2rio.com/
 
 ### Railway pass to travel in Europe
 - Across Europe <br>
--- for European citizen: https://www.interrail.eu/fr
--- for non-European citizens: https://www.eurail.com/en
+ for European citizen: https://www.interrail.eu/fr <br>
+ for non-European citizens: https://www.eurail.com/en
 
 - Spain: http://www.renfe.com/EN/viajeros/viajes_internacionales/spainpass/index.html <br>
 - Switzeland: https://www.myswissalps.com/swisstravelpass <br>
