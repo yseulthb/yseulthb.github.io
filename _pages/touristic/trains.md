@@ -61,7 +61,7 @@ CZECH REP: [cd.cz](https://www.cd.cz/en/) <br>
 **D**ENMARK: [DSB](https://www.dsb.dk) <br>
 **E**STONIA: [evr.ee](http://www.evr.ee/en/home) (state-owned) and [elron.ee](https://elron.ee/en/) (around Tallin, private company) <br>
 **F**INLAND: [veturi (VR)](https://www.vr.fi/cs/vr/en/frontpage) <br>
-FRANCE [SNCF](https://www.oui.sncf/) <br>
+FRANCE: [SNCF](https://www.oui.sncf/) <br>
 **G**ERMANY (Deutsche Bahn, small prices): [Preisfinder](https://ps.bahn.de/preissuche/preissuche/psc_start.post?dbkanal_007=L01_S01_D001_KIN0014_sparpreisfinder-content-button_LZ03#stay) <br>
 **H**UNGARY: [MÁV-csoport](https://www.mavcsoport.hu/en) <br>
 **I**RELAND (Eire): [irishrail](https://www.irishrail.ie) <br>
