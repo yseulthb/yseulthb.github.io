@@ -7,6 +7,8 @@ classes: wide
 
 # It's all about trains!
 
+<img src="/assets/images/trains.jpg" alt="Train"> 
+
 ### National railway companies 
 
 **A**USTRIA (OBB, small prices): [Sparschiene](https://www.oebb.at/en/tickets-kundenkarten/oesterreich-europa/sparschiene.html) <br>
