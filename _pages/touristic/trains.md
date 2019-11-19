@@ -9,15 +9,14 @@ classes: wide
 
 <img src="/assets/images/trains.jpg" alt="Train"> 
 
+I tend to like train trips a lot and have gathered a bunch of information and tips that I thought might be of good use for others, too. <br>
+
 ### Tips & Tricks
 
 - A great website that gathers a huuuuge amount of information on train travel in Europe and in the world, sorted by countries and cities: [seat61.com](https://www.seat61.com/)  <br>
 It also provides alternative roads and touristic information.
 
 - A wonderful book about travelling across Europe by train, with a suggestion of trips and alternative railways + its complementary website: [Europe by rail](https://www.europebyrail.eu/about-the-book/) -> Slow travel. 
-
-
-- To check the access to plug sockets on Spanish trains: [RENFE prestaciones](http://www.renfe.com/viajeros/nuestros_trenes/md449_prestaciones.html)
 
 - Websites from which to order cheap train tickets: <br>
 [trainline.eu](https://www.trainline.eu/) <br>
@@ -26,12 +25,10 @@ It also provides alternative roads and touristic information.
 - To help you find alternative transportation in case train tickets are too expensive or non-existent: 
 [rome2rio.com](https://www.rome2rio.com/)
 
-
 ### Railway pass to travel in Europe
 - Across Europe <br>
  for European citizen: [interrail.eu](https://www.interrail.eu/fr) <br>
  for non-European citizens: [eurail.com](https://www.eurail.com/en)
-
 - Spain: [RENFE Spain pass](http://www.renfe.com/EN/viajeros/viajes_internacionales/spainpass/index.html) <br>
 - Switzeland: [swiss travel pass](https://www.myswissalps.com/swisstravelpass) <br>
 - [Balkan flexi pass](http://www.bdz.bg/en/offers/balkan-flexipass.html): Bulgaria, Greece, Macedonia, Montenegro, Romania -only the Regio Calatori operator, Serbia, Turkey and Bosnia Herzegovina <br>
@@ -49,9 +46,11 @@ It also provides alternative roads and touristic information.
 ### Additional ressources
 - [Railway gazette](https://www.railwaygazette.com/) <br>
 - [Open railway map](https://www.openrailwaymap.org/) (all the railways in the world)
+- Random: To check the access to plug sockets on Spanish trains: [RENFE prestaciones](http://www.renfe.com/viajeros/nuestros_trenes/md449_prestaciones.html)
 
 
 ### National railway companies in Europe 
+*be aware that in some countries, trains are not the best transportation system available and you might also want to check (local) bus companies*
 
 **A**lbania: [HSH](https://hsh.com.al/) <br>
 Austria (OBB, small prices): [Sparschiene](https://www.oebb.at/en/tickets-kundenkarten/oesterreich-europa/sparschiene.html) <br>
