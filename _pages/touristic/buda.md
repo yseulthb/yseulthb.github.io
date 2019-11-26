@@ -53,3 +53,4 @@ Un endroit vegan en cas de surdose de viande (vive l’Europe centrale): éden v
 aussi ça me désole de le dire mais la hongrie n'est pas un pays super gay friendly et même si budapest est un peu plus tolérante elle ne l'est pas partout alors faites attention à vous à ce niveau là
 
 
+BLOG: https://budapesteshungria.com/
