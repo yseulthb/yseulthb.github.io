@@ -27,7 +27,7 @@ It also provides alternative roads and touristic information.
 
 ### Railway pass to travel in Europe
 - Across Europe <br>
- for European citizen: [interrail.eu](https://www.interrail.eu/fr) <br>
+ for European citizens: [interrail.eu](https://www.interrail.eu/fr) <br>
  for non-European citizens: [eurail.com](https://www.eurail.com/en)
 - Spain: [RENFE Spain pass](http://www.renfe.com/EN/viajeros/viajes_internacionales/spainpass/index.html) <br>
 - Switzeland: [swiss travel pass](https://www.myswissalps.com/swisstravelpass) <br>
@@ -51,7 +51,7 @@ It also provides alternative roads and touristic information.
 
 
 ### National railway companies in Europe 
-*be aware that in some countries, trains are not the best transportation system available and you might also want to check (local) bus companies*
+*be aware that in some countries, trains are not the best transportation system available and you might also want to check (local) bus companies + check visa requirements*
 
 **A**lbania: [HSH](https://hsh.com.al/) <br>
 Austria (OBB, small prices): [Sparschiene](https://www.oebb.at/en/tickets-kundenkarten/oesterreich-europa/sparschiene.html) <br>
