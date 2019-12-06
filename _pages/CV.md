@@ -42,7 +42,7 @@ Student Mentor (several weeks): Guiding the new students to find their way on th
 Student Tutor (a few hours): Helping students to get ready for their exams-->
 
 ### Community Involvement
-* At the lab level: Student representative at the Lab Council; Organisation of the students' Winter School; Co-organisation of the Annual Lab Meeting Day; Creation of a Welcome Kit
+* At the lab level: Co-creation of a Welcome Kit for new students; Student representative at the Lab Council; Organisation of the students' Lab Day; Organisation of the students' Winter School; Co-organisation of the Annual Lab Meeting Day; Creation of a Welcome Kit
 * At the scientific community level: Ambassador for the Center for Open Science
 
 ### Education
