@@ -37,7 +37,7 @@ It also provides alternative roads and touristic information.
 
 ### Night trains in Europe
 - The different options: [interrail night trains](https://www.interrail.eu/en/plan-your-trip/trains-europe/night-trains) <br>
-- [Map](https://rosnix.net/~per/tag/night-trains-map/map.png) of the night train network (last update: January 2018) <br>
+- [Map](https://upload.wikimedia.org/wikipedia/commons/c/cb/Map_night_trains_in_europe.png) of the night train network (last update: January 2019) <br>
 - Austrian night trains (the OBB is pushing for the maintenance and development of night train lines): [nightjet.com](https://www.nightjet.com/en/) <br>
 - Thello train (Paris to Venezia via Milano): [thello.com](https://www.thello.com/en/) <br>
 - French night trains (in French): [lefigaro.fr](https://www.lefigaro.fr/voyages/cinq-trains-de-nuit-que-l-on-peut-encore-emprunter-depuis-paris-20190821)
