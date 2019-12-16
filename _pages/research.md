@@ -29,7 +29,7 @@ classes: wide
 * **Héjja-Brichard, Y.** & Cottereau, B.R. (2017). Adaptation aux régularités spatiales de l'environnement au sein de systèmes de vision stéréoscopique. *Journée des doctorants, Université Toulouse III Paul Sabatier, France*
 
 #### *Conference talks*
-* Audurier, P., **Héjja-Brichard, Y.**, Kohler, P.J., Norcia, A.M., Durand, J.-B., Cottereau, B.R. (2019). Processing of rotational symmetry in the non-human primate brain. Talk given at the annual meeting of the French research group 'GDR Vision', Marseille, France.
+* Audurier, P., **Héjja-Brichard, Y.**, Kohler, P.J., Norcia, A.M., Durand, J.-B., Cottereau, B.R. (2019). Processing of rotational symmetry in the non-human primate brain. *Talk given at the annual meeting of the French research group 'GDR Vision', Marseille, France.*
 
 #### *Small talk(s)*
 * **Héjja-Brichard, Y.** (2019). Democracy in the animal kingdom: Collaborative decision-making.  *CerCo Winter School, Pragnères, France.*
@@ -39,8 +39,8 @@ classes: wide
 
 ### Poster presentations
 
-* Audurier, P., **Héjja-Brichard, Y.**, Kohler, P.J., Norcia, A.M., Durand, J.-B., Cottereau, B.R. (2019, October). Processing of symmetry in the non-human primate brain. Society for Neuroscience, Chicago, USA.
-* De Castro, V.\*, LeGuen, C.\*, **Héjja-Brichard, Y.**, Audurier, P., Cottereau, B.R., Durand, J.-B. (2019, October). Functional and structural connectivity of the cingulate sulcus visual (CSv) area in macaque monkeys. Society for Neuroscience, Chicago, USA. <a href="/pdf/SFN_2019_JBD.pdf" target="_blank"><b>[Poster]</b></a><br>
+* Audurier, P., **Héjja-Brichard, Y.**, Kohler, P.J., Norcia, A.M., Durand, J.-B., Cottereau, B.R. (2019, October). Processing of symmetry in the non-human primate brain. *Society for Neuroscience, Chicago, USA.*
+* De Castro, V.\*, LeGuen, C.\*, **Héjja-Brichard, Y.**, Audurier, P., Cottereau, B.R., Durand, J.-B. (2019, October). Functional and structural connectivity of the cingulate sulcus visual (CSv) area in macaque monkeys. *Society for Neuroscience, Chicago, USA*. <a href="/pdf/SFN_2019_JBD.pdf" target="_blank"><b>[Poster]</b></a><br>
 * **Héjja-Brichard, Y.**, Bruzzone, S.E.P, Rapha, E., Durand, J.-B., Cottereau, B.R. (2019, September). Natural statistics influence depth perception. *Predictive brain conference, Marseille, France*. <a href="/pdf/Poster_Marseille.pdf" target="_blank"><b>[Poster]</b></a><br>
 * **Héjja-Brichard, Y.**, Rima, S., Rapha, E., Durand, J.-B., Cottereau, B.R. (2018, November). Stereomotion processing in the non-human primate brain. *Annual meeting of Society for Neuroscience, San Diego, USA*. <a href="/pdf/SFN_2018_YHB.pdf" target="_blank"><b>[Poster]</b></a><br>
 * Rima, S., Cottereau, B.R., **Héjja-Brichard, Y.**, Trotter, Y. & Durand, J.-B. (2017, November). Wide-field retinotopy reveals a new visuotopic cluster in IPS. *Annual meeting of Society for Neuroscience, Washington, USA*. <a href="/pdf/SFN17_V1_Samy-compressed.pdf" target="_blank"><b>[Poster]</b></a><br>
