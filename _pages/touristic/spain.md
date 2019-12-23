@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /touristic/spain/
-title: ""
+title: "South of Spain and Portugal by train"
 classes: wide
 ---
 
