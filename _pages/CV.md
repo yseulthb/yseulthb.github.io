@@ -9,7 +9,7 @@ classes: wide
 
 <!-- Available here: <a href="/pdf/cvacademic.pdf" target="_blank"><b>CV</b></a> -->
 
-A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademic.pdf" target="_blank"><b>CV</b></a><br> (Last update: 04/12/2019)
+ <p align="justify">A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademic.pdf" target="_blank"><b>CV</b></a><br> (Last update: 04/12/2019)
 
 ### Doctoral research
 * 2015-Present: **PhD studies in cognitive Neuroscience**, Université Paul Sabatier and [CerCo](http://www.cerco.ups-tlse.fr/3D-space-and-context-ECO-3D?lang=fr) (CNRS), Toulouse, France. Supervisor: Benoit Cottereau, CNRS researcher. <br />
@@ -76,4 +76,4 @@ A [paper](https://www.nature.com/articles/s41562-017-0264-5) has been recently p
 * Computing skills: Matlab, SPM12, R programming, EventIDE (stimulus presentation software), LaTeX, Adobe Illustrator, Photoshop, Zotero, Github
 * Project management: Organising lab events, such as the Lab day or the annual lab winter school; Organising conferences, debates and workshop for the general audience; Creating original course content and new assessment methods for university students
 * Public communication: Communicating about an event of science popularisation; Giving talks about science to the general public; presentating scientific papers to a scientific audience
-* Languages: French (native), English (Toefl iBT: 104/120), German (good command in speaking, level B2), Spanish (good command in speaking, level B1)
+* Languages: French (native), English (Toefl iBT: 104/120), German (good command in speaking, level B2), Spanish (good command in speaking, level B1) </p>
