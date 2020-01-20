@@ -24,7 +24,7 @@ Those data will then be used to model stereoscopic vision with the aim of develo
 
 ### Teaching experience
 * 2019-2020: **Teaching assistant** (80hr), Université Toulouse Jean Jaurès, Toulouse, France<br />
-Bsc Psychology - Tutorial classes in Psychophysiology and Neuroscience 
+Bsc/BA Psychology - Tutorial classes in Psychophysiology and Neuroscience 
 
 * 2015-2018: **Graduate teaching assistant** (64hr every year), Université Paul Sabatier, Toulouse, France<br />
 Bsc Biology - Practical and lab works, tutorial classes in:
