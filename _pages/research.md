@@ -11,11 +11,12 @@ classes: wide
 ### Publications
 #### *Under review*
 
-* **Héjja-Brichard, Y.**, Rima, S., Rapha, E., Durand, J.-B., Cottereau, B.R. *(accepted!)*. Stereomotion processing in the non-human primate brain. *Cerebral Cortex*. <b>[[Preprint](https://www.biorxiv.org/content/10.1101/638155v2) & [OSF project](https://osf.io/yxrsv/)]</b>
 * Chauhan, T., **Héjja-Brichard, Y.**, Cottereau, B.R. *(under review)*. Modelling binocular disparity processing from statistics in natural scenes.
 * Rima, S., Cottereau, B.R., **Héjja-Brichard, Y.**, Trotter, Y. & Durand, J.B. *(under review)*. A new visuotopic cluster in macaque posterior parietal cortex revealed by wide-field retinotopy.
 
 #### *Peer-reviewed journal articles*
+
+* **Héjja-Brichard, Y.**, Rima, S., Rapha, E., Durand, J.-B., Cottereau, B.R. *(in press)*. Stereomotion processing in the non-human primate brain. *Cerebral Cortex*. <b>[[Preprint](https://www.biorxiv.org/content/10.1101/638155v2) & [OSF project](https://osf.io/yxrsv/)]</b>
 
 * Cottereau, B.R., Smith, A.T., Rima, S., Fize, D., **Héjja-Brichard, Y.**, Renaud, L., … Durand, J.-B. (2017). Processing of Egomotion-Consistent Optic Flow in the Rhesus Macaque Cortex. *Cerebral Cortex*, 1-14 ([doi](https://doi.org/10.1093/cercor/bhw412)).
 
