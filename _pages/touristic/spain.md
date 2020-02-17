@@ -6,7 +6,7 @@ toc: true
 toc_label: "Steps"
 ---
 
-**!This page is still ongoing some changes!**
+**This page is still ongoing some changes!**
 
 
 <img src="/assets/images/train_trip.png" alt="Train trip"> 
