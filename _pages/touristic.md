@@ -11,7 +11,8 @@ I enjoy exploring places and thought I could share some of the things I liked mo
 
 ### Toulouse & its surroundings
 
-### South of Spain and Portugal by train
+### <a href="/touristic/spain/" target="_blank"><b>South of Spain and Portugal by train</b></a><br> 
+(still to be completed)
 
 ### Brussels & its surroundings & other Belgian places
 
