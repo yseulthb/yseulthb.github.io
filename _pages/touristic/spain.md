@@ -1,8 +1,8 @@
 ---
+layout: single
 permalink: /touristic/spain/
 title: "South of Spain and Portugal by train"
 toc: true
-toc_label: "Steps"
 ---
 
 **This page is still ongoing some changes!**
