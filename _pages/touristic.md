@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /touristic/
+permalink: /tourism/
 title: "Touristic spots"
 classes: wide
 ---
