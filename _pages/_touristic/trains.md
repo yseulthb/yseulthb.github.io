@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /touristic/trains/
+permalink: /trains/
 title: ""
 classes: wide
 ---
