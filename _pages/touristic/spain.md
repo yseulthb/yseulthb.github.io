@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /spain/
+permalink: /touristic/spain/
 title: "South of Spain and Portugal by train"
 toc: true
 ---
