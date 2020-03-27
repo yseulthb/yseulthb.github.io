@@ -6,12 +6,14 @@ toc: true
 toc_label: "Contents"
 ---
 
-# Spanish journey
 
 **This page is still ongoing some changes!**
 
 
 <img src="/assets/images/train_trip.png" alt="Train trip"> 
+
+<div style="text-align: right"> 
+# Spanish journey
 
 ## From South of France to South of Spain
 We started our journey from Toulouse with the idea to reach Barcelona by train (regional train), via Latour-de-Carol/Entveitg (in the mountains), which, despite tacking a bit longer, is much cheaper than high-speed trains to Barcelona. However, due to strikes in France that particularly affected trains, we went to Barcelona by car (car sharing). We were lucky enough to find a ride in the morning and could enjoy a sunny afternoon in Barcelona!
@@ -30,3 +32,5 @@ From Madrid, we took the Talgo train that passes by Alcazár de San Juan and let
 
 ## Faro
 ## Lisbon
+
+</div>
