@@ -3,7 +3,10 @@ layout: single
 permalink: /touristic/spain/
 title: "South of Spain and Portugal by train"
 toc: true
+toc_label: "Contents"
 ---
+
+# Spanish journey
 
 **This page is still ongoing some changes!**
 
