@@ -9,7 +9,7 @@ classes: wide
 
 <!-- Available here: <a href="/pdf/cvacademic.pdf" target="_blank"><b>CV</b></a> -->
 
-A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademic.pdf" target="_blank"><b>CV</b></a><br> (Last update: 15/02/2020)
+A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademic.pdf" target="_blank"><b>CV</b></a><br> (Last update: 27/03/2020)
 
 ### Doctoral research
 * 2015-Present: **PhD studies in cognitive Neuroscience**, Université Paul Sabatier and [CerCo](http://www.cerco.ups-tlse.fr/3D-space-and-context-ECO-3D?lang=fr) (CNRS), Toulouse, France. Supervisor: Benoit Cottereau, CNRS researcher. <br />
@@ -18,9 +18,6 @@ Title of the thesis: Spatial and temporal integration of binocular disparities i
 Brief synopsis:<br />
 My PhD project aims to provide a better understanding of how the visual system in primates processes binocular disparities (underlying depth perception) in space and time. I also investigate the relationship between the 3D properties of the environment and neural responses. I mostly conduct functional neuroimaging studies in macaque and collect psychophysics measurements in human and macaque to give insight into the link between visual perception, natural statistics, and the brain activity.
 <!-- Stereovision refers to our ability to perceive the tridimensional (3D) structure of our environment from the bidimensional images that are projected on our retinas. In primates, it is considered to have contributed to the emergence of fine motor skills, such as reaching and grasping objects, by giving precise information about the position and form of the objects that are in our environment.<br />
-Surprisingly, despite the work dedicated to the development of those technologies, artificial models of stereovision are still far from reaching such performances, their main limit being that their preestablished approaches that are not able to adapt to the different environmental properties.<br />
-The main purpose of this project is, thus, to provide a better understanding of how the visual system in primates adapts to the 3D properties of our environment. We intend to study the relation between the 3D properties of our environment and cortical responses to those properties at a macroscopic level, by conducting functional neuroimaging studies.<br />
-Those data will then be used to model stereoscopic vision with the aim of developing artificial vision systems that will be able to learn to detect those 3D properties without supervision.-->
 
 ### Teaching experience
 * 2019-2020: **Temporary teaching assistant** (48hr), Université Toulouse Jean Jaurès, Toulouse, France<br />
@@ -71,7 +68,7 @@ Under the supervision of Eugénie Lhommée, Neuropsychologist at the Hospital of
 * 2013 (April-July): Research assistant, [MPI for Human Cognitive and Brain Sciences](https://www.cbs.mpg.de/), Leipzig, Germany<br />
 Department of social neuroscience - In charge of the coding of chimpanzees' vocalisations and statistical analysis. <br />
 Under the supervision of Natacha Mendès, now a scientific co-ordinator at the Max Planck School of Cognition. <br />
-A [paper](https://www.nature.com/articles/s41562-017-0264-5) has been recently published by Natacha Mendès and collaborators!
+A [paper](https://www.nature.com/articles/s41562-017-0264-5) was recently published by Natacha Mendès and collaborators!
 
 
 ## Additional skills
