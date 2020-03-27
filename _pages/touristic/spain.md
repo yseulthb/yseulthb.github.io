@@ -27,6 +27,8 @@ From Madrid, we took the Talgo train that passes by Alcazár de San Juan and let
 ### Cordoba
 ### Sevilla and Cadiz
 
+# Portuguese journey
+
 ## Portugal
 ### Faro
 ### Lisbon
