@@ -16,8 +16,7 @@ A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademi
 Title of the thesis: Spatial and temporal integration of binocular disparities in primates.<br />
 
 Brief synopsis:<br />
-My PhD project aims to provide a better understanding of how the visual system in primates processes binocular disparities (underlying depth perception) in space and time. I also investigate the relationship between the 3D properties of the environment and neural responses. I mostly conduct functional neuroimaging studies in macaque and collect psychophysics measurements in human and macaque to give insight into the link between visual perception, natural statistics, and the brain activity.
-<!-- Stereovision refers to our ability to perceive the tridimensional (3D) structure of our environment from the bidimensional images that are projected on our retinas. In primates, it is considered to have contributed to the emergence of fine motor skills, such as reaching and grasping objects, by giving precise information about the position and form of the objects that are in our environment.<br />
+My PhD project aims to provide a better understanding of how the visual system in primates processes binocular disparities (underlying depth perception) in space and time. I also investigate the relationship between the 3D properties of the environment and neural responses. I mostly conduct functional neuroimaging studies in macaque and collect psychophysics measurements in human and macaque to give insight into the link between visual perception, natural statistics, and the brain activity.<br />
 
 ### Teaching experience
 * 2019-2020: **Temporary teaching assistant** (48hr), Université Toulouse Jean Jaurès, Toulouse, France<br />
