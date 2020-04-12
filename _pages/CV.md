@@ -45,7 +45,7 @@ Student Tutor (a few hours): Helping students to get ready for their exams-->
 * At the scientific community level: Ambassador for the Center for Open Science
 
 ### Education
-* 2015-Present: PhD student in cognitive Neuroscience, Université Paul Sabatier, Toulouse, France  
+* 2015-Present: PhD student in Cognitive Neuroscience, Université Paul Sabatier, Toulouse, France  
 * 2015: MSc in Neuroscience, Cognition, and Behaviour – Université Paul Sabatier, Toulouse, France <!--Attended courses: Cognition, spatial cognition, sensory systems, neuroethology, collective behaviour, behavioural ecology, applied statistics-->
 * 2014: MSc in Cognitive Psychology – Université de Grenoble, France <!--Attended courses: Visual cognition, memory, neurology and neuropsychology, psycholinguistics, movement planning and control, applied statistics-->
 * 2013: Bsc in Psychology – Université de Grenoble, France & Universität Leipzig, Germany
