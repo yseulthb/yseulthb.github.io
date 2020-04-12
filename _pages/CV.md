@@ -75,4 +75,4 @@ A [paper](https://www.nature.com/articles/s41562-017-0264-5) was recently publis
 * Computing skills: Matlab, SPM12, R programming, EventIDE (stimulus presentation software), LaTeX, Adobe Illustrator, Photoshop, Zotero, Github
 * Project management: Organising lab events, such as the Lab day or the annual lab winter school; Organising conferences, debates and workshop for the general audience; Creating original course content and new assessment methods for university students
 * Public communication: Communicating about an event of science popularisation; Giving talks about science to the general public; presentating scientific papers to a scientific audience
-* Languages: French (native), English (fluent), German (good command in speaking, level B2), Spanish (good command in speaking, level B1)
+* Languages: French (native), English (fluent), German (good command in speaking, level B2), Spanish (good command in speaking, level B1), Italien (level A2)
