@@ -37,4 +37,4 @@ That is just the kind of yield<br>
 Needed to advance our field.<br>
 
 Robert Rosenthal, 1991<br>
-http://pss.sagepub.com/content/2/4/213.2.full.pdf (appendix)
+[http://pss.sagepub.com/content/2/4/213.2.full.pdf](http://pss.sagepub.com/content/2/4/213.2.full.pdf) (appendix)
