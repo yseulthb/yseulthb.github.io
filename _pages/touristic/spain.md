@@ -6,8 +6,6 @@ toc: true
 
 ---
 
-{% include _toc.html %}
-
 <!-- because of div command, you have to use <a href="https://your-site.com">Your link</a> tag inside -->
 <!-- <div style="text-align: justify"> your text </div> -->
 **This page is still ongoing some changes!**
