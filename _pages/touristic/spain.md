@@ -3,7 +3,7 @@ layout: single
 permalink: /touristic/spain/
 title: "South of Spain and Portugal by train"
 toc: true
-toc_label: "Contents"
+toc_label: "On this page"
 ---
 
 <!-- because of div command, you have to use <a href="https://your-site.com">Your link</a> tag inside -->
@@ -30,6 +30,6 @@ From Madrid, we took the Talgo train that passes by Alcazár de San Juan and let
 ## Sevilla and Cádiz
 
 # Portuguese journey
-
+We left Sevilla to reach Faro by coach (alsa company). It is a 3 hour journey over Huelva. We had not realised there was a one hour difference between Portugal and Spain (1 hour less in PT), which made our bus journey longer than expected! That's how you learn :) 
 ## Faro
 ## Lisbon
