@@ -52,7 +52,7 @@ We left Sevilla to reach Faro by coach (Alsa company). It is a 3-hour journey ov
 ## Faro
 What we did not have time to do but is apparently worth trying: a boat cruise to explore the surroundings. Renting a car to go around is also a nice thing to do.
 Because we had only one afternoon to spend in Faro, we mostly walked around, enjoying the sunny weather. <br>
-What I loved about Faro is the mix of coulours and textures on houses in the Old Town and the cute stores in the more modern part of the town. I bet there are much more people in spring and summer, but by the time we were there (early January) the city was very quiet, contrasting with Sevilla where we were the days before!
+What I loved about Faro is the mix of coulours and textures on houses in the Old Town and the cute stores in the more modern part of the town. I bet there are much more people in spring and summer, but by the time we were there (early January) the city was very quiet, contrasting with Sevilla where we were the days before! <br>
 <img src="/assets/images/FARO.jpg" alt="Faro" align="center">
 
 ## Lisbon
