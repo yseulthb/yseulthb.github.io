@@ -17,7 +17,7 @@ I enjoy exploring places and thought I could share some of the things I liked mo
 
 <!-- ### [Brussels & its surroundings & other Belgian places](/_pages/_touristic/BXL/) -->
 
-### Budapest & other Hungarian places :flag_hu:
+### Budapest & other Hungarian places :hu:
 <!-- ### [Budapest & other Hungarian places](/_pages/_touristic/buda/) -->
 
 ### <a href="/touristic/trains/" target="_blank"><b>It's all about trains!</b></a>:monorail:<br> 
