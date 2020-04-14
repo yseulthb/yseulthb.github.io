@@ -5,6 +5,7 @@ title: "South of Spain and Portugal by train"
 toc: true
 
 ---
+{% include toc %}
 
 <!-- because of div command, you have to use <a href="https://your-site.com">Your link</a> tag inside -->
 <!-- <div style="text-align: justify"> your text </div> -->
