@@ -3,7 +3,7 @@ layout: single
 permalink: /touristic/spain/
 title: "South of Spain and Portugal by train"
 toc: true
-toc_label: "On this page"
+
 ---
 
 <!-- because of div command, you have to use <a href="https://your-site.com">Your link</a> tag inside -->
