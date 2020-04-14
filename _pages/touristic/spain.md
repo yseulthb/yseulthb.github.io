@@ -4,13 +4,6 @@ permalink: /touristic/spain/
 title: "South of Spain and Portugal by train"
 toc: true
 
-galleryfaro:
-- image_path: assets/images/spain/Faro2020_1.JPG
-- image_path: assets/images/spain/Faro2020_2.JPG
-- image_path: assets/images/spain/Faro2020_3.JPG
-- image_path: assets/images/spain/Faro2020_4.JPG
-- image_path: assets/images/spain/Faro2020_5.JPG
-
 ---
 {% include toc %}
 
@@ -60,7 +53,8 @@ We left Sevilla to reach Faro by coach (Alsa company). It is a 3-hour journey ov
 What we did not have time to do but is apparently worth trying: a boat cruise to explore the surroundings. Renting a car to go around is also a nice thing to do.
 Because we had only one afternoon to spend in Faro, we mostly walked around, enjoying the sunny weather. <br>
 What I loved about Faro is the mix of coulours and textures on houses in the Old Town and the cute stores in the more modern part of the town. I bet there are much more people in spring and summer, but by the time we were there (early January) the city was very quiet, contrasting with Sevilla where we were the days before!
-{% include gallery id="galleryfaro" caption="Faro houses: Colours and textures." %}
+<img src="/asset/images/FARO.jpg" alt="Faro" align="center">
+
 ## Lisbon
 Castelo de Sao Jorge
 Fundaçao Calouste Gulbenkian (Museum)
