@@ -10,6 +10,10 @@ classes: wide
 <img src="/assets/images/BEL.png" alt="Touristic point"> 
 
 ## Belgium: A bit of context
+Belgium, a country with three official languages (French, Dutch, and the often forgotten German), three administrative regions (Wallonia, Flanders, Brussels-Capital), three communities (Flanders, Wallonia-Brussels, the German-speaking region), ten provinces, looots of political parties, and even more different types of beers! ;) <br>
+Most practically, the country is divided into two main regions: Flanders in the North, where Dutch is widely spoken but where people also speak different types of Flemmish and the French-speaking Wallonia in the South. Brussels is often considered aside since it is geographically located in Flanders but most of its population speaks French. <br>
+Wallonia used to rely on mining economy, whilste Flanders is now 
+
 
 ## Brussels
 
@@ -33,11 +37,15 @@ En allant vers la porte de Hal (en limite du quartier des Marolles vers l’aven
 - les frites à la belge: un des meilleurs endroits c'est le fritkot de la place Jourdain (frites cuites dans la graisse de boeuf). En général on y achète ses frites (et ses fricadelles ou autre) et on va s’asseoir manger dans un des bars alentours pour boire une bière . C’est pas loin du parc du Cinquantenaire et du musée des sciences naturelles, derrière le parlement européen à Etterbeek
 
 - quartier Flagey et les étangs d’Ixelles, assez animés les soirs de fin de semaine et deux bons restaurants: Humus x Hortense (local et végétal, réserver); Le Local (local et zéro déchet) https://www.lelocalbxl.be/
+- schaerbeek: le restaurant des copines, Le Chabrol, super bon et local, viande, poisson, VG
 
 ## Flanders
 ### Ghent
+### Tongeren
 ### Oostende
 
 ## Wallonie
 ### Namur
 ### Liège
+### Dinant, the city of saxophone
+### Maredsous abbaye
