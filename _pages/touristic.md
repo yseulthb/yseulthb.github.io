@@ -9,7 +9,7 @@ classes: wide
 
 I enjoy exploring places and thought I could share some of the things I liked most during my urban walks.
 
-### Toulouse & its surroundings
+### Toulouse & its surroundings :cherry_blossom:
 
 ### <a href="/touristic/spain/" target="_blank"><b>South of Spain and Portugal by train</b></a>:dancer:<br> 
 
