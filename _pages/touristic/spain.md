@@ -30,6 +30,6 @@ From Madrid, we took the Talgo train that passes by Alcazár de San Juan and let
 ## Sevilla and Cádiz
 
 # Portuguese journey
-We left Sevilla to reach Faro by coach (alsa company). It is a 3 hour journey over Huelva. We had not realised there was a one hour difference between Portugal and Spain (1 hour less in PT), which made our bus journey longer than expected! That's how you learn :) 
+We left Sevilla to reach Faro by coach (alsa company). It is a 3 hour journey over Huelva. We had not realised there was a time difference between Portugal and Spain (1 hour less in Portugal), which made our bus journey longer than expected! That's how you learn :) 
 ## Faro
 ## Lisbon
