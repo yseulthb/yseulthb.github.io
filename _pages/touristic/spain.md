@@ -4,6 +4,13 @@ permalink: /touristic/spain/
 title: "South of Spain and Portugal by train"
 toc: true
 
+galleryfaro:
+- image_path: assets/images/spain/Faro2020_1.JPG
+- image_path: assets/images/spain/Faro2020_2.JPG
+- image_path: assets/images/spain/Faro2020_3.JPG
+- image_path: assets/images/spain/Faro2020_4.JPG
+- image_path: assets/images/spain/Faro2020_5.JPG
+
 ---
 {% include toc %}
 
@@ -25,12 +32,36 @@ We left Barcelona (Sants) in the early morning the next day to reach Madrid (Pue
 
 From Madrid, we took the Talgo train that passes by Alcazár de San Juan and lets you admire the majestuous windmills (Molines) to finally reach our first destination in Andalucía: Almería!
 
+*Good to know:* 
+- *In Spain museums are closed on Monday. If you're a student, don't forget your student card to get discount.*
+- *The typical Spanish/Andalousian breakfast is made of tostadas con aceite (olive oil locally produced), tomatoes, or mantequilla (jam) along with a fresh orange juice (grown locally) and a coffee (con leche or bombon a coffee served with milk concentrate). This costs as little as 4-5 euros.*
+
 ## Almería
+Taking the train from Madrid to Almería
+The weather in Almería is very different from the other places we went to. The city is warm and pretty dry due to the proximity of a desert in the surrounding area. This is highly contrasting with the snowy mountains of Sierra Nevada! <br>
+The first day we walked around the town and climbed up to the Christ Statute, which offers a panoramic view on the city, the sea, on the fortress walls and on the district of La Chanca  (a district built against the mountain with squary and colourful little houses).<br>
+
+The Alcazaba
+Museo de arte Dona Pakyta
+La Chanca (view from the fortress)
+
 ## Granada and Sierra Nevada
+La Alhambra
 ## Córdoba
+Mezquita-Catedral (Mosque-Cathedral)
 ## Sevilla and Cádiz
+- Sevilla: 
+Cathedral (former Mosque)
+Real Alcázar
 
 # Portuguese journey
-We left Sevilla to reach Faro by coach (alsa company). It is a 3 hour journey over Huelva. We had not realised there was a time difference between Portugal and Spain (1 hour less in Portugal), which made our bus journey longer than expected! That's how you learn :) 
+We left Sevilla to reach Faro by coach (Alsa company). It is a 3-hour journey over Huelva. We had not realised there was a time difference between Portugal and Spain (1 hour less in Portugal), which made our bus journey longer than expected! That's how you learn :) 
 ## Faro
+What we did not have time to do but is apparently worth trying: a boat cruise to explore the surroundings. Renting a car to go around is also a nice thing to do.
+Because we had only one afternoon to spend in Faro, we mostly walked around, enjoying the sunny weather. <br>
+What I loved about Faro is the mix of coulours and textures on houses in the Old Town and the cute stores in the more modern part of the town. I bet there are much more people in spring and summer, but by the time we were there (early January) the city was very quiet, contrasting with Sevilla where we were the days before!
+{% include gallery id="galleryfaro" caption="Faro houses: Colours and textures." %}
 ## Lisbon
+Castelo de Sao Jorge
+Fundaçao Calouste Gulbenkian (Museum)
+The Carmo ruins (and archaelogical museum)
