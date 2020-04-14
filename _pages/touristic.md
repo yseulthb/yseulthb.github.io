@@ -20,6 +20,6 @@ I enjoy exploring places and thought I could share some of the things I liked mo
 ### Budapest & other Hungarian places
 <!-- ### [Budapest & other Hungarian places](/_pages/_touristic/buda/) -->
 
-### <a href="/touristic/trains/" target="_blank"><b>It's all about trains!</b></a><br>
+### <a href="/touristic/trains/" target="_blank"><b>It's all about trains!</b></a><br> :train:
 
 ### South of Florida
