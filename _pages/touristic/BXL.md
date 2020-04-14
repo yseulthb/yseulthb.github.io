@@ -11,7 +11,7 @@ classes: wide
 
 ## Belgium: A bit of context
 Belgium, a country with three official languages (French, Dutch, and the often forgotten German), three administrative regions (Wallonia, Flanders, Brussels-Capital), three communities (Flanders, Wallonia-Brussels, the German-speaking region), ten provinces, looots of political parties, and even more different types of beers! ;) <br>
-Most practically, the country is divided into two main regions: Flanders in the North, where Dutch is widely spoken but where people also speak different types of Flemmish and the French-speaking Wallonia in the South. Brussels is often considered aside since it is geographically located in Flanders but most of its population speaks French. <br>
+More practically, the country is divided into two main regions: Flanders in the North, where Dutch is widely spoken but where people also speak different types of Flemmish and the French-speaking Wallonia in the South. Brussels is often considered aside since it is geographically located in Flanders but most of its population speaks French. <br>
 Wallonia used to rely on mining economy, whilste Flanders is now 
 
 
