@@ -8,12 +8,17 @@ toc: true
 {% include toc %}
 
 Following a scientific conference held in May at St Pete Beach near the city of Tampa in the middle of Florida, we planned a one-week road trip to explore the south of Florida, from Miami, to the Everglades, to the Keys. <br>
-As we were 6, we mostly privileged airbnb accomodations but also spent a few nights in nice resorts.
+As we were six to travel together, we mostly opted for airbnb accomodations but we also spent a few nights in nice resorts.
 
 # Miami
-Despite being the sixth most densely populated (1) city in the US, we did not feel overwhelmed at all as the atmosphere was pretty chilled.
+I really enjoyed visiting Miami and the surrounding areas. It is a very lively city with lots of different atmospheres. Another good thing is that despite being the sixth most densely populated city in the US (1), we did not feel overwhelmed at all as the atmosphere was pretty chilled.
+
+
 ## The Wynwood district
-Street art and art exhibitions are to be found in this part of Miami City. https://wynwoodmiami.com/
+Street art and art exhibitions are to be found in this part of Miami City. This website gathers information about art exhibitions, cultural events, bars and restaurants that you can found in Wynwood district: (https://wynwoodmiami.com/)[https://wynwoodmiami.com/].
+
+<img src="/assets/images/wynwood.jpg" alt="wynwood" align="center">
+
 
 ## Little Havana District
 Get a drink at the [Ball & Chain Bar](https://ballandchainmiami.com/) and enjoy the live music! 
