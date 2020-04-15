@@ -11,7 +11,7 @@ I enjoy exploring places and thought I could share some of the things I liked mo
 
 ### Toulouse & its surroundings :cherry_blossom:
 
-### <a href="/touristic/spain/" target="_blank"><b>South of Spain and Portugal by train</b></a>:dancer:<br> 
+### <a href="/touristic/spain/" target="_blank"><b>South of Spain and Portugal by train</b></a> :dancer:<br> 
 
 ### Brussels & its surroundings & other Belgian places :beers:
 
@@ -20,6 +20,6 @@ I enjoy exploring places and thought I could share some of the things I liked mo
 ### Budapest & other Hungarian places :european_castle:
 <!-- ### [Budapest & other Hungarian places](/_pages/_touristic/buda/) -->
 
-### <a href="/touristic/trains/" target="_blank"><b>It's all about trains!</b></a>:monorail:<br> 
+### <a href="/touristic/trains/" target="_blank"><b>It's all about trains!</b></a> :monorail:<br> 
 
-### South of Florida :palm_tree:
+### <a href="/touristic/southFL/" target="_blank"><b>South of Florida</b></a> :palm_tree:<br> 
