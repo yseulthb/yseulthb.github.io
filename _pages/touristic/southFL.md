@@ -16,6 +16,8 @@ Despite being the sixth most densely populated (1) city in the US, we did not fe
 Street art and arts https://wynwoodmiami.com/
 ## Art Deco District (Ocean Drive)
 Art Deco houses are to be seen near and on Ocean Drive. Lots of pubs, bars, and clubs in front of the ocean make this district very party-oriented.
+<img src="/assets/images/Miami_artdeco.jpg" alt="Miami_artdeco_mosaic" align="center">
+
 ## Little Havana District
 Ball & Chain Bar (https://ballandchainmiami.com/)
 ## The metromover
@@ -27,6 +29,7 @@ The Everglades is a national parc where you can observe crocodiles and alligator
 
 Open 365 days a year, the Ernest F. Coe Visitor Center is open daily until 5 p.m. (entrance fee = 30$ per vehicle): https://www.nps.gov/ever/index.htm 
 
+<img src="/assets/images/everglades.jpg" alt="everglades_mosaic" align="center">
 
 # The Keys
 
