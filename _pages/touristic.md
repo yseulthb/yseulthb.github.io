@@ -22,4 +22,4 @@ I enjoy exploring places and thought I could share some of the things I liked mo
 
 ### <a href="/touristic/trains/" target="_blank"><b>It's all about trains!</b></a> :monorail:<br> 
 
-### <a href="/touristic/southFL/" target="_blank"><b>South of Florida</b></a> :palm_tree:<br> 
+### <a href="/touristic/florida/" target="_blank"><b>South of Florida</b></a> :palm_tree:<br> 
