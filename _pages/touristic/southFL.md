@@ -7,39 +7,52 @@ toc: true
 ---
 {% include toc %}
 
-Following a scientific conference held at St Pete Beach near the city of Tampa in the middle of Florida, we planned a one-week road trip to explore the south of Florida, from Miami, to the Everglades, to the Keys. <br>
+Following a scientific conference held in May at St Pete Beach near the city of Tampa in the middle of Florida, we planned a one-week road trip to explore the south of Florida, from Miami, to the Everglades, to the Keys. <br>
 As we were 6, we mostly privileged airbnb accomodations but also spent a few nights in nice resorts.
 
 # Miami
 Despite being the sixth most densely populated (1) city in the US, we did not feel overwhelmed at all as the atmosphere was pretty chilled.
 ## The Wynwood district
-Street art and arts https://wynwoodmiami.com/
-## Art Deco District (Ocean Drive)
-Art Deco houses are to be seen near and on Ocean Drive. Lots of pubs, bars, and clubs in front of the ocean make this district very party-oriented.
+Street art and art exhibitions are to be found in this part of Miami City. https://wynwoodmiami.com/
+
+## Little Havana District
+Get a drink at the [Ball & Chain Bar](https://ballandchainmiami.com/) and enjoy the live music! 
+
+## The metromover
+If you don't feel like wallking or driving, you can ride the entire Metromover, which is completely free (2). You'll see the Downtown part of Miami with its huge skyscrappers!
+
+## Art Deco District (Miami Beach)
+Art Deco houses with their pastel facades are to be seen near and on Ocean Drive. Lots of pubs, bars, and clubs very close to the ocean front make this district very party-oriented.
 
 <img src="/assets/images/Miami_artdeco.jpg" alt="Miami_artdeco_mosaic" align="center">
 
-## Little Havana District
-Ball & Chain Bar (https://ballandchainmiami.com/)
-## The metromover
-Ride the entire Metromover (free!): https://www.miamidade.gov/global/transportation/metromover.page 
-You'll see the Downtown part of Miami with its huge skyscrappers!
+## Cycling along the sea front
+If you made it to Miami Beach, the small island in front of Miami and where you'll find Ocean Drive and the Art Deco district, then you should definitely go for a small bike tour! 
+You can very easily rent a bike from the city bike station that are to be found near Ocean Drive. 
+
+After a lunch at the restaurant Fratelli La Bufala (Miami Beach) we cycled along Ocean Drive and all the way up to Atlantic Heights. You get to go between the beach and the many hotel gardens and to see the famous lifeguards towers.
+
+
 
 # The Everglades
 The Everglades is a national parc where you can observe crocodiles and alligators. It is located approximately 1.5 hours away from Downtown Miami, depending on traffic. <br>
-Open 365 days a year, the Ernest F. Coe Visitor Center is open daily until 5 p.m. (entrance fee = 30$ per vehicle): https://www.nps.gov/ever/index.htm 
-During our visit, we met colourful grasshopers, lots of different birds among which a great blue heron swallowing a fish in less than 20 seconds, and some Black Vulture, some specimen of the American Alligator, some cute manatees bathing in the small harbour.
+The Ernest F. Coe Visitor Center is open daily until 5 p.m. (entrance fee = 30$ per vehicle), 365 days a year (3).
+
+Depending on the season you visit, you'll get to see different species.
+During our visit, we met colourful grasshopers, lots of different birds among which a great blue heron swallowing a fish in less than 20 seconds, and some black vulture, some specimen of the American alligator, some cute manatees bathing in the small harbour.
 
 <img src="/assets/images/everglades.jpg" alt="everglades_mosaic" align="center">
 
 # The Keys
 
-The Keys are a complex of several islands at the tip of Florida, linked by several big bridges. There are lots of beaches and cocconut trees along the road from Miami.
-The Keys are in between Florida and the island of Cuba.
+The Keys are a complex of several islands at the tip of Florida, linked by several big bridges. There are lots of beaches and coconut trees along the road from Miami. <br>
 We headed to Key West, the last (4 hour drive from Miami) but nicest of the islands and spent the night on a sailing boat. 
+The touristic island is lovely to explore with small wooden houses and pretty gardens. 
 
 
 ---
 
 - Sources: <br>
-(1) https://en.wikipedia.org/wiki/Miami
+(1) https://en.wikipedia.org/wiki/Miami <br>
+(2) https://www.miamidade.gov/global/transportation/metromover.page <br>
+(3) https://www.nps.gov/ever/index.htm
