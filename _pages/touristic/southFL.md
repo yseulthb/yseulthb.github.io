@@ -15,7 +15,7 @@ I really enjoyed visiting Miami and the surrounding areas. It is a very lively c
 
 
 ## The Wynwood district
-Street art and art exhibitions are to be found in this part of Miami City. This website gathers information about art exhibitions, cultural events, bars and restaurants that you can found in Wynwood district: (https://wynwoodmiami.com/)[https://wynwoodmiami.com/].
+Street art and art exhibitions are to be found in this part of Miami City. This website gathers information about art exhibitions, cultural events, bars and restaurants that you can found in Wynwood district: [https://wynwoodmiami.com/](https://wynwoodmiami.com/).
 
 <img src="/assets/images/wynwood.jpg" alt="wynwood" align="center">
 
