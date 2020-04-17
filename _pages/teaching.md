@@ -21,5 +21,5 @@ Feel free to consult them or to ask me about references!
 ### Journal club / Small talks
 - Democracy in the animal kingdom: Collaborative decision-making
 - Stereovision in the animal kingdom: Which species, at what cost, and for which advantages?
-- Sexism in research and at the university: Why should it matter? What can we do about it?
+- <a href="/pdf/SexismInAcademia.pdf" target="_blank"><b>Sexism in research and at the university: Why should it matter? What can we do about it?</b></a>
 - Morality and Ethics: A (very) short review.
