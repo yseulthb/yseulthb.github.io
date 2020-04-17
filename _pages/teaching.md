@@ -20,6 +20,6 @@ Feel free to consult them or to ask me about references!
 
 ### Journal club / Small talks
 - Democracy in the animal kingdom: Collaborative decision-making
-- Stereovision in the animal kingdom: Which species, at what cost, and for which advantages?
+- Stereovision in the animal kingdom: Which species, at what cost, and for which advantages? <a href="/pdf/DemocracyAnimalKingdom.pdf" target="_blank"><b>[Slides]</b></a>
 - Sexism in research and at the university: Why should it matter? What can we do about it? <a href="/pdf/SexismInAcademia.pdf" target="_blank"><b>[Slides]</b></a>
 - Morality and Ethics: A (very) short review.
