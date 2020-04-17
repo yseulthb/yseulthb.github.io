@@ -15,8 +15,8 @@ Feel free to consult them or to ask me about references!
 - The primate visual system: powerpoint (in French) // chapter (in English)
 
 ### Workshop
-- <a href="/pdf/OSF_YSM18.pdf" target="_blank"><b>[Open science: Why and How]</b></a>
-- <a href="/pdf/YHB_ToulouseDataViz.pdf" target="_blank"><b>[Neuroimaging data visualisation]</b></a>
+- <a href="/pdf/OSF_YSM18.pdf" target="_blank"><b>Open science: Why and How</b></a>
+- <a href="/pdf/YHB_ToulouseDataViz.pdf" target="_blank"><b>Neuroimaging data visualisation</b></a>
 
 ### Journal club / Small talks
 - Democracy in the animal kingdom: Collaborative decision-making
