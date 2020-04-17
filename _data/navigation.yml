@@ -8,5 +8,7 @@ main:
     url: /research/
   - title: "Projects"
     url: /projects/
+  - title: "Teaching"
+    url: /teaching/
   - title: "Tourism"
     url: /touristic/
