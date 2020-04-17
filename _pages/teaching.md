@@ -19,7 +19,7 @@ Feel free to consult them or to ask me about references!
 - Neuroimaging data visualisation <a href="/pdf/YHB_ToulouseDataViz.pdf" target="_blank"><b>[Slides]</b></a>
 
 ### Journal club / Small talks
-- Democracy in the animal kingdom: Collaborative decision-making
-- Stereovision in the animal kingdom: Which species, at what cost, and for which advantages? <a href="/pdf/DemocracyAnimalKingdom.pdf" target="_blank"><b>[Slides]</b></a>
+- Democracy in the animal kingdom: Collaborative decision-making <a href="/pdf/DemocracyAnimalKingdom.pdf" target="_blank"><b>[Slides]</b></a>
+- Stereovision in the animal kingdom: Which species, at what cost, and for which advantages? 
 - Sexism in research and at the university: Why should it matter? What can we do about it? <a href="/pdf/SexismInAcademia.pdf" target="_blank"><b>[Slides]</b></a>
-- Morality and Ethics: A (very) short review.
+- Morality and Ethics: A (very) short review. <a href="/pdf/MoralityEthicsReview.pdf" target="_blank"><b>[Slides]</b></a>
