@@ -15,11 +15,11 @@ Feel free to consult them or to ask me about references!
 - The primate visual system: powerpoint (in French) // chapter (in English)
 
 ### Workshop
-- <a href="/pdf/OSF_YSM18.pdf" target="_blank"><b>Open science: Why and How</b></a>
-- <a href="/pdf/YHB_ToulouseDataViz.pdf" target="_blank"><b>Neuroimaging data visualisation</b></a>
+- Open science: Why and How <a href="/pdf/OSF_YSM18.pdf" target="_blank"><b>[Slides]</b></a>
+- Neuroimaging data visualisation <a href="/pdf/YHB_ToulouseDataViz.pdf" target="_blank"><b>[Slides]</b></a>
 
 ### Journal club / Small talks
 - Democracy in the animal kingdom: Collaborative decision-making
 - Stereovision in the animal kingdom: Which species, at what cost, and for which advantages?
-- <a href="/pdf/SexismInAcademia.pdf" target="_blank"><b>Sexism in research and at the university: Why should it matter? What can we do about it?</b></a>
+- Sexism in research and at the university: Why should it matter? What can we do about it? <a href="/pdf/SexismInAcademia.pdf" target="_blank"><b>[Slides]</b></a>
 - Morality and Ethics: A (very) short review.
