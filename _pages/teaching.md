@@ -12,7 +12,7 @@ Feel free to consult them or to ask me about references!
 
 
 ### Teaching content
-- The primate visual system: [slides] *(in French)* // [chapter]
+- The primate visual system: [slides] *(in French)* // <a href="/pdf/VisualSystem.pdf" target="_blank"><b>[Chapter]</b></a>
 
 ### Workshop
 - Open science: Why and How <a href="/pdf/OSF_YSM18.pdf" target="_blank"><b>[Slides]</b></a>
