@@ -65,6 +65,6 @@ classes: wide
 *Yseult Héjja-Brichard & Benoit R. Cottereau "Evolution et vision : le vivant a de la profondeur !" ([here](http://www.museum.toulouse.fr/-/evolution-et-vision-le-vivant-a-de-la-profondeur-))*
 
 * Member of [InCOGnu](http://incognu.fr/), an organisation of students and young researchers in cognitive science in Toulouse area, France. We organise monthly conferences, workshops for the general audience (adults and children) and take part in various events of science popularisation (Pint of Science, Brain Awareness Week, National Forum of cognitive science, Scientilivre ...). We also give talks about various topics in the field of cognitive sciences. <br> 
-More specifically, I am involved in communicating about the events and am a member of the board, thus taking part in decision making and project proposal submission, or in inviting speakers.
+More specifically, I am involved in communicating about the events and as a previous board member I was taking part in decision making and project proposal submission, or in inviting speakers.
 
 <img src="/pdf/PhotoESOF_Incognu.jpg" alt="Incognu" align="right">
