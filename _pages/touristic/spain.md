@@ -30,22 +30,20 @@ From Madrid, we took the Talgo train that passes by Alcazár de San Juan and let
 - *The typical Spanish/Andalousian breakfast is made of tostadas con aceite (olive oil locally produced), tomatoes, or mantequilla (butter) along with a fresh orange juice (grown locally) and a coffee (con leche or bombon, which is a coffee served with milk concentrate). This costs as little as 4-5 euros.*
 
 ## Almería
-Taking the train from Madrid to Almería
+The train from Madrid to Almería takes you through various landscapes, leaving the mountainous region of Madrid to reach the southwest part of the country in about 6-7 hours.
 The weather in Almería is very different from the other places we went to. The city is warm and pretty dry due to the proximity of a desert in the surrounding area. This is highly contrasting with the snowy mountains of Sierra Nevada! <br>
 The first day we walked around the town and climbed up to the Christ Statute, which offers a panoramic view on the city, the sea, on the fortress walls and on the district of La Chanca  (a district built against the mountain with squary and colourful little houses).<br>
 
-The Alcazaba
-Museo de arte Dona Pakyta
-La Chanca (view from the fortress)
+- The Alcazaba
+- Museo de arte Dona Pakyta
+- La Chanca (view from the fortress)
 
 ## Granada and Sierra Nevada
-La Alhambra
+- La Alhambra
 ## Córdoba
-Mezquita-Catedral (Mosque-Cathedral)
+- Mezquita-Catedral (Mosque-Cathedral)
 ## Sevilla and Cádiz
-- Sevilla: 
-Cathedral (former Mosque)
-Real Alcázar
+- Sevilla: Cathedral (former Mosque); Real Alcázar
 
 # Portuguese journey
 We left Sevilla to reach Faro by coach (Alsa company). It is a 3-hour journey over Huelva. We had not realised there was a time difference between Portugal and Spain (1 hour less in Portugal), which made our bus journey longer than expected! That's how you learn :) 
@@ -57,6 +55,6 @@ What I loved about Faro is the mix of coulours and textures on houses in the Old
 <img src="/assets/images/FARO.jpg" alt="Faro" align="center">
 
 ## Lisbon
-Castelo de Sao Jorge
-Fundaçao Calouste Gulbenkian (Museum)
-The Carmo ruins (and archaelogical museum)
+- Castelo de Sao Jorge
+- Fundaçao Calouste Gulbenkian (Museum)
+- The Carmo ruins (and archaelogical museum)
