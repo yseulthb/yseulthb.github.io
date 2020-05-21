@@ -1,7 +1,6 @@
 ---
 layout: single
 permalink: /touristic/
-title: "Touristic spots"
 classes: wide
 ---
 
