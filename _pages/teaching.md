@@ -7,7 +7,7 @@ classes: wide
 
 <img src="/assets/images/Tiles_IG_cut.jpg" alt="Teaching"> 
 
-On this page you will find some of the teaching content I created for classes I used to teach as well as journal club or workshop slides.
+On this page you will find some of the teaching content I created for previous classes as well as journal club or workshop slides.
 Feel free to consult them or to ask me about references!
 
 
