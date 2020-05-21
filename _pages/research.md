@@ -1,7 +1,6 @@
 ---
 layout: single
 permalink: /research/
-title: "Research"
 classes: wide
 ---
 <img src="/assets/images/RedFlowers.jpg" alt="My research"> 
