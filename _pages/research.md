@@ -3,7 +3,7 @@ layout: single
 permalink: /research/
 classes: wide
 ---
-<img src="/assets/images/RedFlowers.jpg" alt="My research"> 
+<img src="/assets/images/WelshTulips.jpg" alt="My research"> 
 
 ## Scientific Production
 
