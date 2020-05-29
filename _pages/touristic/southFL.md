@@ -39,7 +39,7 @@ If you don't feel like wallking or driving, you can ride the entire Metromover, 
 ## Art Deco District (Miami Beach)
 Art Deco houses with their pastel facades are to be seen near and on Ocean Drive. Lots of pubs, bars, and clubs very close to the ocean front make this district very party-oriented.
 
-We spent a late afternoon at a terrace on Ocean Drive and it was an experience! Big honking cars, bathing suit as the dress code, colourful cocktails, loud music, smiling people all around. It felt like being in a hip hop music clip!!
+We spent a late afternoon at a terrace on Ocean Drive and it was an experience! Big honking cars, bathing suit as the dress code, colourful cocktails, loud music, smiling people all around.
 
 <img src="/assets/images/Miami_artdeco.jpg" alt="Miami_artdeco_mosaic" align="center">
 
