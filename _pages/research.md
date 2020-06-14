@@ -50,7 +50,7 @@ classes: wide
 
 
 ## Workshop
-* 2020 (June): **Lincoln Animal Cognition Conference**, organised by the Doctoral School of the University of Lincoln (online).
+* 2020 (June): **2020 Lincoln Animal Cognition Conference**, organised by the Doctoral School of the University of Lincoln (online).
 * 2018 (November): **2018 Primate Welfare Meeting**, organised by the NC3Rs in London, UK.
 * 2018 (May): **The 6th Toulouse Economics and Biology Workshop**, on the theme '[Evolution, Cognition, and Rationality](http://www.iast.fr/conferences/2018-6th-toulouse-economics-and-biology-workshop)' organised by the Institute for Advanced Study in Toulouse, France.
 * 2017 (March): **Statistics workshop** on advanced statistical methods using R software taught by [Martijn Wieling](http://www.martijnwieling.nl/presentations) (University of Groningen, The Netherlands) organised at the CerCo Lab
