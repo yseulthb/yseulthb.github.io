@@ -33,10 +33,10 @@ classes: wide
 * Audurier, P., **Héjja-Brichard, Y.**, Kohler, P.J., Norcia, A.M., Durand, J.-B., Cottereau, B.R. (2019). Processing of rotational symmetry in the non-human primate brain. *GDR Vision annual forum, Marseille, France.*
 
 #### *Small talk(s)*
-* **Héjja-Brichard, Y.** (2019). Democracy in the animal kingdom: Collaborative decision-making.  *CerCo Winter School, Pragnères, France.*
-* **Héjja-Brichard, Y.** (2018). Stereovision in the animal kingdom: Which species, at what cost, and for which advantages? *CerCo Lab Day, Muret, France* 
-* **Héjja-Brichard, Y.** (2018). Sexism in research and at the university: Why should it matter? What can we do about it?  *CerCo Winter School, Piau-Engaly, France.*
-* **Héjja-Brichard, Y.** (2016). Morality and Ethics: A (very) short review. *CerCo Journal Club, Toulouse, France.*
+* **Héjja-Brichard, Y.** (2019). Democracy in the animal kingdom: Collaborative decision-making.  *CerCo Winter School, Pragnères, France.* <a href="/pdf/DemocracyAnimalKingdom.pdf" target="_blank"><b>[slides]</b></a><br> 
+* **Héjja-Brichard, Y.** (2018). Stereovision in the animal kingdom: Which species, at what cost, and for which advantages? *CerCo Lab Day, Muret, France* <a href="/pdf/CerCoDay_3Dvision.pdf" target="_blank"><b>[slides]</b></a><br>
+* **Héjja-Brichard, Y.** (2018). Sexism in research and at the university: Why should it matter? What can we do about it?  *CerCo Winter School, Piau-Engaly, France.* <a href="/pdf/SexismInAcademia.pdf" target="_blank"><b>[slides]</b></a><br>
+* **Héjja-Brichard, Y.** (2016). Morality and Ethics: A (very) short review. *CerCo Journal Club, Toulouse, France.* <a href="/pdf/MoralityEthicsReview.pdf" target="_blank"><b>[slides]</b></a><br>
 
 ### Poster presentations
 
