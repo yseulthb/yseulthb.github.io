@@ -19,7 +19,8 @@ My PhD project aims to provide a better understanding of how the visual system i
 
 ### Teaching experience
 * 2019-2020: **Temporary teaching assistant** (48hr), Université Toulouse Jean Jaurès, Toulouse, France<br />
-Bsc/BA Psychology - Tutorial classes in Psychophysiology and Neuroscience 
+Bsc/BA Psychology - Tutorial classes in:
+   - Psychophysiology (human ethology, physiology of reproduction, prenatal development) 
 
 * 2015-2018: **Graduate teaching assistant** (64hr every year), Université Paul Sabatier, Toulouse, France<br />
 Bsc Biology - Practical and lab works, tutorial classes in:
