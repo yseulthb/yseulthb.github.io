@@ -26,7 +26,6 @@ classes: wide
 #### *Invited talks*
 
 * **Héjja-Brichard, Y.** & Mercier M.R. (2018). Data visualisation in cognitive neuroscience: Functional neuroimaging and electrophysiology. *Talk given for the Toulouse Data Vizualisation group, Toulouse, France* <a href="/pdf/YHB_ToulouseDataViz.pdf" target="_blank"><b>[slides]</b></a><br>
-* **Héjja-Brichard, Y.** (2018). Open Science: Why and How? *CerCo's Young Scientist Meeting, Toulouse, France* <a href="/pdf/OSF_YSM18.pdf" target="_blank"><b>[slides]</b></a><br>
 * **Héjja-Brichard, Y.** & Cottereau, B.R. (2017). Adaptation aux régularités spatiales de l'environnement au sein de systèmes de vision stéréoscopique. *Journée des doctorants, Université Toulouse III Paul Sabatier, France*
 
 #### *Conference talks*
@@ -38,6 +37,11 @@ classes: wide
 * **Héjja-Brichard, Y.** (2018). Sexism in research and at the university: Why should it matter? What can we do about it?  *CerCo Winter School, Piau-Engaly, France.* <a href="/pdf/SexismInAcademia.pdf" target="_blank"><b>[slides]</b></a><br>
 * **Héjja-Brichard, Y.** (2016). Morality and Ethics: A (very) short review. *CerCo Journal Club, Toulouse, France.* <a href="/pdf/MoralityEthicsReview.pdf" target="_blank"><b>[slides]</b></a><br>
 
+#### Open science workshop
+* Beffara, B., Beffara-Bret, A., Nalborczyk, L., **Héjja-Brichard, Y.**, & Beffara-Bret, B. (2020, February). A practical introduction to the Open Science Framework. *CRNL Workshop on Open Science, Lyon, France*. <a href="/pdf/CRNL2020.pdf" target="_blank"><b>[slides]</b></a><br>
+* **Héjja-Brichard, Y.** (2018). Open Science: Why and How? *CerCo's Young Scientist Meeting, Toulouse, France* <a href="/pdf/OSF_YSM18.pdf" target="_blank"><b>[slides]</b></a><br>
+* Beffara, B., Nalborczyk, L., **Héjja-Brichard, Y.**, & Bret, A. (2017, November). Open, slow, and sustainable science. *PhD student Day of the LPNC lab, Grenoble, France.*
+
 ### Poster presentations
 
 * Audurier, P., **Héjja-Brichard, Y.**, Kohler, P.J., Norcia, A.M., Durand, J.-B., Cottereau, B.R. (2019, October). Processing of symmetry in the non-human primate brain. *Society for Neuroscience, Chicago, USA.*
@@ -47,11 +51,6 @@ classes: wide
 * Rima, S., Cottereau, B.R., **Héjja-Brichard, Y.**, Trotter, Y. & Durand, J.-B. (2017, November). Wide-field retinotopy reveals a new visuotopic cluster in IPS. *Annual meeting of Society for Neuroscience, Washington, USA*. <a href="/pdf/SFN17_V1_Samy-compressed.pdf" target="_blank"><b>[Poster]</b></a><br>
 * **Héjja-Brichard, Y.**, Rima, S., Durand, J.-B., Cottereau, B.R. (2017, August). Stereomotion processing in the non-human primate brain. *European Conference on Visual Perception, Berlin, Germany*. <a href="/pdf/PosterECVP.pdf" target="_blank"><b>[Poster]</b></a><br>
 * **Héjja-Brichard, Y.**, Rima, S., Trotter, Y., Banks, M.S., Durand, J.-B., Cottereau, B.R. (2015, December). Adaptation to the 3D properties of the environment in non-human primates. *GDR Vision annual forum, Grenoble, France*. <a href="/pdf/Poster_GDRvision.pdf" target="_blank"><b>[Poster]</b></a><br>
-
-### Open science workshop
-* Beffara, B., Beffara-Bret, A., Nalborczyk, L., **Héjja-Brichard, Y.**, & Beffara-Bret, B. (2020, February). Introduction to the OpenScience Framework. "Publishing differently: new ways to evaluate and disseminate the scientificknowledge in the digital area", *CRNL Workshop, Lyon, France*.
-* Beffara, B., Nalborczyk, L., **Héjja-Brichard, Y.**, & Bret, A. (2017, November). Open, slow, and sustainable science. *PhD student Day of the LPNC lab, Grenoble, France.*
-
 
 ## Attended Workshop
 * 2020 (June): **2020 Lincoln Animal Cognition Conference**, organised by the Doctoral School of the University of Lincoln, UK (online).
