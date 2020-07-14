@@ -69,4 +69,6 @@ classes: wide
 * Member of [InCOGnu](http://incognu.fr/), an organisation of students and young researchers in cognitive science in Toulouse area, France. We organise monthly conferences, workshops for the general audience (adults and children) and take part in various events of science popularisation (Pint of Science, Brain Awareness Week, National Forum of cognitive science, Scientilivre ...). We also give talks about various topics in the field of cognitive sciences. <br> 
 More specifically, I am involved in communicating about the events.
 
+* Member of [FRESCO](https://federationfresco.fr/), a French organisation uniting at the national level all the regional organisations involved in popularising cognitive science. The FRESCO also has projects on its own. There, I am part of the Perspective team that aimed to create a new magazine. 
+
 <img src="/pdf/PhotoESOF_Incognu.jpg" alt="Incognu" align="right">
