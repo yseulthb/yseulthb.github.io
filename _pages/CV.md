@@ -11,11 +11,11 @@ classes: wide
 A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademic.pdf" target="_blank"><b>CV</b></a><br> (Last update: 29/04/2020)
 
 ### Doctoral research
-* 2015-Present: **PhD studies in Cognitive Neuroscience**, Université Paul Sabatier and [CerCo](http://cerco.cnrs.fr/en/cerco-umr5549-2/) (CNRS), Toulouse, France. Supervisor: Benoit Cottereau, CNRS researcher. <br />
+* 2015-2020 (June): **PhD studies in Cognitive Neuroscience**, Université Paul Sabatier and [CerCo](http://cerco.cnrs.fr/en/cerco-umr5549-2/) (CNRS), Toulouse, France. Supervisor: Benoit Cottereau, CNRS researcher. <br />
 Title of the thesis: Spatial and temporal integration of binocular disparities in primates.<br />
 
 Brief synopsis:<br />
-My PhD project aims to provide a better understanding of how the visual system in primates processes binocular disparities (underlying depth perception) in space and time. I also investigate the relationship between the 3D properties of the environment and neural responses. I mostly conduct functional neuroimaging studies in macaque and collect psychophysics measurements in human and macaque to give insight into the link between visual perception, natural statistics, and the brain activity.<br />
+My PhD project aimed to provide a better understanding of how the visual system in primates processes binocular disparities (underlying depth perception) in space and time. I also investigated the relationship between the 3D properties of the environment and neural responses. I mostly conducted functional neuroimaging studies in macaque and collected psychophysics measurements in human and macaque to give insight into the link between visual perception, natural statistics, and the brain activity.<br />
 
 ### Teaching experience
 * 2019-2020: **Temporary teaching assistant** (48hr), Université Toulouse Jean Jaurès, Toulouse, France<br />
@@ -45,7 +45,7 @@ Student Tutor (a few hours): Helping students to get ready for their exams-->
 * At the scientific community level: Ambassador for the Center for Open Science
 
 ### Education
-* 2015-Present: PhD student in Cognitive Neuroscience, Université Paul Sabatier, Toulouse, France  
+* 2015-2020: PhD student in Cognitive Neuroscience, Université Paul Sabatier, Toulouse, France  
 * 2015: MSc in Neuroscience, Cognition, and Behaviour – Université Paul Sabatier, Toulouse, France <!--Attended courses: Cognition, spatial cognition, sensory systems, neuroethology, collective behaviour, behavioural ecology, applied statistics-->
 * 2014: MSc in Cognitive Psychology – Université de Grenoble, France <!--Attended courses: Visual cognition, memory, neurology and neuropsychology, psycholinguistics, movement planning and control, applied statistics-->
 * 2013: Bsc in Psychology – Université de Grenoble, France & Universität Leipzig, Germany
@@ -72,7 +72,7 @@ A [paper](https://www.nature.com/articles/s41562-017-0264-5) was recently publis
 
 ## Additional skills
 
-* Computing skills: Matlab, SPM12, R programming, EventIDE (stimulus presentation software), LaTeX, Adobe Illustrator, Photoshop, Zotero, Github
+* Computing skills: Matlab, SPM12, R programming, Python (basics), SQL(basics), EventIDE (stimulus presentation software), LaTeX, Adobe Illustrator, Photoshop, Zotero, Github
 * Project management: Organising lab events, such as the Lab day or the annual lab winter school; Organising conferences, debates and workshop for the general audience; Creating original course content and new assessment methods for university students
 * Public communication: Communicating about an event of science popularisation; Giving talks about science to the general public; Presenting scientific papers to a scientific audience
 * Languages: French (native), English (fluent), German (good command in speaking, level B2), Spanish (good command in speaking, level B1), Italian (level A2)
