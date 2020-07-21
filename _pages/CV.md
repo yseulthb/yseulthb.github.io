@@ -52,7 +52,7 @@ Student Tutor (a few hours): Helping students to get ready for their exams-->
 
 
 ### Previous research experience
-* 2014-2015: Research internship, CerCo, Toulouse, France<br />
+* 2014-2015: Research internship, [CerCo](http://cerco.cnrs.fr/en/cerco-umr5549-2/), Toulouse, France<br />
 Master’s thesis: Characterisation of the cortical networks involved in 3D orientation processing in primates.<br />
 Under the supervision of Benoit R. Cottereau and Jean-Baptiste Durand, CNRS researchers
 
