@@ -52,11 +52,11 @@ Student Tutor (a few hours): Helping students to get ready for their exams-->
 
 
 ### Previous research experience
-* 2014-2015: Research internship, [CerCo](http://cerco.cnrs.fr/en/cerco-umr5549-2/)(Brain and Cognition Research Center), Toulouse, France<br />
+* 2014-2015: Research internship, [CerCo](http://cerco.cnrs.fr/en/cerco-umr5549-2/) (Brain and Cognition Research Center), Toulouse, France<br />
 Master’s thesis: Characterisation of the cortical networks involved in 3D orientation processing in primates.<br />
 Under the supervision of Benoit R. Cottereau and Jean-Baptiste Durand, CNRS researchers
 
-* 2013-2014: Research internship, [LPNC](http://lpnc.univ-grenoble-alpes.fr/?lang=en), Grenoble, France<br />
+* 2013-2014: Research internship, [LPNC](http://lpnc.univ-grenoble-alpes.fr/?lang=en) (Psychology and Cognitive Neuroscience Lab), Grenoble, France<br />
 Master’s thesis: Role of the eyes in face categorisation: Interracial eye change impacts on the other-race effect in a categorisation task. <br />
 Under the supervision of Olivier Pascalis, CNRS researcher and with the help of David Meary, Assistant Professor at University of Grenoble-Alps (UGA)
 
