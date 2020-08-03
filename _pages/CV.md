@@ -17,6 +17,11 @@ Title of the thesis: Spatial and temporal integration of binocular disparities i
 Brief synopsis:<br />
 My PhD project aimed to provide a better understanding of how the visual system in primates processes binocular disparities (underlying depth perception) in space and time. I also investigated the relationship between the 3D properties of the environment and neural responses. I mostly conducted functional neuroimaging studies in macaque and collected psychophysics measurements in human and macaque to give insight into the link between visual perception, natural statistics, and the brain activity.<br />
 
+### Membership
+* Cognitive Science Society (2020)
+* Association for the Study of Animal Behaviour (2020)
+* Society for Neuroscience (2018)
+
 ### Teaching experience
 * 2019-2020: **Temporary teaching assistant** (48hr), Université Toulouse Jean Jaurès, Toulouse, France<br />
 Bsc/BA Psychology - Tutorial classes in:
