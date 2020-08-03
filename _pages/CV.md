@@ -18,8 +18,9 @@ Brief synopsis:<br />
 My PhD project aimed to provide a better understanding of how the visual system in primates processes binocular disparities (underlying depth perception) in space and time. I also investigated the relationship between the 3D properties of the environment and neural responses. I mostly conducted functional neuroimaging studies in macaque and collected psychophysics measurements in human and macaque to give insight into the link between visual perception, natural statistics, and the brain activity.<br />
 
 ### Membership
-* Cognitive Science Society (2020)
-* Association for the Study of Animal Behaviour (2020)
+* Center for Open Science, Ambassador (2018 – Present)
+* Cognitive Science Society (2020 - Present)
+* Association for the Study of Animal Behaviour (2020 - Present)
 * Society for Neuroscience (2018)
 
 ### Teaching experience
@@ -77,7 +78,7 @@ A [paper](https://www.nature.com/articles/s41562-017-0264-5) was recently publis
 
 ## Additional skills
 
-* Computing skills: Matlab, SPM12, R programming, Python (basics), SQL(basics), EventIDE (stimulus presentation software), LaTeX, Adobe Illustrator, Photoshop, Zotero, Github
+* Computing skills: Matlab, SPM12, R programming, Python (basics), EventIDE (stimulus presentation software), LaTeX, Adobe Illustrator, Photoshop, Zotero, Github
 * Project management: Organising lab events, such as the Lab day or the annual lab winter school; Organising conferences, debates and workshop for the general audience; Creating original course content and new assessment methods for university students
 * Public communication: Communicating about an event of science popularisation; Giving talks about science to the general public; Presenting scientific papers to a scientific audience
 * Languages: French (native), English (fluent), German (good command in speaking, level B2), Spanish (good command in speaking, level B1), Italian (level A2)
