@@ -51,6 +51,12 @@ classes: wide
 * **Héjja-Brichard, Y.**, Rima, S., Durand, J.-B., Cottereau, B.R. (2017, August). Stereomotion processing in the non-human primate brain. *European Conference on Visual Perception, Berlin, Germany*. <a href="/pdf/PosterECVP.pdf" target="_blank"><b>[Poster]</b></a><br>
 * **Héjja-Brichard, Y.**, Rima, S., Trotter, Y., Banks, M.S., Durand, J.-B., Cottereau, B.R. (2015, December). Adaptation to the 3D properties of the environment in non-human primates. *GDR Vision annual forum, Grenoble, France*. <a href="/pdf/Poster_GDRvision.pdf" target="_blank"><b>[Poster]</b></a><br>
 
+## Membership
+* Center for Open Science, Ambassador (2018 – Present)
+* Cognitive Science Society (2020 - Present)
+* Association for the Study of Animal Behaviour (2020 - Present)
+* Society for Neuroscience (2018)
+
 ## Attended Workshop
 * 2020 (June): **2020 Lincoln Animal Cognition Conference**, organised by the Doctoral School of the University of Lincoln, UK (online).
 * 2018 (November): **2018 Primate Welfare Meeting**, organised by the NC3Rs in London, UK.
