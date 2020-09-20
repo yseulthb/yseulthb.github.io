@@ -40,7 +40,7 @@ Teaching French as a foreign language (FLE) to adults
 2019: Università degli studi di Trieste <br />
 2018: University of Bordeaux
 
-#### Community Involvement
+**Community Involvement**
 * At the lab level: Co-creation of a Welcome Kit for new students; Student representative at the Lab Council; Organisation of the students' Lab Day; Organisation of the students' Winter School; Co-organisation of the Annual Lab Meeting Day; Creation of a Welcome Kit
 * At the scientific community level: Ambassador for the Center for Open Science
 
