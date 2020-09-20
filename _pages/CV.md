@@ -54,7 +54,7 @@ Teaching French as a foreign language (FLE) to adults
 
 ### Previous research experience
 * 2014-2015: Research internship, [CerCo](http://cerco.cnrs.fr/en/cerco-umr5549-2/) (Brain and Cognition Research Center), Toulouse, France<br />
-Master’s thesis: Characterisation of the cortical networks involved in 3D orientation processing in primates. Under the supervision of Benoit R. Cottereau and Jean-Baptiste Durand.
+Master’s thesis: Characterisation of the cortical networks involved in 3D orientation processing in primates. Under the supervision of Benoit Cottereau and Jean-Baptiste Durand.
 
 * 2013-2014: Research internship, [LPNC](http://lpnc.univ-grenoble-alpes.fr/?lang=en) (Psychology and Cognitive Neuroscience Lab), Grenoble, France<br />
 Master’s thesis: Role of the eyes in face categorisation: Interracial eye change impacts on the other-race effect in a categorisation task. Under the supervision of Olivier Pascalis and with the help of David Meary.
