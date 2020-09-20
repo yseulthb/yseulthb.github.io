@@ -2,7 +2,9 @@
 layout: single
 permalink: /CV/
 classes: wide
+toc: true
 ---
+{% include toc %}
 
 <img src="/assets/images/ToulouseByNight.jpg" alt="Toulouse by night"> 
 
