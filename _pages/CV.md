@@ -72,7 +72,7 @@ Under the supervision of Natacha Mendès, now a scientific co-ordinator at the M
 A [paper](https://www.nature.com/articles/s41562-017-0264-5) was recently published by Natacha Mendès and collaborators!
 
 
-## Additional skills
+### Additional skills
 
 * Computing skills: Matlab, SPM12, R programming, Python (intermediate), EventIDE (stimulus presentation software), LaTeX, Adobe Illustrator, Photoshop, Zotero, Github
 * Project management: Organising lab events, such as the Lab day or the annual lab winter school; Organising conferences, debates and workshop for the general audience; Creating original course content and new assessment methods for university students
