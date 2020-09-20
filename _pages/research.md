@@ -40,12 +40,12 @@ toc: true
 * **Héjja-Brichard, Y.** (2018). Sexism in research and at the university: Why should it matter? What can we do about it?  *CerCo Winter School, Piau-Engaly, France.* <a href="/pdf/SexismInAcademia.pdf" target="_blank"><b>[slides]</b></a><br>
 * **Héjja-Brichard, Y.** (2016). Morality and Ethics: A (very) short review. *CerCo Journal Club, Toulouse, France.* <a href="/pdf/MoralityEthicsReview.pdf" target="_blank"><b>[slides]</b></a><br>
 
-#### *Open science workshop*
+### *Open science workshop*
 * Beffara, B., Beffara-Bret, A., Nalborczyk, L., **Héjja-Brichard, Y.**, & Beffara-Bret, B. (2020, February). A practical introduction to the Open Science Framework. *CRNL Workshop on Open Science, Lyon, France*. <a href="/pdf/CRNL2020.pdf" target="_blank"><b>[slides]</b></a><br>
 * **Héjja-Brichard, Y.** (2018). Open Science: Why and How? *CerCo's Young Scientist Meeting, Toulouse, France* <a href="/pdf/OSF_YSM18.pdf" target="_blank"><b>[slides]</b></a><br>
 * Beffara, B., Nalborczyk, L., **Héjja-Brichard, Y.**, & Bret, A. (2017, November). Open, slow, and sustainable science. *PhD student Day of the LPNC lab, Grenoble, France.*
 
-#### Poster presentations
+### *Poster presentations*
 
 * Audurier, P., **Héjja-Brichard, Y.**, Kohler, P.J., Norcia, A.M., Durand, J.-B., Cottereau, B.R. (2019, October). Processing of symmetry in the non-human primate brain. *Society for Neuroscience, Chicago, USA.*
 * De Castro, V., LeGuen, C., **Héjja-Brichard, Y.**, Audurier, P., Cottereau, B.R., Durand, J.-B. (2019, October). Functional and structural connectivity of the cingulate sulcus visual (CSv) area in macaque monkeys. *Society for Neuroscience, Chicago, USA*. <a href="/pdf/SFN_2019_JBD.pdf" target="_blank"><b>[Poster]</b></a><br>
