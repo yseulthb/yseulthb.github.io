@@ -2,7 +2,10 @@
 layout: single
 permalink: /research/
 classes: wide
+toc: true
 ---
+{% include toc %}
+
 <img src="/assets/images/WelshTulipCropped.jpg" alt="My research"> 
 
 ## Scientific Production
