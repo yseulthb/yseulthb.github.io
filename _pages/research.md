@@ -11,11 +11,11 @@ toc: true
 ## Scientific Production
 
 ### Publications
-#### *Under review or in preparation*
+***Under review or in preparation***
 
 * Audurier, P., **Héjja-Brichard, Y.**, Kohler, P.J., Norcia, A.M., Durand, J.-B., Cottereau, B.R. *(in prep.)*. Processing of symmetry in the non-human primate brain.
 
-#### *Peer-reviewed journal articles*
+***Peer-reviewed journal articles***
 
 * De Castro, V., Smith, A.T., Beer, A.L., Leguen, C., Vayssière, N., **Héjja-Brichard, Y.**, Audurier, P., Cottereau, B.R. & Durand, J.B. *(accepted)*. Connectivity of the cingulate sulcus visual area (CSv) in macaque monkeys. *Cerebral Cortex.*
 * Rima, S., Cottereau, B.R., **Héjja-Brichard, Y.**, Trotter, Y. & Durand, J.B. (2020). A new visuotopic cluster in macaque posterior parietal cortex revealed by wide-field retinotopy. *Brain Structure and Function.* ([doi](https://doi.org/10.1007/s00429-020-02134-2))
@@ -25,16 +25,16 @@ toc: true
 
 
 ### Oral presentations
-#### *Invited talks*
+***Invited talks***
 
 * **Héjja-Brichard, Y.** (2020, october). Rethinking our Narratives: The Challenge of “Slow Science”. *LiveMEEG (online conference)*
 * **Héjja-Brichard, Y.** & Mercier M.R. (2018). Data visualisation in cognitive neuroscience: Functional neuroimaging and electrophysiology. *Talk given for the Toulouse Data Vizualisation group, Toulouse, France* <a href="/pdf/YHB_ToulouseDataViz.pdf" target="_blank"><b>[slides]</b></a><br>
 * **Héjja-Brichard, Y.** & Cottereau, B.R. (2017). Adaptation aux régularités spatiales de l'environnement au sein de systèmes de vision stéréoscopique. *Journée des doctorants, Université Toulouse III Paul Sabatier, France*
 
-#### *Conference talks*
+***Conference talks***
 * Audurier, P., **Héjja-Brichard, Y.**, Kohler, P.J., Norcia, A.M., Durand, J.-B., Cottereau, B.R. (2019). Processing of rotational symmetry in the non-human primate brain. *GDR Vision annual forum, Marseille, France.*
 
-#### *Small talk(s)*
+***Small talk(s)***
 * **Héjja-Brichard, Y.** (2019). Democracy in the animal kingdom: Collaborative decision-making.  *CerCo Winter School, Pragnères, France.* <a href="/pdf/DemocracyAnimalKingdom.pdf" target="_blank"><b>[slides]</b></a><br> 
 * **Héjja-Brichard, Y.** (2018). Stereovision in the animal kingdom: Which species, at what cost, and for which advantages? *CerCo Lab Day, Muret, France* <a href="/pdf/CerCoDay_3Dvision.pdf" target="_blank"><b>[slides]</b></a><br>
 * **Héjja-Brichard, Y.** (2018). Sexism in research and at the university: Why should it matter? What can we do about it?  *CerCo Winter School, Piau-Engaly, France.* <a href="/pdf/SexismInAcademia.pdf" target="_blank"><b>[slides]</b></a><br>
@@ -45,7 +45,7 @@ toc: true
 * **Héjja-Brichard, Y.** (2018). Open Science: Why and How? *CerCo's Young Scientist Meeting, Toulouse, France* <a href="/pdf/OSF_YSM18.pdf" target="_blank"><b>[slides]</b></a><br>
 * Beffara, B., Nalborczyk, L., **Héjja-Brichard, Y.**, & Bret, A. (2017, November). Open, slow, and sustainable science. *PhD student Day of the LPNC lab, Grenoble, France.*
 
-### Poster presentations
+#### Poster presentations
 
 * Audurier, P., **Héjja-Brichard, Y.**, Kohler, P.J., Norcia, A.M., Durand, J.-B., Cottereau, B.R. (2019, October). Processing of symmetry in the non-human primate brain. *Society for Neuroscience, Chicago, USA.*
 * De Castro, V., LeGuen, C., **Héjja-Brichard, Y.**, Audurier, P., Cottereau, B.R., Durand, J.-B. (2019, October). Functional and structural connectivity of the cingulate sulcus visual (CSv) area in macaque monkeys. *Society for Neuroscience, Chicago, USA*. <a href="/pdf/SFN_2019_JBD.pdf" target="_blank"><b>[Poster]</b></a><br>
@@ -55,13 +55,13 @@ toc: true
 * **Héjja-Brichard, Y.**, Rima, S., Durand, J.-B., Cottereau, B.R. (2017, August). Stereomotion processing in the non-human primate brain. *European Conference on Visual Perception, Berlin, Germany*. <a href="/pdf/PosterECVP.pdf" target="_blank"><b>[Poster]</b></a><br>
 * **Héjja-Brichard, Y.**, Rima, S., Trotter, Y., Banks, M.S., Durand, J.-B., Cottereau, B.R. (2015, December). Adaptation to the 3D properties of the environment in non-human primates. *GDR Vision annual forum, Grenoble, France*. <a href="/pdf/Poster_GDRvision.pdf" target="_blank"><b>[Poster]</b></a><br>
 
-## Membership
+### Membership
 * Center for Open Science, Ambassador (2018 – Present)
 * Cognitive Science Society (2020 - Present)
 * Association for the Study of Animal Behaviour (2020 - Present)
 * Society for Neuroscience (2018)
 
-## Attended Workshop
+### Attended Workshop
 * 2020 (June): **2020 Lincoln Animal Cognition Conference**, organised by the Doctoral School of the University of Lincoln, UK (online).
 * 2018 (November): **2018 Primate Welfare Meeting**, organised by the NC3Rs in London, UK.
 * 2018 (May): **The 6th Toulouse Economics and Biology Workshop**, on the theme '[Evolution, Cognition, and Rationality](http://www.iast.fr/conferences/2018-6th-toulouse-economics-and-biology-workshop)' organised by the Institute for Advanced Study in Toulouse, France.
