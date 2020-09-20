@@ -12,6 +12,8 @@ toc: true
 
 A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademic.pdf" target="_blank"><b>CV</b></a><br> (Last update: 03/09/2020)
 
+## Research and Teachin
+
 ### Doctoral research
 * 2015-2020 (June): **PhD studies in Cognitive Neuroscience**, Université Paul Sabatier and [CerCo](http://cerco.cnrs.fr/en/cerco-umr5549-2/) (CNRS), Toulouse, France. Supervisor: Benoit Cottereau, CNRS researcher. <br />
 Title of the thesis: Spatial and temporal integration of binocular disparities in primates.<br />
@@ -38,20 +40,17 @@ Teaching French as a foreign language (FLE) to adults
 2019: Università degli studi di Trieste <br />
 2018: University of Bordeaux
 
-<!--* 2011 (June-October): Tutor and Student Mentor for first-year students in Psychology, University of Grenoble, France <br />
-Student Mentor (several weeks): Guiding the new students to find their way on the campus, helping them to get integrated <br />
-Student Tutor (a few hours): Helping students to get ready for their exams-->
-
-### Community Involvement
+#### Community Involvement
 * At the lab level: Co-creation of a Welcome Kit for new students; Student representative at the Lab Council; Organisation of the students' Lab Day; Organisation of the students' Winter School; Co-organisation of the Annual Lab Meeting Day; Creation of a Welcome Kit
 * At the scientific community level: Ambassador for the Center for Open Science
+
+## Education and Research Training
 
 ### Education
 * 2015-2020: PhD student in Cognitive Neuroscience, Université Paul Sabatier, Toulouse, France  
 * 2015: MSc in Neuroscience, Cognition, and Behaviour – Université Paul Sabatier, Toulouse, France <!--Attended courses: Cognition, spatial cognition, sensory systems, neuroethology, collective behaviour, behavioural ecology, applied statistics-->
 * 2014: MSc in Cognitive Psychology – Université de Grenoble, France <!--Attended courses: Visual cognition, memory, neurology and neuropsychology, psycholinguistics, movement planning and control, applied statistics-->
 * 2013: Bsc in Psychology – Université de Grenoble, France & Universität Leipzig, Germany
-
 
 ### Previous research experience
 * 2014-2015: Research internship, [CerCo](http://cerco.cnrs.fr/en/cerco-umr5549-2/) (Brain and Cognition Research Center), Toulouse, France<br />
@@ -69,11 +68,10 @@ Under the supervision of Eugénie Lhommée, Neuropsychologist at the Hospital of
 * 2013 (April-July): Research assistant, [MPI for Human Cognitive and Brain Sciences](https://www.cbs.mpg.de/), Leipzig, Germany<br />
 Department of social neuroscience - In charge of the coding of chimpanzees' vocalisations and statistical analysis. <br />
 Under the supervision of Natacha Mendès, now a scientific co-ordinator at the Max Planck School of Cognition. <br />
-A [paper](https://www.nature.com/articles/s41562-017-0264-5) was recently published by Natacha Mendès and collaborators!
+A [paper](https://www.nature.com/articles/s41562-017-0264-5) was published by Natacha Mendès and collaborators!
 
 
 ### Additional skills
-
 * Computing skills: Matlab, SPM12, R programming, Python (intermediate), EventIDE (stimulus presentation software), LaTeX, Adobe Illustrator, Photoshop, Zotero, Github
 * Project management: Organising lab events, such as the Lab day or the annual lab winter school; Organising conferences, debates and workshop for the general audience; Creating original course content and new assessment methods for university students
 * Public communication: Communicating about an event of science popularisation; Giving talks about science to the general public; Presenting scientific papers to a scientific audience
