@@ -39,9 +39,10 @@ The first day we walked around the town and climbed up to the Christ Statute, wh
 <img src="/assets/images/Almeria.jpg" alt="Almeria" align="center">
 
 Sightseeings:
-- The Alcazaba
+- The Alcazaba and the old town
 - Museo de arte Dona Pakyta
 - La Chanca (view from the fortress)
+- The sea front
 
 ## Granada and Sierra Nevada
 - La Alhambra
