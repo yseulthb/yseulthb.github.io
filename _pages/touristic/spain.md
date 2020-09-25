@@ -23,6 +23,8 @@ Once in Barcelona, you have different options to reach Andalucía: Either you ta
 
 We left Barcelona (Sants) in the early morning the next day to reach Madrid (Puerta de Atocha) in about 3 hours, giving us 5 to 6 hours before our connection to Almería. We spent the afternoon at the Parque del Retiro, a big green spot in Madrid where you can visit the Palacio de Cristal, a glasshouse hosting exhibitions, and closeby, the Palacio Velazquez, which also hosts contemporary art.
 
+<img src="/assets/images/Madrid.jpg" alt="Madrid" align="center">
+
 From Madrid, we took the Talgo train that passes by Alcazár de San Juan and lets you admire the majestuous windmills (Molines) to finally reach our first destination in Andalucía: Almería!
 
 *Good to know:* 
@@ -33,6 +35,8 @@ From Madrid, we took the Talgo train that passes by Alcazár de San Juan and let
 The train from Madrid to Almería takes you through various landscapes, leaving the mountainous region of Madrid to reach the southwest part of the country in about 6-7 hours.
 The weather in Almería is very different from the other places we went to. The city is warm and pretty dry due to the proximity of a desert in the surrounding area. This is highly contrasting with the snowy mountains of Sierra Nevada! <br>
 The first day we walked around the town and climbed up to the Christ Statute, which offers a panoramic view on the city, the sea, on the fortress walls and on the district of La Chanca  (a district built against the mountain with squary and colourful little houses).<br>
+
+<img src="/assets/images/Almeria.jpg" alt="Almeria" align="center">
 
 - The Alcazaba
 - Museo de arte Dona Pakyta
