@@ -29,7 +29,7 @@ From Madrid, we took the Talgo train that passes by Alcazár de San Juan and let
 
 *Good to know:* 
 - *In Spain museums are closed on Monday. If you're a student, don't forget your student card to get discount.*
-- *The typical Spanish/Andalousian breakfast is made of tostadas con aceite (olive oil locally produced), tomatoes, or mantequilla (butter) along with a fresh orange juice (grown locally) and a coffee (con leche or bombon, which is a coffee served with milk concentrate). This costs as little as 4-5 euros.*
+- *The typical Spanish/Andalousian breakfast is made of tostadas con aceite (olive oil locally produced), tomatoes, mantequilla (butter), or jam along with a fresh orange juice (grown locally) and a coffee (con leche or café bombón, which is a coffee served with milk concentrate). This costs as little as 4-5 euros and is very tasty.*
 
 ## Almería
 The train from Madrid to Almería takes you through various landscapes, leaving the mountainous region of Madrid to reach the southwest part of the country in about 6-7 hours.
