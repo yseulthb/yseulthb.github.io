@@ -38,6 +38,7 @@ The first day we walked around the town and climbed up to the Christ Statute, wh
 
 <img src="/assets/images/Almeria.jpg" alt="Almeria" align="center">
 
+Sightseeings:
 - The Alcazaba
 - Museo de arte Dona Pakyta
 - La Chanca (view from the fortress)
