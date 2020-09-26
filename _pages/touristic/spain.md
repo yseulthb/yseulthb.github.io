@@ -54,13 +54,21 @@ Sightseeings:
 
 Arriving to Granada from Almería  made us realise that it was winter as it got much fresher! However it also felt like the aire was purer and the view on the close mountains as we were walking on the Avenida de la Constitucion reminded me a bit of Grenoble, a French city in the Alps. I would advise to take this path to reach the city centre to admire the many statutes on the way and for the open view on the mountains. 
 
+<img src="/assets/images/granada.jpg" alt="Granada" align="center">
+
 ### The Alhambra
 Granada is best known for the Alhambra, a palace and fortress complex, really worth visiting. However, due to its touristic success, visits are limited so you should by all means book your tour/ticket in advance! (here for the official website: https://www.alhambradegranada.org/ + Beware of scam websites!) You will find different visit types and tour options and different prices. <br>
 There are three main parts composing the Alhambra: the Alcazaba (the fortress, from the Arabic 'alQasba'), the Nasrid Palaces and the Generalife (the gardens). 
 The must-do is a visit of the fortress ('General Day Visit Tickets'). If you can afford it, you should also visit the Nasrid Palaces. Even nicer is to book your Palace visit at the end of the day so you can enjoy the night atmosphere of the location. You can also opt for a guided tour to learn more about the history of the buildings or simply bring your touristic book along if you're not so much into group visits!
 
+I took so many pictures and yet they barely show the amazingness of the place! I was really impressed by all the fine details and engravings on every doors and windows, the inner patio and courts of the Palaces, the richly decorated ceilings, the mix between coulourful tiles, wall caligraphies and engravings, and arabesques, as well as the building period of the different edifices. It was something to see pictures of such places, and a completely different experience to actually have the chance to visit one!
+
+<img src="/assets/images/alhambra.jpg" alt="Alhambra" align="center">
+
 ### From Granada to Sierra Nevada
 It takes 45 minutes by bus to get to the ski resort from the autobus station (Autotransporte Tocina S.L.: 5€ per person per trip). Once you get up there, you can enjoy the resort and do some skiing or choose to hike. We chose the second one. You can find different hiking paths on this website: https://treksierranevada.com/ or on this one: [http://www.juntadeandalucia.es/](http://www.juntadeandalucia.es/medioambiente/servtc5/ventana/resultadoEquipamientos.do?tipoBusqueda=sendero&idEspacio=7418). Be prepared for the snow! Sierra Nevada are high mountains (Mulhacén is the highest peak, at 3,479 metres) so you might want to have specific equipment (hiking shoes and warm clothing).
+
+<img src="/assets/images/sierra_nevada.jpg" alt="Sierra Nevada" align="center">
 
 
 Sightseeings:
