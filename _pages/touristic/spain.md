@@ -21,7 +21,7 @@ We started our journey from Toulouse with the idea to reach Barcelona by train (
 
 Once in Barcelona, you have different options to reach Andalucía: Either you take a high-speed train (AVE trains) to Madrid and then a regional train (Talgo trains) to Almería, or you can go through Alcazár de San Juan instead of Madrid with Talgo trains (longer but cheaper). Unfortunately we could not make it through Alcazár de San Juan as trains were all fully booked to go to the Don Quijote city: Carnival was happening at the same time and we were not quick enough to book our tickets! 
 
-*Barcelona Tip: If you are in the Sants district for a train connection and have a bit of time to go around, try the Pickwick Bar (Carrer de Sant Jordi, near the Sants market and connected to the Carrer de Sants). The place is a local spot, held by a couple in their 50s and they serve very good home-made tapas!*
+*Barcelona Tip: If you are in the Sants district for a train connection and have a bit of time to go around, try the Pickwick Bar (Carrer de Sant Jordi, 3, near the Sants market and connected to the Carrer de Sants). The place is a local spot, held by a couple in their 50s and they serve very good home-made tapas!*
 
 We left Barcelona (Sants) in the early morning the next day to reach Madrid (Puerta de Atocha) in about 3 hours, giving us 5 to 6 hours before our connection to Almería. We spent the afternoon at the Parque del Retiro, a big green spot in Madrid where you can visit the Palacio de Cristal, a glasshouse hosting exhibitions, and closeby, the Palacio Velazquez, which also hosts contemporary art.
 
