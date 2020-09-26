@@ -50,6 +50,8 @@ Sightseeings:
 - The sea front
 
 ## Granada and Sierra Nevada
+*Travelling by train is ideal to see the changes in the vegetation and the geography. For instance, Almería  is located between the sea, snowy mountains, and the desert. To reach Granada, we went through rocky areas and small hills and lots of tunnels. The orange trees are replaced by olive trees and the the ground is covered with orange sand. The hills are turning into small rocky mountains as we are going around the Sierra Nevada to reach Granada.*
+
 Arriving to Granada from Almeria made us realise that it was winter as it got much fresher! However it also felt like the aire was purer and the view on the close mountains as we were walking on the Avenida de la Constitucion reminded me a bit of Grenoble, a French city in the Alps. I would advise to take this path to reach the city centre to admire the many statutes on the way and for the open view on the mountains. 
 
 ### The Alhambra
