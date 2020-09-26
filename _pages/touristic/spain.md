@@ -34,16 +34,17 @@ From Madrid, we took the Talgo train that passes by Alcazár de San Juan and let
 - *The typical Spanish/Andalousian breakfast is made of tostadas con aceite (olive oil locally produced), tomatoes, mantequilla (butter), or jam along with a fresh orange juice (grown locally) and a coffee (con leche or café bombón, which is a coffee served with milk concentrate). This costs as little as 4-5 euros and is very tasty.*
 
 ## Almería
-The train from Madrid to Almería takes you through various landscapes, leaving the mountainous region of Madrid to reach the southwest part of the country in about 6-7 hours. <br>
-The weather in Almería is very different from the other places we went to. The city is warm and pretty dry due to the proximity of a desert in the surrounding area (the Tabernas). This is highly contrasting with the snowy mountains of Sierra Nevada! <br>
-The first day we walked around the town and climbed up to the Christ Statue (San Cristobal), which offers a panoramic view on the city, the sea, on the fortress walls and on the district of La Chanca  (a district built against the mountain with squary and colourful little houses). Despite failing to visit the Alcazaba (fortress) because of opening days and Christmas holidays, we really enjoyed walking in the old streets of Almería. Unlike Granada and Sevilla, the city is much less crowded and yet worth visiting. It has a beautiful and peculiar Cathedral-fortress (!): Built on the location of a mosque (destroyed by an earthquake), it has a flat roof. Indeed, it was used as a military basis against the invasions from the sea. There are lots of cute places where you can have good beers and tapas. <br>
-In the modern part of the town, look for the Casa de las mariposas (the Butterfly building) built in the early 1900s.<br>
+The train from Madrid to Almería takes you through various landscapes, leaving the mountainous region of Madrid to reach the southwest part of the country in about 6-7 hours.<br>
+The weather in Almería is very different from the other places we went to. The city is warm (15-20° when we were here, at the end of December) and pretty dry due to the proximity of a desert in the surrounding area (the Tabernas) and is home to loooot of orange trees! This is highly contrasting with the snowy mountains of Sierra Nevada! <br>
+During our time in the city (one day and a half), we walked around the town and climbed up to the Christ Statue (San Cristobal), which offers a panoramic view on the city, the sea, on the fortress walls and on the district of La Chanca  (a district built against the mountain with squary and colourful little houses). Despite failing to visit the Alcazaba (fortress) because of opening days and Christmas holidays, we really enjoyed walking in the old streets of Almería. Unlike Granada and Sevilla, the city is much less crowded and yet worth visiting. It has a beautiful and peculiar Cathedral-fortress (!): Built on the location of a mosque (destroyed by an earthquake), it has a flat roof. Indeed, it was used as a defence building against invasions coming from the sea. Plus, there are lots of cute places where you can have good beers and tapas. Try the Tigre Ciego (Plaza de la Administración Vieja), a very cosy place with amazing beers and tapas! If you plan to visit the Alcazaba, you can make your way by walking through small streets with colourful houses. <br>
+In the modern part of the town, look for the Casa de las mariposas ('Butterfly house'), an Art Deco building built in the early 1900s.
+Finally, if you have time for a museum visit, I would recommend the Museo de arte Doña Pakyta (close to the harbour), exhibiting Almerian art of the last 150 years. If you are hungry by then, you can get some tapas at La Hormiguita near the Fish fountain in the Parque Nicolás Salmerón (the promenade along the sea side, close to the Ramblas).
 
 <img src="/assets/images/Almeria.jpg" alt="Almeria" align="center">
 
 Sightseeings:
 - The Alcazaba and the old town
-- Museo de arte Dona Pakyta
+- Museo de arte Doña Pakyta (free entrance)
 - La Chanca (view from the fortress)
 - The Cathedral with a flat roof
 - The sea front
