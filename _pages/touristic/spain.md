@@ -42,7 +42,7 @@ Finally, if you have time for a museum visit, I would recommend the Museo de art
 
 <img src="/assets/images/Almeria.jpg" alt="Almeria" align="center">
 
-Sightseeings:
+**Sightseeings:**
 - The Alcazaba and the old town
 - Museo de arte Doña Pakyta (free entrance)
 - La Chanca (view from the fortress)
@@ -52,12 +52,12 @@ Sightseeings:
 ## Granada and Sierra Nevada
 *Travelling by train is ideal to see the changes in the vegetation and the geography. For instance, Almería  is located between the sea, snowy mountains, and the desert. To reach Granada, we went through rocky areas and small hills and lots of tunnels. The orange trees are replaced by olive trees and the the ground is covered with orange sand. The hills are turning into small rocky mountains as we are going around the Sierra Nevada to reach Granada.*
 
-Arriving to Granada from Almería  made us realise that it was winter as it got much fresher! However it also felt like the aire was purer and the view on the close mountains as we were walking on the Avenida de la Constitucion reminded me a bit of Grenoble, a French city in the Alps. I would advise to take this path to reach the city centre to admire the many statutes on the way and for the open view on the mountains. 
+Arriving to Granada from Almería  made us realise that it was winter as it got much fresher! However it also felt like the air was purer and the view on the close mountains as we were walking on the Avenida de la Constitucion reminded me a bit of Grenoble, a French city in the Alps. I would advise to take this path to reach the city centre to admire the many statutes on the way and for the open view on the mountains. 
 
 <img src="/assets/images/granada.jpg" alt="Granada" align="center">
 
 ### The Alhambra
-Granada is best known for the Alhambra, a palace and fortress complex, really worth visiting. However, due to its touristic success, visits are limited so you should by all means book your tour/ticket in advance! (here for the official website: https://www.alhambradegranada.org/ + Beware of scam websites!) You will find different visit types and tour options and different prices. <br>
+Granada is best known for the Alhambra, a palace and fortress complex, really worth visiting. However, due to its touristic success, visits are limited so you should by all means book your tour/ticket in advance! (here for the official website: [https://www.alhambradegranada.org/](https://www.alhambradegranada.org/) + Beware of scam websites!) You will find different visit types and tour options and different prices. <br>
 There are three main parts composing the Alhambra: the Alcazaba (the fortress, from the Arabic 'alQasba'), the Nasrid Palaces and the Generalife (the gardens). 
 The must-do is a visit of the fortress ('General Day Visit Tickets'). If you can afford it, you should also visit the Nasrid Palaces. Even nicer is to book your Palace visit at the end of the day so you can enjoy the night atmosphere of the location. You can also opt for a guided tour to learn more about the history of the buildings or simply bring your touristic book along if you're not so much into group visits!
 
@@ -66,13 +66,14 @@ I took so many pictures and yet they barely show the amazingness of the place! I
 <img src="/assets/images/alhambra.jpg" alt="Alhambra" align="center">
 
 ### From Granada to Sierra Nevada
-It takes 45 minutes by bus to get to the ski resort from the autobus station (Autotransporte Tocina S.L.: 5€ per person per trip). Once you get up there, you can enjoy the resort and do some skiing or choose to hike. We chose the second one. You can find different hiking paths on this website: https://treksierranevada.com/ or on this one: [http://www.juntadeandalucia.es/](http://www.juntadeandalucia.es/medioambiente/servtc5/ventana/resultadoEquipamientos.do?tipoBusqueda=sendero&idEspacio=7418). Be prepared for the snow! Sierra Nevada are high mountains (Mulhacén is the highest peak, at 3,479 metres) so you might want to have specific equipment (hiking shoes and warm clothing).
+It takes 45 minutes by bus to get to the ski resort from the autobus station (Autotransporte Tocina S.L.: 5€ per person per trip). Once you get up there, you can enjoy the resort and do some skiing or choose to hike. We chose the second one. You can find different hiking paths on this website: (https://treksierranevada.com/)[https://treksierranevada.com/] or on this one: [http://www.juntadeandalucia.es/](http://www.juntadeandalucia.es/medioambiente/servtc5/ventana/resultadoEquipamientos.do?tipoBusqueda=sendero&idEspacio=7418). Be prepared for the snow! Sierra Nevada are high mountains (Mulhacén is the highest peak, at 3,479 metres) so you might want to have specific equipment (hiking shoes and warm clothing).
 
 <img src="/assets/images/sierra_nevada.jpg" alt="Sierra Nevada" align="center">
 
 
-Sightseeings:
+**Sightseeings:**
 - The Alhambra, a palace and fortress complex
+- The cathedral, which was previously a mosque (pretty common thing to happen in Andalucia!) and the nearby Alcaicería market -the former Bazaar distric consisting of narrow streets packed with small shops, mostly selling souvenirs
 - Mirador de San Nicolas (very crowded!), a viewpoint on the Alhambra that you can access via Sacromonte in the old Albaicín district (made of narrow streets, small white houses, and troglodyte houses). Don't be afraid of getting lost in the narrow streets! Starting or Ending point is the Plaza Nueva.
 - Sierra Nevada (mountains)
 
@@ -84,9 +85,8 @@ Sightseeings:
 # Portuguese journey
 We left Sevilla to reach Faro by coach (Alsa company). It is a 3-hour journey over Huelva. We had not realised there was a time difference between Portugal and Spain (1 hour less in Portugal), which made our bus journey longer than expected! That's how you learn :) 
 ## Faro
+As we only had one afternoon to spend in Faro, we mostly walked around, enjoying the sunny weather. What I loved about Faro is the mix of coulours and textures on houses in the Old Town and the cute stores in the more modern part of the town. I bet there are much more people in spring and summer, but by the time we were there (early January) the city was very quiet, contrasting with Sevilla where we were the days before! <br>
 What we did not have time to do but is apparently worth trying: a boat cruise to explore the surroundings. Renting a car to go around is also a nice thing to do.
-Because we had only one afternoon to spend in Faro, we mostly walked around, enjoying the sunny weather. <br>
-What I loved about Faro is the mix of coulours and textures on houses in the Old Town and the cute stores in the more modern part of the town. I bet there are much more people in spring and summer, but by the time we were there (early January) the city was very quiet, contrasting with Sevilla where we were the days before! <br>
 
 <img src="/assets/images/FARO.jpg" alt="Faro" align="center">
 
