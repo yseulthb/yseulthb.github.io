@@ -80,9 +80,35 @@ It takes 45 minutes by bus to get to the ski resort from the autobus station (Au
 - Sierra Nevada (mountains)
 
 ## Córdoba
+
+Despite being a small town (compared to Sevilla and Granada), Córdoba has an intense history as you can tell by the different important monuments in the city. It is mostly known for its Mezquita-Catedral, a grandiose complex. The inside of the monument is impressive: there were double arches everywhere to hold the ceiling. There were several extensions to the Mosque made by different Muslim Kings and in the end the Mosque could welcome 90.000 prayers!! Before being a Mosque, the building was a Wisigoth church. After being a Mosque it became, and still is, a Cathedral. Fortunately, Christians respected most of the structure and it is then very impressive how they managed to add chapels in the aisles of the Mosque. In the centre, however, they made major modifications to the original builing in order to add the choir of the Cathedral. You can see a gradient from the red and beige arches giving a sort of muted ambience to the Mosque, from which you can still admire the Mihrab, that indicates the direction of the Mecca, to the white and luminous atmosphere of the Cathedral, especially in the centre where an extra layer was added to the building with high and richly decorated ceilings. Impressive mix and interesting opposition between a sober and an exuberant architectures! 
+Outside, in the patio, you will see many orange trees and a small fountain in its centre. 
+
+*Restaurant tip: Along the riverside, the vegetarian (very) friendly restaurant [Almatea](https://www.amaltea.es/?fbclid=IwAR2IgdUp5G0AsDzPXd7qcb2hedO3x9EtQhgCVTcmun3Cbf6IZ_KKO6HJO_w) (with vegan and no gluten options) serves very tasty seasonal and local food with very good wines. Fancy fusion cuisine. Ronda de Isasa, 10.*
+
+**Sightseeings:** 
 - Mezquita-Catedral (Mosque-Cathedral)
+- El Puente Romano (Roman bridge) from which you can have a very nice view on the Mezquita-Catedral
+- La Judería (the Old Jewish Quarter), the Synagogue (one of the three remaining historical Synagogues in Spain; in Mudéjar style), and the Casa de Sefarad
+- Barrio de San Basilio aka the Alcázar Viejo quarter (Patios Cordobeses), Calleja de las Flores: typical narrow streets with white wall houses and lots of flowers blue pots and some sculptures here and there interleaved with the flowers.
+- Alcazar de los reyes cristianos and its gardens (Castle/Fortress of the Christian Monarchs), a 14th c. fortress where Christian Kings established themselves after the Reconquista.
+
 ## Sevilla and Cádiz
-- Sevilla: Cathedral (former Mosque); Real Alcázar
+### Sevilla
+We spent a whole afternoon walking around Sevilla. We had a long walk from the central Zona de Monumentos, which includes the Alcázar and the majectic cathedral, to the river and the Torre de Oro (Golden tower), up to the impressive monument of the Plaza de España (built for the Ibero-American exposition of 1928 and representing all the regions of Spain and their specificities). <br>
+Sevilla is a beautiful city with lots of buildings in the Art Deco style, full of colours, with lovely balconies and verandas. I actually discovered that Sevilla is home to a specific architecture style: Mudéjar, which is a blend of Moorish/Arabian and Gothic influences. 
+
+*Restaurant tips: La Gallina Bianca, a delicious Italian restaurant.*
+
+**Sightseeings:**
+- Cathedral (former Mosque) and the panoramic view on the city it offers
+- Real Alcázar and the its gardens
+- Plaza de España and the Parque de María Luisa
+- Torre de Oro and the riverside + the Arsenal (hosting corridas)
+
+
+### Cádiz
+
 
 # Portuguese journey
 We left Sevilla to reach Faro by coach (Alsa company). It is a 3-hour journey over Huelva. We had not realised there was a time difference between Portugal and Spain (1 hour less in Portugal), which made our bus journey longer than expected! That's how you learn :) 
