@@ -76,7 +76,7 @@ It takes 45 minutes by bus to get to the ski resort from the autobus station (Au
 **Sightseeings:**
 - The Alhambra, a palace and fortress complex
 - The cathedral, which was previously a mosque (pretty common thing to happen in Andalucía!) and the nearby Alcaicería market -the former Bazaar distric consisting of narrow streets packed with small shops, mostly selling souvenirs
-- Mirador de San Nicolas (very crowded!), a viewpoint on the Alhambra that you can access via Sacromonte in the old Albaicín district (made of narrow streets, small white houses, and troglodyte houses). Don't be afraid of getting lost in the narrow streets! Starting or Ending point is the Plaza Nueva.
+- Mirador de San Nicolas (very crowded!), a viewpoint on the Alhambra that you can access via Sacromonte in the old Albaicín district (made of narrow streets, small white houses, and troglodyte houses). Don't be afraid of getting lost in the narrow streets! Starting or Ending point is the Plaza Nueva or via the Carrera del Darro.
 - Sierra Nevada (mountains)
 
 ## Córdoba
