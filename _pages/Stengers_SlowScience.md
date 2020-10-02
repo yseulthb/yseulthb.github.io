@@ -1,10 +1,10 @@
 ---
 layout: single
 permalink: /stengers/
-classes: wide
+title: "Isabelle Stengers : « Une autre science est possible ! Manifeste pour un ralentissement des sciences » "
+toc: true
 ---
-
-# Isabelle Stengers : « Une autre science est possible ! Manifeste pour un ralentissement des sciences »
+{% include toc %}
 
 ## Chapitre I : Pour une intelligence publique des sciences
 
