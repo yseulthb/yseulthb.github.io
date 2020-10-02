@@ -9,7 +9,7 @@ toc: true
 ## Chapitre I : Pour une intelligence publique des sciences
 
 Tout citoyen devrait avoir un minimum de « bagage scientifique » (literacy) afin de comprendre le monde dans lequel nous vivons, et notamment pour accepter la légitimité des transformations de ce monde que les sciences rendent possibles. De fait, quand il y a résistance publique contre une innovation soutenue par les scientifiques (ex : OGM), le diagnostique habituel est un manque de compréhension : le public ne comprendrait pas que la modification génétique des plantes n’est pas essentiellement différente de ce qu’ont fait les agriculteurs depuis des millénaires à ceci près qu’elle est plus efficace et plus rapide. <br>
-D’autres demandent la compréhension de la méthode assurant une « scientificité » car le public ne comprendrait pas non qu’il y a des questions que les scientifiques n’ont pas à poser, il aurait tendance à mélanger « faits » à « valeurs ». Il ne s’agit pas de refuser aux citoyens le droit d’accepter ou de refuser une innovation mais ils doivent le faire pour des raisons solides, sans confondre faits scientifiques et convictions/valeurs qui sont les leurs. <br>
+D’autres demandent la compréhension de la méthode assurant une « scientificité » car le public ne comprendrait pas non plus qu’il y a des questions que les scientifiques n’ont pas à poser, il aurait tendance à mélanger « faits » à « valeurs ». Il ne s’agit pas de refuser aux citoyens le droit d’accepter ou de refuser une innovation mais ils doivent le faire pour des raisons solides, sans confondre faits scientifiques et convictions/valeurs qui sont les leurs. <br>
 Les sciences sont donc un modèle que tout citoyen pourrait suivre dans sa vie quotidienne => base de toute démarche rationnelle. <br>
 Ces arguments justifient aujourd’hui le mot d’ordre des autorités publiques face à la méfiance relative de beaucoup de citoyens ou au scepticisme face au caractère bénéfique du rôle des scientifiques dans la société : « il faut réconcilier le public avec sa science ». <br>
 
@@ -36,7 +36,7 @@ Il faudrait un 'amatorat' distribué, une multiplicité de connaisseurs assez de
 */!\ connaisseurs =/= autodidacte : les connaisseurs ne défendent pas de savoirs alternatifs, cherchant une reconnaissance professionnelle* <br>
 L’intérêt des connaisseurs pour les savoirs produits par des scientifiques est distinct de l’intérêt des producteurs de ces savoirs (bigger picture, pours et contres), ils sont donc susceptibles de jouer un rôle crucial qui devrait être reconnu par tous ceux pour qui la rationalité compte. Agents d’une résistance aux prétentions des savoirs scientifiques à une autorité générale, ils participeraient à une production de « savoirs situés ». <br>
 Le risque d’une confiance aveugle (i.e. l’absence d’une intelligence publique des sciences) est de basculer en méfiance et hostilité, complotismes, dogmatismes, d’autant plus facilement que les liens entre recherche et intérêts privés seront toujours plus denses et les scandales des conflits d’intérêts toujours plus nombreux. <br>
-Les scientifiques qui luttent pour garder un minimum d’autonomie ne pourront pas juste appeler à « sauver la recherche » mais devront oser dire ce dont il faut la sauver, devront rendre publique la manière dont ils sont incités ou même contraints à devenir de simples fournisseurs d’opportunités industrielles. Ils auront besoin d’une intelligence publique susceptible de les entendre. 
+Les scientifiques qui luttent pour garder un minimum d’autonomie ne pourront pas juste appeler à « sauver la recherche » mais devront oser dire ce dont il faut la sauver, devront rendre publique la manière dont ils sont incités ou même contraints à devenir de simples fournisseurs d’opportunités industrielles. Ils auront besoin d’une intelligence publique susceptible de les entendre. <br>
 Ce soutien public intelligent se mérite ! 
 
 * Il est nécessaire d’entendre et de prendre en compte et au sérieux les questions et objections aujourd’hui trop souvent renvoyées à une opinion « qui ne comprend pas la science ». 
@@ -53,3 +53,10 @@ Il semble que la curiosité, bien plus que la réflexivité critique si chère a
 -	D’être un gage de qualité des recherches scientifiques et de contraindre les scientifiques à prendre garde à leurs jugements normatifs (ex : ce qui compte et ne compte pas n’est pas la même chose pour tout le monde), à présenter leurs résultats sur un mode lucide, c’est-à-dire à les situer activement en relation avec les questions auxquels ils répondent effectivement et non comme réponse à ce qui fait l’objet d’un intérêt plus général. Situer les savoirs réfère aussi à la notion de transplantation (chapitre 3).
 
 */!\ ici intelligence publique des sciences =/= médiation scientifique ou vulgarisation scientifique qui sont des processus de mise à niveau du savoir scientifique depuis l’autorité du scientifique. Il s’agit d’un échange unilatéral. Il faut aller plus loin.*
+
+<br>
+
+## Chapitre II : Avoir l’étoffe du chercheur
+## Chapitre III : Sciences et valeurs, comment ralentir ?
+## Chapitre IV : Plaidoyer pour une science « slow »
+## Chapitre V : Cosmopolitiques. Civiliser les pratiques modernes
