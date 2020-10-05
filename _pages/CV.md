@@ -16,7 +16,7 @@ A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademi
 
 ### Doctoral research
 * 2015-2020 (June): **PhD studies in Cognitive Neuroscience**, Université Paul Sabatier and [CerCo](http://cerco.cnrs.fr/en/cerco-umr5549-2/) (CNRS), Toulouse, France. Supervisor: Benoit Cottereau, CNRS researcher. <br />
-Title of the thesis: Spatial and temporal integration of binocular disparities in primates. [Manuscript](https://hal.archives-ouvertes.fr/tel-02956425v1) <br />
+Title of the thesis: Spatial and temporal integration of binocular disparities in primates. [[Manuscript]](https://hal.archives-ouvertes.fr/tel-02956425v1) <br />
 
 Brief synopsis:<br />
 My PhD project aimed to provide a better understanding of how the visual system in primates processes binocular disparities (underlying depth perception) in space and time. I also investigated the relationship between the 3D properties of the environment and neural responses. I mostly conducted functional neuroimaging studies in macaque and collected psychophysics measurements in human and macaque to give insight into the link between visual perception, natural statistics, and the brain activity.<br />
