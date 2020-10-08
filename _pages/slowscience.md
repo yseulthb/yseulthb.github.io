@@ -4,7 +4,7 @@ permalink: /slowscience/
 classes: wide
 ---
 
-<img src="/assets/images/prunus_blossom_zoom.png" width="200" height="120" alt="Fruit tree" align="right"> 
+<img src="/assets/images/prunus_blossom_zoom.png" width="200" height="100" alt="Fruit tree" align="right"> 
 
 Following a talk I gave about Slow Science and given the various references and ressources I accumulated on the matter, I thought that would be of good taste to actually share them here!
 
