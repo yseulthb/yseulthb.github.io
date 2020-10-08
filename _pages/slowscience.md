@@ -9,13 +9,13 @@ classes: wide
 Following a talk I gave about Slow Science and given the various references and ressources I accumulated on the matter, I thought that would be of good taste to actually share them here!
 
 ## Scientific papers
-- Chapman, C. A., ... & Stenseth, N. C. (2019). Games academics play and their consequences: how authorship, h-index and journal impact factors are shaping the future of academia. Proceedings of the Royal Society B, 286: 20192047. DOI:10.1098/rspb.2019.2047
+- Chapman, C. A., ... & Stenseth, N. C. (2019). Games academics play and their consequences: how authorship, h-index and journal impact factors are shaping the future of academia. Proceedings of the Royal Society B, 286: 20192047. [[DOI]](https://royalsocietypublishing.org/doi/10.1098/rspb.2019.2047)
 - Fitzpatrick, K. (2019). Generous Thinking: A Radical Approach to Saving the University. Baltimore: Johns Hopkins University Press. [(Publisher's page)](https://jhupbooks.press.jhu.edu/title/generous-thinking)
-- Frith, U. (2019). Fast Lane to Slow Science. Trends in Cognitive Sciences. DOI:10.1016/j.tics.2019.10.007
-- Lancaster, A.K., Thessen, A.E., Virapongse, A. (2018). A new paradigm for the scientific enterprise: nurturing the ecosystem. F1000 Research. DOI:10.12688/f1000research.15078.1
-- Salo, P. & Heikkinen, H.L.T. (2018). Slow Science: Research and Teaching for Sustainable Praxis. Confero, 6(1), 87-211. DOI:10.3384/confero.2001-4562.181130 
-- Smaldino, P. E., & McElreath, R. (2016). The natural selection of bad science. Royal Society Open Science, 3: 160384.  DOI:10.1098/rsos.160384 
-- Vazire, S. (2017). Quality Uncertainty Erodes Trust in Science. Collabra: Psychology, 3(1), 1. DOI:10.1525/collabra.74 
+- Frith, U. (2019). Fast Lane to Slow Science. Trends in Cognitive Sciences. [[DOI]](https://www.sciencedirect.com/science/article/pii/S1364661319302426)
+- Lancaster, A.K., Thessen, A.E., Virapongse, A. (2018). A new paradigm for the scientific enterprise: nurturing the ecosystem. F1000 Research. [[DOI]](https://f1000research.com/articles/7-803)
+- Salo, P. & Heikkinen, H.L.T. (2018). Slow Science: Research and Teaching for Sustainable Praxis. Confero, 6(1), 87-211. [[DOI]](http://www.confero.ep.liu.se/article.asp?DOI=10.3384/confero.2001-4562.181130)
+- Smaldino, P. E., & McElreath, R. (2016). The natural selection of bad science. Royal Society Open Science, 3: 160384. [[DOI]](https://royalsocietypublishing.org/doi/10.1098/rsos.160384)
+- Vazire, S. (2017). Quality Uncertainty Erodes Trust in Science. Collabra: Psychology, 3(1), 1. [[DOI]](https://www.collabra.org/articles/10.1525/collabra.74/)
 
 
 ## More general literature and blogposts
