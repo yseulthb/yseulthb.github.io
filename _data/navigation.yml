@@ -10,3 +10,5 @@ main:
     url: /blog/    
   - title: "Travelling"
     url: /touristic/
+  - title: "Slow science"
+    url: /slowscience/
