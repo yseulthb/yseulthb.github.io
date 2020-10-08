@@ -2,6 +2,7 @@
 layout: single
 permalink: /slowscience/
 classes: wide
+title: Slow Science
 ---
 
 <img src="/assets/images/prunus_blossom_zoom.png" width="220" height="200" alt="Fruit tree" align="right"> 
