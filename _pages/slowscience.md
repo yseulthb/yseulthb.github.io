@@ -10,7 +10,7 @@ Following a talk I gave about Slow Science and given the various references and 
 
 ## Scientific papers
 - Chapman, C. A., ... & Stenseth, N. C. (2019). Games academics play and their consequences: how authorship, h-index and journal impact factors are shaping the future of academia. Proceedings of the Royal Society B, 286: 20192047. DOI:10.1098/rspb.2019.2047
-- Fitzpatrick, K. (2019). Generous Thinking: A Radical Approach to Saving the University. Baltimore: Johns Hopkins University Press. [Publisher's page](https://jhupbooks.press.jhu.edu/title/generous-thinking)
+- Fitzpatrick, K. (2019). Generous Thinking: A Radical Approach to Saving the University. Baltimore: Johns Hopkins University Press. [(Publisher's page)](https://jhupbooks.press.jhu.edu/title/generous-thinking)
 - Frith, U. (2019). Fast Lane to Slow Science. Trends in Cognitive Sciences. DOI:10.1016/j.tics.2019.10.007
 - Lancaster, A.K., Thessen, A.E., Virapongse, A. (2018). A new paradigm for the scientific enterprise: nurturing the ecosystem. F1000 Research. DOI:10.12688/f1000research.15078.1
 - Salo, P. & Heikkinen, H.L.T. (2018). Slow Science: Research and Teaching for Sustainable Praxis. Confero, 6(1), 87-211. DOI:10.3384/confero.2001-4562.181130 
@@ -23,7 +23,7 @@ Following a talk I gave about Slow Science and given the various references and 
 ### English:
 - I recommend the medium chanel of [Daniel J. Dunleavy](https://medium.com/@dunldj) who writes interesting posts on slow science, open science, changes academia needs and so on. See for instance [this post](https://medium.com/@dunldj/fast-science-slow-science-finding-balance-in-the-time-of-covid-19-and-the-age-of-misinformation-b57946c523d7) on "Fast Science, Slow Science: Finding Balance in the Time of COVID-19 and the Age of Misinformation"
 - You can also check the medium channel of [Bruce Caron](https://medium.com/@junanaguy) who writes a lot on Open Science.
-- Checki the series of blog posts on Slow Science written by [The thesis Whisperer](https://thesiswhisperer.com/), and particularly [this one](https://thesiswhisperer.com/2018/05/02/slow-academia-is-for-the-privileged-but-then-isnt-all-academia/?fbclid=IwAR2bS4D4flV6AeZBX176V7M6_l0-BYuN89gOboJLLDB7HYMRbEcH_JP5DrA): "Slow Academia is for the privileged – but then, isn’t all academia?"
+- Check the series of blog posts on Slow Science written by [The thesis Whisperer](https://thesiswhisperer.com/), and particularly [this one](https://thesiswhisperer.com/2018/05/02/slow-academia-is-for-the-privileged-but-then-isnt-all-academia/?fbclid=IwAR2bS4D4flV6AeZBX176V7M6_l0-BYuN89gOboJLLDB7HYMRbEcH_JP5DrA): "Slow Academia is for the privileged – but then, isn’t all academia?"
 - The fabulous book of Isabelle Stengers "Another Science is possible. Manifesto for a slow science" [(GoodReads Page)](https://www.goodreads.com/book/show/35416921-another-science-is-possible) along with the book review written by Philip Conway and accessible [here](https://www.societyandspace.org/articles/another-science-is-possible-by-isabelle-stengers).
 - You can find more texts and links on this [Rotten Potatoes webpage](https://threerottenpotatoes.wordpress.com/independent-science-2/text-links/)
 
