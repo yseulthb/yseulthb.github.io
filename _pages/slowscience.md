@@ -28,9 +28,8 @@ Following a talk I gave about Slow Science and given the various references and 
 - You can find more texts and links on this [Rotten Potatoes webpage](https://threerottenpotatoes.wordpress.com/independent-science-2/text-links/)
 
 ### French:
-- Un [billet de blog](https://act.hypotheses.org/4667) "Slow science et désexcellence. Résister aux dérives néolibérales de la recherche" sur le blog Hypothèse "Les aspects concrets de la thèse.
+- Un [billet de blog](https://act.hypotheses.org/4667) "Slow science et désexcellence. Résister aux dérives néolibérales de la recherche" sur le blog Hypothèse "Les aspects concrets de la thèse"
 - Un [billet](https://www.pauljorion.com/blog/2011/08/23/slow-science-la-desexcellence-par-olivier-p-gosselain/) d'Olivier P. Gosselin invité sur le blog de Paul Jorion: "SLOW SCIENCE – LA DÉSEXCELLENCE"
-
 - Le livre d'Isabelle Stengers « Une autre science est possible ! Manifeste pour un ralentissement des sciences » aux [éditions de la Découverte](https://editionsladecouverte.fr/catalogue/index-Une_autre_science_est_possible__-9782707197696.html) <br>
 J'ai rassemblé des notes de lecture sur le livre « Une autre science est possible ! Manifeste pour un ralentissement des sciences » d'Isabelle Stengers. Elles sont accessibles sur cette page: [Notes Stengers](https://yseulthb.github.io/stengers/). <br>
 Isabelle Stengers est régulièrement invitée à la radio. Vous pouvez [ici](https://www.franceinter.fr/emissions/parenthese/parenthese-10-fevrier-2013) écouter un très court entretien sur France Inter (8 minutes!) à propos de la sortie de son livre en 2013 et des points importants qu'il contient. Ou alors [ici](https://www.franceculture.fr/emissions/du-grain-moudre/de-quoi-faut-il-sauver-la-science) une émission plus longue de France Culture (39 minutes) où elle fut invitée avec Dominique Pestre à discuter sur la question "De quoi faut-il sauver la science?". 
