@@ -7,7 +7,7 @@ title: Slow Science
 
 <img src="/assets/images/prunus_blossom_zoom.png" width="220" height="200" alt="Fruit tree" align="right"> 
 
-Following a talk I gave about Slow Science (@LiveMEEG2020: <a href="/pdf/SlowScience.pdf" target="_blank"><b>[slides]</b></a>) and given the various references and ressources I accumulated on the matter, I thought that would be of good taste to actually share them here!
+Following a talk I gave about Slow Science (@[LiveMEEG2020](https://livemeeg2020.org/): <a href="/pdf/SlowScience.pdf" target="_blank"><b>[slides]</b></a>) and given the various references and ressources I accumulated on the matter, I thought that would be of good taste to actually share them here!
 
 ## Scientific papers
 - Chapman, C. A., ... & Stenseth, N. C. (2019). Games academics play and their consequences: how authorship, h-index and journal impact factors are shaping the future of academia. Proceedings of the Royal Society B, 286: 20192047. [[DOI]](https://royalsocietypublishing.org/doi/10.1098/rspb.2019.2047)
