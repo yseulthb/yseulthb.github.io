@@ -27,7 +27,7 @@ toc: true
 ### Oral presentations
 ***Invited talks***
 
-* **Héjja-Brichard, Y.** (2020, october). Rethinking our Narratives: The Challenge of “Slow Science”. *LiveMEEG (online conference)*
+* **Héjja-Brichard, Y.** (2020, october). Rethinking our Narratives: The Challenge of “Slow Science”. *LiveMEEG (online conference)* <a href="/pdf/slowscience.pdf" target="_blank"><b>[slides]</b></a><br>
 * **Héjja-Brichard, Y.** & Mercier M.R. (2018). Data visualisation in cognitive neuroscience: Functional neuroimaging and electrophysiology. *Talk given for the Toulouse Data Vizualisation group, Toulouse, France* <a href="/pdf/YHB_ToulouseDataViz.pdf" target="_blank"><b>[slides]</b></a><br>
 * **Héjja-Brichard, Y.** & Cottereau, B.R. (2017). Adaptation aux régularités spatiales de l'environnement au sein de systèmes de vision stéréoscopique. *Journée des doctorants, Université Toulouse III Paul Sabatier, France*
 
