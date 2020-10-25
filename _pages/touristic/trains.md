@@ -9,11 +9,11 @@ classes: wide
 
 <img src="/assets/images/trains.jpg" alt="Train"> 
 
-I tend to like train trips a lot and have gathered a bunch of information and tips that I thought might be of good use for others, too. <br>
+I tend to like train trips a lot and have gathered a bunch of information and tips that I thought might be of fair use for others, too. <br>
 
 ### Tips & Tricks
 
-- A great website that gathers a huuuuge amount of information on train travel in Europe and in the world, sorted by countries and cities: [seat61.com](https://www.seat61.com/)  <br>
+- A great website that gathers a huge amount of information on train travel in Europe and the world, sorted by countries and cities: [seat61.com](https://www.seat61.com/)  <br>
 It also provides alternative roads and touristic information.
 
 - A wonderful book about travelling across Europe by train, with a suggestion of trips and alternative railways + its complementary website: [Europe by rail](https://www.europebyrail.eu/about-the-book/) -> Slow travel. 
@@ -30,8 +30,8 @@ It also provides alternative roads and touristic information.
  for European citizens: [interrail.eu](https://www.interrail.eu/fr) <br>
  for non-European citizens: [eurail.com](https://www.eurail.com/en)
 - Spain: [RENFE Spain pass](http://www.renfe.com/EN/viajeros/viajes_internacionales/spainpass/index.html) <br>
-- Switzeland: [swiss travel pass](https://www.myswissalps.com/swisstravelpass) <br>
-- [Balkan flexi pass](http://www.bdz.bg/en/offers/balkan-flexipass.html): Bulgaria, Greece, Macedonia, Montenegro, Romania -only the Regio Calatori operator, Serbia, Turkey and Bosnia Herzegovina <br>
+- Switzerland: [swiss travel pass](https://www.myswissalps.com/swisstravelpass) <br>
+- [Balkan Flexi pass](http://www.bdz.bg/en/offers/balkan-flexipass.html): Bulgaria, Greece, Macedonia, Montenegro, Romania -only the Regio Calatori operator, Serbia, Turkey and Bosnia Herzegovina <br>
 - Norway in a nutshell: [norwaynutshell.com](https://www.norwaynutshell.com/original-tour/)
 
 
@@ -41,7 +41,7 @@ It also provides alternative roads and touristic information.
 - Austrian night trains (the OBB is pushing for the maintenance and development of night train lines): [nightjet.com](https://www.nightjet.com/en/) <br>
 - Thello train (Paris to Venezia via Milano): [thello.com](https://www.thello.com/en/) <br>
 - French night trains (in French): [lefigaro.fr](https://www.lefigaro.fr/voyages/cinq-trains-de-nuit-que-l-on-peut-encore-emprunter-depuis-paris-20190821)
-- [Back on track: ](https://back-on-track.eu/) A european initiative/network to support cross-border night trains
+- [Back on track: ](https://back-on-track.eu/) A European initiative/network to support cross-border night trains
 
 
 ### Additional ressources
@@ -51,7 +51,7 @@ It also provides alternative roads and touristic information.
 
 
 ### National railway companies in Europe 
-*be aware that in some countries, trains are not the best transportation system available and you might also want to check (local) bus companies + check visa requirements*
+*Be aware that in some countries, trains are not the best transportation system available and you might also want to check (local) bus companies + check visa requirements*
 
 **A**lbania: [HSH](https://hsh.com.al/) <br>
 Austria (OBB, small prices): [Sparschiene](https://www.oebb.at/en/tickets-kundenkarten/oesterreich-europa/sparschiene.html) <br>
