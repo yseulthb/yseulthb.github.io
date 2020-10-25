@@ -21,11 +21,11 @@ Following a talk I gave about Slow Science (@[LiveMEEG2020](https://livemeeg2020
 
 ## More general literature and blogposts
 ### English:
-- I recommend the medium chanel of [Daniel J. Dunleavy](https://medium.com/@dunldj) who writes interesting posts on slow science, open science, changes academia needs and so on. See for instance [this post](https://medium.com/@dunldj/fast-science-slow-science-finding-balance-in-the-time-of-covid-19-and-the-age-of-misinformation-b57946c523d7) on "Fast Science, Slow Science: Finding Balance in the Time of COVID-19 and the Age of Misinformation"
+- I recommend the medium channel of [Daniel J. Dunleavy](https://medium.com/@dunldj) who writes interesting posts on slow science, open science, changes academia needs and so on. See, for instance, [this post](https://medium.com/@dunldj/fast-science-slow-science-finding-balance-in-the-time-of-covid-19-and-the-age-of-misinformation-b57946c523d7) on "Fast Science, Slow Science: Finding Balance in the Time of COVID-19 and the Age of Misinformation."
 - You can also check the medium channel of [Bruce Caron](https://medium.com/@junanaguy) who writes a lot on Open Science.
-- Check the series of blog posts on Slow Science written by [The thesis Whisperer](https://thesiswhisperer.com/), and particularly [this one](https://thesiswhisperer.com/2018/05/02/slow-academia-is-for-the-privileged-but-then-isnt-all-academia/?fbclid=IwAR2bS4D4flV6AeZBX176V7M6_l0-BYuN89gOboJLLDB7HYMRbEcH_JP5DrA): "Slow Academia is for the privileged – but then, isn’t all academia?"
+- Check the series of blog posts on Slow Science written by [The Thesis Whisperer](https://thesiswhisperer.com/), and particularly [this one](https://thesiswhisperer.com/2018/05/02/slow-academia-is-for-the-privileged-but-then-isnt-all-academia/?fbclid=IwAR2bS4D4flV6AeZBX176V7M6_l0-BYuN89gOboJLLDB7HYMRbEcH_JP5DrA): "Slow Academia is for the privileged – but then, isn’t all academia?"
 - The fabulous book of Isabelle Stengers "Another Science is possible. Manifesto for a slow science" [(GoodReads Page)](https://www.goodreads.com/book/show/35416921-another-science-is-possible) along with the book review written by Philip Conway and accessible [here](https://www.societyandspace.org/articles/another-science-is-possible-by-isabelle-stengers).
-- You can find more texts and links on this [Rotten Potatoes webpage](https://threerottenpotatoes.wordpress.com/independent-science-2/text-links/)
+- You can find more texts and links on this [Rotten Potatoes](https://threerottenpotatoes.wordpress.com/independent-science-2/text-links/) webpage.
 
 ### French:
 - Un [billet de blog](https://act.hypotheses.org/4667) "Slow science et désexcellence. Résister aux dérives néolibérales de la recherche" sur le blog Hypothèse "Les aspects concrets de la thèse"
