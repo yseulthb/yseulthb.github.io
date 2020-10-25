@@ -10,9 +10,9 @@ classes: wide
 <img src="/assets/images/BEL.png" alt="Touristic point"> 
 
 ## Belgium: A bit of context
-Belgium, a country with three official languages (French, Dutch, and the often forgotten German), three administrative regions (Wallonia, Flanders, Brussels-Capital), three communities (Flanders, Wallonia-Brussels, the German-speaking region), ten provinces, looots of political parties, and even more different types of beers! ;) <br>
-More practically, the country is divided into two main regions: Flanders in the North, where Dutch is widely spoken but where people also speak different types of Flemmish and the French-speaking Wallonia in the South. Brussels is often considered aside since it is geographically located in Flanders but most of its population speaks French. <br>
-Wallonia used to rely on mining economy, whilst Flanders is now having more economic weight.
+Belgium, a country with three official languages (French, Dutch, and the often forgotten German), three administrative regions (Wallonia, Flanders, Brussels-Capital), three communities (Flanders, Wallonia-Brussels, the German-speaking region), ten provinces, lots of political parties, and even more different types of beers! ;) <br>
+More practically, the country is divided into two main regions: Flanders in the North, where Dutch is the official language but where people also speak different types of Flemish and the French-speaking Wallonia in the South (with about 600,000 German speakers in the eastern part). Brussels is often considered aside since it is geographically located in Flanders but most of its population speaks French. <br>
+Wallonia used to rely on mining economy, whilst Flanders now has more economic weight.
 
 
 ## Brussels
