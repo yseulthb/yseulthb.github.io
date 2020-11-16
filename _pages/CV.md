@@ -14,6 +14,9 @@ A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademi
 
 ## Research and Teaching
 
+### PostDoctoral research
+* 2020 (November) - Present: Postdoctoral researcher, Centre d'Ecologie Fonctionnelle et Evolutive - [CEFE](https://www.cefe.cnrs.fr/en/) (CNRS, University of Montpellier), Montpellier, France. Supervisors: Julien Renoult, CNRS researcher and Tamra Mendelson, Professor at the University of Maryland, Baltimore County (Department of Biological Sciences).
+
 ### Doctoral research
 * 2015-2020 (June): **PhD studies in Cognitive Neuroscience**, Université Paul Sabatier and [CerCo](http://cerco.cnrs.fr/en/cerco-umr5549-2/) (CNRS), Toulouse, France. Supervisor: Benoit Cottereau, CNRS researcher. <br />
 Title of the thesis: Spatial and temporal integration of binocular disparities in primates. [[Manuscript]](https://hal.archives-ouvertes.fr/tel-02956425v1) <br />
