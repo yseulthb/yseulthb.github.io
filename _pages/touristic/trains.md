@@ -44,7 +44,7 @@ It also provides alternative roads and touristic information.
 - [Back on track: ](https://back-on-track.eu/) A European initiative/network to support cross-border night trains
 - The German train company has recently announced the opening of new nightlines in 2021!!
 
-<img src="/assets/images/nighttrains_DB.jpg" width="355" height="222" alt="Map with the new nighttrain lines and their operational year. They will connect Germany to Switzerland, the Netherlands, Italy, France, Spain, Austria, Belgium." align="right"> 
+<img src="/assets/images/nighttrains_DB.jpg" width="355" height="222" alt="Map with the new nighttrain lines and their operational year. They will connect Germany to Switzerland, the Netherlands, Italy, France, Spain, Austria, Belgium." align="left"> 
 
 
 ### Additional ressources
