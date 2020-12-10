@@ -7,7 +7,7 @@ title: Slow Science
 
 <img src="/assets/images/prunus_blossom_zoom.png" width="220" height="200" alt="Fruit tree" align="right"> 
 
-I had the opportunity to give a talk about Slow Science at the online conference [LiveMEEG2020](https://livemeeg2020.org/) last October. You can access my <a href="/pdf/SlowScience.pdf" target="_blank"><b>[slides]</b></a>) to have a quick overview on Slow Science. Below, I have added the various references and resources I accumulated on the topic, and I thought that would be of good taste to share them here!
+I had the opportunity to give a talk about Slow Science at the online conference [LiveMEEG2020](https://livemeeg2020.org/) last October. You can access my slides <a href="/pdf/SlowScience.pdf" target="_blank"><b>[here]</b></a> to have an overview of my presentation. Below, I have added the various references and resources I accumulated on the topic, and I thought that would be of good taste to share them here!
 
 ## Scientific papers
 - Berg, L.D., Huijbens, E.H., Larsen, H.G. (2016). Producing anxiety in the neoliberal university. The Canadian Geographer / Le Géographe canadien, 60: 168-180. [[DOI]](https://doi.org/10.1111/cag.12261)
