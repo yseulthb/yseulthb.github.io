@@ -7,7 +7,7 @@ title: Slow Science
 
 <img src="/assets/images/prunus_blossom_zoom.png" width="220" height="200" alt="Fruit tree" align="right"> 
 
-I had the opportunity to give a talk about Slow Science at the online conference [LiveMEEG2020](https://livemeeg2020.org/) last October. You can access my slides <a href="/pdf/SlowScience.pdf" target="_blank"><b>[here]</b></a> to have an overview of my presentation. Below, I have added the various references and resources I accumulated on the topic, and I thought that would be of good taste to share them here!
+I had the opportunity to give a talk about Slow Science at the online conference [LiveMEEG2020](https://livemeeg2020.org/) last October. You can access my slides <a href="/pdf/SlowScience.pdf" target="_blank"><b>[here]</b></a> to have an overview of my presentation. Below, I have added the various references and resources I could accumulate on the topic, as well as some existing initiatives that promote better / alternative ways of doing science.
 
 ## Scientific papers
 - Berg, L.D., Huijbens, E.H., Larsen, H.G. (2016). Producing anxiety in the neoliberal university. The Canadian Geographer / Le Géographe canadien, 60: 168-180. [[DOI]](https://doi.org/10.1111/cag.12261)
@@ -27,6 +27,7 @@ I had the opportunity to give a talk about Slow Science at the online conference
 - [Better Science in Switzerland](https://betterscience.ch/)
 - [Café Culture Initiative](https://wellcome.org/what-we-do/our-work/research-culture/hosting-your-cafe-culture-discussion) by the Wellcome foundation and some results already about research culture as experienced by researchers that you can find [here](https://wellcome.org/reports/what-researchers-think-about-research-culture).
 - The [HIBAR Research Alliance](https://hibar-research.org/) to improve research and innovation ecosystem and better contribute to solving society’s critical problems. You can find their discussion paper [here](https://hibar-research.org/wp-content/uploads/2020/06/Making-changes-in-the-academic-incentive-system-June-3-2020.pdf).
+
 
 ## More general literature and blogposts
 ### English:
