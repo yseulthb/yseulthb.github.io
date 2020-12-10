@@ -27,8 +27,8 @@ I had the opportunity to give a talk about Slow Science at the online conference
 
 ## Some initiatives
 This list includes discussion groups on how to improve science that gather scholars from different disciplines, initiatives to promote and think about better research practices, alternative research institutes with a mix of 'regular' and independent scholars. 
-- [Slow Science in Belgium](https://slowscience.be/)
-- [Better Science in Switzerland](https://betterscience.ch/)
+- [Slow Science in Belgium](https://slowscience.be/) is 'an interuniversity platform for discussion on academia's future'.
+- [Better Science in Switzerland](https://betterscience.ch/) 'calls for a rethinking in academia towards more sustainability, diversity and equal opportunities.'
 - [Café Culture Initiative](https://wellcome.org/what-we-do/our-work/research-culture/hosting-your-cafe-culture-discussion) by the Wellcome foundation and some results already about research culture as experienced by researchers that you can find [here](https://wellcome.org/reports/what-researchers-think-about-research-culture).
 - The [HIBAR Research Alliance](https://hibar-research.org/) to improve research and innovation ecosystem and better contribute to solving society’s critical problems. You can find their discussion paper [here](https://hibar-research.org/wp-content/uploads/2020/06/Making-changes-in-the-academic-incentive-system-June-3-2020.pdf).
 - The [DORA](https://sfdora.org) initiative, which promotos a different way of evaluating researchers than just using publication indices. It also has different incentives and guidelines depending on the targeted structure (universities, publishers, etc).
