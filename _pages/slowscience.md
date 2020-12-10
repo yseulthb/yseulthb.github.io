@@ -10,8 +10,6 @@ title: Slow Science
 
 I had the opportunity to give a talk about Slow Science at the online conference [LiveMEEG2020](https://livemeeg2020.org/) last October. You can access my slides <a href="/pdf/SlowScience.pdf" target="_blank"><b>[here]</b></a> to have an overview of my presentation. Below, I have added the various references and resources I could accumulate on the topic, as well as some existing initiatives that promote better / alternative ways of doing science.
 
-<img src="/assets/images/prunus_blossom_zoom.png" width="220" height="200" alt="Fruit tree" align="left"> 
-
 ## Scientific papers
 - Berg, L.D., Huijbens, E.H., Larsen, H.G. (2016). Producing anxiety in the neoliberal university. The Canadian Geographer / Le Géographe canadien, 60: 168-180. [[DOI]](https://doi.org/10.1111/cag.12261)
 - Chapman, C. A., ... & Stenseth, N. C. (2019). Games academics play and their consequences: how authorship, h-index and journal impact factors are shaping the future of academia. Proceedings of the Royal Society B, 286: 20192047. [[DOI]](https://royalsocietypublishing.org/doi/10.1098/rspb.2019.2047)
@@ -24,6 +22,8 @@ I had the opportunity to give a talk about Slow Science at the online conference
 - Smaldino, P. E., & McElreath, R. (2016). The natural selection of bad science. Royal Society Open Science, 3: 160384. [[DOI]](https://royalsocietypublishing.org/doi/10.1098/rsos.160384)
 - Vazire, S. (2017). Quality Uncertainty Erodes Trust in Science. Collabra: Psychology, 3(1), 1. [[DOI]](https://www.collabra.org/articles/10.1525/collabra.74/)
 - Ylijoki, O.-H., & Mäntylä, H. (2003). Conflicting Time Perspectives in Academic Work. Time & Society, 12(1), 55–78. [[DOI]](https://doi.org/10.1177/0961463X03012001364)
+
+<img src="/assets/images/prunus_blossom_zoom.png" width="220" height="200" alt="Fruit tree" align="left"> 
 
 ## Some initiatives
 This list includes discussion groups on how to improve science that gather scholars from different disciplines, initiatives to promote and think about better research practices, alternative research institutes with a mix of 'regular' and independent scholars. 
