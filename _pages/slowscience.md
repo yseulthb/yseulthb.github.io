@@ -2,8 +2,11 @@
 layout: single
 permalink: /slowscience/
 classes: wide
+toc: true
 title: Slow Science
 ---
+
+{% include toc %}
 
 <img src="/assets/images/prunus_blossom_zoom.png" width="220" height="200" alt="Fruit tree" align="right"> 
 
