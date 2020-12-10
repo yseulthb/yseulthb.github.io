@@ -23,10 +23,16 @@ I had the opportunity to give a talk about Slow Science at the online conference
 - Ylijoki, O.-H., & Mäntylä, H. (2003). Conflicting Time Perspectives in Academic Work. Time & Society, 12(1), 55–78. [[DOI]](https://doi.org/10.1177/0961463X03012001364)
 
 ## Some initiatives
+This list includes discussion groups on how to improve science that gather scholars from different disciplines, initiatives to promote and think about better research practices, alternative research institutes with a mix of 'regular' and independent scholars. 
 - [Slow Science in Belgium](https://slowscience.be/)
 - [Better Science in Switzerland](https://betterscience.ch/)
 - [Café Culture Initiative](https://wellcome.org/what-we-do/our-work/research-culture/hosting-your-cafe-culture-discussion) by the Wellcome foundation and some results already about research culture as experienced by researchers that you can find [here](https://wellcome.org/reports/what-researchers-think-about-research-culture).
 - The [HIBAR Research Alliance](https://hibar-research.org/) to improve research and innovation ecosystem and better contribute to solving society’s critical problems. You can find their discussion paper [here](https://hibar-research.org/wp-content/uploads/2020/06/Making-changes-in-the-academic-incentive-system-June-3-2020.pdf).
+- The [DORA](https://sfdora.org) initiative, which promotos a different way of evaluating researchers than just using publication indices. It also has different incentives and guidelines depending on the targeted structure (universities, publishers, etc).
+- The [RONIN institute](https://ronininstitute.org/)
+- [IGDORE](https://igdore.org/), the institute for globally distributed open research and education
+- [The research cooperative](https://researchcooperative.org/)
+- [PiCompS](https://picomps.org/), Postdoctal institute for computational studies
 
 
 ## More general literature and blogposts
