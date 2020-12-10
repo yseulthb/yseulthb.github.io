@@ -10,14 +10,23 @@ title: Slow Science
 Following a talk I gave about Slow Science (@[LiveMEEG2020](https://livemeeg2020.org/) -> <a href="/pdf/SlowScience.pdf" target="_blank"><b>[slides]</b></a>) and given the various references and resources I accumulated on the matter, I thought that would be of good taste to share them here!
 
 ## Scientific papers
+- Berg, L.D., Huijbens, E.H., Larsen, H.G. (2016). Producing anxiety in the neoliberal university. The Canadian Geographer / Le Géographe canadien, 60: 168-180. [[DOI]](https://doi.org/10.1111/cag.12261)
 - Chapman, C. A., ... & Stenseth, N. C. (2019). Games academics play and their consequences: how authorship, h-index and journal impact factors are shaping the future of academia. Proceedings of the Royal Society B, 286: 20192047. [[DOI]](https://royalsocietypublishing.org/doi/10.1098/rspb.2019.2047)
 - Fitzpatrick, K. (2019). Generous Thinking: A Radical Approach to Saving the University. Baltimore: Johns Hopkins University Press. [(Publisher's page)](https://jhupbooks.press.jhu.edu/title/generous-thinking)
 - Frith, U. (2019). Fast Lane to Slow Science. Trends in Cognitive Sciences. [[DOI]](https://www.sciencedirect.com/science/article/pii/S1364661319302426)
+- Hatch, A. and Curry, S. (2020). Research Culture: Changing how we evaluate research is difficult, but not impossible. eLife 2020;9:e58654 [[DOI]](https://elifesciences.org/articles/58654)
 - Lancaster, A.K., Thessen, A.E., Virapongse, A. (2018). A new paradigm for the scientific enterprise: nurturing the ecosystem. F1000 Research. [[DOI]](https://f1000research.com/articles/7-803)
+- Peake, L., & Mullings, B. (2016). Critical Reflections on Mental and Emotional Distress in the Academy. ACME: An International Journal for Critical Geographies, 15(2), 253-284. [[DOI]](https://www.acme-journal.org/index.php/acme/article/view/1123)
 - Salo, P. & Heikkinen, H.L.T. (2018). Slow Science: Research and Teaching for Sustainable Praxis. Confero, 6(1), 87-211. [[DOI]](http://www.confero.ep.liu.se/article.asp?DOI=10.3384/confero.2001-4562.181130)
 - Smaldino, P. E., & McElreath, R. (2016). The natural selection of bad science. Royal Society Open Science, 3: 160384. [[DOI]](https://royalsocietypublishing.org/doi/10.1098/rsos.160384)
 - Vazire, S. (2017). Quality Uncertainty Erodes Trust in Science. Collabra: Psychology, 3(1), 1. [[DOI]](https://www.collabra.org/articles/10.1525/collabra.74/)
+- Ylijoki, O.-H., & Mäntylä, H. (2003). Conflicting Time Perspectives in Academic Work. Time & Society, 12(1), 55–78. [[DOI]](https://doi.org/10.1177/0961463X03012001364)
 
+## Some initiatives
+- [Slow Science in Belgium](https://slowscience.be/)
+- [Better Science in Switzerland](https://betterscience.ch/)
+- [Café Culture Initiative](https://wellcome.org/what-we-do/our-work/research-culture/hosting-your-cafe-culture-discussion) by the Wellcome foundation and some results already about research culture as experienced by researchers that you can find [here](https://wellcome.org/reports/what-researchers-think-about-research-culture).
+- The [HIBAR Research Alliance](https://hibar-research.org/) to improve research and innovation ecosystem and better contribute to solving society’s critical problems. You can find their discussion paper [here](https://hibar-research.org/wp-content/uploads/2020/06/Making-changes-in-the-academic-incentive-system-June-3-2020.pdf).
 
 ## More general literature and blogposts
 ### English:
