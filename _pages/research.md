@@ -82,5 +82,3 @@ toc: true
 More specifically, I am involved in communicating about the events.
 
 * Member of [FRESCO](https://federationfresco.fr/), a French organisation, uniting at the national level all the regional organisations involved in popularising cognitive science. The FRESCO also has projects on its own. There, I am part of the Perspective team that aimed to create a new magazine to share scientific content in the field of cognitive sciences with different audiences. 
-
-<img src="/pdf/PhotoESOF_Incognu.jpg" alt="Incognu" align="right">
