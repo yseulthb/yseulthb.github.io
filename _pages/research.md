@@ -13,7 +13,7 @@ toc: true
 ### Publications
 ***Under review or in preparation***
 
-* Audurier, P., **Héjja-Brichard, Y.**, Kohler, P.J., Norcia, A.M., Durand, J.-B., Cottereau, B.R. *(in prep.)*. Processing of symmetry in the non-human primate brain.
+* Audurier, P., **Héjja-Brichard, Y.**, De Castro, V., Kohler, P.J., Norcia, A.M., Durand, J.-B., Cottereau, B.R. *(in prep.)*. Processing of symmetry in the non-human primate brain.
 
 ***Peer-reviewed journal articles***
 
