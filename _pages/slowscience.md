@@ -37,7 +37,7 @@ This list includes discussion groups on how to improve science that gather schol
 - [PiCompS](https://picomps.org/), Postdoctal institute for computational studies, is a virtual home for both independent and academic researchers, inspired by the Ronin Institute. They are 'an international forum, a virtual community that recognizes the world outside of traditional academia. Their mission is to promote diversity in computing, raise awareness and provide support to independent researchers, scholars with alternative academic careers , and those who seek to redefine career.'
 
 
-## More general literature and blogposts
+## Books and blogposts
 ### In English
 - I recommend the medium channel of [Daniel J. Dunleavy](https://medium.com/@dunldj) who writes interesting posts on slow science, open science, changes academia needs and so on. See, for instance, [this post](https://medium.com/@dunldj/fast-science-slow-science-finding-balance-in-the-time-of-covid-19-and-the-age-of-misinformation-b57946c523d7) on "Fast Science, Slow Science: Finding Balance in the Time of COVID-19 and the Age of Misinformation."
 - You can also check the medium channel of [Bruce Caron](https://medium.com/@junanaguy) who writes a lot on Open Science.
