@@ -10,7 +10,7 @@ toc: true
 
 <!-- Available here: <a href="/pdf/cvacademic.pdf" target="_blank"><b>CV</b></a> -->
 
-A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademic.pdf" target="_blank"><b>CV</b></a><br> (Last update: 16/11/2020)
+A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademic.pdf" target="_blank"><b>CV</b></a><br> (Last update: 15/03/2020)
 
 ## Research and Teaching
 
