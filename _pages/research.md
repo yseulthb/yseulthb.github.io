@@ -13,7 +13,7 @@ toc: true
 ### Publications
 ***Under review or in preparation***
 
-* Audurier, P., **Héjja-Brichard, Y.**, De Castro, V., Kohler, P.J., Norcia, A.M., Durand, J.-B., Cottereau, B.R. *(in prep.)*. Symmetry processing in the macaque visual cortex.
+* Audurier, P., **Héjja-Brichard, Y.**, De Castro, V., Kohler, P.J., Norcia, A.M., Durand, J.-B., Cottereau, B.R. *(submitted)*. Symmetry processing in the macaque visual cortex. [[Preprint](https://www.biorxiv.org/content/10.1101/2021.03.13.435181v1)]
 
 ***Peer-reviewed journal articles***
 
