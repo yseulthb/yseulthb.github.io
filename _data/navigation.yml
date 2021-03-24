@@ -5,9 +5,7 @@ main:
   - title: "CV"
     url: /CV/
   - title: "Research"
-    url: /research/
-  - title: "Blog"
-    url: /blog/    
+    url: /research/   
   - title: "Travelling"
     url: /touristic/
   - title: "Slow science"
