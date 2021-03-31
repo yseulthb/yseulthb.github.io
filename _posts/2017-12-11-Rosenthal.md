@@ -3,7 +3,7 @@ title: "A statistical allegory"
 date:   2017-12-11 10:20:01 -0200
 categories:
   - blog
-published: true
+published: false
 mathjax: true
 header:
   teaser: /assets/images/Tiles_IG.jpg
