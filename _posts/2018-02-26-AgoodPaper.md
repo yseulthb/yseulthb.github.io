@@ -1,7 +1,7 @@
 ---
 title: "Qu’est-ce qu’un bon papier?"
 date:   2018-02-26 20:17:01 -0200
-published: true
+published: false
 mathjax: true
 header:
   teaser: /assets/images/Christianhavn_IG.jpg
