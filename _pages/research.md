@@ -6,7 +6,7 @@ toc: true
 ---
 {% include toc %}
 
-<img src="/assets/images/WelshTulipCropped.jpg" alt="My research"> 
+<img src="/assets/images/ToulouseByNight.jpg" alt="Toulouse by night"> 
 
 A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademic.pdf" target="_blank"><b>CV</b></a><br> (Last update: 15/03/2020)
 
