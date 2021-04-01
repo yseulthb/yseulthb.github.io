@@ -8,6 +8,8 @@ title: Slow Science
 
 {% include toc %}
 
+<img src="/assets/images/WelshTulipCropped.jpg" alt="Picture of a field of tulips located in Cardiff">
+
 I had the opportunity to give a talk about Slow Science at the online conference [LiveMEEG2020](https://livemeeg2020.org/) last October. You can access my slides <a href="/pdf/SlowScience.pdf" target="_blank"><b>[here]</b></a> to have an overview of my presentation. Below, I have added the various references and resources I could accumulate on the topic, as well as some existing initiatives that promote better / alternative ways of doing science.
 
 ## Scientific papers
