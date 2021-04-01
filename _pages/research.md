@@ -8,6 +8,8 @@ toc: true
 
 <img src="/assets/images/WelshTulipCropped.jpg" alt="My research"> 
 
+A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademic.pdf" target="_blank"><b>CV</b></a><br> (Last update: 15/03/2020)
+
 ## Scientific Production
 
 ### Publications
