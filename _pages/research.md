@@ -20,9 +20,9 @@ A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademi
 ***Peer-reviewed journal articles***
 
 * De Castro, V., Smith, A.T., Beer, A.L., Leguen, C., Vayssière, N., **Héjja-Brichard, Y.**, Audurier, P., Cottereau, B.R. & Durand, J.B. (2021). Connectivity of the cingulate sulcus visual area (CSv) in macaque monkeys. *Cerebral Cortex* ([doi](https://doi.org/10.1093/cercor/bhaa301)).
+* **Héjja-Brichard, Y.**, Rima, S., Rapha, E., Durand, J.-B., Cottereau, B.R. (2020). Stereomotion processing in the non-human primate brain. *Cerebral Cortex*. ([doi](https://doi.org/10.1093/cercor/bhaa055)). [[Preprint](https://www.biorxiv.org/content/10.1101/638155v3) & [OSF project](https://osf.io/yxrsv/)].
 * Rima, S., Cottereau, B.R., **Héjja-Brichard, Y.**, Trotter, Y. & Durand, J.B. (2020). A new visuotopic cluster in macaque posterior parietal cortex revealed by wide-field retinotopy. *Brain Structure and Function.* ([doi](https://doi.org/10.1007/s00429-020-02134-2))
 * Chauhan, T., **Héjja-Brichard, Y.**, Cottereau, B.R. (2020). Modelling binocular disparity processing from statistics in natural scenes. *Vision Research*, 176, 27-39. ([doi](https://doi.org/10.1016/j.visres.2020.07.009))
-* **Héjja-Brichard, Y.**, Rima, S., Rapha, E., Durand, J.-B., Cottereau, B.R. (2020). Stereomotion processing in the non-human primate brain. *Cerebral Cortex*. ([doi](https://doi.org/10.1093/cercor/bhaa055)). [[Preprint](https://www.biorxiv.org/content/10.1101/638155v3) & [OSF project](https://osf.io/yxrsv/)].
 * Cottereau, B.R., Smith, A.T., Rima, S., Fize, D., **Héjja-Brichard, Y.**, Renaud, L., … Durand, J.-B. (2017). Processing of Egomotion-Consistent Optic Flow in the Rhesus Macaque Cortex. *Cerebral Cortex*, 1-14 ([doi](https://doi.org/10.1093/cercor/bhw412)).
 
 
