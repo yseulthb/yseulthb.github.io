@@ -39,7 +39,7 @@ A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademi
 ***Small talk(s)***
 * **Héjja-Brichard, Y.** (2021). Moderator of a discussion on slow science and alternative research. *[WEPASCO](https://federationfresco.fr/wepasco/), Fresco workshop (online)*
 * **Héjja-Brichard, Y.** (2021). Open Science practices in Eco/Evo. *E3CO seminar, CEFE, Montpellier, France.* <a href="/pdf/OSF_EC3Omeeting.pdf" target="_blank"><b>[slides]</b></a><br> 
-* **Héjja-Brichard, Y.** (2021). Stereovision processing in primates: A neuroimaging and pychophysics investigation. *E3CO seminar, CEFE, Montpellier, France.*
+* **Héjja-Brichard, Y.** (2021). Stereovision processing in primates: A neuroimaging and pychophysics investigation. *E3CO seminar, CEFE, Montpellier, France.* <a href="/pdf/ECO3meeting_Feb01.pdf" target="_blank"><b>[slides]</b></a><br> 
 * **Héjja-Brichard, Y.** (2019). Democracy in the animal kingdom: Collaborative decision-making.  *CerCo Winter School, Pragnères, France.* <a href="/pdf/DemocracyAnimalKingdom.pdf" target="_blank"><b>[slides]</b></a><br> 
 * **Héjja-Brichard, Y.** (2018). Stereovision in the animal kingdom: Which species, at what cost, and for which advantages? *CerCo Lab Day, Muret, France* <a href="/pdf/CerCoDay_3Dvision.pdf" target="_blank"><b>[slides]</b></a><br>
 * **Héjja-Brichard, Y.** (2018). Sexism in research and at the university: Why should it matter? What can we do about it?  *CerCo Winter School, Piau-Engaly, France.* <a href="/pdf/SexismInAcademia.pdf" target="_blank"><b>[slides]</b></a><br>
