@@ -37,6 +37,7 @@ A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademi
 * Audurier, P., **Héjja-Brichard, Y.**, Kohler, P.J., Norcia, A.M., Durand, J.-B., Cottereau, B.R. (2019). Processing of rotational symmetry in the non-human primate brain. *GDR Vision annual forum, Marseille, France.*
 
 ***Small talk(s)***
+* **Héjja-Brichard, Y.** (2021). Investigating natural statistics and sexual signalling patterns with deep learning. *Department of Evolutionary and Behavioural Ecology meeting, CEFE, Montpellier, France.* <a href="/pdf/DptMeetingMay3rd.pdf" target="_blank"><b>[slides]</b></a><br> 
 * **Héjja-Brichard, Y.** (2021). Moderator of a discussion on slow science and alternative research. *[WEPASCO](https://federationfresco.fr/wepasco/), Fresco workshop (online)*
 * **Héjja-Brichard, Y.** (2021). Open Science practices in Eco/Evo. *E3CO seminar, CEFE, Montpellier, France.* <a href="/pdf/OSF_EC3Omeeting.pdf" target="_blank"><b>[slides]</b></a><br> 
 * **Héjja-Brichard, Y.** (2021). Stereovision processing in primates: A neuroimaging and pychophysics investigation. *E3CO seminar, CEFE, Montpellier, France.* <a href="/pdf/ECO3meeting_Feb01.pdf" target="_blank"><b>[slides]</b></a><br> 
