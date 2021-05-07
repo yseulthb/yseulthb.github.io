@@ -4,5 +4,7 @@ main:
     url: 
   - title: "Research"
     url: /research/   
+  - title: "Blog"
+    url: /blog/
   - title: "Slow science"
     url: /slowscience/
