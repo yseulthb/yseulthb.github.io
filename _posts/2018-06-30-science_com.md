@@ -1,6 +1,7 @@
 ---
 title: "What it means to be a scientist"
 date:   2018-07-01 15:29:01 -0200
+categories: academia
 published: true
 mathjax: true
 header:
