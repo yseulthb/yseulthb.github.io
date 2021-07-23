@@ -34,6 +34,7 @@ A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademi
 * **Héjja-Brichard, Y.** & Cottereau, B.R. (2017). Adaptation aux régularités spatiales de l'environnement au sein de systèmes de vision stéréoscopique. *Journée des doctorants, Université Toulouse III Paul Sabatier, France*
 
 ***Conference talks***
+** Héjja-Brichard, Y.** (2021). Workshop on Research Culture based on the Café Culture Kit developped by the Wellcome Foundation. *Conférence Science Ouverte Lente Durable, Nantes, France.* [OSF folder with the French (beta) version of the Kit](https://osf.io/k3dqy/)
 * Audurier, P., **Héjja-Brichard, Y.**, Kohler, P.J., Norcia, A.M., Durand, J.-B., Cottereau, B.R. (2019). Processing of rotational symmetry in the non-human primate brain. *GDR Vision annual forum, Marseille, France.*
 
 ***Small talk(s)***
