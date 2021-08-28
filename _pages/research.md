@@ -70,6 +70,7 @@ A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademi
 * Society for Neuroscience (2018)
 
 ### Attended Workshop
+* 2021 5August): **Neuromatch Academy: Deep Learning**, a 3-week intensive summer school comprising tutorials and group projects organised by [Neuromatch](https://neuromatch.io/) (online). [[Syllabus]](https://deeplearning.neuromatch.io/tutorials/intro.html)
 * 2020 (June): **2020 Lincoln Animal Cognition Conference**, organised by the Doctoral School of the University of Lincoln, UK (online).
 * 2018 (November): **2018 Primate Welfare Meeting**, organised by the NC3Rs in London, UK.
 * 2018 (May): **The 6th Toulouse Economics and Biology Workshop**, on the theme '[Evolution, Cognition, and Rationality](http://www.iast.fr/conferences/2018-6th-toulouse-economics-and-biology-workshop)' organised by the Institute for Advanced Study in Toulouse, France.
