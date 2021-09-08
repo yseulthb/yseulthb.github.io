@@ -12,13 +12,9 @@ A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademi
 
 ## Scientific Production
 
-### Publications
-***Under review or in preparation***
-
-* Audurier, P., **Héjja-Brichard, Y.**, De Castro, V., Kohler, P.J., Norcia, A.M., Durand, J.-B., Cottereau, B.R. *(under review)*. Symmetry processing in the macaque visual cortex. [[Preprint](https://www.biorxiv.org/content/10.1101/2021.03.13.435181v1)]
-
+### Publications <!--***Under review or in preparation***-->
 ***Peer-reviewed journal articles***
-
+* Audurier, P., **Héjja-Brichard, Y.**, De Castro, V., Kohler, P.J., Norcia, A.M., Durand, J.-B., Cottereau, B.R. *(accepted)*. Symmetry processing in the macaque visual cortex. [[Preprint](https://www.biorxiv.org/content/10.1101/2021.03.13.435181v1)]
 * De Castro, V., Smith, A.T., Beer, A.L., Leguen, C., Vayssière, N., **Héjja-Brichard, Y.**, Audurier, P., Cottereau, B.R. & Durand, J.B. (2021). Connectivity of the cingulate sulcus visual area (CSv) in macaque monkeys. *Cerebral Cortex* ([doi](https://doi.org/10.1093/cercor/bhaa301)).
 * **Héjja-Brichard, Y.**, Rima, S., Rapha, E., Durand, J.-B., Cottereau, B.R. (2020). Stereomotion processing in the non-human primate brain. *Cerebral Cortex*. ([doi](https://doi.org/10.1093/cercor/bhaa055)). [[Preprint](https://www.biorxiv.org/content/10.1101/638155v3) & [OSF project](https://osf.io/yxrsv/)].
 * Rima, S., Cottereau, B.R., **Héjja-Brichard, Y.**, Trotter, Y. & Durand, J.B. (2020). A new visuotopic cluster in macaque posterior parietal cortex revealed by wide-field retinotopy. *Brain Structure and Function.* ([doi](https://doi.org/10.1007/s00429-020-02134-2))
