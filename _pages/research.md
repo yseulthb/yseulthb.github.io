@@ -67,6 +67,7 @@ A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademi
 * Center for Open Science, Ambassador (2018 – Present)
 * Cognitive Science Society (2020 - Present)
 * Association for the Study of Animal Behaviour (2020 - Present)
+* Comparative Cognition Society (2022)
 * Society for Neuroscience (2018)
 
 ### Attended Workshop
