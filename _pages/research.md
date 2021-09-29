@@ -8,7 +8,7 @@ toc: true
 
 <img src="/assets/images/ToulouseByNight.jpg" alt="Toulouse by night"> 
 
-A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademic.pdf" target="_blank"><b>CV</b></a><br> (Last update: 15/03/2020)
+A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademic.pdf" target="_blank"><b>CV</b></a><br> (Last update: 29/09/2020)
 
 ## Scientific Production
 
