@@ -15,7 +15,7 @@ A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademi
 ### Publications 
 ***Under review or in preparation***
 * ManyPrimates et al. (including **Héjja-Brichard, Y.**) *(in prep)* The evolution of primate short-term memory.
-* Guiomar, N., Krol, L.R., Combrisson, E., Dubarry, A.-S., Elliott, M., François, C., **Héjja-Brichard, Y.**, ... Chaumon, M. *(submitted)*. Good Scientific Practice in MEEG research: Progress and Perspectives. [[Preprint](https://osf.io/n2ryp/)]
+* Guiomar, N., Krol, L.R., Combrisson, E., Dubarry, A.-S., Elliott, M.A., François, C., **Héjja-Brichard, Y.**, ... Chaumon, M. *(submitted)*. Good Scientific Practice in MEEG research: Progress and Perspectives. [[Preprint](https://osf.io/n2ryp/)]
  
 ***Peer-reviewed journal articles***
 * Audurier, P., **Héjja-Brichard, Y.**, De Castro, V., Kohler, P.J., Norcia, A.M., Durand, J.-B., Cottereau, B.R. *(accepted)*. Symmetry processing in the macaque visual cortex. [[Preprint](https://www.biorxiv.org/content/10.1101/2021.03.13.435181v1)]
