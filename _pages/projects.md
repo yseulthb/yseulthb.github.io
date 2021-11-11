@@ -18,7 +18,7 @@ It takes no more than 15 minutes and it's fun to do: http://isemsurvey.mbb.univ-
 You can also share the link with your friends!
 
 
-## Former projects
+### Former projects and projects in the background
 
 ### Understanding how the primate brain processes tridimensional visual information that is extracted from binocular disparities (the small differences between the eye's projections of a visual scene that underlie binocular depth perception) 🧠
 We conducted a functional neuroimaging (fMRI) study in macaques 🐒 to identify brain areas that would respond more strongly to natural motion-in-depth compared to scrambled motion. We found a set of areas that we described in this <a href="https://academic.oup.com/cercor/article/30/8/4528/5811848"> [paper]</a>. This highlighted the need to do more research involving 3D motion, as most studies on motion are done with planar or 2D motion, less ecologically relevant. <br><br>
