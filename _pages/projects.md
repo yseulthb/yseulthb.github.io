@@ -16,7 +16,7 @@ We use mate preference as a proxy to test this idea. For example, a potential ma
 Meta-analysis of all the past Mendelson Lab's studies that investigate mate preference to have a better idea of effect sizes and factors that might influence mate preference across studies.
 
 ### Project 3: Attractiveness of visual patterns in humans 💻
-Ongoing online experiment. Give it a try! <br>
+We have an ongoing online experiment. Give it a try! <br>
 It takes no more than 15 minutes and it's fun to do! <br>
 ➡️ Link to the experiment: <a href="http://isemsurvey.mbb.univ-montp2.fr/pattern/">http://isemsurvey.mbb.univ-montp2.fr/pattern/</a>  <br>
 You can also share the link with your friends!
