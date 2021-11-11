@@ -8,7 +8,8 @@ classes: wide
 <img src="/assets/images/WashingMachines.jpg" alt="My projects"> 
 
 ### Project 1: Mate preference and natural statistics in fish 🐟
-We are designing and conducting several ehavioural experiments to understand how natural statistics influence mate preference in the Darter fish. <br>
+We are designing and conducting several behavioural experiments to understand how natural statistics influence mate preference in the Darter fish. <br>
+The main idea relies on the principle that more frequent stimuli are easier (faster, more efficient) to process because the visual system has adapted to them. Could this 'ease' of processing some visual properties influence preference towards those properties? We use mate preference as a proxy to test this idea. For example, a potential mate whose appearance reflects to some extent the visual properties of their environment might be preferred over another mate that wouldn't or would less. This has interesting evolutionary implications as such individuals would have a better reproductive success. In the case of darter species, could this partially explain the diversity of their coloration? <br>
 Example of stimulus manipulation: creating different stimuli using a neural style transfer algorithm (Gatys et al. 2015).<br>
 *Side project:* Meta-analysis of all the past Mendelson Lab's studies that investigate mate preference.
 
