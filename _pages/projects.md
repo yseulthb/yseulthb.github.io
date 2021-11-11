@@ -19,9 +19,11 @@ You can also share the link with your friends!
 
 
 ### Former projects
-##### Understanding how the primate brain processes tridimensional visual information that is extracted from binocular disparities (the small differences between the eye's projections of a visual scene that underlie binocular depth perception). 
-A neuroimaging study was conducted to determine the brain areas that respond more strongly to natural motion-in-depth (temporal processing).<br>
-*Technical developments:* Refinement of the estimation of the hemodynamic response function for several macaque subjects. Development of a pipeline to increase the signal-to-noise ratio of fMRI images using a principal component analysis (PCA) approach.  
 
+##### Understanding how the primate brain processes tridimensional visual information that is extracted from binocular disparities (the small differences between the eye's projections of a visual scene that underlie binocular depth perception) 🧠
+A functional neuroimaging (fMRI) study was conducted to determine the brain areas that respond more strongly to natural motion-in-depth (temporal processing).<br>
+In another one, we asked whether some brain areas would be more strongly activated when the subject perceives a stimulus with some properties that are more frequent in natural visual scenes. We showed surfaces slanted and tilted in depth to compare the different brain responses. 
+
+*Technical developments:* Refinement of the estimation of the hemodynamic response function for several macaque subjects. Development of a pipeline to increase the signal-to-noise ratio of fMRI images using a principal component analysis (PCA) approach.  
 
 
