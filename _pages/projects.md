@@ -8,7 +8,7 @@ classes: wide
 <img src="/assets/images/WashingMachines.jpg" alt="My projects"> 
 
 ### Project 1: Mate preference and natural statistics in fish 🐟
-Behavioural experiments to understand how natural statistics influence mate preference in the Darter fish. <br>
+We are designing and conducting several ehavioural experiments to understand how natural statistics influence mate preference in the Darter fish. <br>
 Example of stimulus manipulation: creating different stimuli using a neural style transfer algorithm (Gatys et al. 2015).<br>
 *Side project:* Meta-analysis of all the past Mendelson Lab's studies that investigate mate preference.
 
