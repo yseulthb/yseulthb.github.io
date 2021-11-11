@@ -11,9 +11,11 @@ classes: wide
 We are designing and conducting several behavioural experiments to understand how natural statistics influence mate preference in the Darter fish. <br>
 The main idea relies on the principle that more frequent stimuli are easier (faster, more efficient) to process because the visual system has adapted to them. Could this 'ease' of processing some visual properties influence preference towards those properties? 
 We use mate preference as a proxy to test this idea. For example, a potential mate whose appearance reflects to some extent the visual properties of their environment might be preferred over another mate that wouldn't or would less. This has interesting evolutionary implications in terms of mecanisms that could explain mate choice and/or mate preference.<br>
-*Side project:* Meta-analysis of all the past Mendelson Lab's studies that investigate mate preference to have a better idea of effect sizes and factors that might influence mate preference across studies.
 
-### Project 2: Attractiveness of visual patterns in humans 💻
+### Project 2: Mate preference in the darter fish, a small meta-analysis 📈
+Meta-analysis of all the past Mendelson Lab's studies that investigate mate preference to have a better idea of effect sizes and factors that might influence mate preference across studies.
+
+### Project 3: Attractiveness of visual patterns in humans 💻
 Ongoing online experiment. Give it a try! <br>
 It takes no more than 15 minutes and it's fun to do: http://isemsurvey.mbb.univ-montp2.fr/pattern/  <br>
 You can also share the link with your friends!
