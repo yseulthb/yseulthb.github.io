@@ -17,7 +17,7 @@ Meta-analysis of all the past Mendelson Lab's studies that investigate mate pref
 
 ### Project 3: Attractiveness of visual patterns in humans 💻
 Ongoing online experiment. Give it a try! <br>
-It takes no more than 15 minutes and it's fun to do: http://isemsurvey.mbb.univ-montp2.fr/pattern/  <br>
+It takes no more than 15 minutes and it's fun to do: (http://isemsurvey.mbb.univ-montp2.fr/pattern/)[http://isemsurvey.mbb.univ-montp2.fr/pattern/]  <br>
 You can also share the link with your friends!
 
 -----------
