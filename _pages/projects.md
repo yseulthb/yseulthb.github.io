@@ -17,6 +17,7 @@ Ongoing online experiment. Give it a try! <br>
 It takes no more than 15 minutes and it's fun to do: http://isemsurvey.mbb.univ-montp2.fr/pattern/  <br>
 You can also share the link with your friends!
 
+-----------
 
 ### Former projects and projects in the background
 
