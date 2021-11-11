@@ -2,8 +2,8 @@
 main:
   - title: "About"
     url: 
-  - title: "Research"
-    url: /research/   
+  - title: "Scientific Output"
+    url: /output/   
   - title: "Blog"
     url: /blog/
   - title: "Slow science"
