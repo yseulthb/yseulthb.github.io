@@ -6,7 +6,7 @@ toc: true
 ---
 {% include toc %}
 
-<img src="/assets/images/PattersonParkPond.jpg" alt="The pond of Patterson Park in Baltimore, MD" style="width: 50%;"> 
+<img src="/assets/images/PattersonParkPond.jpg" alt="The pond of Patterson Park in Baltimore, MD" style="width: 60%;"> 
 
 A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademic.pdf" target="_blank"><b>CV</b></a><br> (Last update: 10/11/2020)
 
@@ -15,7 +15,7 @@ A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademi
 ### Publications 
 ***Under review or in preparation***
 * ManyPrimates et al. (including **Héjja-Brichard, Y.**) *(submitted)* The evolution of primate short-term memory. [[Preprint](https://psyarxiv.com/5etnf)]
-* Guiomar, N., Krol, L.R., Combrisson, E., Dubarry, A.-S., Elliott, M.A., François, C., **Héjja-Brichard, Y.**, ... Chaumon, M. *(submitted)*. Good Scientific Practice in MEEG research: Progress and Perspectives. [[Preprint](https://osf.io/n2ryp/)]
+* Guiomar, N., Krol, L.R., Combrisson, E., Dubarry, A.-S., Elliott, M.A., François, C., **Héjja-Brichard, Y.**, ... Chaumon, M. *(under review)*. Good Scientific Practice in MEEG research: Progress and Perspectives. [[Preprint](https://osf.io/n2ryp/)]
  
 ***Peer-reviewed journal articles***
 * Audurier, P., **Héjja-Brichard, Y.**, De Castro, V., Kohler, P.J., Norcia, A.M., Durand, J.-B., Cottereau, B.R. (2021). Symmetry processing in the macaque visual cortex. *Cerebral Cortex*. ([doi](https://doi.org/10.1093/cercor/bhab358)). [[Preprint](https://www.biorxiv.org/content/10.1101/2021.03.13.435181v1)]
