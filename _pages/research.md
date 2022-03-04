@@ -66,6 +66,7 @@ A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademi
 
 ### Membership
 * SORTEE, Society for Open, Reliable, and Transparent Ecology and Evolutionary Biology (2021 - present)
+* National Postdoctoral Association (2021 - present)
 * Center for Open Science, Ambassador (2018 – Present)
 * Cognitive Science Society (2020 - Present)
 * Comparative Cognition Society (2022)
