@@ -51,7 +51,7 @@ This list includes discussion groups on how to improve science that gather schol
 - You can find more texts and links on this [Rotten Potatoes](https://threerottenpotatoes.wordpress.com/independent-science-2/text-links/) webpage.
 
 ### In French
-- Un [billet de blog](https://act.hypotheses.org/4667) "Slow science et désexcellence. Résister aux dérives néolibérales de la recherche" sur le blog Hypothèse "Les aspects concrets de la thèse"
+- Un [billet de blog](https://act.hypotheses.org/4667) "Slow science et désexcellence. Résister aux dérives néolibérales de la recherche" par Aurélia Desplain sur le blog Hypothèse "Les aspects concrets de la thèse"
 - Un [billet](https://www.pauljorion.com/blog/2011/08/23/slow-science-la-desexcellence-par-olivier-p-gosselain/) d'Olivier P. Gosselin invité sur le blog de Paul Jorion: "Slow Science – La Désexcellence"
 - Le livre d'Isabelle Stengers **« Une autre science est possible ! Manifeste pour un ralentissement des sciences »** aux [éditions de la Découverte](https://editionsladecouverte.fr/catalogue/index-Une_autre_science_est_possible__-9782707197696.html) <br>
 J'ai rassemblé des notes de lecture sur le livre « Une autre science est possible ! Manifeste pour un ralentissement des sciences » d'Isabelle Stengers. Elles sont accessibles sur cette page: [Notes Stengers](https://yseulthb.github.io/stengers/).
