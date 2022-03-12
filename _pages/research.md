@@ -17,7 +17,7 @@ A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademi
 * ManyPrimates et al. (including **Héjja-Brichard, Y.**) *(submitted)* The evolution of primate short-term memory. [[Preprint](https://psyarxiv.com/5etnf)]
  
 ***Peer-reviewed journal articles***
-* Guiomar, N., Krol, L.R., Combrisson, E., Dubarry, A.-S., Elliott, M.A., François, C., **Héjja-Brichard, Y.**, ... Chaumon, M. *(accepted)*. Good Scientific Practice in MEEG research: Progress and Perspectives. *Neuroimage* [[Preprint](https://osf.io/n2ryp/)]
+* Guiomar, N., Krol, L.R., Combrisson, E., Dubarry, A.-S., Elliott, M.A., François, C., **Héjja-Brichard, Y.**, ... Chaumon, M. (2022). Good Scientific Practice in MEEG research: Progress and Perspectives. *Neuroimage* ([doi](https://doi.org/10.1016/j.neuroimage.2022.119056)) [[Preprint](https://osf.io/n2ryp/)]
 * Audurier, P., **Héjja-Brichard, Y.**, De Castro, V., Kohler, P.J., Norcia, A.M., Durand, J.-B., Cottereau, B.R. (2021). Symmetry processing in the macaque visual cortex. *Cerebral Cortex*. ([doi](https://doi.org/10.1093/cercor/bhab358)). [[Preprint](https://www.biorxiv.org/content/10.1101/2021.03.13.435181v1)]
 * De Castro, V., Smith, A.T., Beer, A.L., Leguen, C., Vayssière, N., **Héjja-Brichard, Y.**, Audurier, P., Cottereau, B.R. & Durand, J.B. (2021). Connectivity of the cingulate sulcus visual area (CSv) in macaque monkeys. *Cerebral Cortex* ([doi](https://doi.org/10.1093/cercor/bhaa301)).
 * **Héjja-Brichard, Y.**, Rima, S., Rapha, E., Durand, J.-B., Cottereau, B.R. (2020). Stereomotion processing in the non-human primate brain. *Cerebral Cortex*. ([doi](https://doi.org/10.1093/cercor/bhaa055)). [[Preprint](https://www.biorxiv.org/content/10.1101/638155v3) & [OSF project](https://osf.io/yxrsv/)].
