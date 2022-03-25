@@ -14,7 +14,7 @@ A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademi
 
 ### Publications 
 ***Under review or in preparation***
-* ManyPrimates et al. (including **Héjja-Brichard, Y.**) *(submitted)* The evolution of primate short-term memory. [[Preprint](https://psyarxiv.com/5etnf)]
+* ManyPrimates et al. (including **Héjja-Brichard, Y.**) *(under review)* The evolution of primate short-term memory. [[Preprint](https://psyarxiv.com/5etnf)]
  
 ***Peer-reviewed journal articles***
 * Guiomar, N., Krol, L.R., Combrisson, E., Dubarry, A.-S., Elliott, M.A., François, C., **Héjja-Brichard, Y.**, ... Chaumon, M. (2022). Good Scientific Practice in MEEG research: Progress and Perspectives. *Neuroimage* ([doi](https://doi.org/10.1016/j.neuroimage.2022.119056)). [[Preprint](https://osf.io/n2ryp/)]
