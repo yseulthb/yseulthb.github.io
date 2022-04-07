@@ -8,7 +8,7 @@ toc: true
 
 <img src="/assets/images/PattersonParkPond.jpg" alt="The pond of Patterson Park in Baltimore, MD" style="width: 60%;"> 
 
-A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademic.pdf" target="_blank"><b>CV</b></a><br> (Last update: February 2022)
+A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademic.pdf" target="_blank"><b>CV</b></a><br> (Last update: April 2022)
 
 ## Scientific Production
 
