@@ -49,7 +49,7 @@ A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademi
 * **Héjja-Brichard, Y.** (2016). Morality and Ethics: A (very) short review. *CerCo Journal Club, Toulouse, France.* <a href="/pdf/MoralityEthicsReview.pdf" target="_blank"><b>[slides]</b></a><br>
 
 ***Poster presentations***
-<!-- * **Héjja-Brichard, Y.**, Million, K., Norwood, L.A., Katchekpele, K.S., Renoult, J.P., Mendelson, T.C. (2022, August.). Do the spatial statistics of a species’ visual environment influence mate preference in the rainbow darter fish? Bridging the Technological Gap Workshop, Göttingen, Germany.
+<!--- * **Héjja-Brichard, Y.**, Million, K., Norwood, L.A., Katchekpele, K.S., Renoult, J.P., Mendelson, T.C. (2022, August.). Do the spatial statistics of a species’ visual environment influence mate preference in the rainbow darter fish? Bridging the Technological Gap Workshop, Göttingen, Germany.
 * **Héjja-Brichard, Y.**, Renoult, J.P., Mendelson, T.C. (2022, July.). Strength of preference for conspecifics in Darters (genus Etheostoma): A within-lab meta-analysis. Animal Behavior Society, San José, Costa Rica and online. -->
 * Audurier, P., **Héjja-Brichard, Y.**, Kohler, P.J., Norcia, A.M., Durand, J.-B., Cottereau, B.R. (2019, October). Processing of symmetry in the non-human primate brain. *Society for Neuroscience, Chicago, USA.*
 * De Castro, V., LeGuen, C., **Héjja-Brichard, Y.**, Audurier, P., Cottereau, B.R., Durand, J.-B. (2019, October). Functional and structural connectivity of the cingulate sulcus visual (CSv) area in macaque monkeys. *Society for Neuroscience, Chicago, USA*. <a href="/pdf/SFN_2019_JBD.pdf" target="_blank"><b>[Poster]</b></a><br>
