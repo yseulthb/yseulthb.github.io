@@ -49,8 +49,6 @@ A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademi
 * **Héjja-Brichard, Y.** (2016). Morality and Ethics: A (very) short review. *CerCo Journal Club, Toulouse, France.* <a href="/pdf/MoralityEthicsReview.pdf" target="_blank"><b>[slides]</b></a><br>
 
 ***Poster presentations***
-<!--- * **Héjja-Brichard, Y.**, Million, K., Norwood, L.A., Katchekpele, K.S., Renoult, J.P., Mendelson, T.C. (2022, August.). Do the spatial statistics of a species’ visual environment influence mate preference in the rainbow darter fish? Bridging the Technological Gap Workshop, Göttingen, Germany.
-* **Héjja-Brichard, Y.**, Renoult, J.P., Mendelson, T.C. (2022, July.). Strength of preference for conspecifics in Darters (genus Etheostoma): A within-lab meta-analysis. Animal Behavior Society, San José, Costa Rica and online. -->
 * Audurier, P., **Héjja-Brichard, Y.**, Kohler, P.J., Norcia, A.M., Durand, J.-B., Cottereau, B.R. (2019, October). Processing of symmetry in the non-human primate brain. *Society for Neuroscience, Chicago, USA.*
 * De Castro, V., LeGuen, C., **Héjja-Brichard, Y.**, Audurier, P., Cottereau, B.R., Durand, J.-B. (2019, October). Functional and structural connectivity of the cingulate sulcus visual (CSv) area in macaque monkeys. *Society for Neuroscience, Chicago, USA*. <a href="/pdf/SFN_2019_JBD.pdf" target="_blank"><b>[Poster]</b></a><br>
 * **Héjja-Brichard, Y.**, Bruzzone, S.E.P, Rapha, E., Durand, J.-B., Cottereau, B.R. (2019, September). Natural statistics influence depth perception. *Predictive brain conference, Marseille, France*. <a href="/pdf/Poster_Marseille.pdf" target="_blank"><b>[Poster]</b></a><br>
@@ -58,6 +56,9 @@ A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademi
 * Rima, S., Cottereau, B.R., **Héjja-Brichard, Y.**, Trotter, Y. & Durand, J.-B. (2017, November). Wide-field retinotopy reveals a new visuotopic cluster in IPS. *Annual meeting of Society for Neuroscience, Washington, USA*. <a href="/pdf/SFN17_V1_Samy-compressed.pdf" target="_blank"><b>[Poster]</b></a><br>
 * **Héjja-Brichard, Y.**, Rima, S., Durand, J.-B., Cottereau, B.R. (2017, August). Stereomotion processing in the non-human primate brain. *European Conference on Visual Perception, Berlin, Germany*. <a href="/pdf/PosterECVP.pdf" target="_blank"><b>[Poster]</b></a><br>
 * **Héjja-Brichard, Y.**, Rima, S., Trotter, Y., Banks, M.S., Durand, J.-B., Cottereau, B.R. (2015, December). Adaptation to the 3D properties of the environment in non-human primates. *GDR Vision annual forum, Grenoble, France*. <a href="/pdf/Poster_GDRvision.pdf" target="_blank"><b>[Poster]</b></a><br>
+
+<!--- * **Héjja-Brichard, Y.**, Million, K., Norwood, L.A., Katchekpele, K.S., Renoult, J.P., Mendelson, T.C. (2022, August.). Do the spatial statistics of a species’ visual environment influence mate preference in the rainbow darter fish? Bridging the Technological Gap Workshop, Göttingen, Germany. <br>
+* **Héjja-Brichard, Y.**, Renoult, J.P., Mendelson, T.C. (2022, July.). Strength of preference for conspecifics in Darters (genus Etheostoma): A within-lab meta-analysis. Animal Behavior Society, San José, Costa Rica and online. -->
 
 ### Open science workshop
 * Beffara, B., Beffara-Bret, A., Nalborczyk, L., **Héjja-Brichard, Y.**, & Beffara-Bret, B. (2020, February). A practical introduction to the Open Science Framework. *CRNL Workshop on Open Science, Lyon, France*. <a href="/pdf/CRNL2020.pdf" target="_blank"><b>[slides]</b></a><br>
