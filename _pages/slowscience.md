@@ -8,8 +8,6 @@ title: Slow Science
 
 {% include toc %}
 
-<img src="/assets/images/WelshTulipCropped.jpg" alt="Picture of a field of tulips located in Cardiff">
-
 I had the opportunity to give a talk about Slow Science at the online conference [LiveMEEG2020](https://livemeeg2020.org/) last October. You can access my slides <a href="/pdf/SlowScience.pdf" target="_blank"><b>[here]</b></a> to have an overview of my presentation. Below, I have added the various references and resources I could accumulate on the topic, as well as some existing initiatives that promote better / alternative ways of doing science.
 
 ## Scientific papers
@@ -24,7 +22,6 @@ I had the opportunity to give a talk about Slow Science at the online conference
 - Vazire, S. (2017). Quality Uncertainty Erodes Trust in Science. Collabra: Psychology, 3(1), 1. [[DOI]](https://www.collabra.org/articles/10.1525/collabra.74/)
 - Ylijoki, O.-H., & Mäntylä, H. (2003). Conflicting Time Perspectives in Academic Work. Time & Society, 12(1), 55–78. [[DOI]](https://doi.org/10.1177/0961463X03012001364)
 
-<img src="/assets/images/prunus_blossom_zoom.png" width="220" height="200" alt="Fruit tree" align="right"> 
 
 ## Some initiatives
 This list includes discussion groups on how to improve science that gather scholars from different disciplines, initiatives to promote and think about better research practices, alternative research institutes with a mix of 'regular' and independent scholars. 
