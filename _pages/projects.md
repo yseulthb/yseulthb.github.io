@@ -5,8 +5,6 @@ title: "Research projects"
 classes: wide
 ---
 
-<img src="/assets/images/WashingMachines.jpg" alt="My projects"> 
-
 ### Project 1: Mate preference and natural statistics in fish 🐟
 We are designing and conducting several behavioural experiments to understand how natural statistics influence mate preference in the Darter fish (Etheostoma). <br>
 The main idea relies on the principle that more frequent stimuli are easier (faster, more efficient) to process because the visual system has adapted to them. Could this 'ease' of processing some visual properties influence preference towards those properties? 
