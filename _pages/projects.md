@@ -11,8 +11,8 @@ The main idea relies on the principle that more frequent stimuli are easier (fas
 We use mate preference as a proxy to test this idea. For example, a potential mate whose appearance reflects to some extent the visual properties of their environment might be preferred over another mate that wouldn't or would less. This has interesting evolutionary implications in terms of mechanisms that could explain mate choice and/or mate preference.<br>
 
 ### Project 2: Mate preference in the darter fish, a within-lab meta-analysis 📈
-We conducted a meta-analysis of all the past Mendelson Lab's studies that investigated mate preference to have a better idea of effect sizes and factors that might influence mate preference across studies.<br> 
-Along with an effect size of medium strength, we found an effect of geographic relationships and of genetic distance. We presented this work at the 2022 annual meeting of the Animal Behavior Society. You can have a look at our <a href="/pdf/Poster_ABS2022.pdf" target="_blank">[poster]</a> for more details.
+We conducted a meta-analysis of all the past Mendelson Lab's studies that investigated the strength of preference for conspecifics over heterospecifics in darters. We wanted to have a better idea of the effect sizes and factors that might influence mate preference across studies. <br> 
+Along with an effect size of medium strength, we found that both geographic relationships and genetic distance influence the strength of preference. We presented this work at the 2022 annual meeting of the Animal Behavior Society. You can have a look at our <a href="/pdf/Poster_ABS2022.pdf" target="_blank">[poster]</a> for more details.
 
 ### Project 3: Attractiveness of visual patterns in humans 💻
 We have an ongoing online experiment. Give it a try! <br>
