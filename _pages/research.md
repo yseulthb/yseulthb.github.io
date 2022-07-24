@@ -87,6 +87,7 @@ A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademi
 * 2015 (November): **Statistics workshop**: " Statistical methods for Signal Detection Models in Psychophysics" taught by Kenneth Knoblauch (Inserm, Lyon) and "Mixed models (GLMM) for vision data" taught by Rafaël Laboissière (LPNC, Grenoble)
 
 ## Popularisation of science
+* Coordination of a thematic issue on Altruism in the animal kingdom for the magazine "[Perspectives](https://fr.calameo.com/books/007072654fda4d195be72)" (Spring 2022).
 * Public presentation on visual illusions (March 2019) for the [Brain Awareness Week](https://www.semaineducerveau.fr/manifestation/les-illusions-visuelles-une-illusion-du-cerveau/) at Quai des Savoirs, a cultural centre in Toulouse: "Les illusions visuelles, une illusion du cerveau?" <a href="/pdf/illu_visu.pdf" target="_blank"><b>[slides]</b></a><br>
 * Public presentation on the study of 3D vision in animals  (February 2017) ["En tête à tête avec un jeune chercheur"](http://www.univ-toulouse.fr/sites/default/files/dp-avis_de_recherche-lactualite_par_les_jeunes_chercheurs-5fev2017.pdf), Museum de Toulouse: "La vision 3D : mieux qu’au cinéma !"
 * Article (March 2017, in French) about the evolution of 3D vision in animals, written for Muséum Toulouse (Museum of Natural sciences): 
