@@ -76,7 +76,7 @@ A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademi
 * Association for the Study of Animal Behaviour (2020 - present)
 <!-- * Society for Neuroscience (2018) -->
 
-### Attended Workshop
+### Attended Workshop & Summer schools
 * 2021 (August): **Neuromatch Academy: Deep Learning**, a 3-week intensive summer school comprising tutorials and group projects organised by [Neuromatch](https://neuromatch.io/) (online). [[Syllabus]](https://deeplearning.neuromatch.io/tutorials/intro.html). Group project: "Assessing the robustness against word permutations of CNNs and LSTMs in semantic similarity learning".
 * 2020 (June): **2020 Lincoln Animal Cognition Conference**, organised by the Doctoral School of the University of Lincoln, UK (online).
 * 2018 (November): **2018 Primate Welfare Meeting**, organised by the NC3Rs in London, UK.
