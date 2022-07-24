@@ -10,8 +10,9 @@ We are designing and conducting several behavioural experiments to understand ho
 The main idea relies on the principle that more frequent stimuli are easier (faster, more efficient) to process because the visual system has adapted to them. Could this 'ease' of processing some visual properties influence preference towards those properties? 
 We use mate preference as a proxy to test this idea. For example, a potential mate whose appearance reflects to some extent the visual properties of their environment might be preferred over another mate that wouldn't or would less. This has interesting evolutionary implications in terms of mechanisms that could explain mate choice and/or mate preference.<br>
 
-### Project 2: Mate preference in the darter fish, an intralab meta-analysis 📈
-Meta-analysis of all the past Mendelson Lab's studies that investigated mate preference to have a better idea of effect sizes and factors that might influence mate preference across studies.
+### Project 2: Mate preference in the darter fish, a within-lab meta-analysis 📈
+We conducted a meta-analysis of all the past Mendelson Lab's studies that investigated mate preference to have a better idea of effect sizes and factors that might influence mate preference across studies. 
+Along with an effect size of medium strength, we found an effect of geographic relationships and of genetic distance. We presented this work at the 2022 annual meeting of the Animal Behavior Society. You can have a look at our <a href="/pdf/Poster_ABS2022.pdf" target="_blank">[Poster]</a> for more details.
 
 ### Project 3: Attractiveness of visual patterns in humans 💻
 We have an ongoing online experiment. Give it a try! <br>
