@@ -11,7 +11,9 @@ A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademi
 ## Scientific Production
 
 ### Publications 
-<!-- ***Under review or in preparation*** -->
+***Under review or in preparation***
+* **Héjja-Brichard, Y.**, Renoult, J.P., Mendelson, T.C. (in prep). Strength of preference for conspecifics in darters (genus Etheostoma).
+* Renoult, J.P., **Héjja-Brichard, Y.** (in prep). Deep learning and visual ecology.
 
 ***Peer-reviewed journal articles***
 * ManyPrimates et al. (including **Héjja-Brichard, Y.**) *(accepted)* The evolution of primate short-term memory. *Animal Behavior and Cognition* [[Preprint](https://psyarxiv.com/5etnf)]
