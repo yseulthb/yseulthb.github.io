@@ -23,8 +23,9 @@ A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademi
 * Chauhan, T., **Héjja-Brichard, Y.**, Cottereau, B.R. (2020). Modelling binocular disparity processing from statistics in natural scenes. *Vision Research*, 176, 27-39. ([doi](https://doi.org/10.1016/j.visres.2020.07.009))
 * Cottereau, B.R., Smith, A.T., Rima, S., Fize, D., **Héjja-Brichard, Y.**, Renaud, L., … Durand, J.-B. (2017). Processing of Egomotion-Consistent Optic Flow in the Rhesus Macaque Cortex. *Cerebral Cortex*, 1-14 ([doi](https://doi.org/10.1093/cercor/bhw412)).
 
-***Thesis***
-Yseult Héjja-Brichard. Spatial and temporal integration of binocular disparity in the primate brain. Université Toulouse 3 - Paul Sabatier, 2020. [[pdf]](https://hal.archives-ouvertes.fr/tel-02956425/document).
+***PhDThesis***
+* Yseult Héjja-Brichard. Spatial and temporal integration of binocular disparity in the primate brain. Université Toulouse 3 - Paul Sabatier, 2020. [[pdf]](https://hal.archives-ouvertes.fr/tel-02956425/document).
+
 
 ### Oral presentations
 ***Invited talks***
