@@ -12,8 +12,8 @@ A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademi
 
 ### Publications 
 ***Under review or in preparation***
-* **Héjja-Brichard, Y.**, Renoult, J.P., Mendelson, T.C. (in prep). Strength of preference for conspecifics in darters (genus Etheostoma).
-* Renoult, J.P., **Héjja-Brichard, Y.** (in prep). Deep learning and visual ecology.
+* **Héjja-Brichard, Y.**, Renoult, J.P., Mendelson, T.C. *(in prep)*. Strength of preference for conspecifics in darters (genus Etheostoma).
+* Renoult, J.P., **Héjja-Brichard, Y.** *(in prep)*. Deep learning and visual ecology.
 
 ***Peer-reviewed journal articles***
 * ManyPrimates et al. (including **Héjja-Brichard, Y.**) *(accepted)* The evolution of primate short-term memory. *Animal Behavior and Cognition* [[Preprint](https://psyarxiv.com/5etnf)]
@@ -32,7 +32,8 @@ A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademi
 ### Oral presentations
 ***Invited talks***
 
-* **Héjja-Brichard, Y.** (2020, october). Rethinking our Narratives: The Challenge of “Slow Science”. *LiveMEEG (online conference)* <a href="/pdf/SlowScience.pdf" target="_blank"><b>[slides]</b></a><br>
+* **Héjja-Brichard, Y.** (2022, September). AI methods to study sexual selection. *[imaginecology2](https://imaginecology2.sciencesconf.org/)*. 
+* **Héjja-Brichard, Y.** (2020, October). Rethinking our Narratives: The Challenge of “Slow Science”. *LiveMEEG (online conference)* <a href="/pdf/SlowScience.pdf" target="_blank"><b>[slides]</b></a><br>
 * **Héjja-Brichard, Y.** & Mercier M.R. (2018). Data visualisation in cognitive neuroscience: Functional neuroimaging and electrophysiology. *Talk given for the Toulouse Data Vizualisation group, Toulouse, France* <a href="/pdf/YHB_ToulouseDataViz.pdf" target="_blank"><b>[slides]</b></a><br>
 * **Héjja-Brichard, Y.** & Cottereau, B.R. (2017). Adaptation aux régularités spatiales de l'environnement au sein de systèmes de vision stéréoscopique. *Journée des doctorants, Université Toulouse III Paul Sabatier, France*
 
