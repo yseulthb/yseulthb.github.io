@@ -6,9 +6,10 @@ classes: wide
 ---
 
 ### Project 1: Mate preference and natural statistics in darters 🐟
-We are designing and conducting several behavioural experiments to understand how natural statistics influence mate preference in the Darter fish (Etheostoma). <br>
+We are designing and conducting several behavioural experiments to understand how natural statistics influence mate preferences in the Darter fish (Etheostoma). We rely on artificial neural networks to create novel visual stimuli that mimic natural statistics and investigate their relationship with preferences. <br>
 The main idea relies on the principle that more frequent stimuli are easier (faster, more efficient) to process because the visual system has adapted to them. Could this 'ease' of processing some visual properties influence preference towards those properties? 
 We use mate preference as a proxy to test this idea. For example, a potential mate whose appearance reflects to some extent the visual properties of their environment might be preferred over another mate that wouldn't or would less. This has interesting evolutionary implications in terms of mechanisms that could explain mate choice and/or mate preference.<br>
+
 
 ### Project 2: Strength of preference for conspecifics in darters 📈
 We conducted a meta-analysis of all the past Mendelson Lab's studies that investigated the strength of preference for conspecifics over heterospecifics in darters. We wanted to have a better idea of the effect sizes and factors that might influence mate preference across species. <br> 
