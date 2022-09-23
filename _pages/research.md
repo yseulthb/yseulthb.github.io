@@ -6,7 +6,7 @@ toc: true
 ---
 {% include toc %}
 
-A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademic.pdf" target="_blank"><b>CV</b></a><br> (Last update: April 2022)
+A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademic.pdf" target="_blank"><b>CV</b></a><br> (Last update: September 2022)
 
 ## Scientific Production
 
