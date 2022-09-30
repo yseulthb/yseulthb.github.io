@@ -33,12 +33,12 @@ A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademi
 ***Invited talks*** 
 
 * **Héjja-Brichard, Y.** (2022, September). AI methods to study sexual selection. *[Imaginecology2](https://imaginecology2.sciencesconf.org/): machine learning for image and sound processing and analysis in ecology, Villeurbanne, France.* <a href="/pdf/imaginecology2_talk.pdf" target="_blank"><b>[slides]</b></a><br>
-* **Héjja-Brichard, Y.** (2020, October). Rethinking our Narratives: The Challenge of “Slow Science”. *LiveMEEG (online conference)* <a href="/pdf/SlowScience.pdf" target="_blank"><b>[slides]</b></a><br>
-* **Héjja-Brichard, Y.** & Mercier M.R. (2018). Data visualisation in cognitive neuroscience: Functional neuroimaging and electrophysiology. *Talk given for the Toulouse Data Vizualisation group, Toulouse, France* <a href="/pdf/YHB_ToulouseDataViz.pdf" target="_blank"><b>[slides]</b></a><br>
+* **Héjja-Brichard, Y.** (2020, October). Rethinking our Narratives: The Challenge of “Slow Science”. *[LiveMEEG](https://livemeeg2020.org/) (online conference)* <a href="/pdf/SlowScience.pdf" target="_blank"><b>[slides]</b></a><br>
+* **Héjja-Brichard, Y.** & Mercier M.R. (2018). Data visualisation in cognitive neuroscience: Functional neuroimaging and electrophysiology. *Talk given for the [Toulouse Data Vizualisation group](https://toulouse-dataviz.fr/), Toulouse, France* <a href="/pdf/YHB_ToulouseDataViz.pdf" target="_blank"><b>[slides]</b></a><br>
 * **Héjja-Brichard, Y.** & Cottereau, B.R. (2017). Adaptation aux régularités spatiales de l'environnement au sein de systèmes de vision stéréoscopique. *Journée des doctorants, Université Toulouse III Paul Sabatier, France*
 
 ***Conference talks***
-* **Héjja-Brichard, Y.** (2021). Workshop on Research Culture based on the [Café Culture Kit](https://wellcome.org/what-we-do/our-work/research-culture/hosting-your-cafe-culture-discussion) developped by the Wellcome Foundation. *Conférence Science Ouverte Lente Durable, Nantes, France.* [[OSF folder with the French (beta) version of the Kit]](https://osf.io/k3dqy/)
+* **Héjja-Brichard, Y.** (2021). Workshop on Research Culture based on the [Café Culture Kit](https://wellcome.org/what-we-do/our-work/research-culture/hosting-your-cafe-culture-discussion) developped by the Wellcome Foundation. *[Conférence Science Ouverte Lente Durable](https://sold21.sciencesconf.org/), Nantes, France.* [[OSF folder with the French (beta) version of the Kit]](https://osf.io/k3dqy/)
 * Audurier, P., **Héjja-Brichard, Y.**, Kohler, P.J., Norcia, A.M., Durand, J.-B., Cottereau, B.R. (2019). Processing of rotational symmetry in the non-human primate brain. *GDR Vision annual forum, Marseille, France.*
 
 ***Small talk(s)***
