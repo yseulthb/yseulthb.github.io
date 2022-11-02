@@ -12,7 +12,7 @@ A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademi
 
 ### Publications 
 ***Under review or in preparation***
-* **Héjja-Brichard, Y.**, Renoult, J.P., Mendelson, T.C. *(in prep)*. Strength of preference for conspecifics in darters (genus Etheostoma).
+* **Héjja-Brichard, Y.**, Renoult, J.P., Mendelson, T.C. *(in prep)*. Preference for conspecifics in sympatric and allopatric darters (genus *Etheostoma*): comparative evidence for reinforcement.
 * Renoult, J.P., **Héjja-Brichard, Y.** *(in prep)*. Deep learning and visual ecology.
 
 ***Peer-reviewed journal articles***
