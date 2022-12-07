@@ -12,7 +12,7 @@ A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademi
 
 ### Publications 
 ***Under review or in preparation***
-* **Héjja-Brichard, Y.**, Renoult, J.P., Mendelson, T.C. *(submitted)*. Mate preference in sympatric and allopatric darters (genus *Etheostoma*): comparative evidence for a sex effect in reinforcement
+* **Héjja-Brichard, Y.**, Renoult, J.P., Mendelson, T.C. *(submitted)*. Mate preference in sympatric and allopatric darters (genus *Etheostoma*): comparative evidence for a sex effect in reinforcement. [[Preprint](https://doi.org/10.32942/X2PK5K)]
 * Renoult, J.P., **Héjja-Brichard, Y.** *(in prep)*. Deep learning and visual ecology.
 
 ***Peer-reviewed journal articles***
