@@ -76,8 +76,8 @@ And here is my 1-page <a href="/pdf/YHejjaBrichard_resume.pdf" target="_blank"><
 ## Professional Involvement 
 
 ### Membership
-* Comparative Cognition Society (2022) 
-* Animal Behavior Society (2022)
+* Animal Behavior Society (2022 - present)
+* Comparative Cognition Society (2022 - present) 
 * SORTEE, Society for Open, Reliable, and Transparent Ecology and Evolutionary Biology (2021 - present)
 * National Postdoctoral Association (2021 - present)
 * Association for the Study of Animal Behaviour (2020 - present)
@@ -95,6 +95,13 @@ And here is my 1-page <a href="/pdf/YHejjaBrichard_resume.pdf" target="_blank"><
 * 2016 (November): **Statistics workshop**: "Building Confidence Intervals with R" taught by Jean-Michel Hupé (CerCo, CNRS Toulouse, France) [(pdf)](https://gdrvision2016.sciencesconf.org/data/pages/GDRvision2016_ConfidenceIntervalsBasics.pdf)
 * 2016 (April): **Ethics in research** "[Aspects éthiques de la recherche en biologie et enjeux de société](https://societal.genotoul.fr/wp-content/uploads/2018/03/Module-2016-DP04-B-Programme.pdf)" organised by a doctoral school (BSB-Biologie, Santé, Biotechnologie), Toulouse, France.
 * 2015 (November): **Statistics workshop**: " Statistical methods for Signal Detection Models in Psychophysics" taught by Kenneth Knoblauch (Inserm, Lyon) and "Mixed models (GLMM) for vision data" taught by Rafaël Laboissière (LPNC, Grenoble)
+
+### Lab Community Involvement
+* Organisation of the first edition of the Lab Student Day (2019) and the Lab Winter School (2017, 2018)
+* Co-creation of a Welcome Kit for new students and postdocs (2019)
+* Student representative at the Lab Council (2017-2018)
+* Co-organisation of a conference to promote open, slow, and sustainable scientific practices for the French speaking community: [SOLD21](https://sold21.sciencesconf.org/) (July 2021)
+* Ambassador for the Center for Open Science: [COS](https://cos.io/) (2018-present)
 
 ## Popularisation of science
 * Coordination of a thematic issue on Altruism in the animal kingdom for the new magazine "[Perspectives](https://fr.calameo.com/books/007072654fda4d195be72)" (Spring 2022).
