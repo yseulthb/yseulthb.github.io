@@ -14,7 +14,7 @@ And here is my 1-page <a href="/pdf/YHejjaBrichard_resume.pdf" target="_blank"><
 
 ### Publications 
 ***Under review or in preparation***
-* **Héjja-Brichard, Y.**, Renoult, J.P., Mendelson, T.C. *(under review)*. Preference for conspecific mates in sympatric and allopatric darters (genus Etheostoma): comparative evidence for a geographical and sex effect. [[Preprint](https://doi.org/10.32942/X2PK5K)]
+* **Héjja-Brichard, Y.**, Renoult, J.P., Mendelson, T.C. *(in revision)*. Preference for conspecific mates in sympatric and allopatric darters (genus Etheostoma): comparative evidence for a geographical and sex effect. [[Preprint](https://doi.org/10.32942/X2PK5K)]
 * Renoult, J.P., **Héjja-Brichard, Y.** *(in prep)*. Deep learning and visual ecology.
 * **Héjja-Brichard, Y.**, Million, K., Renoult, J.P., Mendelson, T.C. *(in prep)*. Using Artificial Neural Networks to test hypotheses about animal signal evolution: A case study in an ornemanted fish.
 * **Héjja-Brichard, Y.**, Raymond, M., Cuthill, I.,  Mendelson, T.C., Renoult, J.P. *(in prep)*. Visual pattern preferences: the environment matters. [[OSF preregistration](https://osf.io/m7ap6/)].
