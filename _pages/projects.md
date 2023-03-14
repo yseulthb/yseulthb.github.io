@@ -6,7 +6,7 @@ classes: wide
 ---
 
 ### Project 1: Mate preference and natural statistics in darters 🐟
-We are designing and conducting several behavioural experiments to understand how natural statistics influence mate preferences in the Darter fish (Etheostoma). We rely on artificial neural networks to create novel visual stimuli that mimic natural statistics and investigate their relationship with preferences. <br>
+We are designing and conducting several behavioural experiments to understand how natural statistics influence mate preferences in the Darter fish (*Etheostoma*). We rely on artificial neural networks to create novel visual stimuli that mimic natural statistics and investigate their relationship with preferences. <br>
 The main idea relies on the principle that more frequent stimuli are easier (faster, more efficient) to process because the visual system has adapted to them. Could this 'ease' of processing some visual properties influence preference towards those properties? 
 We use mate preference as a proxy to test this idea. For example, a potential mate whose appearance reflects to some extent the visual properties of their environment might be preferred over another mate that wouldn't or would less. This has interesting evolutionary implications in terms of mechanisms that could explain mate choice and/or mate preference.<br>
 We have just released a preprint on the use of artificial intelligence to study animal signals based on those experiments. You can read it <a href="https://www.biorxiv.org/content/10.1101/2023.03.13.532060v1" target="_blank">[here]</a>!
@@ -22,6 +22,10 @@ We have an ongoing online experiment. Give it a try! <br>
 It takes no more than 15 minutes and it's fun to do! <br>
 ➡️ Link to the experiment: <a href="http://isemsurvey.mbb.univ-montp2.fr/pattern/">http://isemsurvey.mbb.univ-montp2.fr/pattern/</a>  <br>
 You can also share the link around you!
+
+### Project 4: Community tank
+With two undergrad students from UMBC, we are starting a project that will combine experiments and outreach. We will have a community tank that hosts 4 males and 4 females of two different darter species (*E. flabellare* and *E. olmstedi*). We will gather individuals from populations that share the same habitat (sympatric) and individuals from populations that do not (allopatric). We are interested in the dynamics of intra- and interspecific interactions and how they vary between the different populations. <br>
+We will also use this project to show what we are studying in our lab with an explanation board and some fun activities to create more engagement. We will have two identical tanks, one facing the public and one hiding from it. We want to determine whether public exposure might be a stressor for our little fish. So far, there is very few sutdies on fish welfare and we don't really know how they feel about being exposed. We'll measure the cortisol level as a stress indicator and compare the two tanks to see who might be more stressd. Stay tuned! 
 
 -----------
 
