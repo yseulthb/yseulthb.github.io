@@ -23,7 +23,7 @@ It takes no more than 15 minutes and it's fun to do! <br>
 ➡️ Link to the experiment: <a href="http://isemsurvey.mbb.univ-montp2.fr/pattern/">http://isemsurvey.mbb.univ-montp2.fr/pattern/</a>  <br>
 You can also share the link around you!
 
-### Project 4: Community tank
+### Project 4: Community tank 🏠💦🐟🐠
 With two undergrad students from UMBC, we are starting a project that will combine experiments and outreach. We will have a community tank that hosts 4 males and 4 females of two different darter species (*E. flabellare* and *E. olmstedi*). We will gather individuals from populations that share the same habitat (sympatric) and individuals from populations that do not (allopatric). We are interested in the dynamics of intra- and interspecific interactions and how they vary between the different populations. <br>
 We will also use this project to show what we are studying in our lab with an explanation board and some fun activities to create more engagement. We will have two identical tanks, one facing the public and one hiding from it. We want to determine whether public exposure might be a stressor for our little fish. So far, there is very few sutdies on fish welfare and we don't really know how they feel about being exposed. We'll measure the cortisol level as a stress indicator and compare the two tanks to see who might be more stressd. Stay tuned! 
 
