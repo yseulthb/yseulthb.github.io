@@ -9,6 +9,8 @@ classes: wide
 We are designing and conducting several behavioural experiments to understand how natural statistics influence mate preferences in the Darter fish (Etheostoma). We rely on artificial neural networks to create novel visual stimuli that mimic natural statistics and investigate their relationship with preferences. <br>
 The main idea relies on the principle that more frequent stimuli are easier (faster, more efficient) to process because the visual system has adapted to them. Could this 'ease' of processing some visual properties influence preference towards those properties? 
 We use mate preference as a proxy to test this idea. For example, a potential mate whose appearance reflects to some extent the visual properties of their environment might be preferred over another mate that wouldn't or would less. This has interesting evolutionary implications in terms of mechanisms that could explain mate choice and/or mate preference.<br>
+We have just released a preprint on the use of artificial intelligence to study animal signals based on those experiments. You can read it <a href="https://www.biorxiv.org/content/10.1101/2023.03.13.532060v1" target="_blank">[here]</a>!
+Our next step is to conduct the same tests but in largemouth bass, a predator of darters. This will inform us on the role that natural selection might play on those pattern preferences.
 
 
 ### Project 2: Strength of preference for conspecifics in darters 📈
