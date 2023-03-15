@@ -78,6 +78,7 @@ And here is my 1-page <a href="/pdf/YHejjaBrichard_resume.pdf" target="_blank"><
 ## Professional Involvement 
 
 ### Membership
+* Association for Women in Science (2023)
 * Animal Behavior Society (2022 - present)
 * Comparative Cognition Society (2022 - present) 
 * SORTEE, Society for Open, Reliable, and Transparent Ecology and Evolutionary Biology (2021 - present)
