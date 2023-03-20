@@ -46,7 +46,7 @@ And here is my 1-page <a href="/pdf/YHejjaBrichard_resume.pdf" target="_blank"><
 * **Héjja-Brichard, Y.** (2021). Workshop on Research Culture based on the [Café Culture Kit](https://wellcome.org/what-we-do/our-work/research-culture/hosting-your-cafe-culture-discussion) developped by the Wellcome Foundation. *[Conférence Science Ouverte Lente Durable](https://sold21.sciencesconf.org/), Nantes, France.* [[OSF folder with the French (beta) version of the Kit]](https://osf.io/k3dqy/)
 * Audurier, P., **Héjja-Brichard, Y.**, Kohler, P.J., Norcia, A.M., Durand, J.-B., Cottereau, B.R. (2019). Processing of rotational symmetry in the non-human primate brain. *[GDR Vision](https://sites.google.com/view/gdr-vision/home) annual forum, Marseille, France.*
 
-***Small talk(s)***
+***Lab talks***
 * **Héjja-Brichard, Y.** (2022). Deep Learning et al. Architecture and applications. *Mendelson Lab Meeting, Department of Biological Sciences, UMBC, Baltimore, MD, USA.* <a href="/pdf/LabMeetingDL.pdf" target="_blank"><b>[slides]</b></a><br> 
 * **Héjja-Brichard, Y.** (2021). Investigating natural statistics and sexual signalling patterns with deep learning. *Department of Evolutionary and Behavioural Ecology meeting, CEFE, Montpellier, France.* <a href="/pdf/DptMeetingMay3rd.pdf" target="_blank"><b>[slides]</b></a><br> 
 * **Héjja-Brichard, Y.** (2021). Moderator of a discussion on slow science and alternative research. *[WEPASCO](https://federationfresco.fr/wepasco/), Fresco workshop (online)*
