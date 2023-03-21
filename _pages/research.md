@@ -47,6 +47,7 @@ And here is my 1-page <a href="/pdf/YHejjaBrichard_resume.pdf" target="_blank"><
 * Audurier, P., **Héjja-Brichard, Y.**, Kohler, P.J., Norcia, A.M., Durand, J.-B., Cottereau, B.R. (2019). Processing of rotational symmetry in the non-human primate brain. *[GDR Vision](https://sites.google.com/view/gdr-vision/home) annual forum, Marseille, France.*
 
 ***Lab talks***
+* **Héjja-Brichard, Y.**, Raymond, M., Cuthill, I.,  Mendelson, T.C., Renoult, J.P. (2023). Visual Pattern Preferences. *Mendelson Lab Meeting, Department of Biological Sciences, UMBC, Baltimore, MD, USA.*<br> 
 * **Héjja-Brichard, Y.** (2022). Deep Learning et al. Architecture and applications. *Mendelson Lab Meeting, Department of Biological Sciences, UMBC, Baltimore, MD, USA.* <a href="/pdf/LabMeetingDL.pdf" target="_blank"><b>[slides]</b></a><br> 
 * **Héjja-Brichard, Y.** (2021). Investigating natural statistics and sexual signalling patterns with deep learning. *Department of Evolutionary and Behavioural Ecology meeting, CEFE, Montpellier, France.* <a href="/pdf/DptMeetingMay3rd.pdf" target="_blank"><b>[slides]</b></a><br> 
 * **Héjja-Brichard, Y.** (2021). Moderator of a discussion on slow science and alternative research. *[WEPASCO](https://federationfresco.fr/wepasco/), Fresco workshop (online)*
