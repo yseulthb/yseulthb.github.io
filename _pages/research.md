@@ -42,12 +42,12 @@ And here is my 1-page <a href="/pdf/YHejjaBrichard_resume.pdf" target="_blank"><
 * **Héjja-Brichard, Y.** & Cottereau, B.R. (2017). Adaptation aux régularités spatiales de l'environnement au sein de systèmes de vision stéréoscopique. *Journée des doctorants, Université Toulouse III Paul Sabatier, France*
 
 ***Conference talks***
+* **Héjja-Brichard, Y.**, Million, K., Renoult, J.P., Mendelson, T.C. (2023). Using generative artificial intelligence to test hypotheses about animal signal evolution in an ornamented fish. Evolution 2023 meeting, Albuquerque, NM, USA. <br>
 * Renoult, J.P. & **Héjja-Brichard, Y.** (2022) Using deep neural networks to study the evolution of visual signals. International Conference on Ecological Sciences, SFE2-GfÖ-EEF joint meeting, Metz, France.
 * **Héjja-Brichard, Y.** (2021). Workshop on Research Culture based on the [Café Culture Kit](https://wellcome.org/what-we-do/our-work/research-culture/hosting-your-cafe-culture-discussion) developped by the Wellcome Foundation. *[Conférence Science Ouverte Lente Durable](https://sold21.sciencesconf.org/), Nantes, France.* [[OSF folder with the French (beta) version of the Kit]](https://osf.io/k3dqy/)
 * Audurier, P., **Héjja-Brichard, Y.**, Kohler, P.J., Norcia, A.M., Durand, J.-B., Cottereau, B.R. (2019). Processing of rotational symmetry in the non-human primate brain. *[GDR Vision](https://sites.google.com/view/gdr-vision/home) annual forum, Marseille, France.*
 
 ***Lab talks***
-* **Héjja-Brichard, Y.**, Million, K., Renoult, J.P., Mendelson, T.C. (2023). Using generative artificial intelligence to test hypotheses about animal signal evolution in an ornamented fish. Evolution 2023 meeting, Albuquerque, NM, USA. <br>
 * **Héjja-Brichard, Y.**, Raymond, M., Cuthill, I.,  Mendelson, T.C., Renoult, J.P. (2023). Visual Pattern Preferences. *Mendelson Lab Meeting, Department of Biological Sciences, UMBC, Baltimore, MD, USA.*<br> 
 * **Héjja-Brichard, Y.** (2022). Deep Learning et al. Architecture and applications. *Mendelson Lab Meeting, Department of Biological Sciences, UMBC, Baltimore, MD, USA.* <a href="/pdf/LabMeetingDL.pdf" target="_blank"><b>[slides]</b></a><br> 
 * **Héjja-Brichard, Y.** (2021). Investigating natural statistics and sexual signalling patterns with deep learning. *Department of Evolutionary and Behavioural Ecology meeting, CEFE, Montpellier, France.* <a href="/pdf/DptMeetingMay3rd.pdf" target="_blank"><b>[slides]</b></a><br> 
