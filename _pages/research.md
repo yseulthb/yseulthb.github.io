@@ -16,8 +16,8 @@ And here is my 1-page <a href="/pdf/YHejjaBrichard_resume.pdf" target="_blank"><
 ***Under review or in preparation***
 * **Héjja-Brichard, Y.**, Renoult, J.P., Mendelson, T.C. *(under revision)*. Preference for conspecific mates in sympatric and allopatric darters (genus Etheostoma): comparative evidence for a geographical and sex effect. [[Preprint](https://doi.org/10.32942/X2PK5K)]
 * **Héjja-Brichard, Y.**, Million, K., Renoult, J.P., Mendelson, T.C. *(to be submitted)*. Using generative artificial intelligence to test hypotheses about animal signal evolution: A case study in an ornemanted fish. [[Preprint](https://www.biorxiv.org/content/10.1101/2023.03.13.532060v1)]
-* **Héjja-Brichard, Y.**, Raymond, M., Cuthill, I.,  Mendelson, T.C., Renoult, J.P. *(in prep)*. Visual pattern preferences: the environment matters. [[OSF preregistration](https://osf.io/m7ap6/)].
-* Renoult, J.P., **Héjja-Brichard, Y.** *(in prep)*. Deep learning and visual ecology.
+* **Héjja-Brichard, Y.**, Raymond, M., Cuthill, I.,  Mendelson, T.C., Renoult, J.P. *(in prep)*. From natural to sexual selection: Revealing the intrinsic attractiveness of camouflaged patterns. [[OSF preregistration](https://osf.io/m7ap6/)].
+* Renoult, J.P., **Héjja-Brichard, Y.** *(in prep)*. Using artificial intelligence to deepen the study of visual communication in ecology and evolution.
 
 ***Peer-reviewed journal articles***
 * ManyPrimates et al. (including **Héjja-Brichard, Y.**) (2022) The evolution of primate short-term memory. *Animal Behavior and Cognition* ([doi](https://doi.org/10.26451/abc.09.04.06.2022)). [[Preprint](https://psyarxiv.com/5etnf)]
@@ -47,6 +47,7 @@ And here is my 1-page <a href="/pdf/YHejjaBrichard_resume.pdf" target="_blank"><
 * Audurier, P., **Héjja-Brichard, Y.**, Kohler, P.J., Norcia, A.M., Durand, J.-B., Cottereau, B.R. (2019). Processing of rotational symmetry in the non-human primate brain. *[GDR Vision](https://sites.google.com/view/gdr-vision/home) annual forum, Marseille, France.*
 
 ***Lab talks***
+* **Héjja-Brichard, Y.**, Million, K., Renoult, J.P., Mendelson, T.C. (2023). Using generative artificial intelligence to test hypotheses about animal signal evolution in an ornamented fish. Evolution 2023 meeting, Albuquerque, NM, USA. <br>
 * **Héjja-Brichard, Y.**, Raymond, M., Cuthill, I.,  Mendelson, T.C., Renoult, J.P. (2023). Visual Pattern Preferences. *Mendelson Lab Meeting, Department of Biological Sciences, UMBC, Baltimore, MD, USA.*<br> 
 * **Héjja-Brichard, Y.** (2022). Deep Learning et al. Architecture and applications. *Mendelson Lab Meeting, Department of Biological Sciences, UMBC, Baltimore, MD, USA.* <a href="/pdf/LabMeetingDL.pdf" target="_blank"><b>[slides]</b></a><br> 
 * **Héjja-Brichard, Y.** (2021). Investigating natural statistics and sexual signalling patterns with deep learning. *Department of Evolutionary and Behavioural Ecology meeting, CEFE, Montpellier, France.* <a href="/pdf/DptMeetingMay3rd.pdf" target="_blank"><b>[slides]</b></a><br> 
