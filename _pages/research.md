@@ -36,7 +36,7 @@ And here is my 1-page <a href="/pdf/YHejjaBrichard_resume.pdf" target="_blank"><
 ### Oral presentations
 ***Invited talks*** 
 
-* **Héjja-Brichard, Y.** (2023, June) Computational approaches to understanding the evolution of sexual signal design. Department of Biology, University of Pennsylvania, USA.
+* **Héjja-Brichard, Y.** (2023, June) Computational approaches to understanding the evolution of sexual signal design. *Department of Biology, University of Pennsylvania, USA.*
 * **Héjja-Brichard, Y.** (2022, September). AI methods to study sexual selection. *[Imaginecology2](https://imaginecology2.sciencesconf.org/): machine learning for image and sound processing and analysis in ecology, Villeurbanne, France.* <a href="/pdf/imaginecology2_talk.pdf" target="_blank"><b>[slides]</b></a><br>
 * **Héjja-Brichard, Y.** (2020, October). Rethinking our Narratives: The Challenge of “Slow Science”. *[LiveMEEG](https://livemeeg2020.org/) (online conference)* <a href="/pdf/SlowScience.pdf" target="_blank"><b>[slides]</b></a><br>
 * **Héjja-Brichard, Y.** & Mercier M.R. (2018). Data visualisation in cognitive neuroscience: Functional neuroimaging and electrophysiology. *Talk given for the [Toulouse Data Vizualisation group](https://toulouse-dataviz.fr/), Toulouse, France* <a href="/pdf/YHB_ToulouseDataViz.pdf" target="_blank"><b>[slides]</b></a><br>
