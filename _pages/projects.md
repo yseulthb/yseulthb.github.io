@@ -9,6 +9,8 @@ classes: wide
 - Master level (5-6 months, funded): Deep learning x sexual signal design - <a href="/pdf/Master_internship.pdf" target="_blank">[see offer]</a>
 - Licence, Master 1 ou césure (3-8 semaines, non financé): Codage de vidéos comportementales de poissons - <a href="/pdf/stage_video_poisson.pdf" target="_blank">[voir l'annonce]</a>
 
+-----------
+
 ### Project 1: Mate preference and natural statistics in darters 🐟
 We are designing and conducting several behavioural experiments to understand how natural statistics influence mate preferences in the Darter fish (*Etheostoma*). We rely on artificial neural networks to create novel visual stimuli that mimic natural statistics and investigate their relationship with preferences. <br>
 The main idea relies on the principle that more frequent stimuli are easier (faster, more efficient) to process because the visual system has adapted to them. Could this 'ease' of processing some visual properties influence preference towards those properties? 
