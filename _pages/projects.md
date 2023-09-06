@@ -6,8 +6,8 @@ classes: wide
 ---
 
 ### Internship proposals / Offres de stage
-- Master level (5-6 months, funded)
-- Bachelor or Master level (3-8 weeks, not funded)
+- Master level (5-6 months, funded) - <a href="/pdf/Poster_ABS2022.pdf" target="_blank">[see offer]</a>
+- Bachelor or Master level (3-8 weeks, not funded) - <a href="/pdf/Poster_ABS2022.pdf" target="_blank">[voir l'annonce]</a>
 
 ### Project 1: Mate preference and natural statistics in darters 🐟
 We are designing and conducting several behavioural experiments to understand how natural statistics influence mate preferences in the Darter fish (*Etheostoma*). We rely on artificial neural networks to create novel visual stimuli that mimic natural statistics and investigate their relationship with preferences. <br>
