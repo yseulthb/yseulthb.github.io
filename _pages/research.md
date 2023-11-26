@@ -17,7 +17,6 @@ And here is my 1-page <a href="/pdf/YHejjaBrichard_resume.pdf" target="_blank"><
 * **Héjja-Brichard, Y.**, Renoult, J.P., Mendelson, T.C. *(under revision)*. Comparative analysis reveals assortative mate preferences in darters independent of sympathy and sex. [[Preprint](https://doi.org/10.32942/X2PK5K)]
 * **Héjja-Brichard, Y.**, Million, K., Renoult, J.P., Mendelson, T.C. *(to be submitted)*. Using generative artificial intelligence to test hypotheses about animal signal evolution: A case study in an ornamented fish. [[Preprint](https://www.biorxiv.org/content/10.1101/2023.03.13.532060v1)]
 * **Héjja-Brichard, Y.**, Raymond, M., Cuthill, I.,  Mendelson, T.C., Renoult, J.P. *(to be submitted)*. From natural to sexual selection: Revealing the intrinsic attractiveness of camouflaged patterns. [[Preprint](https://doi.org/10.1101/2023.09.27.559753)].
-* Renoult, J.P., **Héjja-Brichard, Y.** *(in prep)*. Using artificial intelligence to advance the study of visual communication in ecology and evolution.
 
 ***Peer-reviewed journal articles***
 * ManyPrimates et al. (including **Héjja-Brichard, Y.**) (2022) The evolution of primate short-term memory. *Animal Behavior and Cognition* ([doi](https://doi.org/10.26451/abc.09.04.06.2022)). [[Preprint](https://psyarxiv.com/5etnf)]
