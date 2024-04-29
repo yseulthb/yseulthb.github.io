@@ -14,11 +14,11 @@ And here is my 1-page <a href="/pdf/YHejjaBrichard_resume.pdf" target="_blank"><
 
 ### Publications 
 ***Under review or in preparation***
-* **Héjja-Brichard, Y.**, Renoult, J.P., Mendelson, T.C. *(under revision)*. Comparative analysis reveals assortative mate preferences in darters independent of sympathy and sex. [[Preprint](https://doi.org/10.32942/X2PK5K)]
+* **Héjja-Brichard, Y.**, Renoult, J.P., Mendelson, T.C. *(in revision)*. Comparative analysis reveals assortative mate preferences in darters independent of sympathy and sex. [[Preprint](https://doi.org/10.32942/X2PK5K)]
+* **Héjja-Brichard, Y.**, Million, K., Renoult, J.P., Mendelson, T.C. *(in revision)*. Using Neural Style
+Transfer to study the evolution of animal signal design: A case study in an ornamented fish. [[Preprint](https://www.biorxiv.org/content/10.1101/2023.03.13.532060v1)]
 * **Héjja-Brichard, Y.**, Raymond, M., Cuthill, I.,  Mendelson, T.C., Renoult, J.P. *(submitted)*. Perceptual
 biases, camouflage patterns, and the origin of sexual signals. [[Preprint](https://doi.org/10.1101/2023.09.27.559753)].
-* **Héjja-Brichard, Y.**, Million, K., Renoult, J.P., Mendelson, T.C. *(under review)*. Using Neural Style
-Transfer to study the evolution of animal signal design: A case study in an ornamented fish. [[Preprint](https://www.biorxiv.org/content/10.1101/2023.03.13.532060v1)]
 
 ***Peer-reviewed journal articles***
 * ManyPrimates et al. (including **Héjja-Brichard, Y.**) (2022) The evolution of primate short-term memory. *Animal Behavior and Cognition* ([doi](https://doi.org/10.26451/abc.09.04.06.2022)). [[Preprint](https://psyarxiv.com/5etnf)]
