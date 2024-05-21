@@ -13,10 +13,10 @@ And here is my 1-page <a href="/pdf/YHejjaBrichard_resume.pdf" target="_blank"><
 ## Scientific Production
 
 ### Publications 
-***Under review or in preparation***
+***Under review***
 * **Héjja-Brichard, Y.**, Million, K., Renoult, J.P., Mendelson, T.C. *(in revision)*. Using Neural Style
 Transfer to study the evolution of animal signal design: A case study in an ornamented fish. [[Preprint](https://www.biorxiv.org/content/10.1101/2023.03.13.532060v1)]
-* **Héjja-Brichard, Y.**, Raymond, M., Cuthill, I.,  Mendelson, T.C., Renoult, J.P. *(submitted)*. Perceptual
+* **Héjja-Brichard, Y.**, Raymond, M., Cuthill, I.,  Mendelson, T.C., Renoult, J.P. *(under review)*. Perceptual
 biases, camouflage patterns, and the origin of sexual signals. [[Preprint](https://doi.org/10.1101/2023.09.27.559753)].
 
 ***Peer-reviewed journal articles***
