@@ -20,7 +20,7 @@ Transfer to study the evolution of animal signal design: A case study in an orna
 biases, camouflage patterns, and the origin of sexual signals. [[Preprint](https://doi.org/10.1101/2023.09.27.559753)].
 
 ***Peer-reviewed journal articles***
-* **Héjja-Brichard, Y.**, Renoult, J.P., Mendelson, T.C. *(accepted)*. Comparative analysis reveals assortative mate preferences in darters independent of sympathy and sex. [[Preprint](https://doi.org/10.32942/X2PK5K)]
+* **Héjja-Brichard, Y.**, Renoult, J.P., Mendelson, T.C. *(accepted at Ecology and Evolution)*. Comparative analysis reveals assortative mate preferences in darters independent of sympathy and sex. [[Preprint](https://doi.org/10.32942/X2PK5K)]
 * ManyPrimates et al. (including **Héjja-Brichard, Y.**) (2022) The evolution of primate short-term memory. *Animal Behavior and Cognition* ([doi](https://doi.org/10.26451/abc.09.04.06.2022)). [[Preprint](https://psyarxiv.com/5etnf)]
 * Guiomar, N., Krol, L.R., Combrisson, E., Dubarry, A.-S., Elliott, M.A., François, C., **Héjja-Brichard, Y.**, ... Chaumon, M. (2022). Good Scientific Practice in MEEG research: Progress and Perspectives. *Neuroimage* ([doi](https://doi.org/10.1016/j.neuroimage.2022.119056)). [[Preprint](https://osf.io/n2ryp/)]
 * Audurier, P., **Héjja-Brichard, Y.**, De Castro, V., Kohler, P.J., Norcia, A.M., Durand, J.-B., Cottereau, B.R. (2021). Symmetry processing in the macaque visual cortex. *Cerebral Cortex*. ([doi](https://doi.org/10.1093/cercor/bhab358)). [[Preprint](https://www.biorxiv.org/content/10.1101/2021.03.13.435181v1)] - [[Press release](https://www.insb.cnrs.fr/fr/cnrsinfo/la-symetrie-inscrite-dans-le-cerveau-des-primates)]
