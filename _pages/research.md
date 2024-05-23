@@ -37,6 +37,7 @@ biases, camouflage patterns, and the origin of sexual signals. [[Preprint](https
 ### Oral presentations
 ***Invited talks*** 
 
+* **Héjja-Brichard, Y.** (2024) Neural style transfer and perceptual distance to test pattern preferences in fish. *AI for ecology and evolution seminar, University of Montpellier, France.*
 * **Héjja-Brichard, Y.** (2023, June) Computational approaches to understanding the evolution of sexual signal design. *Department of Biology, University of Pennsylvania, USA.*
 * **Héjja-Brichard, Y.** (2022, September). AI methods to study sexual selection. *[Imaginecology2](https://imaginecology2.sciencesconf.org/): machine learning for image and sound processing and analysis in ecology, Villeurbanne, France.* <a href="/pdf/imaginecology2_talk.pdf" target="_blank"><b>[slides]</b></a><br>
 * **Héjja-Brichard, Y.** (2020, October). Rethinking our Narratives: The Challenge of “Slow Science”. *[LiveMEEG](https://livemeeg2020.org/) (online conference)* <a href="/pdf/SlowScience.pdf" target="_blank"><b>[slides]</b></a><br>
