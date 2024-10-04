@@ -18,8 +18,7 @@ And here is my 1-page <a href="/pdf/YHejjaBrichard_resume.pdf" target="_blank"><
 Transfer to study the evolution of animal signal design: A case study in an ornamented fish. [[Preprint](https://www.biorxiv.org/content/10.1101/2023.03.13.532060v1)]
 * **Héjja-Brichard, Y.**, Raymond, M., Cuthill, I.,  Mendelson, T.C., Renoult, J.P. *(in revision)*. Perceptual
 biases, camouflage patterns, and the origin of sexual signals. [[Preprint](https://doi.org/10.1101/2023.09.27.559753)].
-* Zaneva, M., Coll-Martín, T., **Héjja-Brichard, Y.**, Kalandadze, T., Kis, A., . . . Zisk, A. H. (in revision
-at eLife). Introduction to Neurodiversity: An Annotated Reading List. [[Preprint](https://doi.org/10.31234/osf.io/ugkxp)]
+* Zaneva, M., Coll-Martín, T., **Héjja-Brichard, Y.**, Kalandadze, T., Kis, A., . . . Zisk, A. H. *(in revision)*. Introduction to Neurodiversity: An Annotated Reading List. [[Preprint](https://doi.org/10.31234/osf.io/ugkxp)]
 
 ***Peer-reviewed journal articles***
 * **Héjja-Brichard, Y.**, Renoult, J.P., Mendelson, T.C. (2024). Comparative analysis reveals assortative mate preferences in darters independent of sympathy and sex. *Ecology and Evolution* ([doi](https://doi.org/10.1002/ece3.11498)). [[Preprint](https://doi.org/10.32942/X2PK5K)]
