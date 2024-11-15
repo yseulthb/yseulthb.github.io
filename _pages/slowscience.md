@@ -8,7 +8,7 @@ title: Slow Science
 
 {% include toc %}
 
-[UPDATE] I will be going a talk on Slow Science x Eco/Evo for [SORTEE](https://www.sortee.org/) on November 26, 2024. You can find more info on the topic and how to join, following this link: [Webinar info](https://events.humanitix.com/sortee-webinar-in-defense-of-depth-slow-science-for-sustainable-progress-in-ecology-and-evolution)
+[UPDATE] I will give a talk on Slow Science x Eco/Evo for [SORTEE](https://www.sortee.org/) on November 26, 2024. You can find more info on the topic and how to join, following this link: [Webinar info](https://events.humanitix.com/sortee-webinar-in-defense-of-depth-slow-science-for-sustainable-progress-in-ecology-and-evolution)
 
 A few years ago, I already had the opportunity to give a talk about Slow Science at the online conference [LiveMEEG2020](https://livemeeg2020.org/) in October 2020. You can access my slides <a href="/pdf/SlowScience.pdf" target="_blank"><b>[here]</b></a> to have an overview of my presentation. 
 
