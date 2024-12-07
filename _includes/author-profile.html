@@ -266,7 +266,15 @@
           </a>
         </li>
       {% endif %}
-                                                                 
+
+      {% if author.Bluesky %}
+        <li>
+          <a rel="me" href="https://bsky.app/profile/{{ author.Bluesky }}" itemprop="sameAs">
+            <i class="fa-brands fa-bluesky" aria-hidden="true"></i> Bluesky
+          </a>
+        </li>
+      {% endif %}
+                                                                       
       {% if author.Scholar %}
         <li>
           <a href="https://scholar.google.com/{{ author.Scholar }}" itemprop="sameAs">
