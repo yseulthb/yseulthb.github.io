@@ -6,9 +6,9 @@ toc: true
 ---
 {% include toc %}
 
-A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademic.pdf" target="_blank"><b>CV</b></a><br> (Last update: April 2024).
+A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademic.pdf" target="_blank"><b>CV</b></a><br> (Last update: November 2024).
 
-And here is my 1-page <a href="/pdf/YHejjaBrichard_resume.pdf" target="_blank"><b>résumé.</b></a><br>
+<!--And here is my 1-page <a href="/pdf/YHejjaBrichard_resume.pdf" target="_blank"><b>résumé.</b></a><br> -->
 
 ## Scientific Production
 
@@ -38,6 +38,8 @@ biases, camouflage patterns, and the origin of sexual signals. [[Preprint](https
 ### Oral presentations
 ***Invited talks*** 
 
+* **Héjja-Brichard, Y.**  (2024) In Defense of Depth: Slow Science for Sustainable Progress in Ecology and
+Evolution. *[Society for Open, Reliable, and Transparent Ecology and Evolutionary Biology](https://www.sortee.org/) (online conference).*
 * **Héjja-Brichard, Y.** (2024) Neural style transfer and perceptual distance to test pattern preferences in fish. *AI for ecology and evolution seminar, University of Montpellier, France.*
 * **Héjja-Brichard, Y.** (2023, June) Computational approaches to understanding the evolution of sexual signal design. *Department of Biology, University of Pennsylvania, USA.*
 * **Héjja-Brichard, Y.** (2022, September). AI methods to study sexual selection. *[Imaginecology2](https://imaginecology2.sciencesconf.org/): machine learning for image and sound processing and analysis in ecology, Villeurbanne, France.* <a href="/pdf/imaginecology2_talk.pdf" target="_blank"><b>[slides]</b></a><br>
@@ -55,6 +57,7 @@ biases, camouflage patterns, and the origin of sexual signals. [[Preprint](https
 * Audurier, P., **Héjja-Brichard, Y.**, Kohler, P.J., Norcia, A.M., Durand, J.-B., Cottereau, B.R. (2019). Processing of rotational symmetry in the non-human primate brain. *[GDR Vision](https://sites.google.com/view/gdr-vision/home) annual forum, Marseille, France.*
 
 ***Lab talks***
+* **Héjja-Brichard, Y.** (2024) Sensory drive in the era of artificial intelligence: new tools for new experiments. *Fusani Lab Day, Seebarn am Wagram, Austria.*
 * **Héjja-Brichard, Y.** (2023) Computational approaches to understanding the evolution of sexual signal design. *Department of Biological Sciences, UMBC, Baltimore, MD, USA.* <a href="/pdf/DptSeminar.pdf" target="_blank"><b>[slides]</b></a><br>
 * **Héjja-Brichard, Y.**, Raymond, M., Cuthill, I.,  Mendelson, T.C., Renoult, J.P. (2023). Visual Pattern Preferences. *Mendelson Lab Meeting, Department of Biological Sciences, UMBC, Baltimore, MD, USA.* <br> 
 * **Héjja-Brichard, Y.** (2022). Deep Learning et al. Architecture and applications. *Mendelson Lab Meeting, Department of Biological Sciences, UMBC, Baltimore, MD, USA.* <a href="/pdf/LabMeetingDL.pdf" target="_blank"><b>[slides]</b></a><br> 
@@ -82,15 +85,16 @@ biases, camouflage patterns, and the origin of sexual signals. [[Preprint](https
 <!--- * **Héjja-Brichard, Y.**, Million, K., Norwood, L.A., Katchekpele, K.S., Renoult, J.P., Mendelson, T.C. (2022, August.). Do the spatial statistics of a species’ visual environment influence mate preference in the rainbow darter fish? Bridging the Technological Gap Workshop, Göttingen, Germany. <br>
 * **Héjja-Brichard, Y.**, Renoult, J.P., Mendelson, T.C. (2022, July.). Strength of preference for conspecifics in Darters (genus Etheostoma): A within-lab meta-analysis. Animal Behavior Society, San José, Costa Rica and online. -->
 
-### Open science workshop
+<!--### Open science workshop
 * Beffara, B., Beffara-Bret, A., Nalborczyk, L., **Héjja-Brichard, Y.**, & Beffara-Bret, B. (2020, February). A practical introduction to the Open Science Framework. *CRNL Workshop on Open Science, Lyon, France*. <a href="/pdf/CRNL2020.pdf" target="_blank"><b>[slides]</b></a><br>
 * **Héjja-Brichard, Y.** (2018, March). Open Science: Why and How? *CerCo's Young Scientist Meeting, Toulouse, France* <a href="/pdf/OSF_YSM18.pdf" target="_blank"><b>[slides]</b></a><br>
-* Beffara, B., Nalborczyk, L., **Héjja-Brichard, Y.**, & Bret, A. (2017, November). Open, slow, and sustainable science. *PhD student Day of the LPNC lab, Grenoble, France.*
+* Beffara, B., Nalborczyk, L., **Héjja-Brichard, Y.**, & Bret, A. (2017, November). Open, slow, and sustainable science. *PhD student Day of the LPNC lab, Grenoble, France.* -->
 
-## Professional Involvement 
+<!-- ## Professional Involvement 
 
 ### Membership
-* Association for Women in Science (2023)
+* Research Network Data Science at Uni Vienna (2024 - present)
+* Association for Women in Science (2023 - present)
 * Animal Behavior Society (2022 - present)
 * Comparative Cognition Society (2022 - present) 
 * SORTEE, Society for Open, Reliable, and Transparent Ecology and Evolutionary Biology (2021 - present)
@@ -98,7 +102,7 @@ biases, camouflage patterns, and the origin of sexual signals. [[Preprint](https
 * Association for the Study of Animal Behaviour (2020 - present)
 * Center for Open Science, Ambassador (2018 – Present)
 <!--  * Cognitive Science Society (2020 - 2021) -->
-<!-- * Society for Neuroscience (2018) -->
+<!-- * Society for Neuroscience (2018, 2023) 
 
 ### Attended Workshop & Summer schools
 * 2022 (August): **Brains, Minds, & Machines** (Woods Hole, MA), an intensive three-week course on the problem of intelligence: how the brain produces intelligent behavior and how we may be able to replicate intelligence in machines. Personal project on multi-agent reinforcement learning. [[Course description]](https://cbmm.mit.edu/summer-school/2022)
@@ -126,6 +130,6 @@ biases, camouflage patterns, and the origin of sexual signals. [[Preprint](https
 * Article (March 2017, in French) about the evolution of 3D vision in animals, written for Muséum Toulouse (Museum of Natural sciences): 
 *Yseult Héjja-Brichard & Benoit R. Cottereau "Evolution et vision : le vivant a de la profondeur !" ([here](http://www.museum.toulouse.fr/-/evolution-et-vision-le-vivant-a-de-la-profondeur-))*
 
-* Member of [InCOGnu](http://incognu.fr/), an organisation of students and young researchers in cognitive science in the Toulouse area, France. We organise monthly conferences, workshops for the general audience (adults and children) and take part in various events of science popularisation (Pint of Science, Brain Awareness Week, National Forum of cognitive science, Scientilivre). We also give talks about multiple topics in the field of cognitive sciences. <br> 
+<!-- * Member of [InCOGnu](http://incognu.fr/), an organisation of students and young researchers in cognitive science in the Toulouse area, France. We organise monthly conferences, workshops for the general audience (adults and children) and take part in various events of science popularisation (Pint of Science, Brain Awareness Week, National Forum of cognitive science, Scientilivre). We also give talks about multiple topics in the field of cognitive sciences. <br> 
 
-* Member of [FRESCO](https://federationfresco.fr/), a French organisation, uniting at the national level all the regional organisations involved in popularising cognitive science. The FRESCO also has projects on its own. There, I am part of the Perspectives team that aims to create a new magazine to share scientific content in the field of cognitive sciences with different audiences. 
+* Member of [FRESCO](https://federationfresco.fr/), a French organisation, uniting at the national level all the regional organisations involved in popularising cognitive science. The FRESCO also has projects on its own. There, I am part of the Perspectives team that aims to create a new magazine to share scientific content in the field of cognitive sciences with different audiences. -->
