@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /touristic/florida/
+permalink: #/touristic/florida/
 title: "South of Florida"
 toc: true
 

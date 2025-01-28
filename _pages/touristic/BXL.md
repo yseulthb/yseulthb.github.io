@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /touristic/BXL/
+permalink: #/touristic/BXL/
 title: ""
 classes: wide
 ---

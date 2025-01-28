@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /touristic/buda/
+permalink: #/touristic/buda/
 title: ""
 classes: wide
 ---
