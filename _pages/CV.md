@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /CV/
+permalink: #/CV/
 classes: wide
 toc: true
 ---
