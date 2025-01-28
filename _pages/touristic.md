@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /touristic/
+permalink: #/touristic/
 classes: wide
 ---
 
