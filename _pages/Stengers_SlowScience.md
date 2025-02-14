@@ -4,6 +4,16 @@ permalink: /stengers/
 title: "Isabelle Stengers : « Une autre science est possible ! Manifeste pour un ralentissement des sciences » "
 toc: true
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-22FQGNH39N"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-22FQGNH39N');
+</script>
+
 {% include toc %}
 
 L'idée de cette page est de faire un résumé des points principaux pour chaque chapitre du [Manifeste pour un ralentissement des sciences](https://editionsladecouverte.fr/catalogue/index-Une_autre_science_est_possible__-9782707197696.html) écrit par Isabelle Stengers. Le livre est une compilation de 5 textes qui avaient été écrits pour différentes occasions (articles, colloques) mais qui sont regroupés sous la même idée qu'une autre science est possible et, j'irai plus loin, doit être envisagée. <br>

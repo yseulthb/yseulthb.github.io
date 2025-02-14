@@ -4,6 +4,16 @@ permalink: /research/
 classes: wide
 toc: true
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-22FQGNH39N"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-22FQGNH39N');
+</script>
+
 {% include toc %}
 
 A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademic.pdf" target="_blank"><b>CV</b></a><br> (Last update: November 2024).
