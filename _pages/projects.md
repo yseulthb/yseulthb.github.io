@@ -4,6 +4,15 @@ permalink: /projects/
 title: "Research projects"
 classes: wide
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-22FQGNH39N"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-22FQGNH39N');
+</script>
 
 ### Rifle birds - *ongoing project* 🪶
 I am exploring the visual properties of rifle birds' display to investigate its detectability.
@@ -35,4 +44,3 @@ Our paper is currently under review but its preprint version is on *bioRxiv*: <a
 
 During my PhD studies, we conducted a functional neuroimaging (fMRI) study in macaques 🐒 to identify brain areas that would respond more strongly to natural motion-in-depth compared to scrambled motion. We found a set of areas that we described in this <a href="https://academic.oup.com/cercor/article/30/8/4528/5811848"> [paper]</a>. This highlighted the need to do more research involving 3D motion, as most studies on motion are done with planar or 2D motion, which limits our understanding of visual processing. <br><br>
 In another fMRI study, we asked whether some brain areas would be more strongly activated when the subject perceives a stimulus that is made of visual properties that are more frequent in natural scenes. We showed surfaces that were either slanted or tilted in depth and compared brain responses to those different configurations. Our macaque subjects showed different responses, making the results difficult to interprete. We wondered whether the angle of the surface inclination we used should be more personalised to reflect individual differences. This requires testing the visual threshold of depth perception of our subjects using a psychophysics paradigm. Spoiler: This is a very long procedure and we are still collecting the data! In the meanwhile, we could already compare the data we obtained from one macaque subject to our human participants and, great news, they are similar! Check the poster we presented at the Predictive Brain Conference to know more: <a href="/pdf/Poster_Marseille.pdf" target="_blank">[Poster]</a>.<br><br>
-*Technical developments:* Refinement of the estimation of the hemodynamic response function for several macaque subjects. Development of a pipeline to increase the signal-to-noise ratio of fMRI images using a principal component analysis (PCA) approach.  
