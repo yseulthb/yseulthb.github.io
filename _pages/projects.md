@@ -14,6 +14,15 @@ classes: wide
   gtag('config', 'G-22FQGNH39N');
 </script>
 
+<style>
+details {
+  padding: 4px;
+  padding-bottom: 10px;
+  cursor: pointer;
+ 
+}
+</style>
+
 ## Ongoing projects 
 
 *Click on its title to learn more about a project.*
