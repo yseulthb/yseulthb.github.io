@@ -14,7 +14,7 @@ classes: wide
   gtag('config', 'G-22FQGNH39N');
 </script>
 
-## Ongoing projects
+## Ongoing projects 
 
 *Click on its title to learn more about a project.*
 <br>
