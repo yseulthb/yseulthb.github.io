@@ -23,7 +23,7 @@ classes: wide
 <summary><strong>Rifle birds - <i>ongoing project</i> 🪶</strong>
 </summary>
 
-I am exploring the visual properties of rifle birds' displays to investigate their detectability.<br>
+I am exploring the visual properties of the magnificent rifle birds' displays to investigate their detectability, comparing immature (picture below) with adult males.<br>
 
 <img src="/pdf/immature_display.png" alt="Immature Rifle Bird" width="300"/>
 <br><br>
