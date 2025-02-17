@@ -14,7 +14,7 @@ classes: wide
   gtag('config', 'G-22FQGNH39N');
 </script>
 
-## Ongoing and past projects
+## Ongoing projects
 
 *Click on its title to learn more about a project.*
 <br>
@@ -32,6 +32,8 @@ I am exploring the visual properties of rifle birds' displays to investigate the
 
 Are manakins learning their nuptial parade from each other or is it genetically pre-determined?<br>
 </details><br>
+
+## Past projects
 
 <details>
 <summary><strong>Mate preference and natural statistics in darters 🐟</strong>
