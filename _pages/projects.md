@@ -31,7 +31,7 @@ I am exploring the visual properties of rifle birds' displays to investigate the
 </summary>
 
 Are manakins learning their nuptial parade from each other or is it genetically pre-determined?<br><br>
-</details>
+</details><br>
 
 <details>
 <summary><strong>Mate preference and natural statistics in darters 🐟</strong>
