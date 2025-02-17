@@ -24,14 +24,14 @@ classes: wide
 </summary>
 
 I am exploring the visual properties of rifle birds' displays to investigate their detectability.
-</details><br>
+</details>
 
 <details>
 <summary><strong>Manakin birds - <i>ongoing project</i> 🐦</strong>
 </summary>
 
 Are manakins learning their nuptial parade from each other or is it genetically pre-determined?
-</details><br>
+</details>
 
 <details>
 <summary><strong>Mate preference and natural statistics in darters 🐟</strong>
@@ -41,7 +41,7 @@ We designed and conducted several behavioural experiments to understand how natu
 The main idea relies on the principle that more frequent stimuli are easier (faster, more efficient) to process because the visual system has adapted to them. Could this 'ease' of processing some visual properties influence preference towards those properties? 
 We use mate preference as a proxy to test this idea. For example, a potential mate whose appearance reflects to some extent the visual properties of their environment might be preferred over another mate that wouldn't or would less. This has interesting evolutionary implications in terms of mechanisms that could explain mate choice and/or mate preference.<br>
 We have recently published our paper in *Ecological Informatics* presented our results and highlighting the benefit of using deep learning tools to study animal behaviour. You can find the paper <a href="https://doi.org/10.1016/j.ecoinf.2024.102881" target="_blank">[here]</a>.
-</details><br>
+</details>
 
 <details>
 <summary><strong>Strength of preference for conspecifics in darters 📈</strong>
@@ -49,7 +49,7 @@ We have recently published our paper in *Ecological Informatics* presented our r
 
 We conducted a meta-analysis of all the past Mendelson Lab's studies that investigated the strength of preference for conspecifics over heterospecifics in darters. We wanted to have a better idea of the effect sizes and factors that might influence mate preference across species. <br> 
 We found an overall effect size of medium strength, confirming assortative mating and revealed that this mate preferences is independent of sympatry and sex. Our paper is published in *Ecology and Evolution* and can be accessed <a href="https://doi.org/10.1002/ece3.11498" target="_blank">[here]</a>.
-</details><br>
+</details>
 
 <details>
 <summary><strong>Attractiveness of visual patterns in humans 💻</strong>
@@ -57,7 +57,7 @@ We found an overall effect size of medium strength, confirming assortative matin
 
 We ran an online experiment to test the hypothesis that camouflage patterns can be attractive once made detectable. You can still access the experiment if you want to see what it looks like: <a href="http://isemsurvey.mbb.univ-montp2.fr/pattern/">http://isemsurvey.mbb.univ-montp2.fr/pattern/</a>. It takes no more than 15 min to complete it.<br>
 Our paper is currently under review but its preprint version is on *bioRxiv*: <a href="https://doi.org/10.1101/2023.09.27.559753" target="_blank">[here]</a>.
-</details><br>
+</details>
 
 <details>
 <summary><strong>Understanding how the primate brain processes tridimensional visual information that is extracted from binocular disparities 🧠 </strong>
