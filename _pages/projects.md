@@ -19,13 +19,16 @@ details {
   padding: 4px;
   padding-bottom: 10px;
   cursor: pointer;
- 
+}
+
+summary > * {
+  display: inline;
 }
 </style>
 
 ## Ongoing projects 
 <details>
-<summary><strong>Rifle birds - <i>ongoing project</i> 🪶</strong>
+<summary><h3>Rifle birds - <i>ongoing project</i> 🪶</h3>
 </summary>
 
 I am exploring the visual properties of the magnificent rifle birds' displays to investigate their detectability, comparing immature (picture below) with adult males.<br>
@@ -35,7 +38,7 @@ I am exploring the visual properties of the magnificent rifle birds' displays to
 </details>
 
 <details>
-<summary><strong>Manakin birds - <i>ongoing project</i> 🐦</strong>
+<summary><h3>Manakin birds - <i>ongoing project</i> 🐦</h3>
 </summary>
 
 Are manakins learning their nuptial parade from each other or is it genetically pre-determined?<br>
@@ -47,7 +50,7 @@ Are manakins learning their nuptial parade from each other or is it genetically 
 ## Past projects
 
 <details>
-<summary><strong>Mate preference and natural statistics in darters 🐟</strong>
+<summary><h3>Mate preference and natural statistics in darters 🐟</h3>
 </summary>
 
 We designed and conducted several behavioural experiments to understand how natural statistics influence mate preferences in the Darter fish (*Etheostoma*). We relied on artificial neural networks to create novel visual stimuli that mimic natural statistics and investigated their relationship with preferences. <br>
@@ -57,7 +60,7 @@ We have recently published our paper in *Ecological Informatics* presented our r
 </details>
 
 <details>
-<summary><strong>Strength of preference for conspecifics in darters 📈</strong>
+<summary><h3>Strength of preference for conspecifics in darters 📈</h3>
 </summary>
 
 We conducted a meta-analysis of all the past Mendelson Lab's studies that investigated the strength of preference for conspecifics over heterospecifics in darters. We wanted to have a better idea of the effect sizes and factors that might influence mate preference across species. <br> 
@@ -65,7 +68,7 @@ We found an overall effect size of medium strength, confirming assortative matin
 </details>
 
 <details>
-<summary><strong>Attractiveness of visual patterns in humans 💻</strong>
+<summary><h3>Attractiveness of visual patterns in humans 💻</h3>
 </summary>
 
 We ran an online experiment to test the hypothesis that camouflage patterns can be attractive once made detectable. You can still access the experiment if you want to see what it looks like: <a href="http://isemsurvey.mbb.univ-montp2.fr/pattern/">http://isemsurvey.mbb.univ-montp2.fr/pattern/</a>. It takes no more than 15 min to complete it.<br>
@@ -73,7 +76,7 @@ Our paper is currently under review but its preprint version is on *bioRxiv*: <a
 </details>
 
 <details>
-<summary><strong>Understanding how the primate brain processes tridimensional visual information that is extracted from binocular disparities 🧠 </strong>
+<summary><h3>Understanding how the primate brain processes tridimensional visual information that is extracted from binocular disparities 🧠 </h3>
 </summary><br>
 
 <i>Binocular disparities are the small differences between the eye's projections of a visual scene that underlie binocular depth perception</i><br><br>
