@@ -30,7 +30,7 @@ I am exploring the visual properties of rifle birds' displays to investigate the
 <summary><strong>Manakin birds - <i>ongoing project</i> 🐦</strong>
 </summary>
 
-Are manakins learning their nuptial parade from each other or is it genetically pre-determined?<br><br>
+Are manakins learning their nuptial parade from each other or is it genetically pre-determined?<br>
 </details><br>
 
 <details>
