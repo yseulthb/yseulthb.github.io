@@ -25,7 +25,7 @@ classes: wide
 
 I am exploring the visual properties of rifle birds' displays to investigate their detectability.<br>
 
-<img src="/pdf/immature_display.png" alt="Immature Rifle Bird" width="60"/>
+<img src="/pdf/immature_display.png" alt="Immature Rifle Bird" width="300"/>
 <br><br>
 </details>
 
