@@ -24,10 +24,6 @@ details {
 </style>
 
 ## Ongoing projects 
-
-*Click on its title to learn more about a project.*
-<br>
-
 <details>
 <summary><strong>Rifle birds - <i>ongoing project</i> 🪶</strong>
 </summary>
