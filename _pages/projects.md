@@ -103,8 +103,10 @@ We made the content publicly available and freely re-usable on this <a href="htt
 <summary><h3> Magazine Perspectives 📖 </h3>
 </summary>
 
-Since 2020, I have been involved in the content creation of the magazine "Perspectives" for Fresco, a French national organisation involved in popularising cognitives sciences, while targeting diverse audiences.<br>
-You can access the very first issue here <i>(in French)</i>: <a href="https://www.calameo.com/read/007072654fda4d195be72" target="_blank">[Numero 1]</a>.
+Since 2020, I have been involved in the content creation of the magazine "Perspectives" for <a href="https://federationfresco.fr/" target="_blank">Fresco</a>, a French national organisation involved in popularising cognitive sciences, while targeting diverse audiences.<br>
+I coordinated a thematic issue on altruism in animals for the first issue and am currently an editor for the second issue. <br>
+You can access the first issue here <i>(in French)</i>: <a href="https://www.calameo.com/read/007072654fda4d195be72" target="_blank">[Numero 1]</a>.
 <br>
 
 </details>
+
