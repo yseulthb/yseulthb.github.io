@@ -84,3 +84,27 @@ Our paper is currently under review but its preprint version is on <i>bioRxiv</i
 During my PhD studies, we conducted a functional neuroimaging (fMRI) study in macaques 🐒 to identify brain areas that would respond more strongly to natural motion-in-depth compared to scrambled motion. We found a set of areas that we described in this <a href="https://academic.oup.com/cercor/article/30/8/4528/5811848"> [paper]</a>. This highlighted the need to do more research involving 3D motion, as most studies on motion are done with planar or 2D motion, which limits our understanding of visual processing. <br><br>
 In another fMRI study, we asked whether some brain areas would be more strongly activated when the subject perceives a stimulus that is made of visual properties that are more frequent in natural scenes. We showed surfaces that were either slanted or tilted in depth and compared brain responses to those different configurations. Our macaque subjects showed different responses, making the results difficult to interprete. We wondered whether the angle of the surface inclination we used should be more personalised to reflect individual differences. This requires testing the visual threshold of depth perception of our subjects using a psychophysics paradigm. Spoiler: This is a very long procedure and we are still collecting the data! In the meanwhile, we could already compare the data we obtained from one macaque subject to our human participants and, great news, they are similar! Check the poster we presented at the Predictive Brain Conference to know more: <a href="/pdf/Poster_Marseille.pdf" target="_blank">[Poster]</a>.<br><br>
 </details><br>
+
+## Community projects
+
+<details>
+<summary><h3> Replicards 🧬 </h3>
+</summary>
+
+We created an interactive game for highschool students to demonstrate how replicants can inherit mutations and undergo evolution by natural selection if the inheritable characteristics can affect their reproductive success.<br>
+We made the content publicly available and freely re-usable on this <a href="https://replicards.netlify.app/" target="_blank">[website]</a>.
+<br>
+
+<img src="/pdf/replicards.jpg" alt="Replicards logo" width="300"/>
+<br><br>
+</details>
+
+<details>
+<summary><h3> Magazine Perspectives 📖 </h3>
+</summary>
+
+Since 2020, I have been involved in the content creation of the magazine "Perspectives" for Fresco, a French national organisation involved in popularising cognitives sciences, while targeting diverse audiences.<br>
+You can access the very first issue here <i>(in French)</i>: <a href="https://www.calameo.com/read/007072654fda4d195be72" target="_blank">[Numero 1]</a>.
+<br>
+
+</details>
