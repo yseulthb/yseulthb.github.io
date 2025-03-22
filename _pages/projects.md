@@ -26,6 +26,12 @@ summary > * {
 }
 </style>
 
+
+### 🚨 I am recruiting a bachelor’s or a master’s student in Computer Science or Data Science for an internship this Spring 2025
+More details [here](/pdf/InternshipSegmentation.pdf). <br>
+Feel free to reach out if you have any questions!
+
+
 ## Ongoing projects 
 <details>
 <summary><h3>Rifle birds - <i>ongoing project</i> 🪶</h3>
