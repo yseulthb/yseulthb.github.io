@@ -91,7 +91,7 @@ In another fMRI study, we asked whether some brain areas would be more strongly 
 <summary><h3> Replicards 🧬 </h3>
 </summary>
 
-We created an interactive game for highschool students to demonstrate how replicants can inherit mutations and undergo evolution by natural selection if the inheritable characteristics can affect their reproductive success.<br>
+Together with <a href="https://eliamascolo.github.io/" target="_blank">Elia Mascolo</a>, we created an interactive game for highschool students to demonstrate how replicants can inherit mutations and undergo evolution by natural selection if the inheritable characteristics can affect their reproductive success.<br>
 We made the content publicly available and freely re-usable on this <a href="https://replicards.netlify.app/" target="_blank">[website]</a>.
 <br>
 
