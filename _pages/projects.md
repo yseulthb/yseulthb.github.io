@@ -38,7 +38,7 @@ Feel free to reach out if you have any questions!
 </summary>
 
 Using avian vision modelling, we are investigating the sensory function of exceptionally black plumage in the displays of a bird of paradise—Victoria's riflebird—based on images of courting males collected in the field. <br>
-We are comparing the visual properties of the adult and immature birds' displays to investigate their detectability.<br>
+We are comparing the visual properties of the adult and immature birds' displays to investigate their detectability.<br><br>
 
 <img src="/pdf/immature_display.png" alt="Immature Rifle Bird" width="300"/>
 <br><br>
@@ -49,7 +49,7 @@ We are comparing the visual properties of the adult and immature birds' displays
 </summary>
 
 Are manakins learning their nuptial parade from each other or is it genetically pre-determined?<br>
-We are investigating this question with behavioural, spatial, and genetic data.
+We are investigating this question with behavioural, spatial, and genetic data. <br>
 
 <a title="Staven, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Stavenn_Manacus_vitellinus.jpg"><img width="256" alt="Stavenn Manacus vitellinus" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Stavenn_Manacus_vitellinus.jpg?20141220204422"></a>
 
@@ -62,9 +62,9 @@ We are investigating this question with behavioural, spatial, and genetic data.
 [DarterBase] I aim to examine a broad range of factors susceptible to promoting sexual signal diversity in *Etheostoma* (darters), a genus of fish species that exhibit diversity in morphology, habitat preferences, nuptial ornamentation, parental care, and spawning behaviour, as well as community composition and structure. <br>
 
 [VAE] Using variational auto-encoders as models of the visual system, I plan to investigate the relationship between habitat characteristics and signal patterns of a species and assess the effectiveness of animal designs from the point of view of the individual recipient.
-<br>
+<br><br>
 
-*I am recruiting a student to work on a subpart of this project. See the ad above.*
+<i>I am recruiting a student to work on a subpart of this project. See the ad above.</i> <br>
 
 
 <img src="/pdf/darters.png" alt="Example of males of four different species of the genus Etheostoma." width="300"/>
