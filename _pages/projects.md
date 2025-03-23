@@ -59,7 +59,7 @@ We are investigating this question with behavioural, spatial, and genetic data. 
 <summary><h3>Evolution of visual sexual signals in darters 🐟</h3>
 </summary>
 
-[DarterBase] I aim to examine a broad range of factors susceptible to promoting sexual signal diversity in *Etheostoma* (darters), a genus of fish species that exhibit diversity in morphology, habitat preferences, nuptial ornamentation, parental care, and spawning behaviour, as well as community composition and structure. <br>
+[DarterBase] I aim to examine a broad range of factors susceptible to promoting sexual signal diversity in <i>Etheostoma</i> (darters), a genus of fish species that exhibit diversity in morphology, habitat preferences, nuptial ornamentation, parental care, and spawning behaviour, as well as community composition and structure. <br><br>
 
 [VAE] Using variational auto-encoders as models of the visual system, I plan to investigate the relationship between habitat characteristics and signal patterns of a species and assess the effectiveness of animal designs from the point of view of the individual recipient.
 <br><br>
