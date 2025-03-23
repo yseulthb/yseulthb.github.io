@@ -67,7 +67,7 @@ We are investigating this question with behavioural, spatial, and genetic data. 
 <i>I am recruiting a student to work on a subpart of this project. See the ad above.</i> <br><br>
 
 
-<img src="/pdf/darters.png" alt="Example of males of four different species of the genus Etheostoma." width="300"/>
+<img src="/pdf/darters.png" alt="Example of males of four different species of the genus Etheostoma." width="400"/>
 <br><br>
 </details>
 
@@ -88,7 +88,7 @@ Our paper was recently published in <i>Ecological Informatics</i>, which you can
 <summary><h3>Strength of preference for conspecifics in darters 📈</h3>
 </summary>
 
-Previous comparative analyses suggest that sympatry (whether species evolve in the same habitat) plays a key role in mating preference for conspecifics, which is a fundamental process to maintain species diversity. Our comparison of darter fishes (*Etheostoma* species) revealed that the link between assortative mating and sympatry and the link between assortative mating and sex is not as predictable as classical interpretations of natural (reinforcement) and sexual selection might suggest. <br>
+Previous comparative analyses suggest that sympatry (whether species evolve in the same habitat) plays a key role in mating preference for conspecifics, which is a fundamental process to maintain species diversity. Our comparison of darter fishes (<i>Etheostoma</i> species) revealed that the link between assortative mating and sympatry and the link between assortative mating and sex is not as predictable as classical interpretations of natural (reinforcement) and sexual selection might suggest. <br>
 By challenging conventional expectations in terms of assortative mating, our meta-analysis offers a more nuanced view of this complex phenomenon. It also positioned Etheostoma as a great genus to investigate mating preferences, given its diversity in terms of occupied habitats, species overlap, or parental care behaviour. <br>
 Our paper is published in <i>Ecology and Evolution</i> and can be accessed <a href="https://doi.org/10.1002/ece3.11498" target="_blank">[here]</a>.<br><br>
 </details>
