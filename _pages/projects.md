@@ -52,7 +52,7 @@ Are manakins learning their nuptial parade from each other or is it genetically 
 We are investigating this question with behavioural, spatial, and genetic data. <br><br>
 
 <a title="Staven, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Stavenn_Manacus_vitellinus.jpg"><img width="256" alt="Stavenn Manacus vitellinus" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Stavenn_Manacus_vitellinus.jpg?20141220204422"></a>
-
+<br><br>
 </details>
 
 <details>
