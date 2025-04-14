@@ -12,9 +12,9 @@ teaser                   : #/assets/images/header.jpg # path of fallback teaser 
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : "yseult-hbs-adventures" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : #"yseult-hbs-adventures" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -74,13 +74,13 @@ analytics:
   # Site Author
 author:
   name             : ""
-  avatar           : "/assets/images/yseult.jpg" 
+  avatar           : "/assets/images/yseult2025.jpeg" 
   bio              : "Postdoctoral researcher in behavioural ecology. PhD in cognitive neuroscience. I'm also learning to engage in and promote a better science: open, inclusive, accessible; slow."
   email            : "yseulthb@gmail.com"
   github           : "yseulthb"
   gitlab           : "yseulthb"
-  #twitter          : "Izzie_Hb"
-  #Mastodon         : "@izziehb"
+  #twitter          : ""
+  #Mastodon         : ""
   Bluesky          : "izziehb.bsky.social"
   OSF              : "nd82r"
   ResearchGate     : "Yseult_Hejja-Brichard"
