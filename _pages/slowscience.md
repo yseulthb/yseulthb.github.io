@@ -19,7 +19,7 @@ title: Slow Science
 
 I recently gave a talk on Slow Science x Eco/Evo for [SORTEE](https://www.sortee.org/). [[Webinar info]](https://events.humanitix.com/sortee-webinar-in-defense-of-depth-slow-science-for-sustainable-progress-in-ecology-and-evolution). You can find the presentation <a href="/pdf/SlowScienceSORTEE.pdf" target="_blank">[here]</a>.
 
-A few years ago, I already had the opportunity to give a talk about Slow Science at the online conference [LiveMEEG2020](https://livemeeg2020.org/) in October 2020. You can access my slides <a href="/pdf/SlowScience.pdf" target="_blank"><b>[here]</b></a> to have an overview of my presentation. 
+A few years ago, I already had the opportunity to give a talk about Slow Science at the online conference [LiveMEEG2020](https://livemeeg2020.org/) in October 2020. You can access my slides <a href="/pdf/SlowScience.pdf" target="_blank">[here]</a> to have an overview of my presentation. 
 
 Below, I have added the various references and resources I could accumulate on the topic, as well as some existing initiatives that promote better / alternative ways of doing science. [latest update: Nov. 2024]
 
