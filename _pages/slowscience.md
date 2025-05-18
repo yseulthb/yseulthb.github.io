@@ -17,11 +17,13 @@ title: Slow Science
 
 {% include toc %}
 
-I recently gave a talk on Slow Science x Eco/Evo for [SORTEE](https://www.sortee.org/). [[Webinar info]](https://events.humanitix.com/sortee-webinar-in-defense-of-depth-slow-science-for-sustainable-progress-in-ecology-and-evolution). You can find the presentation <a href="/pdf/SlowScienceSORTEE.pdf" target="_blank"><b>[here]</b></a>.
+I recently gave a talk on Slow Science x Eco/Evo for [SORTEE](https://www.sortee.org/). [[Webinar info]](https://events.humanitix.com/sortee-webinar-in-defense-of-depth-slow-science-for-sustainable-progress-in-ecology-and-evolution). You can find the presentation <a href="/pdf/SlowScienceSORTEE.pdf" target="_blank">[here]</a>.
 
 A few years ago, I already had the opportunity to give a talk about Slow Science at the online conference [LiveMEEG2020](https://livemeeg2020.org/) in October 2020. You can access my slides <a href="/pdf/SlowScience.pdf" target="_blank"><b>[here]</b></a> to have an overview of my presentation. 
 
 Below, I have added the various references and resources I could accumulate on the topic, as well as some existing initiatives that promote better / alternative ways of doing science. [latest update: Nov. 2024]
+
+You can also find some of my reflections in response to this question I was asked: "How do I implement slow science principles in my research practice?" [[here](https://yseulthb.github.io/slow_research/)]
 
 ## Scientific papers
 - Berg, L.D., Huijbens, E.H., Larsen, H.G. (2016). Producing anxiety in the neoliberal university. The Canadian Geographer / Le Géographe canadien, 60: 168-180. [[DOI]](https://doi.org/10.1111/cag.12261)
