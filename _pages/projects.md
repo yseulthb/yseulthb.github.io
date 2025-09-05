@@ -26,6 +26,10 @@ summary > * {
 }
 </style>
 
+#### 🚨 Current position openings
+- none at the moment but come back early 2026!
+
+🎓 If you are interested in my ongoing projects or have related ideas you would like to explore for your bachelor's or master's thesis or for an internship, feel free to reach out, and we can discuss it. 
 
 ## Ongoing projects 
 <details>
