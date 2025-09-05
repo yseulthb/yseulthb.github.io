@@ -23,9 +23,13 @@ A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademi
 ## Scientific Production
 
 ### Publications 
-***Under review***
+***Under review or submitted***
 * **Héjja-Brichard, Y.**, Raymond, M., Cuthill, I.,  Mendelson, T.C., Renoult, J.P. *(in revision)*. Perceptual
 biases, camouflage patterns, and the origin of sexual signals. [[Preprint](https://doi.org/10.1101/2023.09.27.559753)].
+* Million, K., **Héjja-Brichard, Y.**, Nasir M., Tucker, S., Mendelson, T.C. *(submitted)*. Assessing the dual utility of nuptial patterns in the rainbow darter *(Etheostoma caeruleum)*.
+* Prétôt, L., Agrillo, C., Bluck, B.C., Cabrera-Álvarez, M.J., **Héjja-Brichard, Y.**, ... Yeager, J. *(submitted)*.
+ManyFishes: A big team science collaboration on fish comparative cognition.
+* Alessandroni, N. et al. (including **Héjja-Brichard, Y.**) *(submitted)*. Flexible Behavior or Flexible Methods? A Cross-Taxon Review of Experimental Designs in Reversal Learning. [[Preprint](https://osf.io/preprints/psyarxiv/mvche_v1)].
 
 ***Peer-reviewed journal articles***
 
@@ -47,7 +51,7 @@ biases, camouflage patterns, and the origin of sexual signals. [[Preprint](https
 
 ### Oral presentations
 ***Invited talks*** 
-
+* **Héjja-Brichard, Y.**  (2025) Of Fishes and Birds: Computational approaches to understanding the evolution of sexual signals signals. *Department of Behavioural & Cognitive Biology, University of Vienna, Austria.*
 * **Héjja-Brichard, Y.**  (2024) In Defense of Depth: Slow Science for Sustainable Progress in Ecology and
 Evolution. *[Society for Open, Reliable, and Transparent Ecology and Evolutionary Biology](https://www.sortee.org/) (online conference).*
 * **Héjja-Brichard, Y.** (2024) Neural style transfer and perceptual distance to test pattern preferences in fish. *AI for ecology and evolution seminar, University of Montpellier, France.*
@@ -59,7 +63,7 @@ Evolution. *[Society for Open, Reliable, and Transparent Ecology and Evolutionar
 
 ***Conference talks***
 
-* Million, K., **Héjja-Brichard, Y.**, Nasir M., Tucker, S., Mendelson, T.C. (2023).Territorial competition and mate choice in the rainbow darter (Etheostoma caeruleum). Southeastern Fishes Council 2023 meeting, Chattanooga, TE, USA.<br>
+* Million, K., **Héjja-Brichard, Y.**, Nasir M., Tucker, S., Mendelson, T.C. (2023). Territorial competition and mate choice in the rainbow darter (Etheostoma caeruleum). Southeastern Fishes Council 2023 meeting, Chattanooga, TE, USA.<br>
 * **Héjja-Brichard, Y.**, Million, K., Renoult, J.P., Mendelson, T.C. (2023). Using generative artificial intelligence to test hypotheses about animal signal evolution in an ornamented fish. [Evolution 2023 meeting](https://www.evolutionmeetings.org/2023-conference-info.html), Albuquerque, NM, USA. <br>
 * ManyFishes **(incl. Héjja-Brichard, Y.)** (2023) Using the detour task to assess inhibitory control across the fish taxon. 30th Annual International Conference on Comparative Cognition, Melbourne Beach, FL, USA.<br>
 * Renoult, J.P. & **Héjja-Brichard, Y.** (2022) Using deep neural networks to study the evolution of visual signals. International Conference on Ecological Sciences, [SFE2-GfÖ-EEF joint meeting](https://sfe2gfomeeting.sciencesconf.org/), Metz, France.<br>
@@ -81,6 +85,8 @@ Evolution. *[Society for Open, Reliable, and Transparent Ecology and Evolutionar
 * **Héjja-Brichard, Y.** (2016). Morality and Ethics: A (very) short review. *CerCo Journal Club, Toulouse, France.* <a href="/pdf/MoralityEthicsReview.pdf" target="_blank"><b>[slides]</b></a><br>
 
 ***Poster presentations***
+* Prétôt, L., Bluck, B.C., Cabrera-Álvarez, M.J., **Héjja-Brichard, Y.**, Santacà, M. (2025, Oct). Hold that fin! A big-team dive into fish self-control. *Big Team Science Conference, online*.
+* MacGillavry, T., Fusani, L., **Héjja-Brichard, Y.** (2025, July). Victoria’s riflebird males create optical black holes to attract females. *Animal Behavior Society, Baltimore, MD, USA.*
 * **Héjja-Brichard, Y.**, Million, K.M., Moodie, I.M., Renoult, J.P., Mendelson, T.C. (2024, June). Sensory drive in the era of artificial intelligence: new tools for new experiments. *Animal Behavior Society, London, ON, Canada*. <a href="/pdf/PosterABS2024.pdf" target="_blank"><b>[Poster]</b></a><br>
 * **Héjja-Brichard, Y.**, Raymond, M., Cuthill, I.C., Mendelson, T.C., Renoult, J.P. (2023, Nov.). Visual pattern preferences: Testing the processing bias hypothesis with background-matching stimuli to shed light on signal design evolution. *Society for Neuroscience, Washington, DC.*  <a href="/pdf/poster_sfn.pdf" target="_blank"><b>[Poster]</b></a><br>
 * **Héjja-Brichard, Y.**, Renoult, J.P., Mendelson, T.C. (2022, July). Strength of preference for conspecifics in Darters (genus Etheostoma): A within-lab meta-analysis. *Animal Behavior Society, San José, Costa Rica (hybrid format: In-Person and Virtual).*  <a href="/pdf/Poster_ABS2022.pdf" target="_blank"><b>[Poster]</b></a><br>
