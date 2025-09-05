@@ -27,11 +27,6 @@ summary > * {
 </style>
 
 
-### 🚨 I am recruiting a bachelor’s or a master’s student in Computer Science or Data Science for an internship this Spring 2025
-More details [here](/pdf/InternshipSegmentation.pdf). <br>
-Feel free to reach out if you have any questions!
-
-
 ## Ongoing projects 
 <details>
 <summary><h3>Role of the dark plumage in Rifle birds 🪶</h3>
@@ -63,9 +58,6 @@ We are investigating this question with behavioural, spatial, and genetic data. 
 
 [VAE] Using variational auto-encoders as models of the visual system, I plan to investigate the relationship between habitat characteristics and signal patterns of a species and assess the effectiveness of animal designs from the point of view of the individual recipient.
 <br><br>
-
-<i>I am recruiting a student to work on a subpart of this project. See the ad above.</i> <br><br>
-
 
 <img src="/pdf/darters.png" alt="Example of males of four different species of the genus Etheostoma." width="400"/>
 <br><br>
