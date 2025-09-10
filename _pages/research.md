@@ -48,6 +48,10 @@ ManyFishes: A big team science collaboration on fish comparative cognition.
 ***PhD Thesis***
 * Héjja-Brichard, Y. Spatial and temporal integration of binocular disparity in the primate brain. Université Toulouse 3 - Paul Sabatier, 2020. [[pdf]](https://hal.archives-ouvertes.fr/tel-02956425/document).
 
+***Other publications***
+* Mascolo, E. & **Héjja-Brichard, Y.** *(submitted)*. Replicards: Teaching evolution with a card game. [[Dedicated website](https://replicards.netlify.app/)]
+* Open Science Monitoring Initiative (external contributor), *Principles of Open Science Monitoring*, 2025.
+([doi](https://doi.org/10.5281/zenodo.15807481))
 
 ### Oral presentations
 ***Invited talks*** 
@@ -70,7 +74,7 @@ Evolution. *[Society for Open, Reliable, and Transparent Ecology and Evolutionar
 * **Héjja-Brichard, Y.** (2021). Workshop on Research Culture based on the [Café Culture Kit](https://wellcome.org/what-we-do/our-work/research-culture/hosting-your-cafe-culture-discussion) developped by the Wellcome Foundation. *[Conférence Science Ouverte Lente Durable](https://sold21.sciencesconf.org/), Nantes, France.* [[OSF folder with the French (beta) version of the Kit]](https://osf.io/k3dqy/)<br>
 * Audurier, P., **Héjja-Brichard, Y.**, Kohler, P.J., Norcia, A.M., Durand, J.-B., Cottereau, B.R. (2019). Processing of rotational symmetry in the non-human primate brain. *[GDR Vision](https://sites.google.com/view/gdr-vision/home) annual forum, Marseille, France.*
 
-***Lab talks***
+<!-- ***Lab talks***
 * **Héjja-Brichard, Y.** (2024) Sensory drive in the era of artificial intelligence: new tools for new experiments. *Fusani Lab Day, Seebarn am Wagram, Austria.*
 * **Héjja-Brichard, Y.** (2023) Computational approaches to understanding the evolution of sexual signal design. *Department of Biological Sciences, UMBC, Baltimore, MD, USA.* <a href="/pdf/DptSeminar.pdf" target="_blank"><b>[slides]</b></a><br>
 * **Héjja-Brichard, Y.**, Raymond, M., Cuthill, I.,  Mendelson, T.C., Renoult, J.P. (2023). Visual Pattern Preferences. *Mendelson Lab Meeting, Department of Biological Sciences, UMBC, Baltimore, MD, USA.* <br> 
@@ -82,7 +86,7 @@ Evolution. *[Society for Open, Reliable, and Transparent Ecology and Evolutionar
 * **Héjja-Brichard, Y.** (2019). Democracy in the animal kingdom: Collaborative decision-making.  *CerCo Winter School, Pragnères, France.* <a href="/pdf/DemocracyAnimalKingdom.pdf" target="_blank"><b>[slides]</b></a><br> 
 * **Héjja-Brichard, Y.** (2018). Stereovision in the animal kingdom: Which species, at what cost, and for which advantages? *CerCo Lab Day, Muret, France* <a href="/pdf/CerCoDay_3Dvision.pdf" target="_blank"><b>[slides]</b></a><br>
 * **Héjja-Brichard, Y.** (2018). Sexism in research and at the university: Why should it matter? What can we do about it?  *CerCo Winter School, Piau-Engaly, France.* <a href="/pdf/SexismInAcademia.pdf" target="_blank"><b>[slides]</b></a><br>
-* **Héjja-Brichard, Y.** (2016). Morality and Ethics: A (very) short review. *CerCo Journal Club, Toulouse, France.* <a href="/pdf/MoralityEthicsReview.pdf" target="_blank"><b>[slides]</b></a><br>
+* **Héjja-Brichard, Y.** (2016). Morality and Ethics: A (very) short review. *CerCo Journal Club, Toulouse, France.* <a href="/pdf/MoralityEthicsReview.pdf" target="_blank"><b>[slides]</b></a><br> -->
 
 ***Poster presentations***
 * Prétôt, L., Bluck, B.C., Cabrera-Álvarez, M.J., **Héjja-Brichard, Y.**, Santacà, M. (2025, Oct). Hold that fin! A big-team dive into fish self-control. *Big Team Science Conference, online*.
