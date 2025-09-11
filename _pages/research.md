@@ -24,8 +24,7 @@ A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademi
 
 ### Publications 
 ***Under review or submitted***
-* **Héjja-Brichard, Y.**, Raymond, M., Cuthill, I.,  Mendelson, T.C., Renoult, J.P. *(in revision)*. Perceptual
-biases, camouflage patterns, and the origin of sexual signals. [[Preprint](https://doi.org/10.1101/2023.09.27.559753)].
+* **Héjja-Brichard, Y.**, Raymond, M., Cuthill, I.,  Mendelson, T.C., Renoult, J.P. *(in revision)*. Background-matching patterns are attractive: support for a processing bias. [[Preprint](https://doi.org/10.1101/2023.09.27.559753)].
 * Million, K., **Héjja-Brichard, Y.**, Nasir M., Tucker, S., Mendelson, T.C. *(submitted)*. Assessing the dual utility of nuptial patterns in the rainbow darter *(Etheostoma caeruleum)*.
 * Prétôt, L., Agrillo, C., Bluck, B.C., Cabrera-Álvarez, M.J., **Héjja-Brichard, Y.**, ... Yeager, J. *(submitted)*.
 ManyFishes: A big team science collaboration on fish comparative cognition.
