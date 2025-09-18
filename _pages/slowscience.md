@@ -35,7 +35,7 @@ You can also find some of my reflections in response to this question I was aske
 - Lane, S.N. (2017), Slow science, the geographical expedition, and Critical Physical Geography. The Canadian Geographer / Le Géographe canadien, 61: 84-101. [[DOI]](https://doi.org/10.1111/cag.12329)
 - Peake, L., & Mullings, B. (2016). Critical Reflections on Mental and Emotional Distress in the Academy. ACME: An International Journal for Critical Geographies, 15(2), 253-284. [[DOI]](https://www.acme-journal.org/index.php/acme/article/view/1123)
 - Roche, DG, Bennett JR, Provencher J, Rytwinski T, Haddaway NR, Cooke SJ (2019). Environmental sciences benefit from robust evidence irrespective of speed. Science of The Total Environment, 696. [[DOI]](https://doi.org/10.1016/j.scitotenv.2019.134000).
-- Salo, P. & Heikkinen, H.L.T. (2018). Slow Science: Research and Teaching for Sustainable Praxis. Confero, 6(1), 87-211. [[DOI]](http://www.confero.ep.liu.se/article.asp?DOI=10.3384/confero.2001-4562.181130)
+- Salo, P. & Heikkinen, H.L.T. (2018). Slow Science: Research and Teaching for Sustainable Praxis. Confero, 6(1), 87-211. [[DOI]](https://doi.org/10.3384/confero.2001-4562.181130)
 - Smaldino, P. E., & McElreath, R. (2016). The natural selection of bad science. Royal Society Open Science, 3: 160384. [[DOI]](https://royalsocietypublishing.org/doi/10.1098/rsos.160384)
 - Vazire, S. (2017). Quality Uncertainty Erodes Trust in Science. Collabra: Psychology, 3(1), 1. [[DOI]](https://www.collabra.org/articles/10.1525/collabra.74/)
 - Ylijoki, O.-H., & Mäntylä, H. (2003). Conflicting Time Perspectives in Academic Work. Time & Society, 12(1), 55–78. [[DOI]](https://doi.org/10.1177/0961463X03012001364)
