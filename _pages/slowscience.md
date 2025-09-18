@@ -51,8 +51,8 @@ This list includes discussion groups on how to improve science that gather schol
 - The [DORA](https://sfdora.org) initiative, which promotos a different way of evaluating researchers than just using publication indices. It also has different incentives and guidelines depending on the targeted structure (universities, publishers, etc).
 - The [RONIN institute](http://ronininstitute.org/) 'is devoted to facilitating and promoting scholarly research outside traditional academic research institutions.'
 - [IGDORE](https://igdore.org/), the institute for globally distributed open research and education 'is an independent research institute dedicated to improving the quality of science, science education, and quality of life for scientists, students and their families.'
-- [The research cooperative](https://researchcooperative.org/) is a moderated social network dedicated to better academic, technical and educational communication.
-- [PiCompS](https://picomps.org/), Postdoctal institute for computational studies, is a virtual home for both independent and academic researchers, inspired by the Ronin Institute. They are 'an international forum, a virtual community that recognizes the world outside of traditional academia. Their mission is to promote diversity in computing, raise awareness and provide support to independent researchers, scholars with alternative academic careers , and those who seek to redefine career.'
+<!-- - [The research cooperative](https://researchcooperative.org/) is a moderated social network dedicated to better academic, technical and educational communication.
+- [PiCompS](https://picomps.org/), Postdoctal institute for computational studies, is a virtual home for both independent and academic researchers, inspired by the Ronin Institute. They are 'an international forum, a virtual community that recognizes the world outside of traditional academia. Their mission is to promote diversity in computing, raise awareness and provide support to independent researchers, scholars with alternative academic careers , and those who seek to redefine career.' -->
 
 
 ## Books and blogposts
