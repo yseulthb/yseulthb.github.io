@@ -25,7 +25,7 @@ A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademi
 ### Publications 
 ***Under review or submitted***
 * **Héjja-Brichard, Y.**, Raymond, M., Cuthill, I.,  Mendelson, T.C., Renoult, J.P. *(in revision)*. Background-matching patterns are attractive: support for a processing bias. [[Preprint](https://doi.org/10.1101/2023.09.27.559753)].
-* Million, K., **Héjja-Brichard, Y.**, Nasir M., Tucker, S., Mendelson, T.C. *(submitted)*. Assessing the dual utility of nuptial patterns in the rainbow darter *(Etheostoma caeruleum)*.
+* Million, K., **Héjja-Brichard, Y.**, Nasir M., Tucker, S., Mendelson, T.C. *(under review)*. Assessing the dual utility of nuptial patterns in the rainbow darter *(Etheostoma caeruleum)*.
 * Prétôt, L., Agrillo, C., Bluck, B.C., Cabrera-Álvarez, M.J., **Héjja-Brichard, Y.**, ... Yeager, J. *(submitted)*.
 ManyFishes: A big team science collaboration on fish comparative cognition.
 * Alessandroni, N. et al. (including **Héjja-Brichard, Y.**) *(submitted)*. Flexible Behavior or Flexible Methods? A Cross-Taxon Review of Experimental Designs in Reversal Learning. [[Preprint](https://osf.io/preprints/psyarxiv/mvche_v1)].
@@ -55,8 +55,7 @@ ManyFishes: A big team science collaboration on fish comparative cognition.
 ### Oral presentations
 ***Invited talks*** 
 * **Héjja-Brichard, Y.**  (2025) Of Fishes and Birds: Computational approaches to understanding the evolution of sexual signals signals. *Department of Behavioural & Cognitive Biology, University of Vienna, Austria.*
-* **Héjja-Brichard, Y.**  (2024) In Defense of Depth: Slow Science for Sustainable Progress in Ecology and
-Evolution. *[Society for Open, Reliable, and Transparent Ecology and Evolutionary Biology](https://www.sortee.org/) (online conference).*
+* **Héjja-Brichard, Y.**  (2024) In Defense of Depth: Slow Science for Sustainable Progress in Ecology and Evolution. *[Society for Open, Reliable, and Transparent Ecology and Evolutionary Biology](https://www.sortee.org/) (online conference).*
 * **Héjja-Brichard, Y.** (2024) Neural style transfer and perceptual distance to test pattern preferences in fish. *AI for ecology and evolution seminar, University of Montpellier, France.*
 * **Héjja-Brichard, Y.** (2023, June) Computational approaches to understanding the evolution of sexual signal design. *Department of Biology, University of Pennsylvania, USA.*
 * **Héjja-Brichard, Y.** (2022, September). AI methods to study sexual selection. *[Imaginecology2](https://imaginecology2.sciencesconf.org/): machine learning for image and sound processing and analysis in ecology, Villeurbanne, France.* <a href="/pdf/imaginecology2_talk.pdf" target="_blank"><b>[slides]</b></a><br>
@@ -70,7 +69,7 @@ Evolution. *[Society for Open, Reliable, and Transparent Ecology and Evolutionar
 * **Héjja-Brichard, Y.**, Million, K., Renoult, J.P., Mendelson, T.C. (2023). Using generative artificial intelligence to test hypotheses about animal signal evolution in an ornamented fish. [Evolution 2023 meeting](https://www.evolutionmeetings.org/2023-conference-info.html), Albuquerque, NM, USA. <br>
 * ManyFishes **(incl. Héjja-Brichard, Y.)** (2023) Using the detour task to assess inhibitory control across the fish taxon. 30th Annual International Conference on Comparative Cognition, Melbourne Beach, FL, USA.<br>
 * Renoult, J.P. & **Héjja-Brichard, Y.** (2022) Using deep neural networks to study the evolution of visual signals. International Conference on Ecological Sciences, [SFE2-GfÖ-EEF joint meeting](https://sfe2gfomeeting.sciencesconf.org/), Metz, France.<br>
-* **Héjja-Brichard, Y.** (2021). Workshop on Research Culture based on the [Café Culture Kit](https://wellcome.org/what-we-do/our-work/research-culture/hosting-your-cafe-culture-discussion) developped by the Wellcome Foundation. *[Conférence Science Ouverte Lente Durable](https://sold21.sciencesconf.org/), Nantes, France.* [[OSF folder with the French (beta) version of the Kit]](https://osf.io/k3dqy/)<br>
+* **Héjja-Brichard, Y.** (2021). Workshop on Research Culture based on the [Café Culture Kit](https://wellcome.org/what-we-do/our-work/research-culture/hosting-your-cafe-culture-discussion) developed by the Wellcome Foundation. *[Conférence Science Ouverte Lente Durable](https://sold21.sciencesconf.org/), Nantes, France.* [[OSF folder with the French (beta) version of the Kit]](https://osf.io/k3dqy/)<br>
 * Audurier, P., **Héjja-Brichard, Y.**, Kohler, P.J., Norcia, A.M., Durand, J.-B., Cottereau, B.R. (2019). Processing of rotational symmetry in the non-human primate brain. *[GDR Vision](https://sites.google.com/view/gdr-vision/home) annual forum, Marseille, France.*
 
 <!-- ***Lab talks***
