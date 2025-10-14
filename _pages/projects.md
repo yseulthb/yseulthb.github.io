@@ -30,8 +30,8 @@ summary > * {
 - **Data-science project x fish 🐟**: How many different fish species occupy a specific river? Are they around the whole year or do they follow seasonal migratory patterns? How quickly can we detect invasive species? <br>
 Usual fish counting methods rely on a knowledgeable team of people who sample specific portions of rivers once a year to determine what species live there. If this method is very precise, it is time consuming and limited to specific river portions. <br>
 Could we leverage citizen science and observation data base, such as iNaturalist, to complement those river surveys? <br>
-Internship description: 
-<a href="/pdf/Internship_iNat_darters.pdf" target="_blank">[English]</a> and <a href="/pdf/Stage_iNat_darters.pdf" target="_blank">[French]</a>.
+**➡️ Internship description: 
+<a href="/pdf/Internship_iNat_darters.pdf" target="_blank">[English]</a> and <a href="/pdf/Stage_iNat_darters.pdf" target="_blank">[French]</a>.**
 
 <!-- - upcoming: part-time position for an Austrian-based master's student in computer science (topic: automatic stress assesment in a wild bird); several internship positions for Bsc/Msc students in biology and related fields to conduct behavioural experiments in captive cichlids (topic: group dynamics in response to stressors) -->
 
