@@ -26,16 +26,19 @@ summary > * {
 }
 </style>
 
-### 🚨 Current opening
-- **Data-science project x fish 🐟**: How many different fish species occupy a specific river? Are they around the whole year or do they follow seasonal migratory patterns? How quickly can we detect invasive species? <br>
-Usual fish counting methods rely on a knowledgeable team of people who sample specific portions of rivers once a year to determine what species live there. If this method is very precise, it is time consuming and limited to specific river portions. <br>
-Could we leverage citizen science and observation data base, such as iNaturalist, to complement those river surveys? <br>
+### 🚨 Current openings
+- 🐟 **Data-science project for BSc/MSc students**: How many different fish species occupy a specific river? Are they around the whole year or do they follow seasonal migratory patterns? How quickly can we detect invasive species? <br>
+Can we leverage observations reported online, e.g. on iNaturalist, to complement traditional river surveys? <br>
 **➡️ Internship description: 
 <a href="/pdf/Internship_iNat_darters.pdf" target="_blank">[English]</a> and <a href="/pdf/Stage_iNat_darters.pdf" target="_blank">[French]</a>.**
 
-<!-- - upcoming: part-time position for an Austrian-based master's student in computer science (topic: automatic stress assesment in a wild bird); several internship positions for Bsc/Msc students in biology and related fields to conduct behavioural experiments in captive cichlids (topic: group dynamics in response to stressors) -->
+- 🐦 **Part-time position for an Austrian-based master's student in computer science** <br> 
+Topic: automatic stress assesment in a wild bird. <br>
+**➡️ More info in the <a href="/pdf/BirdBreathing_masters_internship.pdf" target="_blank">[job description]</a>.**
 
-🎓 *If you are interested in my ongoing projects or have related ideas you would like to explore for your bachelor's or master's thesis or for an internship, feel free to reach out, and we can discuss it.*
+<!-- - upcoming: several internship positions for Bsc/Msc students in biology and related fields to conduct behavioural experiments in captive cichlids (topic: group dynamics in response to stressors) -->
+
+🎓 *Beside current openings, if you are interested in my ongoing projects or have related ideas you would like to explore for your bachelor's or master's thesis or for an internship, feel free to reach out, and we can discuss it.*
 
 ## Ongoing projects 
 <details>
