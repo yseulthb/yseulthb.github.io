@@ -32,7 +32,7 @@ Can we leverage observations reported online, e.g. on iNaturalist, to complement
 **➡️ Internship description: 
 <a href="/pdf/Internship_iNat_darters.pdf" target="_blank">[English]</a> and <a href="/pdf/Stage_iNat_darters.pdf" target="_blank">[French]</a>.**
 
-- 🐦 **Part-time position for an Austrian-based master's student in computer science** <br> 
+- 🐦 **Part-time position for an Austria-based master's student in computer science** <br> 
 Topic: automatic stress assesment in a wild bird. <br>
 **➡️ More info in the <a href="/pdf/BirdBreathing_masters_internship.pdf" target="_blank">[job description]</a>.**
 
