@@ -27,7 +27,7 @@ A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademi
 * **Héjja-Brichard, Y.**, Raymond, M., Cuthill, I.,  Mendelson, T.C., Renoult, J.P. *(in revision)*. Background-matching patterns are attractive: support for a processing bias. [[Preprint](https://doi.org/10.1101/2023.09.27.559753)].
 * Prétôt, L., Agrillo, C., Bluck, B.C., Cabrera-Álvarez, M.J., **Héjja-Brichard, Y.**, ... Yeager, J. *(in revision)*. ManyFishes: A big team science collaboration on fish comparative cognition.
 * Million, K., **Héjja-Brichard, Y.**, Nasir M., Tucker, S., Mendelson, T.C. *(under review)*. Assessing the dual utility of nuptial patterns in the rainbow darter *(Etheostoma caeruleum)*.
-* Alessandroni, N. et al. (including **Héjja-Brichard, Y.**) *(submitted)*. Flexible Behavior or Flexible Methods? A Cross-Taxon Review of Experimental Designs in Reversal Learning. [[Preprint](https://osf.io/preprints/psyarxiv/mvche_v1)].
+* Alessandroni, N. et al. (including **Héjja-Brichard, Y.**) *(under review)*. Flexible Behavior or Flexible Methods? A Cross-Taxon Review of Experimental Designs in Reversal Learning. [[Preprint](https://osf.io/preprints/psyarxiv/mvche_v1)].
 
 ***Peer-reviewed journal articles***
 
