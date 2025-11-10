@@ -64,12 +64,15 @@ A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademi
 
 ***Conference talks***
 
-* Million, K., **Héjja-Brichard, Y.**, Nasir M., Tucker, S., Mendelson, T.C. (2023). Territorial competition and mate choice in the rainbow darter (Etheostoma caeruleum). Southeastern Fishes Council 2023 meeting, Chattanooga, TE, USA.<br>
+* Mascolo, E. & **Héjja-Brichard, Y.** (2025). *Replicards*: Teaching evolution with a card game. [EvoKE
+2025 Athens Conference](https://evokeproject.org/evoke2025-athens-6th-8th-november/), Athens, Greece.
+
+* Million, K., **Héjja-Brichard, Y.**, Nasir M., Tucker, S., Mendelson, T.C. (2023). Territorial competition and mate choice in the rainbow darter (*Etheostoma caeruleum*). Southeastern Fishes Council 2023 meeting, Chattanooga, TE, USA.<br>
 * **Héjja-Brichard, Y.**, Million, K., Renoult, J.P., Mendelson, T.C. (2023). Using generative artificial intelligence to test hypotheses about animal signal evolution in an ornamented fish. [Evolution 2023 meeting](https://www.evolutionmeetings.org/2023-conference-info.html), Albuquerque, NM, USA. <br>
 * ManyFishes **(incl. Héjja-Brichard, Y.)** (2023) Using the detour task to assess inhibitory control across the fish taxon. 30th Annual International Conference on Comparative Cognition, Melbourne Beach, FL, USA.<br>
 * Renoult, J.P. & **Héjja-Brichard, Y.** (2022) Using deep neural networks to study the evolution of visual signals. International Conference on Ecological Sciences, [SFE2-GfÖ-EEF joint meeting](https://sfe2gfomeeting.sciencesconf.org/), Metz, France.<br>
-* **Héjja-Brichard, Y.** (2021). Workshop on Research Culture based on the [Café Culture Kit](https://wellcome.org/what-we-do/our-work/research-culture/hosting-your-cafe-culture-discussion) developed by the Wellcome Foundation. *[Conférence Science Ouverte Lente Durable](https://sold21.sciencesconf.org/), Nantes, France.* [[OSF folder with the French (beta) version of the Kit]](https://osf.io/k3dqy/)<br>
-* Audurier, P., **Héjja-Brichard, Y.**, Kohler, P.J., Norcia, A.M., Durand, J.-B., Cottereau, B.R. (2019). Processing of rotational symmetry in the non-human primate brain. *[GDR Vision](https://sites.google.com/view/gdr-vision/home) annual forum, Marseille, France.*
+* **Héjja-Brichard, Y.** (2021). Workshop on Research Culture based on the [Café Culture Kit](https://wellcome.org/what-we-do/our-work/research-culture/hosting-your-cafe-culture-discussion) developed by the Wellcome Foundation. [Conférence Science Ouverte Lente Durable](https://sold21.sciencesconf.org/), Nantes, France. [[OSF folder with the French (beta) version of the Kit]](https://osf.io/k3dqy/)<br>
+* Audurier, P., **Héjja-Brichard, Y.**, Kohler, P.J., Norcia, A.M., Durand, J.-B., Cottereau, B.R. (2019). Processing of rotational symmetry in the non-human primate brain. [GDR Vision](https://sites.google.com/view/gdr-vision/home) annual forum, Marseille, France.
 
 <!-- ***Lab talks***
 * **Héjja-Brichard, Y.** (2024) Sensory drive in the era of artificial intelligence: new tools for new experiments. *Fusani Lab Day, Seebarn am Wagram, Austria.*
