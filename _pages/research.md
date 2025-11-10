@@ -65,8 +65,7 @@ A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademi
 ***Conference talks***
 
 * Mascolo, E. & **Héjja-Brichard, Y.** (2025). *Replicards*: Teaching evolution with a card game. [EvoKE
-2025 Athens Conference](https://evokeproject.org/evoke2025-athens-6th-8th-november/), Athens, Greece.
-
+2025 Athens Conference](https://evokeproject.org/evoke2025-athens-6th-8th-november/), Athens, Greece.<br>
 * Million, K., **Héjja-Brichard, Y.**, Nasir M., Tucker, S., Mendelson, T.C. (2023). Territorial competition and mate choice in the rainbow darter (*Etheostoma caeruleum*). Southeastern Fishes Council 2023 meeting, Chattanooga, TE, USA.<br>
 * **Héjja-Brichard, Y.**, Million, K., Renoult, J.P., Mendelson, T.C. (2023). Using generative artificial intelligence to test hypotheses about animal signal evolution in an ornamented fish. [Evolution 2023 meeting](https://www.evolutionmeetings.org/2023-conference-info.html), Albuquerque, NM, USA. <br>
 * ManyFishes **(incl. Héjja-Brichard, Y.)** (2023) Using the detour task to assess inhibitory control across the fish taxon. 30th Annual International Conference on Comparative Cognition, Melbourne Beach, FL, USA.<br>
