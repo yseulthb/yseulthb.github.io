@@ -45,7 +45,9 @@ Topic: automatic stress assesment in a wild bird. <br>
 <details>
 <summary><h3>Automatic stress assesment in a wild bird 🐤</h3>
 </summary>
-More soon...
+In collaboration with Caroline Deimel (+ funding from the <a href="https://www.wildanimalinitiative.org/grantees/caroline-deimel" target="_blank">Wild Animal Initiative</a>).
+
+More details to come.
 </details>
 
 <details>
