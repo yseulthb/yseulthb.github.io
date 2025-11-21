@@ -41,9 +41,15 @@ Topic: automatic stress assesment in a wild bird. <br>
 🎓 *Beside current openings, if you are interested in my ongoing projects or have related ideas you would like to explore for your bachelor's or master's thesis or for an internship, please reach out so we can discuss it!*
 
 ## Ongoing projects 
+
 <details>
-<summary><h3>Role of the dark plumage in Rifle birds 🪶</h3>
+<summary><h3>Automatic stress assesment in a wild bird 🐤</h3>
 </summary>
+More soon...
+</details>
+
+<details>
+<summary><h3>Role of the dark plumage in Rifle birds 🪶</h3></summary>
 
 Using avian vision modelling, we are investigating the sensory function of exceptionally black plumage in the displays of a bird of paradise—Victoria's riflebird—based on images of courting males collected in the field. <br>
 We are comparing the visual properties of the adult and immature birds' displays to investigate their detectability.<br><br>
