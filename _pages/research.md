@@ -29,12 +29,6 @@ A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademi
 
 ***Peer-reviewed journal articles***
 
-* Million, K., **Héjja-Brichard, Y.**, Nasir M., Tucker, S., Mendelson, T.C. *(accepted at Ethology
-Ecology & Evolution)*. Assessing the dual utility of nuptial patterns in the rainbow darter *(Etheostoma caeruleum)*.
-
-* Million, K., **Héjja-Brichard, Y.**, Nasir M., Tucker, S., Mendelson, T.C. *(accepted at Ethology
-Ecology & Evolution)*. Assessing the dual utility of nuptial patterns in the rainbow darter *(Etheostoma caeruleum)*.
-
 * Million, K., **Héjja-Brichard, Y.**, Nasir M., Tucker, S., Mendelson, T.C. *(accepted at Ethology Ecology & Evolution)*. Assessing the dual utility of nuptial patterns in the rainbow darter *(Etheostoma caeruleum)*.
 * Prétôt, L., Agrillo, C., Bluck, B.C., Cabrera-Álvarez, M.J., **Héjja-Brichard, Y.**, ... Yeager, J. (2025). ManyFishes: A big team science collaboration on fish comparative cognition. *Animal Cognition*. ([doi](https://doi.org/10.1007/s10071-025-02031-3))
 * Zaneva, M., Coll-Martín, T., **Héjja-Brichard, Y.**, Kalandadze, T., Kis, A., . . . Zisk, A. H. (2024). Introduction to Neurodiversity: An Annotated Reading List. *eLife* ([doi](https://doi.org/10.7554/eLife.102467)). [[Preprint](https://doi.org/10.31234/osf.io/ugkxp)]
