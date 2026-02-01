@@ -16,7 +16,7 @@ toc: true
 
 {% include toc %}
 
-A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademic.pdf" target="_blank"><b>CV</b></a><br> (Last update: November 2024).
+A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademic.pdf" target="_blank"><b>CV</b></a><br> (Last update: January 2026).
 
 <!--And here is my 1-page <a href="/pdf/YHejjaBrichard_resume.pdf" target="_blank"><b>résumé.</b></a><br> -->
 
@@ -25,10 +25,12 @@ A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademi
 ### Publications 
 ***Under review or submitted***
 * **Héjja-Brichard, Y.**, Raymond, M., Cuthill, I.,  Mendelson, T.C., Renoult, J.P. *(in revision)*. Background-matching patterns are attractive: support for a processing bias. [[Preprint](https://doi.org/10.1101/2023.09.27.559753)].
-* Million, K., **Héjja-Brichard, Y.**, Nasir M., Tucker, S., Mendelson, T.C. *(in revision)*. Assessing the dual utility of nuptial patterns in the rainbow darter *(Etheostoma caeruleum)*.
 * Alessandroni, N. et al. (including **Héjja-Brichard, Y.**) *(in revision)*. Flexible Behavior or Flexible Methods? A Cross-Taxon Review of Experimental Designs in Reversal Learning. [[Preprint](https://osf.io/preprints/psyarxiv/mvche_v1)].
 
 ***Peer-reviewed journal articles***
+
+* Million, K., **Héjja-Brichard, Y.**, Nasir M., Tucker, S., Mendelson, T.C. *(accepted at Ethology
+Ecology & Evolution)*. Assessing the dual utility of nuptial patterns in the rainbow darter *(Etheostoma caeruleum)*.
 
 * Prétôt, L., Agrillo, C., Bluck, B.C., Cabrera-Álvarez, M.J., **Héjja-Brichard, Y.**, ... Yeager, J. (2025). ManyFishes: A big team science collaboration on fish comparative cognition. *Animal Cognition*. ([doi](https://doi.org/10.1007/s10071-025-02031-3))
 * Zaneva, M., Coll-Martín, T., **Héjja-Brichard, Y.**, Kalandadze, T., Kis, A., . . . Zisk, A. H. (2024). Introduction to Neurodiversity: An Annotated Reading List. *eLife* ([doi](https://doi.org/10.7554/eLife.102467)). [[Preprint](https://doi.org/10.31234/osf.io/ugkxp)]
@@ -47,12 +49,14 @@ A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademi
 * Héjja-Brichard, Y. Spatial and temporal integration of binocular disparity in the primate brain. Université Toulouse 3 - Paul Sabatier, 2020. [[pdf]](https://hal.archives-ouvertes.fr/tel-02956425/document).
 
 ***Other publications***
-* Mascolo, E. & **Héjja-Brichard, Y.** *(submitted)*. Replicards: Teaching evolution with a card game. [[Dedicated website](https://replicards.netlify.app/)]
+* Mascolo, E. & **Héjja-Brichard, Y.** Replicards: Teaching evolution with a card game. [[Dedicated website](https://replicards.netlify.app/)]
 * Open Science Monitoring Initiative (external contributor), *Principles of Open Science Monitoring*, 2025.
 ([doi](https://doi.org/10.5281/zenodo.15807481))
 
 ### Oral presentations
 ***Invited talks*** 
+* **Héjja-Brichard, Y.** (2026) From mate preferences to cognitive abilities, what can we learn from
+small river fishes? *WasserCluster Lunz, Lunz am See, Austria.*
 * **Héjja-Brichard, Y.**  (2025) Of Fishes and Birds: Computational approaches to understanding the evolution of sexual signals signals. *Department of Behavioural & Cognitive Biology, University of Vienna, Austria.*
 * **Héjja-Brichard, Y.**  (2024) In Defense of Depth: Slow Science for Sustainable Progress in Ecology and Evolution. *[Society for Open, Reliable, and Transparent Ecology and Evolutionary Biology](https://www.sortee.org/) (online conference).*
 * **Héjja-Brichard, Y.** (2024) Neural style transfer and perceptual distance to test pattern preferences in fish. *AI for ecology and evolution seminar, University of Montpellier, France.*
@@ -64,6 +68,9 @@ A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademi
 
 ***Conference talks***
 
+* **Héjja-Brichard, Y.**, Renoult, J.P., Mendelson, T.C. (2026). Comparative analysis reveals assortative
+mating preferences in darters independent of sympatry and sex. [Symposium on Fish Mating Systems](https://fish.ivb.cz/),
+Brno, Czech Republic<br>
 * Mascolo, E. & **Héjja-Brichard, Y.** (2025). *Replicards*: Teaching evolution with a card game. [EvoKE
 2025 Athens Conference](https://evokeproject.org/evoke2025-athens-6th-8th-november/), Athens, Greece.<br>
 * Million, K., **Héjja-Brichard, Y.**, Nasir M., Tucker, S., Mendelson, T.C. (2023). Territorial competition and mate choice in the rainbow darter (*Etheostoma caeruleum*). Southeastern Fishes Council 2023 meeting, Chattanooga, TE, USA.<br>
@@ -73,19 +80,6 @@ A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademi
 * **Héjja-Brichard, Y.** (2021). Workshop on Research Culture based on the [Café Culture Kit](https://wellcome.org/what-we-do/our-work/research-culture/hosting-your-cafe-culture-discussion) developed by the Wellcome Foundation. [Conférence Science Ouverte Lente Durable](https://sold21.sciencesconf.org/), Nantes, France. [[OSF folder with the French (beta) version of the Kit]](https://osf.io/k3dqy/)<br>
 * Audurier, P., **Héjja-Brichard, Y.**, Kohler, P.J., Norcia, A.M., Durand, J.-B., Cottereau, B.R. (2019). Processing of rotational symmetry in the non-human primate brain. [GDR Vision](https://sites.google.com/view/gdr-vision/home) annual forum, Marseille, France.
 
-<!-- ***Lab talks***
-* **Héjja-Brichard, Y.** (2024) Sensory drive in the era of artificial intelligence: new tools for new experiments. *Fusani Lab Day, Seebarn am Wagram, Austria.*
-* **Héjja-Brichard, Y.** (2023) Computational approaches to understanding the evolution of sexual signal design. *Department of Biological Sciences, UMBC, Baltimore, MD, USA.* <a href="/pdf/DptSeminar.pdf" target="_blank"><b>[slides]</b></a><br>
-* **Héjja-Brichard, Y.**, Raymond, M., Cuthill, I.,  Mendelson, T.C., Renoult, J.P. (2023). Visual Pattern Preferences. *Mendelson Lab Meeting, Department of Biological Sciences, UMBC, Baltimore, MD, USA.* <br> 
-* **Héjja-Brichard, Y.** (2022). Deep Learning et al. Architecture and applications. *Mendelson Lab Meeting, Department of Biological Sciences, UMBC, Baltimore, MD, USA.* <a href="/pdf/LabMeetingDL.pdf" target="_blank"><b>[slides]</b></a><br> 
-* **Héjja-Brichard, Y.** (2021). Investigating natural statistics and sexual signalling patterns with deep learning. *Department of Evolutionary and Behavioural Ecology meeting, CEFE, Montpellier, France.* <a href="/pdf/DptMeetingMay3rd.pdf" target="_blank"><b>[slides]</b></a><br> 
-* **Héjja-Brichard, Y.** (2021). Moderator of a discussion on slow science and alternative research. *[WEPASCO](https://federationfresco.fr/wepasco/), Fresco workshop (online)*
-* **Héjja-Brichard, Y.** (2021). Open Science practices in Eco/Evo. *E3CO seminar, CEFE, Montpellier, France.* <a href="/pdf/OSF_EC3Omeeting.pdf" target="_blank"><b>[slides]</b></a><br> 
-* **Héjja-Brichard, Y.** (2021). Stereovision processing in primates: A neuroimaging and pychophysics investigation. *E3CO seminar, CEFE, Montpellier, France.* <a href="/pdf/ECO3meeting_Feb01.pdf" target="_blank"><b>[slides]</b></a><br> 
-* **Héjja-Brichard, Y.** (2019). Democracy in the animal kingdom: Collaborative decision-making.  *CerCo Winter School, Pragnères, France.* <a href="/pdf/DemocracyAnimalKingdom.pdf" target="_blank"><b>[slides]</b></a><br> 
-* **Héjja-Brichard, Y.** (2018). Stereovision in the animal kingdom: Which species, at what cost, and for which advantages? *CerCo Lab Day, Muret, France* <a href="/pdf/CerCoDay_3Dvision.pdf" target="_blank"><b>[slides]</b></a><br>
-* **Héjja-Brichard, Y.** (2018). Sexism in research and at the university: Why should it matter? What can we do about it?  *CerCo Winter School, Piau-Engaly, France.* <a href="/pdf/SexismInAcademia.pdf" target="_blank"><b>[slides]</b></a><br>
-* **Héjja-Brichard, Y.** (2016). Morality and Ethics: A (very) short review. *CerCo Journal Club, Toulouse, France.* <a href="/pdf/MoralityEthicsReview.pdf" target="_blank"><b>[slides]</b></a><br> -->
 
 ***Poster presentations***
 * Prétôt, L., Bluck, B.C., Cabrera-Álvarez, M.J., **Héjja-Brichard, Y.**, Santacà, M. (2025, Oct). Hold that fin! A big-team dive into fish self-control. *Big Team Science Conference, online*.
@@ -101,54 +95,3 @@ A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademi
 * **Héjja-Brichard, Y.**, Rima, S., Durand, J.-B., Cottereau, B.R. (2017, August). Stereomotion processing in the non-human primate brain. *European Conference on Visual Perception, Berlin, Germany*. <a href="/pdf/PosterECVP.pdf" target="_blank"><b>[Poster]</b></a><br>
 * **Héjja-Brichard, Y.**, Rima, S., Trotter, Y., Banks, M.S., Durand, J.-B., Cottereau, B.R. (2015, December). Adaptation to the 3D properties of the environment in non-human primates. *GDR Vision annual forum, Grenoble, France*. <a href="/pdf/Poster_GDRvision.pdf" target="_blank"><b>[Poster]</b></a><br>
 
-<!--- * **Héjja-Brichard, Y.**, Million, K., Norwood, L.A., Katchekpele, K.S., Renoult, J.P., Mendelson, T.C. (2022, August.). Do the spatial statistics of a species’ visual environment influence mate preference in the rainbow darter fish? Bridging the Technological Gap Workshop, Göttingen, Germany. <br>
-* **Héjja-Brichard, Y.**, Renoult, J.P., Mendelson, T.C. (2022, July.). Strength of preference for conspecifics in Darters (genus Etheostoma): A within-lab meta-analysis. Animal Behavior Society, San José, Costa Rica and online. -->
-
-<!--### Open science workshop
-* Beffara, B., Beffara-Bret, A., Nalborczyk, L., **Héjja-Brichard, Y.**, & Beffara-Bret, B. (2020, February). A practical introduction to the Open Science Framework. *CRNL Workshop on Open Science, Lyon, France*. <a href="/pdf/CRNL2020.pdf" target="_blank"><b>[slides]</b></a><br>
-* **Héjja-Brichard, Y.** (2018, March). Open Science: Why and How? *CerCo's Young Scientist Meeting, Toulouse, France* <a href="/pdf/OSF_YSM18.pdf" target="_blank"><b>[slides]</b></a><br>
-* Beffara, B., Nalborczyk, L., **Héjja-Brichard, Y.**, & Bret, A. (2017, November). Open, slow, and sustainable science. *PhD student Day of the LPNC lab, Grenoble, France.* -->
-
-<!-- ## Professional Involvement 
-
-### Membership
-* Research Network Data Science at Uni Vienna (2024 - present)
-* Association for Women in Science (2023 - present)
-* Animal Behavior Society (2022 - present)
-* Comparative Cognition Society (2022 - present) 
-* SORTEE, Society for Open, Reliable, and Transparent Ecology and Evolutionary Biology (2021 - present)
-* National Postdoctoral Association (2021 - present)
-* Association for the Study of Animal Behaviour (2020 - present)
-* Center for Open Science, Ambassador (2018 – Present)
-<!--  * Cognitive Science Society (2020 - 2021) -->
-<!-- * Society for Neuroscience (2018, 2023) 
-
-### Attended Workshop & Summer schools
-* 2022 (August): **Brains, Minds, & Machines** (Woods Hole, MA), an intensive three-week course on the problem of intelligence: how the brain produces intelligent behavior and how we may be able to replicate intelligence in machines. Personal project on multi-agent reinforcement learning. [[Course description]](https://cbmm.mit.edu/summer-school/2022)
-* 2021 (August): **Neuromatch Academy: Deep Learning**, an intensive three-week summer school comprising tutorials and group projects organised by [Neuromatch](https://neuromatch.io/) (online). [[Syllabus]](https://deeplearning.neuromatch.io/tutorials/intro.html). Group project: "Assessing the robustness against word permutations of CNNs and LSTMs in semantic similarity learning".
-* 2020 (June): **2020 Lincoln Animal Cognition Conference**, organised by the Doctoral School of the University of Lincoln, UK (online).
-* 2018 (November): **2018 Primate Welfare Meeting**, organised by the NC3Rs in London, UK.
-* 2018 (May): **The 6th Toulouse Economics and Biology Workshop**, on the theme '[Evolution, Cognition, and Rationality](http://www.iast.fr/conferences/2018-6th-toulouse-economics-and-biology-workshop)' organised by the Institute for Advanced Study in Toulouse, France.
-* 2017 (March): **Statistics workshop** on advanced statistical methods using R software taught by [Martijn Wieling](http://www.martijnwieling.nl/presentations) (University of Groningen, The Netherlands) organised at the CerCo Lab
-* 2016 (November): **Statistics workshop**: "Building Confidence Intervals with R" taught by Jean-Michel Hupé (CerCo, CNRS Toulouse, France) [(pdf)](https://gdrvision2016.sciencesconf.org/data/pages/GDRvision2016_ConfidenceIntervalsBasics.pdf)
-* 2016 (April): **Ethics in research** "[Aspects éthiques de la recherche en biologie et enjeux de société](https://societal.genotoul.fr/wp-content/uploads/2018/03/Module-2016-DP04-B-Programme.pdf)" organised by a doctoral school (BSB-Biologie, Santé, Biotechnologie), Toulouse, France.
-* 2015 (November): **Statistics workshop**: " Statistical methods for Signal Detection Models in Psychophysics" taught by Kenneth Knoblauch (Inserm, Lyon) and "Mixed models (GLMM) for vision data" taught by Rafaël Laboissière (LPNC, Grenoble)
-
-### Lab Community Involvement
-* Organisation of the first edition of the Lab Student Day (2019) and the Lab Winter School (2017, 2018)
-* Co-creation of a Welcome Kit for new students and postdocs (2019)
-* Student representative at the Lab Council (2017-2018)
-* Co-organisation of a conference to promote open, slow, and sustainable scientific practices for the French speaking community: [SOLD21](https://sold21.sciencesconf.org/) (July 2021)
-* Ambassador for the Center for Open Science: [COS](https://cos.io/) (2018-present)
-
-## Popularisation of science
-* Coordination of a thematic issue on Altruism in the animal kingdom for the new magazine "[Perspectives](https://fr.calameo.com/books/007072654fda4d195be72)" (Spring 2022).
-* Moderator of a discussion on slow science and research outside academia (March 2021), [WEPASCO](https://federationfresco.fr/wepasco/), Fresco (online)
-* Public presentation on visual illusions (March 2019) for the [Brain Awareness Week](https://www.semaineducerveau.fr/manifestation/les-illusions-visuelles-une-illusion-du-cerveau/) at Quai des Savoirs, a cultural centre in Toulouse: "Les illusions visuelles, une illusion du cerveau?" <a href="/pdf/illu_visu.pdf" target="_blank"><b>[slides]</b></a><br>
-* Public presentation on the study of 3D vision in animals  (February 2017) ["En tête à tête avec un jeune chercheur"](http://www.univ-toulouse.fr/sites/default/files/dp-avis_de_recherche-lactualite_par_les_jeunes_chercheurs-5fev2017.pdf), Museum de Toulouse: "La vision 3D : mieux qu’au cinéma !"
-* Article (March 2017, in French) about the evolution of 3D vision in animals, written for Muséum Toulouse (Museum of Natural sciences): 
-*Yseult Héjja-Brichard & Benoit R. Cottereau "Evolution et vision : le vivant a de la profondeur !" ([here](http://www.museum.toulouse.fr/-/evolution-et-vision-le-vivant-a-de-la-profondeur-))*
-
-<!-- * Member of [InCOGnu](http://incognu.fr/), an organisation of students and young researchers in cognitive science in the Toulouse area, France. We organise monthly conferences, workshops for the general audience (adults and children) and take part in various events of science popularisation (Pint of Science, Brain Awareness Week, National Forum of cognitive science, Scientilivre). We also give talks about multiple topics in the field of cognitive sciences. <br> 
-
-* Member of [FRESCO](https://federationfresco.fr/), a French organisation, uniting at the national level all the regional organisations involved in popularising cognitive science. The FRESCO also has projects on its own. There, I am part of the Perspectives team that aims to create a new magazine to share scientific content in the field of cognitive sciences with different audiences. -->
