@@ -47,7 +47,7 @@ A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademi
 * Héjja-Brichard, Y. Spatial and temporal integration of binocular disparity in the primate brain. Université Toulouse 3 - Paul Sabatier, 2020. [[pdf]](https://hal.archives-ouvertes.fr/tel-02956425/document).
 
 ***Other publications***
-* Mascolo, E. & **Héjja-Brichard, Y.** Replicards: Teaching and simulating evolution with a card-based experiment. EcoEvoRxiv preprint: https://doi.org/10.32942/X2KQ1H. [[Dedicated website](https://replicards.netlify.app/)]
+* Mascolo, E. & **Héjja-Brichard, Y.** Replicards: Teaching and simulating evolution with a card-based experiment. EcoEvoRxiv preprint: [https://doi.org/10.32942/X2KQ1H](https://doi.org/10.32942/X2KQ1H). [[Dedicated website](https://replicards.netlify.app/)]
 * Open Science Monitoring Initiative (external contributor), *Principles of Open Science Monitoring*, 2025.
 ([doi](https://doi.org/10.5281/zenodo.15807481))
 
