@@ -48,7 +48,7 @@ In collaboration with Caroline Deimel and with her funding from the <a href="htt
 <details>
 <summary><h3>Role of the dark plumage in Rifle birds 🪶</h3></summary>
 
-Using avian vision modelling, we are investigating the sensory function of exceptionally black plumage in the displays of a bird of paradise—Victoria's riflebird—based on images of courting males collected in the field. <br>
+Using avian vision modelling, we are investigating the sensory function of exceptionally black plumage in the displays of a bird of paradise, the Victoria's riflebird (<i>Ptiloris victoriae</i>), based on images of courting males collected in the field. <br>
 We are comparing the visual properties of the adult and immature birds' displays to investigate their detectability.
 I will present our results at the conference of the <a href="https://isbe2026.com/" target="_blank">International Society for Behavioural Ecology</a> this July in Turin, Italy. And a paper should follow soon. Exciting times! <br><br>
 
@@ -61,7 +61,7 @@ I will present our results at the conference of the <a href="https://isbe2026.co
 </summary>
 
 Are manakins learning their nuptial parade from each other or is it genetically pre-determined?<br>
-We are investigating this question in the golden-collared manakin (*Manacus vitellinus*) by combining behavioural, spatial, and genetic data. <br><br>
+We are investigating this question in the golden-collared manakin (<i>Manacus vitellinus</i>) by combining behavioural, spatial, and genetic data. <br><br>
 
 <a title="Staven, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Stavenn_Manacus_vitellinus.jpg"><img width="256" alt="Stavenn Manacus vitellinus" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Stavenn_Manacus_vitellinus.jpg?20141220204422"></a>
 <br><br>
