@@ -23,8 +23,6 @@ A few years ago, I already had the opportunity to give a talk about Slow Science
 
 Below, I have added the various references and resources I could accumulate on the topic, as well as some existing initiatives that promote better / alternative ways of doing science. [latest update: Nov. 2024]
 
-You can also find some of my reflections in response to this question I was asked: "How do I implement slow science principles in my research practice?" [[here](https://yseulthb.github.io/slow_research/)]
-
 ## Scientific papers
 - Berg, L.D., Huijbens, E.H., Larsen, H.G. (2016). Producing anxiety in the neoliberal university. The Canadian Geographer / Le Géographe canadien, 60: 168-180. [[DOI]](https://doi.org/10.1111/cag.12261)
 - Brown NJL (2024) Fixing science means an end to gaming the system. PLOS Biology 22(9): e3002816. [[DOI]](https://doi.org/10.1371/journal.pbio.3002816)
