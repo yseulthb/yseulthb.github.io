@@ -26,7 +26,7 @@ A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademi
 ***Under review or submitted***
 * **Héjja-Brichard, Y.**, Raymond, M., Cuthill, I.,  Mendelson, T.C., Renoult, J.P. *(in revision)*. Background-matching patterns are attractive: support for a processing bias. [[Preprint](https://doi.org/10.1101/2023.09.27.559753)].
 * Alessandroni, N. et al. (including **Héjja-Brichard, Y.**) *(in revision)*. Flexible Behavior or Flexible Methods? A Cross-Taxon Review of Experimental Designs in Reversal Learning. [[Preprint](https://osf.io/preprints/psyarxiv/mvche_v1)].
-* **Héjja-Brichard, Y.**, MacGillavry, T.*, Fusani, L. *(submitted)*. Courting male riflebirds create optical black holes to attract females.
+* **Héjja-Brichard, Y.**, MacGillavry, T., Fusani, L. *(submitted)*. Courting male riflebirds create optical black holes to attract females. *(shared first authorship with T. MacGillavry)*
 
 ***Peer-reviewed journal articles***
 
