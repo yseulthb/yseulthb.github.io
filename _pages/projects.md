@@ -50,7 +50,7 @@ In collaboration with Caroline Deimel and with her funding from the <a href="htt
 
 Using avian vision modelling, we are investigating the sensory function of exceptionally black plumage in the displays of a bird of paradise—Victoria's riflebird—based on images of courting males collected in the field. <br>
 We are comparing the visual properties of the adult and immature birds' displays to investigate their detectability.
-I will present our results at the conference of the [International Society for Behavioural Ecology](https://isbe2026.com/) this July in Turin, Italy. And a paper should follow soon. Exciting times! <br><br>
+I will present our results at the conference of the <a href="https://isbe2026.com/" target="_blank">International Society for Behavioural Ecology</a> this July in Turin, Italy. And a paper should follow soon. Exciting times! <br><br>
 
 <img src="/pdf/immature_display.png" alt="Immature Rifle Bird" width="300"/>
 <br><br>
