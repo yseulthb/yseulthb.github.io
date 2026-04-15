@@ -41,16 +41,16 @@ Can we leverage observations reported online, e.g. on iNaturalist, to complement
 <details>
 <summary><h3>Automatic stress assesment in a wild bird 🐤</h3>
 </summary>
-In collaboration with Caroline Deimel (+ funding from the <a href="https://www.wildanimalinitiative.org/grantees/caroline-deimel" target="_blank">Wild Animal Initiative</a>).
+In collaboration with Caroline Deimel and with her funding from the <a href="https://www.wildanimalinitiative.org/grantees/caroline-deimel" target="_blank">Wild Animal Initiative</a>, who enabled us to hire Diego Monge, a master student at the University of Vienna, we are working on developing a tool to automatically count breathing rates of different bird species. Breathing rate is a good indicator of stress in birds but is hard to manually count, making most measures less reliable. Having a tool where one can upload a video of a handled bird and extract breath counts along with other variables of interest would simplify field work and provide a more stable estimate. This is what we're trying to do, stay tuned as we  progress towards our goal!
 
-More details to come.
 </details>
 
 <details>
 <summary><h3>Role of the dark plumage in Rifle birds 🪶</h3></summary>
 
 Using avian vision modelling, we are investigating the sensory function of exceptionally black plumage in the displays of a bird of paradise—Victoria's riflebird—based on images of courting males collected in the field. <br>
-We are comparing the visual properties of the adult and immature birds' displays to investigate their detectability.<br><br>
+We are comparing the visual properties of the adult and immature birds' displays to investigate their detectability.
+I will present our results at the conference of the [International Society for Behavioural Ecology](https://isbe2026.com/) this July in Turin, Italy. And a paper should follow soon. Exciting times! <br><br>
 
 <img src="/pdf/immature_display.png" alt="Immature Rifle Bird" width="300"/>
 <br><br>
@@ -61,7 +61,7 @@ We are comparing the visual properties of the adult and immature birds' displays
 </summary>
 
 Are manakins learning their nuptial parade from each other or is it genetically pre-determined?<br>
-We are investigating this question with behavioural, spatial, and genetic data. <br><br>
+We are investigating this question in the golden-collared manakin (*Manacus vitellinus*) by combining behavioural, spatial, and genetic data. <br><br>
 
 <a title="Staven, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Stavenn_Manacus_vitellinus.jpg"><img width="256" alt="Stavenn Manacus vitellinus" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Stavenn_Manacus_vitellinus.jpg?20141220204422"></a>
 <br><br>
