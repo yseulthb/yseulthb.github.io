@@ -17,6 +17,8 @@ title: Slow Science
 
 {% include toc %}
 
+Slow Science is defined in comparison with the slow food movement (see the [wiki page](https://en.wikipedia.org/wiki/Slow_Food) to know more about this Italy-originating movement) where quality is praised, bilateral relationships between actors of an ecosystem are necessary for all parties involved to be able to voice their needs, concerns and interests. The science philosopher [Isabelle Stengers](https://en.wikipedia.org/wiki/Isabelle_Stengers) has contributed a lot to defining and making this movement better known. You will find her seminal book referenced further down.
+
 I recently gave a talk on Slow Science x Eco/Evo for [SORTEE](https://www.sortee.org/). [[Webinar info]](https://events.humanitix.com/sortee-webinar-in-defense-of-depth-slow-science-for-sustainable-progress-in-ecology-and-evolution). You can find the presentation <a href="/pdf/SlowScienceSORTEE.pdf" target="_blank">[here]</a>.
 
 A few years ago, I already had the opportunity to give a talk about Slow Science at the online conference [LiveMEEG2020](https://livemeeg2020.org/) in October 2020. You can access my slides <a href="/pdf/SlowScience.pdf" target="_blank">[here]</a> to have an overview of my presentation. 
