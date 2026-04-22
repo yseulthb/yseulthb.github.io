@@ -27,8 +27,10 @@ summary > * {
 </style>
 
 ### 🚨 Current openings
-- 🐟 **Data-science project for BSc/MSc students**: How many different fish species occupy a specific river? Are they around the whole year or do they follow seasonal migratory patterns? How quickly can we detect invasive species? <br>
-Can we leverage observations reported online, e.g. on iNaturalist, to complement traditional river surveys? <br>
+- 🐟 **Internship project for BSc/MSc students**: How many different fish species occupy a specific river? Are they around the whole year or do they follow seasonal migratory patterns? How quickly can we detect invasive species? <br>
+Usual fish counting methods rely on a knowledgeable team of people who sample
+specific portions of rivers once a year to determine what species live there. If this method is very precise, it is time consuming and limited to specific river portions. <br>
+Could we leverage citizen science and observation data base, such as iNaturalist, to complement those river surveys?  <br>
 **➡️ Internship description: 
 <a href="/pdf/Internship_iNat_darters.pdf" target="_blank">[English]</a> and <a href="/pdf/Stage_iNat_darters.pdf" target="_blank">[French]</a>.**
 
@@ -41,7 +43,7 @@ Can we leverage observations reported online, e.g. on iNaturalist, to complement
 <details>
 <summary><h3>Automatic stress assesment in a wild bird 🐤</h3>
 </summary>
-In collaboration with Caroline Deimel and with her funding from the <a href="https://www.wildanimalinitiative.org/grantees/caroline-deimel" target="_blank">Wild Animal Initiative</a>, who enabled us to hire Diego Monge, a master student at the University of Vienna, we are working on developing a tool to automatically count breathing rates of different bird species. Breathing rate is a good indicator of stress in birds but is hard to manually count, making most measures less reliable. Having a tool where one can upload a video of a handled bird and extract breath counts along with other variables of interest would simplify field work and provide a more stable estimate. This is what we're trying to do, stay tuned as we  progress towards our goal!
+In collaboration with <a href="https://fusanilab.org/people/caroline-deimel/" target="_blank">Caroline Deimel</a>, I am working on developing a tool to automatically count breathing rates of different bird species. Breathing rate is a good indicator of stress in birds but is hard to count, resulting in unreliable measures. Having a tool where one can upload a video of a handled bird and extract breath counts along with other variables of interest would simplify field work and provide a more stable estimate. Thanks to Caro's funding from the <a href="https://www.wildanimalinitiative.org/grantees/caroline-deimel" target="_blank">Wild Animal Initiative</a>, we could hire Diego Monge, a master student at the University of Vienna, and together we made good progress on the project. We are now working on including as many bird species as we can. Stay tuned!
 
 </details>
 
@@ -49,8 +51,8 @@ In collaboration with Caroline Deimel and with her funding from the <a href="htt
 <summary><h3>Role of the dark plumage in Rifle birds 🪶</h3></summary>
 
 Using avian vision modelling, we are investigating the sensory function of exceptionally black plumage in the displays of a bird of paradise, the Victoria's riflebird (<i>Ptiloris victoriae</i>), based on images of courting males collected in the field. <br>
-We are comparing the visual properties of the adult and immature birds' displays to investigate their detectability.
-I will present our results at the conference of the <a href="https://isbe2026.com/" target="_blank">International Society for Behavioural Ecology</a> this July in Turin, Italy. And a paper should follow soon. Exciting times! <br><br>
+We are comparing the visual properties of the adult and immature birds' displays (see the picture below) to investigate their detectability.
+I will present our results at the conference of the <a href="https://isbe2026.com/" target="_blank">International Society for Behavioural Ecology</a> this July in Turin, Italy. And our paper should follow soon. Exciting times! <br><br>
 
 <img src="/pdf/immature_display.png" alt="Immature Rifle Bird" width="300"/>
 <br><br>
@@ -71,9 +73,9 @@ We are investigating this question in the golden-collared manakin (<i>Manacus vi
 <summary><h3>Evolution of visual sexual signals in darters 🐟</h3>
 </summary>
 
-[DarterBase] I aim to examine a broad range of factors susceptible to promoting sexual signal diversity in <i>Etheostoma</i> (darters), a genus of fish species that exhibit diversity in morphology, habitat preferences, nuptial ornamentation, parental care, and spawning behaviour, as well as community composition and structure. <br><br>
+I aim to examine a broad range of factors susceptible to promoting sexual signal diversity in <i>Etheostoma</i> (darters), a genus of fish species that exhibit diversity in morphology, habitat preferences, nuptial ornamentation, parental care, and spawning behaviour, as well as community composition and structure. <br><br>
 
-[VAE] Using variational auto-encoders as models of the visual system, I plan to investigate the relationship between habitat characteristics and signal patterns of a species and assess the effectiveness of animal designs from the point of view of the individual recipient.
+Using variational auto-encoders as models of the visual system, I plan to investigate the relationship between habitat characteristics and signal patterns of darters and assess the effectiveness of their designs from the point of view of the receiver.
 <br><br>
 
 <img src="/pdf/darters.png" alt="Example of males of four different species of the genus Etheostoma." width="400"/>
