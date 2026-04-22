@@ -75,23 +75,21 @@ analytics:
 author:
   name             : ""
   avatar           : "/assets/images/yseult2025.jpeg" 
-  bio              : "Postdoctoral researcher in behavioural ecology. PhD in cognitive neuroscience. I'm also learning to engage in and promote a better science: open, inclusive, accessible; slow."
+  bio              : "Postdoctoral researcher in visual cognition x ecology and evolution. Also learning to engage in and promote a better science: open, inclusive, accessible; slow."
   location         : Vienna, Austria
   email            : "yseulthb@gmail.com"
   github           : "yseulthb"
   gitlab           : "yseulthb"
+  Bluesky          : "izziehb.bsky.social"
+  ResearchGate     : "Yseult_Hejja-Brichard"
+  Scholar          : "citations?user=B7sULyEAAAAJ&hl=en&oi=ao"
+  linkedin          : "yseulthejjabrichard"
+  #Publons          : "3229877"
   #twitter          : ""
   #Mastodon         : ""
   #OSF              : "nd82r"
-  #Bluesky          : "izziehb.bsky.social"
-  ResearchGate     : "Yseult_Hejja-Brichard"
-  Scholar          : "citations?user=B7sULyEAAAAJ&hl=en&oi=ao"
-  #Publons          : "3229877"
-  linkedin          : "yseulthejjabrichard"
-  links             :
-    - label: Bluesky
-      icon: "fa-brands fa-bluesky"
-      url: "https://bsky.app/profile/izziehb.bsky.social"
+
+  
   
 #links: 
     #- label: "OSF" 
