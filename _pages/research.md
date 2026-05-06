@@ -24,12 +24,12 @@ A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademi
 
 ### Publications 
 ***Under review or submitted***
-* **Héjja-Brichard, Y.**, Raymond, M., Cuthill, I.,  Mendelson, T.C., Renoult, J.P. *(in revision)*. Background-matching patterns are attractive: support for a processing bias. [[Preprint](https://doi.org/10.1101/2023.09.27.559753)].
 * Alessandroni, N. et al. (including **Héjja-Brichard, Y.**) *(in revision)*. Flexible Behavior or Flexible Methods? A Cross-Taxon Review of Experimental Designs in Reversal Learning. [[Preprint](https://osf.io/preprints/psyarxiv/mvche_v1)].
 * **Héjja-Brichard, Y.**, MacGillavry, T., Fusani, L. *(under review)*. Courting male riflebirds create optical black holes to attract females. *(shared first authorship with T. MacGillavry)*
 
 ***Peer-reviewed journal articles***
 
+* **Héjja-Brichard, Y.**, Raymond, M., Cuthill, I.,  Mendelson, T.C., Renoult, J.P. *(accepted in Animal Behaviour)*. Background-matching patterns are attractive: support for a processing bias. [[Preprint](https://doi.org/10.1101/2023.09.27.559753)].
 * Million, K., **Héjja-Brichard, Y.**, Nasir M., Tucker, S., Mendelson, T.C. (2026). Assessing the dual utility of nuptial patterns in the rainbow darter *(Etheostoma caeruleum)*. *Ethology Ecology & Evolution* ([doi](https://doi.org/10.1080/03949370.2026.2630783)).
 * Prétôt, L., Agrillo, C., Bluck, B.C., Cabrera-Álvarez, M.J., **Héjja-Brichard, Y.**, ... Yeager, J. (2025). ManyFishes: A big team science collaboration on fish comparative cognition. *Animal Cognition* ([doi](https://doi.org/10.1007/s10071-025-02031-3)).
 * Zaneva, M., Coll-Martín, T., **Héjja-Brichard, Y.**, Kalandadze, T., Kis, A., . . . Zisk, A. H. (2024). Introduction to Neurodiversity: An Annotated Reading List. *eLife* ([doi](https://doi.org/10.7554/eLife.102467)). [[Preprint](https://doi.org/10.31234/osf.io/ugkxp)]
