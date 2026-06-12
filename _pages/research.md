@@ -67,6 +67,7 @@ small river fishes? *WasserCluster Lunz, Lunz am See, Austria.*
 
 ***Conference talks***
 
+* **Héjja-Brichard, Y.**, MacGillavry, T., Fusani, L. (2026, September). Optical black holes enhance the detectability of riflebird displays: multi-level functionality of a visual signal. [Italian Society for Evolutionary Biology](https://www.sibe-iseb.it/firenze2026), Florence, Italy.<br>
 * **Héjja-Brichard, Y.**, MacGillavry, T., Fusani, L. (2026, July). Optical black holes enhance the detectability of riflebird displays: multi-level functionality of a visual signal. [International Society for Behavioral Ecology](https://isbe2026.com/), Turin, Italy.<br>
 * **Héjja-Brichard, Y.**, Renoult, J.P., Mendelson, T.C. (2026). Comparative analysis reveals assortative mating preferences in darters independent of sympatry and sex. [Symposium on Fish Mating Systems](https://fish.ivb.cz/),
 Brno, Czech Republic<br>
