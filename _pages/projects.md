@@ -27,12 +27,6 @@ summary > * {
 </style>
 
 <!-- ### 🚨 Current openings
-- 🐟 **Internship project for BSc/MSc students**: How many different fish species occupy a specific river? Are they around the whole year or do they follow seasonal migratory patterns? How quickly can we detect invasive species? <br>
-Usual fish counting methods rely on a knowledgeable team of people who sample
-specific portions of rivers once a year to determine what species live there. If this method is very precise, it is time consuming and limited to specific river portions. <br>
-Could we leverage citizen science and observation data base, such as iNaturalist, to complement those river surveys?  <br>
-**➡️ Internship description: 
-<a href="/pdf/Internship_iNat_darters.pdf" target="_blank">[English]</a> and <a href="/pdf/Stage_iNat_darters.pdf" target="_blank">[French]</a>.** -->
 
 <!-- - upcoming: several internship positions for Bsc/Msc students in biology and related fields to conduct behavioural experiments in captive cichlids (topic: group dynamics in response to stressors) 
 
@@ -60,7 +54,7 @@ I will present our results at the conference of the <a href="https://isbe2026.co
 <br><br>
 </details>
 
-<details>
+<!--<details>
 <summary><h3>Complex courtship behaviour in Manakin 🐦</h3>
 </summary>
 
@@ -69,7 +63,7 @@ We are investigating this question in the golden-collared manakin (<i>Manacus vi
 
 <a title="Staven, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Stavenn_Manacus_vitellinus.jpg"><img width="256" alt="Stavenn Manacus vitellinus" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Stavenn_Manacus_vitellinus.jpg?20141220204422"></a>
 <br><br>
-</details>
+</details> -->
 
 
 
@@ -100,7 +94,7 @@ Our paper is published in <i>Ecology and Evolution</i> and can be accessed <a hr
 </summary>
 
 “Processing bias” has been proposed as a pre-existing perceptual bias that could explain the origin of preferences and the evolution of sexual signals. One of its predictions is that stimuli that resemble the underlying spatial patterns of natural scenes, such as background-matching patterns, will be processed more efficiently and experienced as pleasant, or attractive. This hypothesis is rooted in information theory and supported by a substantial body of research in psychology and neuroscience, largely untapped in evolutionary biology. Here we provide the first evidence that camouflage patterns are attractive.  In a series of online experiments, we found that abstract patterns are more attractive when they match their background, setting the stage for camouflage as an evolutionary precursor to sexual signalling. Our results therefore challenge conventional assumptions about the relationship between natural and sexual selection in signal evolution, and they generate new predictions about the role of the environment in animal communication. <br>
-Our paper is currently under review but its preprint version is on <i>bioRxiv</i>: <a href="https://doi.org/10.1101/2023.09.27.559753" target="_blank">[here]</a>.<br><br>
+Our paper has been accepted in <i>Animal Behaviour</i> and should be soon available online. In the meantime, the accepted version is on <i>bioRxiv</i>: <a href="https://doi.org/10.1101/2023.09.27.559753" target="_blank">[here]</a>.<br><br>
 </details>
 
 <details>
