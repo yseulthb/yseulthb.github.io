@@ -46,12 +46,21 @@ In collaboration with <a href="https://fusanilab.org/people/caroline-deimel/" ta
 <details>
 <summary><h3>Role of the dark plumage in Rifle birds 🪶</h3></summary>
 
-Using avian vision modelling, we are investigating the sensory function of exceptionally black plumage in the displays of a bird of paradise, the Victoria's riflebird (<i>Ptiloris victoriae</i>), based on images of courting males collected in the field. <br>
-We are comparing the visual properties of the adult and immature birds' displays (see the picture below) to investigate their detectability.
-I will present our results at the conference of the <a href="https://isbe2026.com/" target="_blank">International Society for Behavioural Ecology</a> this July in Turin, Italy. And our paper should follow soon. Exciting times! <br><br>
+Using avian vision modelling, we have investigated the sensory function of exceptionally black plumage in the displays of a bird of paradise, the Victoria's riflebird (<i>Ptiloris victoriae</i>), based on images of courting males collected in the field. <br>
+We compared the visual properties of the adult and immature birds' displays (see the picture below) to investigate their detectability.
+I have presented our results at the conference of the <a href="https://isbe2026.com/" target="_blank">International Society for Behavioural Ecology</a> this July in Turin, Italy. And shortly before we shared them as a preprint, which you can access <a href="https://doi.org/10.32942/X2B963" target="_blank">here</a>. Exciting times! <br><br>
 
 <img src="/pdf/immature_display.png" alt="Immature Rifle Bird" width="300"/>
 <br><br>
+</details>
+
+
+<details>
+<summary><h3>Analysing the visual patterns of darters dorsal fins 🐟</h3></summary>
+
+Following Sam Hulse's <a href="https://doi.org/10.1038/s41467-020-16389-0" target="_blank">study</a> on the positive correlation between darters male body nuptial patterns and the visual characteristics of their habitats, I am now investigating whether darters dorsal fins might show a similar pattern. This is especially relevant as darters mostly erect those dorsal fins in sexual selection contexts, whether for courting or for discouraging a competitor. This also builds up on experimental studies in  <a href="https://www.mendelsonlab.net/" target="_blank">Tamra Mendelson's lab</a> where preferences for modified dorsal fin patterns were tested in a couple of species. <br>
+More soon :)
+
 </details>
 
 <!--<details>
@@ -127,7 +136,7 @@ We made the content publicly available and freely re-usable on this <a href="htt
 
 Since 2020, I have been involved in the content creation of the magazine "Perspectives" for <a href="https://federationfresco.fr/" target="_blank">Fresco</a>, a French national organisation involved in popularising cognitive sciences, while targeting diverse audiences.<br>
 I coordinated a thematic issue on altruism in animals for the first issue and am currently an editor for the second issue. <br>
-You can access the first issue here <i>(in French)</i>: <a href="https://www.calameo.com/read/007072654fda4d195be72" target="_blank">[Numero 1]</a>.
+You can access the first issue here <i>(in French)</i>: <a href="https://www.calameo.com/read/007072654fda4d195be72" target="_blank">[Numero 1]</a> and our second issue should be out in the Fall 2026! 
 <br>
 
 </details>
