@@ -103,8 +103,8 @@ Our paper is published in <i>Ecology and Evolution</i> and can be accessed <a hr
 </summary>
 
 “Processing bias” has been proposed as a pre-existing perceptual bias that could explain the origin of preferences and the evolution of sexual signals. One of its predictions is that stimuli that resemble the underlying spatial patterns of natural scenes, such as background-matching patterns, will be processed more efficiently and experienced as pleasant, or attractive. This hypothesis is rooted in information theory and supported by a substantial body of research in psychology and neuroscience, largely untapped in evolutionary biology. Here we provide the first evidence that camouflage patterns are attractive.  In a series of online experiments, we found that abstract patterns are more attractive when they match their background, setting the stage for camouflage as an evolutionary precursor to sexual signalling. Our results therefore challenge conventional assumptions about the relationship between natural and sexual selection in signal evolution, and they generate new predictions about the role of the environment in animal communication. <br>
-Our paper has been accepted in <i>Animal Behaviour</i> and should be soon available online. In the meantime, the accepted version is on <i>bioRxiv</i>: <a href="https://doi.org/10.1101/2023.09.27.559753" target="_blank">[here]</a>.<br><br>
-</details>
+Our paper was recently published in <i>Animal Behaviour</i> and can be reached at this link <a href="https://doi.org/10.1016/j.anbehav.2026.123700" target="_blank">[here]</a>.<br><br>
+</details> 
 
 <details>
 <summary><h3>Understanding how the primate brain processes tridimensional visual information that is extracted from binocular disparities 🧠 </h3>
