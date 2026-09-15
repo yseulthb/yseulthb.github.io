@@ -48,7 +48,10 @@ In collaboration with <a href="https://fusanilab.org/people/caroline-deimel/" ta
 
 Using avian vision modelling, we have investigated the sensory function of exceptionally black plumage in the displays of a bird of paradise, the Victoria's riflebird (<i>Ptiloris victoriae</i>), based on images of courting males collected in the field. <br>
 We compared the visual properties of the adult and immature birds' displays (see the picture below) to investigate their detectability.
-I have presented our results at the conference of the <a href="https://isbe2026.com/" target="_blank">International Society for Behavioural Ecology</a> this July in Turin, Italy. And shortly before we shared them as a preprint, which you can access <a href="https://doi.org/10.32942/X2B963" target="_blank">here</a>. Exciting times! <br><br>
+I have presented our results at the conference of the <a href="https://isbe2026.com/" target="_blank">International Society for Behavioural Ecology (ISBE)</a> in July in Turin, Italy and at the <a href="https://www.sibe-iseb.it/firenze2026" target="_blank">Italian Society of Evolutionary Biology (SIBE)</a> taking place in Firenze/Florence in September. There, my presentation was selected as second best talk, which is encouraging as people were nicely engaged in our research! To know more, have a look at our preprint, which you can access <a href="https://doi.org/10.32942/X2B963" target="_blank">here</a>. Our paper is currently in revision and we hope it will be out early 2027. Exciting times! <br><br>
+
+
+
 
 <img src="/pdf/immature_display.png" alt="Immature Rifle Bird" width="300"/>
 <br><br>
@@ -63,20 +66,21 @@ More soon :)
 
 </details>
 
-<!--<details>
-<summary><h3>Complex courtship behaviour in Manakin 🐦</h3>
-</summary>
-
-Are manakins learning their nuptial parade from each other or is it genetically pre-determined?<br>
-We are investigating this question in the golden-collared manakin (<i>Manacus vitellinus</i>) by combining behavioural, spatial, and genetic data. <br><br>
-
-<a title="Staven, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Stavenn_Manacus_vitellinus.jpg"><img width="256" alt="Stavenn Manacus vitellinus" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Stavenn_Manacus_vitellinus.jpg?20141220204422"></a>
-<br><br>
-</details> -->
-
 
 
 ## Past projects
+
+<details>
+<summary><h3>Attractiveness of visual patterns in humans 💻</h3>
+</summary>
+
+“Processing bias” has been proposed as a pre-existing perceptual bias that could explain the origin of preferences and the evolution of sexual signals. One of its predictions is that stimuli that resemble the underlying spatial patterns of natural scenes, such as background-matching patterns, will be processed more efficiently and experienced as pleasant, or attractive. This hypothesis is rooted in information theory and supported by a substantial body of research in psychology and neuroscience, largely untapped in evolutionary biology. Here we provide the first evidence that camouflage patterns are attractive.  In a series of online experiments, we found that abstract patterns are more attractive when they match their background, setting the stage for camouflage as an evolutionary precursor to sexual signalling. Our results therefore challenge conventional assumptions about the relationship between natural and sexual selection in signal evolution, and they generate new predictions about the role of the environment in animal communication. <br>
+Our paper is published in <i>Animal Behaviour</i> and is available <a href="https://doi.org/10.1016/j.anbehav.2026.123700" target="_blank">[here]</a>.<br>
+
+The publication was highlighted in the 8th issue of the Vienna Research Radar, an initiative of the <a href="https://wwtf.at/wwtf/about-us/" target="_blank">WWTF</a> ! You can read the nice summary they wrote <a href="https://research.wwtf.at/issue-08.html" target="_blank">[here]</a>.
+
+
+</details>
 
 <details>
 <summary><h3>Mate preference and natural statistics in darters 🐟</h3>
@@ -86,7 +90,7 @@ We designed and conducted several behavioural experiments to understand how natu
 The main idea relies on the principle that more frequent stimuli are easier (faster, more efficient) to process because the visual system has adapted to them. Could this 'ease' of processing some visual properties influence preference towards those properties? 
 We use mate preference as a proxy to test this idea. For example, a potential mate whose appearance reflects to some extent the visual properties of their environment might be preferred over another mate that wouldn't or would less. This has interesting evolutionary implications in terms of mechanisms that could explain mate choice and/or mate preference.<br>
 Our study also demonstrates the potential of artificial intelligence in testing hypotheses about animal communication signals. <br>
-Our paper was recently published in <i>Ecological Informatics</i>, which you can find <a href="https://doi.org/10.1016/j.ecoinf.2024.102881" target="_blank">[here]</a>.<br><br>
+Our paper is published in <i>Ecological Informatics</i>, which you can find <a href="https://doi.org/10.1016/j.ecoinf.2024.102881" target="_blank">[here]</a>.<br><br>
 </details>
 
 <details>
@@ -96,14 +100,6 @@ Our paper was recently published in <i>Ecological Informatics</i>, which you can
 Previous comparative analyses suggest that sympatry (whether species evolve in the same habitat) plays a key role in mating preference for conspecifics, which is a fundamental process to maintain species diversity. Our comparison of darter fishes (<i>Etheostoma</i> species) revealed that the link between assortative mating and sympatry and the link between assortative mating and sex is not as predictable as classical interpretations of natural (reinforcement) and sexual selection might suggest. <br>
 By challenging conventional expectations in terms of assortative mating, our meta-analysis offers a more nuanced view of this complex phenomenon. It also positioned Etheostoma as a great genus to investigate mating preferences, given its diversity in terms of occupied habitats, species overlap, or parental care behaviour. <br>
 Our paper is published in <i>Ecology and Evolution</i> and can be accessed <a href="https://doi.org/10.1002/ece3.11498" target="_blank">[here]</a>.<br><br>
-</details>
-
-<details>
-<summary><h3>Attractiveness of visual patterns in humans 💻</h3>
-</summary>
-
-“Processing bias” has been proposed as a pre-existing perceptual bias that could explain the origin of preferences and the evolution of sexual signals. One of its predictions is that stimuli that resemble the underlying spatial patterns of natural scenes, such as background-matching patterns, will be processed more efficiently and experienced as pleasant, or attractive. This hypothesis is rooted in information theory and supported by a substantial body of research in psychology and neuroscience, largely untapped in evolutionary biology. Here we provide the first evidence that camouflage patterns are attractive.  In a series of online experiments, we found that abstract patterns are more attractive when they match their background, setting the stage for camouflage as an evolutionary precursor to sexual signalling. Our results therefore challenge conventional assumptions about the relationship between natural and sexual selection in signal evolution, and they generate new predictions about the role of the environment in animal communication. <br>
-Our paper has been accepted in <i>Animal Behaviour</i> and should be soon available online. In the meantime, the accepted version is on <i>bioRxiv</i>: <a href="https://doi.org/10.1101/2023.09.27.559753" target="_blank">[here]</a>.<br><br>
 </details>
 
 <details>
