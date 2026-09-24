@@ -46,9 +46,9 @@ In collaboration with <a href="https://fusanilab.org/people/caroline-deimel/" ta
 <details>
 <summary><h3>Role of the dark plumage in Rifle birds 🪶</h3></summary>
 
-Using avian vision modelling, we have investigated the sensory function of exceptionally black plumage in the displays of a bird of paradise, the Victoria's riflebird (<i>Ptiloris victoriae</i>), based on images of courting males collected in the field. <br>
+Using avian vision modelling, we investigated the sensory function of exceptionally black plumage in the displays of a bird of paradise, the Victoria's riflebird (<i>Ptiloris victoriae</i>), based on images of courting males collected in the field. <br>
 We compared the visual properties of the adult and immature birds' displays (see the picture below) to investigate their detectability.
-I have presented our results at the conference of the <a href="https://isbe2026.com/" target="_blank">International Society for Behavioural Ecology (ISBE)</a> in July in Turin, Italy and at the <a href="https://www.sibe-iseb.it/firenze2026" target="_blank">Italian Society of Evolutionary Biology (SIBE)</a> taking place in Firenze/Florence in September. There, my presentation was selected as second best talk, which is encouraging as people were nicely engaged in our research! To know more, have a look at our preprint, which you can access <a href="https://doi.org/10.32942/X2B963" target="_blank">here</a>. Our paper is currently in revision and we hope it will be out early 2027. Exciting times! <br><br>
+I have presented our results at the conference of the <a href="https://isbe2026.com/" target="_blank">International Society for Behavioural Ecology (ISBE)</a> in July in Turin, Italy and at the <a href="https://www.sibe-iseb.it/firenze2026" target="_blank">Italian Society of Evolutionary Biology (SIBE)</a> in Firenze/Florence in September. To know more about the research, have a look at our preprint <a href="https://doi.org/10.32942/X2B963" target="_blank">here</a>. Our paper is currently in revision and we hope it will be out early 2027. Exciting times! <br><br>
 
 
 
