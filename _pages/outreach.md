@@ -59,7 +59,7 @@ I coordinated a thematic issue on altruism in animals for the first issue and am
 You can access the first issue here <i>(in French)</i>: <a href="https://www.calameo.com/read/007072654fda4d195be72" target="_blank">[Numero 1]</a> and our second issue should be out in the Fall 2026! 
 <br>
 
-### Inclusivity and Diversity
+## Inclusivity and Diversity
 
 - Co-organisation together with <a href="https://fusanilab.org/people/caroline-deimel" target="_blank"> Caro Deimel</a> of a screening of the documentary <a href="https://www.secondnaturedoc.com" target="_blank"> Second Nature</a> at the Faculty of Biology, University of Vienna (November 2026) and panel moderation
 - Founding member of the <a href="https://wobio.univie.ac.at/working-groups/inclusivity" target="_blank"> Inclusivity working group</a> of the WoBio initiative (University of Vienna): co-organisation of workshops and discussion cafés in collaboration with <a href="https://www.baumgartinger.net/" target="_blank"> Persson Baumgartinger</a> (2025, 2026)
