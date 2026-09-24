@@ -37,24 +37,14 @@ Beside current openings, i-->
 ## Ongoing projects 
 
 <details>
-<summary><h3>Automatic stress assesment in a wild bird 🐤</h3>
-</summary>
-In collaboration with <a href="https://fusanilab.org/people/caroline-deimel/" target="_blank">Caroline Deimel</a>, I am working on developing a tool to automatically count breathing rates of different bird species. Breathing rate is a good indicator of stress in birds but is hard to count, resulting in unreliable measures. Having a tool where one can upload a video of a handled bird and extract breath counts along with other variables of interest would simplify field work and provide a more stable estimate. Thanks to Caro's funding from the <a href="https://www.wildanimalinitiative.org/grantees/caroline-deimel" target="_blank">Wild Animal Initiative</a>, we could hire Diego Monge, a master student at the University of Vienna, and together we made good progress on the project. We are now working on including as many bird species as we can. Stay tuned! 
-
-</details>
-
-<details>
 <summary><h3>Role of the dark plumage in Rifle birds 🪶</h3></summary>
 
 Using avian vision modelling, we investigated the sensory function of exceptionally black plumage in the displays of a bird of paradise, the Victoria's riflebird (<i>Ptiloris victoriae</i>), based on images of courting males collected in the field. <br>
-We compared the visual properties of the adult and immature birds' displays (see the picture below) to investigate their detectability.
-I have presented our results at the conference of the <a href="https://isbe2026.com/" target="_blank">International Society for Behavioural Ecology (ISBE)</a> in July in Turin, Italy and at the <a href="https://www.sibe-iseb.it/firenze2026" target="_blank">Italian Society of Evolutionary Biology (SIBE)</a> in Firenze/Florence in September. To know more about the research, have a look at our preprint <a href="https://doi.org/10.32942/X2B963" target="_blank">here</a>. Our paper is currently in revision and we hope it will be out early 2027. Exciting times! <br><br>
-
-
-
+We compared the visual properties of the adult and immature birds' displays (one is shown in the picture below) to investigate their detectability.
+I presented our results at the conference of the <a href="https://isbe2026.com/" target="_blank">International Society for Behavioural Ecology (ISBE)</a> in July in Turin, Italy and at the <a href="https://www.sibe-iseb.it/firenze2026" target="_blank">Italian Society of Evolutionary Biology (SIBE)</a> in Firenze/Florence in September, where our study was well received. To know more about the research, have a look at our preprint <a href="https://doi.org/10.32942/X2B963" target="_blank">here</a>. Our paper is currently in revision and we hope it will be out early 2027. Exciting times! <br><br>
 
 <img src="/pdf/immature_display.png" alt="Immature Rifle Bird" width="300"/>
-<br><br>
+<br>
 </details>
 
 
@@ -62,10 +52,16 @@ I have presented our results at the conference of the <a href="https://isbe2026.
 <summary><h3>Analysing the visual patterns of darters dorsal fins 🐟</h3></summary>
 
 Following Sam Hulse's <a href="https://doi.org/10.1038/s41467-020-16389-0" target="_blank">study</a> on the positive correlation between darters male body nuptial patterns and the visual characteristics of their habitats, I am now investigating whether darters dorsal fins might show a similar pattern. This is especially relevant as darters mostly erect those dorsal fins in sexual selection contexts, whether for courting or for discouraging a competitor. This also builds up on experimental studies in  <a href="https://www.mendelsonlab.net/" target="_blank">Tamra Mendelson's lab</a> where preferences for modified dorsal fin patterns were tested in a couple of species. <br>
-More soon :)
+More about the results soon! 🤗
 
 </details>
 
+<details>
+<summary><h3>Automatic stress assesment in a wild bird 🐤</h3>
+</summary>
+In collaboration with <a href="https://fusanilab.org/people/caroline-deimel/" target="_blank">Caroline Deimel</a>, I am working on developing a tool to automatically count breathing rates of different bird species. Breathing rate is a good indicator of stress in birds but is hard to count, resulting in unreliable measures. Having a tool where one can upload a video of a handled bird and extract breath counts along with other variables of interest would simplify field work and provide a more stable estimate. Thanks to Caro's funding from the <a href="https://www.wildanimalinitiative.org/grantees/caroline-deimel" target="_blank">Wild Animal Initiative</a>, we could hire Diego Monge, a master student at the University of Vienna, and together we made good progress on the project. We are now working on including as many bird species as we can. Stay tuned! <br>
+
+</details>
 
 
 ## Past projects
@@ -79,7 +75,6 @@ Our paper is published in <i>Animal Behaviour</i> and is available <a href="http
 
 The publication was highlighted in the 8th issue of the Vienna Research Radar, an initiative of the <a href="https://wwtf.at/wwtf/about-us/" target="_blank">WWTF</a> ! You can read the nice summary they wrote <a href="https://research.wwtf.at/issue-08.html" target="_blank">[here]</a>.
 
-
 </details>
 
 <details>
@@ -90,7 +85,7 @@ We designed and conducted several behavioural experiments to understand how natu
 The main idea relies on the principle that more frequent stimuli are easier (faster, more efficient) to process because the visual system has adapted to them. Could this 'ease' of processing some visual properties influence preference towards those properties? 
 We use mate preference as a proxy to test this idea. For example, a potential mate whose appearance reflects to some extent the visual properties of their environment might be preferred over another mate that wouldn't or would less. This has interesting evolutionary implications in terms of mechanisms that could explain mate choice and/or mate preference.<br>
 Our study also demonstrates the potential of artificial intelligence in testing hypotheses about animal communication signals. <br>
-Our paper is published in <i>Ecological Informatics</i>, which you can find <a href="https://doi.org/10.1016/j.ecoinf.2024.102881" target="_blank">[here]</a>.<br><br>
+Our paper is published in <i>Ecological Informatics</i>, which you can find <a href="https://doi.org/10.1016/j.ecoinf.2024.102881" target="_blank">[here]</a>.<br>
 </details>
 
 <details>
@@ -99,7 +94,7 @@ Our paper is published in <i>Ecological Informatics</i>, which you can find <a h
 
 Previous comparative analyses suggest that sympatry (whether species evolve in the same habitat) plays a key role in mating preference for conspecifics, which is a fundamental process to maintain species diversity. Our comparison of darter fishes (<i>Etheostoma</i> species) revealed that the link between assortative mating and sympatry and the link between assortative mating and sex is not as predictable as classical interpretations of natural (reinforcement) and sexual selection might suggest. <br>
 By challenging conventional expectations in terms of assortative mating, our meta-analysis offers a more nuanced view of this complex phenomenon. It also positioned Etheostoma as a great genus to investigate mating preferences, given its diversity in terms of occupied habitats, species overlap, or parental care behaviour. <br>
-Our paper is published in <i>Ecology and Evolution</i> and can be accessed <a href="https://doi.org/10.1002/ece3.11498" target="_blank">[here]</a>.<br><br>
+Our paper is published in <i>Ecology and Evolution</i> and can be accessed <a href="https://doi.org/10.1002/ece3.11498" target="_blank">[here]</a>.<br>
 </details>
 
 <!-- <details>
