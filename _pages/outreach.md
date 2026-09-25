@@ -46,7 +46,7 @@ Practical works and tutorial classes: Nervous and cerebral functions, Behavioral
 ### Replicards 🧬 
 
 Together with <a href="https://eliamascolo.github.io/" target="_blank">Elia Mascolo</a>, we developed an interactive class for science teachers to teach biological evolution through a card game. In the activity, students are led to rediscover how <i>replicants</i> can inherit mutations and undergo evolution by natural selection if the inheritable characteristics can affect their reproductive success.<br>
-We made the content publicly available and freely re-usable on this <a href="https://replicards.netlify.app/" target="_blank">[website]</a> and have also shared it as a <a href="https://doi.org/10.32942/X2KQ1H" target="_blank">[preprint]</a>.
+We made the content publicly available and freely re-usable on this <a href="https://replicards.netlify.app/" target="_blank">website</a> and have also shared it as a <a href="https://doi.org/10.32942/X2KQ1H" target="_blank">preprint</a>.
 <br>
 
 <img src="/pdf/replicards.jpg" alt="Replicards logo" width="300"/>
@@ -58,6 +58,13 @@ Since 2020, I have been involved in the content creation of the magazine "Perspe
 I coordinated a thematic issue on altruism in animals for the first issue and am currently an editor for the second issue. <br>
 You can access the first issue here <i>(in French)</i>: <a href="https://www.calameo.com/read/007072654fda4d195be72" target="_blank">[Numero 1]</a> and our second issue should be out in the Fall 2026! 
 <br>
+
+### Science communication 🤓
+- Coordination of the Fusani group's participation in the 2026 edition of the Austrian <a href="https://langenachtderforschung.at/" target="_blank">Long Night of Research</a>. We were a total of 12 researchers animating different activities for all ages. We had two research stations to show our respective research topics: sexual selection ("how do animals choose their partners?" / "Wie wählen Tiere ihre Partner?") 🐦🐠 and human impact on animal behaviour and physiology ("Welchen Einfluss können Menschen auf wilde Tiere haben?") 🪶🐦🐊. We had a collective blast!
+- Scientific speed dating with groups of high school students in France (December 2023; February 2025) with the <a href="https://www.cerclefser.org/en/the-outreach-articles/declics/" target="_blank">Declics</a> association. The initiative is more or less similar to the US "<a href="https://www.skypeascientist.com/" target="_blank">Skype a scientist</a>" initiative, which you can join even from outside the US as it is a virtual format 👩🏻‍💻.
+-  Outreach project at UMBC (Spring and Fall 2023) to share with undergraduate and high school students the research on sexual selection in darters conducted in the <a href="https://www.mendelsonlab.net/" target="_blank">DART</a> lab.
+- I also regularly give talks at public events that prioritise significant interactions with the audience. For example, I talked about visual illusions for the Brain Awareness Week in Toulouse, Fance, or about animals that have 3D vision and what they use it for at the Science museum, also in Toulouse. More recently I gave a short talk on how to get a mate as a bird or a fish for the 4th Mallnitzer Days at the National park "Hohe Tauern", Mallnitz, Austria.
+
 
 ## Inclusivity and Diversity
 
