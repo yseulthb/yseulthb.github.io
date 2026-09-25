@@ -37,6 +37,15 @@ Beside current openings, i-->
 ## Ongoing projects 
 
 <details>
+<summary><h3>Decoding Stress in Fish: Identifying Behavioural Signatures with ML 🐟</h3></summary>
+
+In collaboration with Maciej Oczak from the <a href="https://www.vetmeduni.ac.at/plf-hub/about-us" target="_blank">PLF-Hub</a> at VetMedUni Vienna.<br><br>
+👀 More details and information on internship positions coming soon.
+
+
+</details>
+
+<details>
 <summary><h3>Role of the dark plumage in Rifle birds 🪶</h3></summary>
 
 Using avian vision modelling, we investigated the sensory function of exceptionally black plumage in the displays of a bird of paradise, the Victoria's riflebird (<i>Ptiloris victoriae</i>), based on images of courting males collected in the field. <br>
