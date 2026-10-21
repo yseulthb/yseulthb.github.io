@@ -39,7 +39,8 @@ Beside current openings, i-->
 <details>
 <summary><h3>Decoding Stress in Fish: Identifying Behavioural Signatures with ML 🐟</h3></summary>
 
-In collaboration with Maciej Oczak from the <a href="https://www.vetmeduni.ac.at/plf-hub/about-us" target="_blank">PLF-Hub</a> at VetMedUni Vienna.<br><br>
+We are interested in investigating behavioural and hormonal stress responses in a social African cichlid *(N. pulcher)* and develop automatic tools to identify behavioural signatures of stress.<br>
+This project is a collaboration with Maciej Oczak and his team at the <a href="https://www.vetmeduni.ac.at/plf-hub/about-us" target="_blank">PLF-Hub</a> at VetMedUni Vienna.<br><br>
 👀 More details and information on internship positions coming soon.
 
 
