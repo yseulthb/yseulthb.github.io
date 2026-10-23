@@ -39,7 +39,7 @@ Beside current openings, i-->
 <details>
 <summary><h3>Decoding Stress in Fish: Identifying Behavioural Signatures with ML 🐟</h3></summary>
 
-We are interested in behavioural and hormonal stress responses in a social African cichlid (<a href="https://en.wikipedia.org/wiki/Neolamprologus_pulcher" target="_blank"><i>N. pulcher</i></a>) and develop automatic tools to identify behavioural signatures of stress.<br>
+We are interested in behavioural and hormonal responses to stressful events in a social African cichlid (<a href="https://en.wikipedia.org/wiki/Neolamprologus_pulcher" target="_blank"><i>N. pulcher</i></a>) and we aim to develop automatic tools to identify behavioural signatures of stress.<br>
 This project is a collaboration with Maciej Oczak and his team at the <a href="https://www.vetmeduni.ac.at/plf-hub/about-us" target="_blank">PLF-Hub</a> at VetMedUni Vienna.<br><br>
 👀 More details and information on internship positions coming soon.<br><br>
 
@@ -58,6 +58,8 @@ I presented our results at the conference of the <a href="https://isbe2026.com/"
 
 <img src="/pdf/immature_display.png" alt="Immature Rifle Bird" width="300"/>
 <br>
+<i> Picture: Immature Rifle Bird displaying in the forest. Credit: Thomas MacGillavry. </i>
+
 </details>
 
 

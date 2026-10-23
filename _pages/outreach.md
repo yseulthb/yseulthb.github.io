@@ -24,7 +24,7 @@ toc: true
 
 <!-- - "Title" (2026) for MSc students in Evolution, Ecology, and Systematics, Course on Contemporary Questions in Behavioural Ecology - Department of Biology, Ludwig Maximilian University of Munich, Germany. -->
 
-- Advanced topics in courtship behaviour and sexual selection (2024, 2025) for MSc students in Cognition, Behaviour, and Neurobiology - Department of Behavioural and Cognitive Biology, University of Vienna, Austria. <br>
+- Advanced topics in courtship behaviour and sexual selection (WS 2024-2026) for MSc students in Cognition, Behaviour, and Neurobiology - Department of Behavioural and Cognitive Biology, University of Vienna, Austria. <br>
 
 - "Using Machine Learning to investigate communication signals in fish" (2023)  for Undergraduate students in Biological Sciences - Department of Biological Sciences, University of Maryland, College Park, US. 
 
@@ -55,8 +55,13 @@ We made the content publicly available and freely re-usable on this <a href="htt
 ### Magazine Perspectives 📖 
 
 Since 2020, I have been involved in the content creation of the magazine "Perspectives" for <a href="https://federationfresco.fr/" target="_blank">Fresco</a>, a French national organisation involved in popularising cognitive sciences, while targeting diverse audiences.<br>
-I coordinated a thematic issue on altruism in animals for the first issue and am currently an editor for the second issue. <br>
-You can access the first issue here <i>(in French)</i>: <a href="https://www.calameo.com/read/007072654fda4d195be72" target="_blank">[Numero 1]</a> and our second issue should be out in the Fall 2026! 
+I coordinated a thematic issue on altruism in animals for the first issue and was an editor for the second issue. <br>
+You can find the freshly released <a href="https://www.calameo.com/read/007072654b0afb5af3cd6" target="_blank">[issue #2]</a> <i>(in French)</i>. And you can still access the first issue here <i>(also in French)</i>: <a href="https://www.calameo.com/read/007072654fda4d195be72" target="_blank">[Numero 1]</a>. <br>
+If you'd like to collaborate for future issues, please reach out to us! <br> 📧 science@federationfresco.fr
+
+
+
+
 <br>
 
 ### Science communication 🤓
