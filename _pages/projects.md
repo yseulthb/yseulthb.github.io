@@ -78,6 +78,13 @@ In collaboration with <a href="https://fusanilab.org/people/caroline-deimel/" ta
 
 </details>
 
+<details>
+<summary><h3> Big team science: Large-scale collaborative projects 🌐</h3>
+</summary>
+Big Team Science initiatives are international projects that aim to overcome experimental limitations in the study of animal cognition. There are now over 10 different networks, each focusing on a particular group of species. <br>
+I am personally involved in two of them: <a href="https://themanyfishes.github.io/" target="_blank">ManyFishes</a> and <a href="https://manymanys.github.io/" target="_blank">ManyManys</a>, and was previously part of <a href="https://manyprimates.github.io/" target="_blank">ManyPrimates</a>. <br>
+If you are working with animals (including humans), you should definitely check those initiatives. You don't need to be an expert in animal cognition, and it's actually a great way to explore that topic. Feel free to reach out with any questions you might have. I can also suggest reading that paper "The Advantage of Big Team Science: Lessons Learned From Cognitive Science" recently published: <a href="https://doi.org/10.1525/collabra.160129" target="_blank">https://doi.org/10.1525/collabra.160129</a>. <br>
+</details>
 
 ## Past projects
 
@@ -96,7 +103,7 @@ The publication was highlighted in the 8th issue of the Vienna Research Radar, a
 <summary><h3>Mate preference and natural statistics in darters 🐟</h3>
 </summary>
 
-We designed and conducted several behavioural experiments to understand how natural statistics influence mate preferences in the Darter fish (<i>Etheostoma</i>). Our objective was to test the processing bias prediction that fish resembling their habitats more should be preferred. We used a deep learning technique, Neural style transfer, to manipulate the similarity between male body patterns and their habitats <br>
+We designed and conducted several behavioural experiments to understand how natural statistics influence mate preferences in the rainbow darter  (<i>Etheostoma caeruleum</i>). Our objective was to test the processing bias prediction that fish resembling their habitats more should be preferred. We used a deep learning technique, Neural style transfer, to manipulate the similarity between male body patterns and their habitats <br>
 The main idea relies on the principle that more frequent stimuli are easier (faster, more efficient) to process because the visual system has adapted to them. Could this 'ease' of processing some visual properties influence preference towards those properties? 
 We use mate preference as a proxy to test this idea. For example, a potential mate whose appearance reflects to some extent the visual properties of their environment might be preferred over another mate that wouldn't or would less. This has interesting evolutionary implications in terms of mechanisms that could explain mate choice and/or mate preference.<br>
 Our study also demonstrates the potential of artificial intelligence in testing hypotheses about animal communication signals. <br>
@@ -107,8 +114,8 @@ Our paper is published in <i>Ecological Informatics</i>, which you can find <a h
 <summary><h3>Strength of preference for conspecifics in darters 📈</h3>
 </summary>
 
-Previous comparative analyses suggest that sympatry (whether species evolve in the same habitat) plays a key role in mating preference for conspecifics, which is a fundamental process to maintain species diversity. Our comparison of darter fishes (<i>Etheostoma</i> species) revealed that the link between assortative mating and sympatry and the link between assortative mating and sex is not as predictable as classical interpretations of natural (reinforcement) and sexual selection might suggest. <br>
-By challenging conventional expectations in terms of assortative mating, our meta-analysis offers a more nuanced view of this complex phenomenon. It also positioned Etheostoma as a great genus to investigate mating preferences, given its diversity in terms of occupied habitats, species overlap, or parental care behaviour. <br>
+Previous comparative analyses suggest that sympatry (when several species occupy the same habitat) plays a key role in mating preference for conspecifics, which is a fundamental process to maintain species diversity. Our comparison of darter fishes (<i>Etheostoma</i> species) revealed that the link between assortative mating and sympatry and the link between assortative mating and sex is not as predictable as classical interpretations of natural (reinforcement) and sexual selection might suggest. <br>
+By challenging conventional expectations in terms of assortative mating, our meta-analysis offers a more nuanced view of this complex phenomenon. It also positions <i>Etheostoma</i> as a great genus to investigate mating preferences, given its diversity in terms of occupied habitats, species overlap, or parental care behaviour. <br>
 Our paper is published in <i>Ecology and Evolution</i> and can be accessed <a href="https://doi.org/10.1002/ece3.11498" target="_blank">[here]</a>.<br>
 </details>
 
