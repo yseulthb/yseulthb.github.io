@@ -20,9 +20,8 @@ A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademi
 
 <!--And here is my 1-page <a href="/pdf/YHejjaBrichard_resume.pdf" target="_blank"><b>résumé.</b></a><br> -->
 
-## Scientific Production
 
-### Publications 
+## Publications 
 ***Under review***
 * **Héjja-Brichard, Y.**, MacGillavry, T., Fusani, L. *(in revision)*. Courting male riflebirds create optical black holes to attract females. *(shared first authorship with T. MacGillavry)* [[preprint](https://doi.org/10.32942/X2B963)]
 * Prétôt, L. et al. (including **Héjja-Brichard, Y.**) *(under review)*. Big-team science reveals that patterns
@@ -54,7 +53,7 @@ of inhibitory control variation in teleost fishes differ from those in mammals a
 * Open Science Monitoring Initiative (external contributor), *Principles of Open Science Monitoring*, 2025.
 ([doi](https://doi.org/10.5281/zenodo.15807481))
 
-### Oral presentations
+## Oral presentations
 ***Invited talks*** 
 * **Héjja-Brichard, Y.** (2026) From mate preferences to cognitive abilities, what can we learn from
 small river fishes? *WasserCluster Lunz, Lunz am See, Austria.*
