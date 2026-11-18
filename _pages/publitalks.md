@@ -15,7 +15,7 @@ toc: true
 </script>
 
 
-A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademic.pdf" target="_blank"><b>CV</b></a><br> (Last update: January 2026).
+<!-- A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademic.pdf" target="_blank"><b>CV</b></a><br> (Last update: January 2026). -->
 
 <!--And here is my 1-page <a href="/pdf/YHejjaBrichard_resume.pdf" target="_blank"><b>résumé.</b></a><br> -->
 
