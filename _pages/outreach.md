@@ -22,9 +22,9 @@ toc: true
 
 <!-- - "Title" (2027) for students in XX - University of Applied Arts, Vienna, Austria. -->
 
-<!-- - "Title" (2026) for MSc students in Evolution, Ecology, and Systematics, Course on Contemporary Questions in Behavioural Ecology - Department of Biology, Ludwig Maximilian University of Munich, Germany. -->
+- "Sexual signal designs, a receiver’s perspective" (2026) for MSc students in Evolution, Ecology, and Systematics, Course on Contemporary Questions in Behavioural Ecology - Department of Biology, Ludwig Maximilian University of Munich, Germany.
 
-- Advanced topics in courtship behaviour and sexual selection (WS 2024-2026) for MSc students in Cognition, Behaviour, and Neurobiology - Department of Behavioural and Cognitive Biology, University of Vienna, Austria. <br>
+- Advanced topics in courtship behaviour and sexual selection (WS 2024-2026) for MSc students in Cognition, Behaviour, and Neurobiology - Department of Behavioural and Cognitive Biology, University of Vienna, Austria.
 
 - "Using Machine Learning to investigate communication signals in fish" (2023)  for Undergraduate students in Biological Sciences - Department of Biological Sciences, University of Maryland, College Park, US. 
 
