@@ -14,7 +14,6 @@ toc: true
   gtag('config', 'G-22FQGNH39N');
 </script>
 
-{% include toc %}
 
 A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademic.pdf" target="_blank"><b>CV</b></a><br> (Last update: January 2026).
 
