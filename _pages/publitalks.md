@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /research/
+permalink: /publitalks/
 classes: wide
 toc: true
 ---
@@ -23,23 +23,25 @@ A pdf version of my CV can be found here: <a href="/pdf/YHejjaBrichard_CVacademi
 ## Scientific Production
 
 ### Publications 
-***Under review or submitted***
-* Alessandroni, N. et al. (including **Héjja-Brichard, Y.**) *(in revision)*. Flexible Behavior or Flexible Methods? A Cross-Taxon Review of Experimental Designs in Reversal Learning. [[Preprint](https://osf.io/preprints/psyarxiv/mvche_v1)].
-* **Héjja-Brichard, Y.**, MacGillavry, T., Fusani, L. *(under review)*. Courting male riflebirds create optical black holes to attract females. *(shared first authorship with T. MacGillavry)*
+***Under review***
+* **Héjja-Brichard, Y.**, MacGillavry, T., Fusani, L. *(in revision)*. Courting male riflebirds create optical black holes to attract females. *(shared first authorship with T. MacGillavry)* [[preprint](https://doi.org/10.32942/X2B963)]
+* Prétôt, L. et al. (including **Héjja-Brichard, Y.**) *(under review)*. Big-team science reveals that patterns
+of inhibitory control variation in teleost fishes differ from those in mammals and birds. [[preprint](https://doi.org/10.64898/2026.09.22.753528)]
 
 ***Peer-reviewed journal articles***
-
-* **Héjja-Brichard, Y.**, Raymond, M., Cuthill, I.,  Mendelson, T.C., Renoult, J.P. *(accepted in Animal Behaviour)*. Background-matching patterns are attractive: support for a processing bias. [[Preprint](https://doi.org/10.1101/2023.09.27.559753)].
+* Alessandroni, N. et al. (including **Héjja-Brichard, Y.**) (2026). Flexible Behavior or Flexible Methods? A Cross-Taxon Review of Experimental Designs in Reversal Learning. *Open Mind*. ([doi](https://doi.org/10.1162/OPMI.a.395)).
+* **Héjja-Brichard, Y.**, Raymond, M., Cuthill, I.,  Mendelson, T.C., Renoult, J.P. (2026). Background-matching patterns are attractive: support for a processing bias. *Animal Behaviour*. ([doi](https://doi.org/10.1016/j.anbehav.2026.123700)). <br>
+*Highlighted in the bi-monthly [Vienna Research Radar (Issue \#8)](https://research.wwtf.at/issue-08.html)*
 * Million, K., **Héjja-Brichard, Y.**, Nasir M., Tucker, S., Mendelson, T.C. (2026). Assessing the dual utility of nuptial patterns in the rainbow darter *(Etheostoma caeruleum)*. *Ethology Ecology & Evolution* ([doi](https://doi.org/10.1080/03949370.2026.2630783)).
 * Prétôt, L., Agrillo, C., Bluck, B.C., Cabrera-Álvarez, M.J., **Héjja-Brichard, Y.**, ... Yeager, J. (2025). ManyFishes: A big team science collaboration on fish comparative cognition. *Animal Cognition* ([doi](https://doi.org/10.1007/s10071-025-02031-3)).
-* Zaneva, M., Coll-Martín, T., **Héjja-Brichard, Y.**, Kalandadze, T., Kis, A., . . . Zisk, A. H. (2024). Introduction to Neurodiversity: An Annotated Reading List. *eLife* ([doi](https://doi.org/10.7554/eLife.102467)). [[Preprint](https://doi.org/10.31234/osf.io/ugkxp)]
-* **Héjja-Brichard, Y.**, Million, K.M., Renoult, J.P., Mendelson, T.C. (2024). Using neural style transfer to study the evolution of animal signal design: A case study in an ornamented fish. *Ecological Informatics* ([doi](https://doi.org/10.1016/j.ecoinf.2024.102881)). [[Preprint](https://doi.org/10.1101/2023.03.13.532060)]
-* **Héjja-Brichard, Y.**, Renoult, J.P., Mendelson, T.C. (2024). Comparative analysis reveals assortative mate preferences in darters independent of sympatry and sex. *Ecology and Evolution* ([doi](https://doi.org/10.1002/ece3.11498)). [[Preprint](https://doi.org/10.32942/X2PK5K)]
-* ManyPrimates et al. (including **Héjja-Brichard, Y.**) (2022). The evolution of primate short-term memory. *Animal Behavior and Cognition* ([doi](https://doi.org/10.26451/abc.09.04.06.2022)). [[Preprint](https://psyarxiv.com/5etnf)]
-* Guiomar, N., Krol, L.R., Combrisson, E., Dubarry, A.-S., Elliott, M.A., François, C., **Héjja-Brichard, Y.**, ... Chaumon, M. (2022). Good Scientific Practice in MEEG research: Progress and Perspectives. *Neuroimage* ([doi](https://doi.org/10.1016/j.neuroimage.2022.119056)). [[Preprint](https://osf.io/n2ryp/)]
-* Audurier, P., **Héjja-Brichard, Y.**, De Castro, V., Kohler, P.J., Norcia, A.M., Durand, J.-B., Cottereau, B.R. (2021). Symmetry processing in the macaque visual cortex. *Cerebral Cortex*. ([doi](https://doi.org/10.1093/cercor/bhab358)). [[Preprint](https://www.biorxiv.org/content/10.1101/2021.03.13.435181v1)] - [[CNRS Actu](https://www.insb.cnrs.fr/fr/cnrsinfo/la-symetrie-inscrite-dans-le-cerveau-des-primates)]
+* Zaneva, M., Coll-Martín, T., **Héjja-Brichard, Y.**, Kalandadze, T., Kis, A., . . . Zisk, A. H. (2024). Introduction to Neurodiversity: An Annotated Reading List. *eLife* ([doi](https://doi.org/10.7554/eLife.102467)). 
+* **Héjja-Brichard, Y.**, Million, K.M., Renoult, J.P., Mendelson, T.C. (2024). Using neural style transfer to study the evolution of animal signal design: A case study in an ornamented fish. *Ecological Informatics* ([doi](https://doi.org/10.1016/j.ecoinf.2024.102881)). 
+* **Héjja-Brichard, Y.**, Renoult, J.P., Mendelson, T.C. (2024). Comparative analysis reveals assortative mate preferences in darters independent of sympatry and sex. *Ecology and Evolution* ([doi](https://doi.org/10.1002/ece3.11498)).
+* ManyPrimates et al. (including **Héjja-Brichard, Y.**) (2022). The evolution of primate short-term memory. *Animal Behavior and Cognition* ([doi](https://doi.org/10.26451/abc.09.04.06.2022)).
+* Guiomar, N., Krol, L.R., Combrisson, E., Dubarry, A.-S., Elliott, M.A., François, C., **Héjja-Brichard, Y.**, ... Chaumon, M. (2022). Good Scientific Practice in MEEG research: Progress and Perspectives. *Neuroimage* ([doi](https://doi.org/10.1016/j.neuroimage.2022.119056)). 
+* Audurier, P., **Héjja-Brichard, Y.**, De Castro, V., Kohler, P.J., Norcia, A.M., Durand, J.-B., Cottereau, B.R. (2021). Symmetry processing in the macaque visual cortex. *Cerebral Cortex*. ([doi](https://doi.org/10.1093/cercor/bhab358)). [[CNRS Actu](https://www.insb.cnrs.fr/fr/cnrsinfo/la-symetrie-inscrite-dans-le-cerveau-des-primates)]
 * De Castro, V., Smith, A.T., Beer, A.L., Leguen, C., Vayssière, N., **Héjja-Brichard, Y.**, Audurier, P., Cottereau, B.R. & Durand, J.B. (2021). Connectivity of the cingulate sulcus visual area (CSv) in macaque monkeys. *Cerebral Cortex* ([doi](https://doi.org/10.1093/cercor/bhaa301)).
-* **Héjja-Brichard, Y.**, Rima, S., Rapha, E., Durand, J.-B., Cottereau, B.R. (2020). Stereomotion processing in the non-human primate brain. *Cerebral Cortex*. ([doi](https://doi.org/10.1093/cercor/bhaa055)). [[Preprint](https://www.biorxiv.org/content/10.1101/638155v3) & [OSF project](https://osf.io/yxrsv/)] - [[CNRS Actu](https://www.insb.cnrs.fr/fr/cnrsinfo/le-mouvement-3d-vu-par-le-cerveau-des-similitudes-entre-lhomme-et-le-singe)]
+* **Héjja-Brichard, Y.**, Rima, S., Rapha, E., Durand, J.-B., Cottereau, B.R. (2020). Stereomotion processing in the non-human primate brain. *Cerebral Cortex*. ([doi](https://doi.org/10.1093/cercor/bhaa055)). [[OSF project](https://osf.io/yxrsv/)] - [[CNRS Actu](https://www.insb.cnrs.fr/fr/cnrsinfo/le-mouvement-3d-vu-par-le-cerveau-des-similitudes-entre-lhomme-et-le-singe)]
 * Rima, S., Cottereau, B.R., **Héjja-Brichard, Y.**, Trotter, Y. & Durand, J.B. (2020). A new visuotopic cluster in macaque posterior parietal cortex revealed by wide-field retinotopy. *Brain Structure and Function.* ([doi](https://doi.org/10.1007/s00429-020-02134-2))
 * Chauhan, T., **Héjja-Brichard, Y.**, Cottereau, B.R. (2020). Modelling binocular disparity processing from statistics in natural scenes. *Vision Research*, 176, 27-39. ([doi](https://doi.org/10.1016/j.visres.2020.07.009))
 * Cottereau, B.R., Smith, A.T., Rima, S., Fize, D., **Héjja-Brichard, Y.**, Renaud, L., … Durand, J.-B. (2017). Processing of Egomotion-Consistent Optic Flow in the Rhesus Macaque Cortex. *Cerebral Cortex*, 1-14 ([doi](https://doi.org/10.1093/cercor/bhw412)).

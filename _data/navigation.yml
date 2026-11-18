@@ -2,8 +2,10 @@
 main:
   - title: "About"
     url: 
-  - title: "Projects"
+  - title: "Research"
     url: /projects/  
+  - title: "Pubs & Talks"
+    url: /publitalks/  
   - title: "Outreach/Teaching"
     url: /outreach
   - title: "Slow science"
